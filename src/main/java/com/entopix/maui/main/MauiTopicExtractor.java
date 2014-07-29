@@ -58,9 +58,9 @@ import weka.core.Utils;
 /**
  * Extracts topics from the documents in a given directory. Assumes that the
  * file names for the documents end with ".txt". Puts extracted topics into
- * corresponding files ending with ".key" (if those are not already present).
+ * corresponding files ending with ".maui".
  * Optionally an encoding for the documents/keyphrases can be defined (e.g. for
- * Chinese text). Documents for which ".key" exists are used for evaluation.
+ * Chinese text). Corresponding ".key" files (if such exists) are used for evaluation.
  *
  * Valid options are:
  * <p>
@@ -108,10 +108,14 @@ import weka.core.Utils;
  * of the results.<p>
  *
  * -a<br>
- * Also write stemmed phrase and score into ".key" file.<p>
+ * Also write stemmed phrase and score into ".maui" file.<p>
  *
- * @author Eibe Frank (eibe@cs.waikato.ac.nz)
- * @version 1.0
+ * -c<br>
+ * Cut off threshold for the topic probability.<p>
+ *
+ * @author Eibe Frank (eibe@cs.waikato.ac.nz), zelandiya (medelyan@gmail.com)
+ * 
+ * @version 1.3
  */
 public class MauiTopicExtractor implements OptionHandler {
 
@@ -153,12 +157,11 @@ public class MauiTopicExtractor implements OptionHandler {
 	public boolean debugMode = false;
 	
 	/**
-	 * Minimum probability of a topic
-	 * being the right one for this document
-	 * according to the classifier
+	 * Cut off threshold for the topic probability.
+	 * Minimum probability of a topic as returned by the classifier
 	 * 
 	 */
-	public double topicProbability = 0.25;
+	public double cutOffTopicProbability = 0.0;
 
 	/**
 	 * Maui filter object
@@ -182,14 +185,17 @@ public class MauiTopicExtractor implements OptionHandler {
 	public Stemmer stemmer = new PorterStemmer();
 
 	/**
-	 * Llist of stopwords to be used
+	 * List of stopwords to be used
 	 */
 	public Stopwords stopwords = new StopwordsEnglish();
 
+	/**
+	 * Vocabulary object (if required)
+	 */
 	private Vocabulary vocabulary = null;
 
 	/**
-	 * Also write stemmed phrase and score into .key file.
+	 * Also write stemmed phrase and score into .maui file.
 	 */
 	boolean additionalInfo = false;
 
@@ -237,7 +243,10 @@ public class MauiTopicExtractor implements OptionHandler {
 	 * collection.<p>
 	 *
 	 * -a<br>
-	 * Also write stemmed phrase and score into ".key" file.<p>
+	 * Also write stemmed phrase and score into ".maui" file.<p>
+	 *
+	 * -c<br>
+	 * Cut off threshold for the topic probability.<p>
 	 *
 	 * @param options the list of options as an array of strings
 	 * @exception Exception if an option is not supported
@@ -313,6 +322,13 @@ public class MauiTopicExtractor implements OptionHandler {
 		debugMode = Utils.getFlag('d', options);
 		this.buildGlobalDictionary = Utils.getFlag('b', options);
 		this.additionalInfo = Utils.getFlag('a', options);
+		
+
+		String cutOffProbability = Utils.getOption('c', options);
+		if (cutOffProbability.length() > 0) {
+			this.cutOffTopicProbability = Double.parseDouble(cutOffProbability);
+		}
+		
 		Utils.checkForRemainingOptions(options);
 	}
 
@@ -340,6 +356,8 @@ public class MauiTopicExtractor implements OptionHandler {
 		options[current++] = "" + (this.documentLanguage);
 		options[current++] = "-n";
 		options[current++] = "" + (this.topicsPerDocument);
+		options[current++] = "-c";
+		options[current++] = "" + (this.cutOffTopicProbability);
 		options[current++] = "-t";
 		options[current++] = "" + (stemmer.getClass().getName());
 		options[current++] = "-s";
@@ -369,7 +387,7 @@ public class MauiTopicExtractor implements OptionHandler {
 	    }
 	 
 	 public void setTopicProbability(double prob) {
-		 this.topicProbability = prob;
+		 this.cutOffTopicProbability = prob;
 	 }
 
 	/**
@@ -402,6 +420,9 @@ public class MauiTopicExtractor implements OptionHandler {
 		newVector.addElement(new Option(
 				"\tSpecifies number of phrases to be output (default: 5).",
 				"n", 1, "-n"));
+		newVector.addElement(new Option(
+				"\tSpecifies cut off probability for each topic (default: 0.0).",
+				"c", 1, "-c"));
 		newVector.addElement(new Option(
 				"\tSet the stemmer to use (default: SremovalStemmer).",
 				"t", 1, "-t <name of stemmer class>"));
@@ -524,7 +545,7 @@ public class MauiTopicExtractor implements OptionHandler {
 			while ((inst = mauiFilter.output()) != null) {
 				probability = inst.value(mauiFilter.getProbabilityIndex());
 				if (index < topicsPerDocument) {
-					if (probability > topicProbability) {
+					if (probability > cutOffTopicProbability) {
 						topRankedInstances[index] = inst;
 						title = topRankedInstances[index].
 								stringValue(mauiFilter.getOutputFormIndex());

@@ -18,13 +18,12 @@ package com.entopix.maui.main;
  *    along with this program; if not, write to the Free Software
  *    Foundation, Inc., 675 Mass Ave, Cambridge, MA 02139, USA.
  */
-import java.text.SimpleDateFormat;
-import java.util.Date;
 import java.util.List;
 
 import com.entopix.maui.filters.MauiFilter;
 import com.entopix.maui.util.DataLoader;
 import com.entopix.maui.util.MauiDocument;
+import com.entopix.maui.util.MauiTopics;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
@@ -36,7 +35,7 @@ import org.slf4j.LoggerFactory;
  * 2. Term assignment - indexing documents with terms
  * from a controlled vocabulary in SKOS or text format. <br> 
  * 
- * @author Olena Medelyan (olena@cs.waikato.ac.nz)
+ * @author zelandiya (medelyan@gmail.com)
  * 
  */
 public class Examples {
@@ -92,8 +91,7 @@ public class Examples {
 	}
 
 	/**
-	 * Demonstrates how to perform automatic tagging. Also applicable to
-	 * keyphrase extraction.
+	 * Demonstrates how to perform automatic tagging / keyphrase extraction.
 	 * 
 	 * @throws Exception
 	 */
@@ -125,7 +123,7 @@ public class Examples {
 		// Settings for topic extractor
 		topicExtractor.inputDirectoryName = testDir;
 		topicExtractor.modelName = modelName;
-	
+		topicExtractor.setTopicProbability(0.0);
 		
 		// Run topic extractor
 		topicExtractor.loadModel();
@@ -172,12 +170,13 @@ public class Examples {
 		topicExtractor.modelName = modelName;
 		topicExtractor.vocabularyName = vocabulary;
 		topicExtractor.vocabularyFormat = format;
+		topicExtractor.setTopicProbability(0.0);
 		
 		// Run topic extractor
 		topicExtractor.loadModel();
 		List<MauiDocument> testDocs = DataLoader.loadTestDocuments(testDir);
-		topicExtractor.extractTopics(testDocs);
-		
+		List<MauiTopics> allDocumentsTopics = topicExtractor.extractTopics(testDocs);
+		topicExtractor.printTopics(allDocumentsTopics);
 	}
 
 	/**
@@ -189,18 +188,14 @@ public class Examples {
 	 */
 	public static void main(String[] args) throws Exception {
 		
-		String mode = args[0];
-		
+		String mode = "term_assignment";
+		// TODO: change to args[0];
 		if (!mode.equals("tagging") && !mode.equals("term_assignment")) {
-			throw new Exception("Choose one of the three modes: tagging or term_assignment");
+			throw new Exception("Choose one of the two modes: tagging or term_assignment");
 		}
 		
-		Date todaysDate = new java.util.Date();
-		SimpleDateFormat formatter = new SimpleDateFormat(
-				"EEE, dd-MMM-yyyy HH:mm:ss");
-		String formattedDate1 = formatter.format(todaysDate);
+		long startTime = System.currentTimeMillis();
 		Examples exampler;
-		
 		if (mode.equals("tagging")) {
 			exampler = new Examples();
 			exampler.testAutomaticTagging();
@@ -208,10 +203,10 @@ public class Examples {
 			exampler = new Examples();
 			exampler.testTermAssignment();
 		} 
+		long stopTime = System.currentTimeMillis();
+		long elapsedTime = stopTime - startTime;
+		log.info("Completed in " + elapsedTime + "ms.");
 		
-		todaysDate = new java.util.Date();
-		String formattedDate2 = formatter.format(todaysDate);
-		log.info("Run from " + formattedDate1 + " to " + formattedDate2);
 	}
 
 }

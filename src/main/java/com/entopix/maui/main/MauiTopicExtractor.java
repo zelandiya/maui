@@ -367,6 +367,10 @@ public class MauiTopicExtractor implements OptionHandler {
 	 public void setVocabulary(Vocabulary vocabulary) {
 	    	this.vocabulary = vocabulary;
 	    }
+	 
+	 public void setTopicProbability(double prob) {
+		 this.topicProbability = prob;
+	 }
 
 	/**
 	 * Returns an enumeration describing the available options.
@@ -591,7 +595,7 @@ public class MauiTopicExtractor implements OptionHandler {
 		PrintWriter printer = null;
 		
 		for (MauiTopics documentTopics : allDocumentsTopics) { 
-			log.info("Document " + documentTopics.getFilePath());
+			log.info("Topics for document " + documentTopics.getFilePath());
 			try {
 				out = new FileOutputStream(documentTopics.getFilePath().replace(".txt", ".maui"));
 				if (!documentEncoding.equals("default")) {

@@ -3,6 +3,7 @@
 bin
 *.maui
 data/models
-data/vocabularies
 out
 target
+*.serialized
+test

@@ -26,7 +26,7 @@ public class FrenchExample {
 		
 		// language specific settings
 		Stemmer stemmer = new FrenchStemmer();
-		Stopwords stopwords = new StopwordsFrench("data/stopwords/stopwords_fr.txt");
+		Stopwords stopwords = new StopwordsFrench();
 		String language = "fr";
 		String encoding = "UTF-8";
 		
@@ -74,6 +74,7 @@ public class FrenchExample {
 		topicExtractor.documentLanguage = language;
 		topicExtractor.debugMode = true;
 		topicExtractor.topicsPerDocument = numTopicsToExtract; 
+		topicExtractor.cutOffTopicProbability = 0.0;
 		
 		// Run topic extractor
 		topicExtractor.loadModel();

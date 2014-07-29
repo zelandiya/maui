@@ -1,0 +1,8 @@
+.classpath
+.project
+bin
+*.maui
+data/models
+data/vocabularies
+out
+target

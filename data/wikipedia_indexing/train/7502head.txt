@@ -1,0 +1,50 @@
+
+   Proceedings of the First International Workshop on Multistrategy
+   Learning, Harpers Ferry, WV, November, 1991. 217
+   
+   Using Introspective Reasoning to Select Learning Strategies
+   
+   Michael Cox and Ashwin Ram
+   cox@cc.gatech.edu ? ashwin@cc.gatech.edu Georgia Institute of
+   Technology ? College of Computing Atlanta, GA 30332-0280
+   
+   Abstract
+   
+   In order to learn effectively, a system must not only possess
+   knowledge about the world and be able to improve that knowledge, but
+   it also must introspectively reason about how it performs a given task
+   and what particular pieces of knowledge it needs to improve its
+   performance at the current task. Introspection requires a declarat?ive
+   representation of the reasoning performed by the system during the
+   performance task. This paper presents a taxonomy of possible reasoning
+   failures that can occur during this task, their declarative
+   representations, and their associations with particular learning
+   strategies. We propose a theory of Meta-XPs, which are explanation
+   structures that help the system identify failure types and choose
+   appropriate learning strategies in order to avoid similar mistakes in
+   the future. A program called Meta-AQUA embodies the theory and
+   processes examples in the domain of drug smuggling.
+   
+   1 Introduction
+   
+   In order to learn effectively, a system must not
+   
+   only possess knowledge about the world and be able to improve that
+   knowledge, but it also must introspectively reason about how it
+   performs a given task and what particular pieces of knowledge it needs
+   to improve its performance at the current task. In addition, the
+   learner needs to focus its learning if it is to avoid the
+   combinatorial explosion of inferences and search necessary in complex,
+   unrestricted situations.
+   
+   The approach to learning taken in this research is failure-driven.
+   "Failures" are not simply performance errors, but include expectation
+   failures, or anomalous situations which do not match the constraints
+   on a given concept. (In fact, an expectation failure could occur even
+   if the performance task is successful.) When such a failure occurs,
+   the system posts a knowledge goal which drives the reasoner to explain
+   or otherwise resolve the gaps in its knowledge. The knowledge goals of
+   a system are the questions that a system poses about the world and
+   events within the world. In order to learn from a failure and to avoid
+   repeating the mistake, the system needs to identify the cause of the
+   failure and then, depending upon the cause, apply a given learning

@@ -1,0 +1,898 @@
+<section>7</section>
+5. ALTERNATIVE SCENARIOS TO 2010
+5.1 Summary scenario results
+5.2 Base Case Scenario
+5.3 Scarcity Scenario
+5.4 Stronger Demand with Scarcity Scenario
+5.1 Summary scenario results
+This section examines some alternative scenarios for development for the Asia-Pacific region using the ITTO Trade Model. Three scenarios are considered:
+� Base Case scenario
+� Scarcity scenario
+� Strong Demand with Scarcity scenario
+The Base Case scenario models the status quo - how the forest sector of the Asia-Pacific region might develop if current, commonly held assumptions about its determinants continue to hold over the planning horizon and the region avoids unforeseen scarcity, changes in trade policy, or consumer acceptance of substitute products.
+The Scarcity scenario addresses two issues described earlier in the paper: the possibility that the harvesting limits from current sources assumed for 2010 are unsustainable, and the likelihood that log exports from Malaysia and Papua New Guinea will be reduced by the end of the study period.
+The Strong Demand with Scarcity scenario examines the eventuality that demand in the region for sawnwood and panel products will develop at a rate exceeding the base trend incorporated into the model and described earlier in this report, and that the scarcity conditions assumed in the Scarcity scenario also develop.
+Table 8 - Summary of scenario results: price and quantity in 2010
+Scenarios:
+Base Case
+Scarcity
+Demand & Scarcity
+Scarcity (% of Base Case)
+Demand & Scarcity (% of Base Case)
+Demand & Scarcity (% of Scarcity)
+Consumption
+Q[d] Ply
+Q[d ]Saw
+P[d] Ply
+P[d] Saw
+Supply
+Q[s] C
+Q[s ]IU
+Q[s ]LI
+Q[s ]Con
+P[s ]C
+P[s ]IU
+P[s ]LI
+P[s ]Con
+Manufacturing
+Consumers
+Q[m] Ply
+Q[m] S Ply
+Q[m] Saw
+Q[m] S Saw
+Producers
+Q[m] Ply
+Q[m] S Ply
+Q[m] Saw
+Q[m] S Saw
+Total
+Q[m] Ply
+Q[m] S Ply
+Q[m] Saw
+Q[m] S Saw
+Trade
+Q[e] Logs
+Q[i] Logs
+Q[e ]Ply
+Q[i ]Ply
+Q[e] Saw
+Q[i] Saw
+Q[e] S Logs
+Q[i ]S Logs
+Notes:
+Q
+quantity
+C
+current sources
+volumes are '000 m^3
+P
+price index
+IU
+improved utilization
+price index 1995=100
+s
+supply
+LI
+low-impact harvesting
+d
+demand
+Con
+conifer logs
+m
+manufacture
+Logs
+logs
+e
+export
+Ply
+plywood and veneer
+i
+import
+Saw
+sawnwood
+S
+softwood only
+The Base Case results are described in detail, while the reporting of the other two scenarios is limited to identifying results that differ from the Base Case and discussing their significance. Table 8 summarizes the results for each of the three scenarios.
+5.2 Base Case Scenario
+Key assumptions
+The Base Case scenario incorporates assumptions about log supply, consumer demand for tropical timber forest products and their willingness to accept substitutes, and log export policies.
+Log supply
+The availability of logs from current sources is assumed to increase slightly from 69 million m^3 in 1995 to 71 million m^3 in 2010. The Base Case scenario also includes potential incremental supply that could total 44 million m^3 by 2010: 18 million m^3 from improved utilization, 10 million m^3 from the adoption of low-impact harvesting technology, 12 million m^3 from conifer logs imported into the region, and 4 million m^3 from the improved recovery of logs from estate crops, principally rubber (Figure 6). This incremental supply is described as "potential" in that product prices must be sufficiently high to cover the higher cost of harvesting or processing the incremental supply.
+Figure 6 - Potential supply levels to 2010 under the Base Case scenario
+Substitution
+The Base Case assumes that product substitution will reduce the demand for traditional products, replacing the consumption of 30.5 RWE million m^3 of plywood and 11.7 RWE million m^3 of sawnwood.
+Log export policy
+Log export policy will remain as currently expressed: log exports will continue from Sarawak at a maximum level of 62% of the annual harvest until 2000, and then will continue indefinitely at a rate 50% of the annual harvest; Sabah will allow the export of plantation-grown wood up to a maximum of 33 % of annual harvest; and Papau New Guinea will continue to export up to 90% of its harvest as logs.
+Analysis of the Base Case scenario with the ITTO Trade Model yields the following forecast.
+Plywood consumption falls
+Consumption of panel products is forecast to rise from 18.5 million m^3 in 1995 to 28 million m^3 in 2010; however, the consumption of the plywood component of the market for panel products will decrease from 16 million m^3 to 11.8 million m^3 over the same period (Figure 7). Substituted panel products account for the difference. The suppression of demand for plywood results in a real price decrease of 15% over the study period. ^4
+^4 This result may be due to the lack of product detail in the Trade Model (i.e., only one grade of plywood is included).
+Figure 7 - Forecast plywood and veneer consumption and price index to 2010 under the Base Case scenario
+Plywood consumption declines overall but the producer countries increase their share of consumption of the plywood produced in the region from 15% in 1995 to 26% by 2010.
+Sawnwood consumption rises
+Sawnwood consumption shows a different pattern, increasing by almost 50%, from 20.7 million m^3 to 36 million m^3 from 1995 to 2010, of which 6.5 million m^3 is substituted product (Figure 8).
+The proportion of the sawnwood production consumed by the producer countries changes little over the study period (from 28% to 25%), but by 2010 much of the sawnwood consumption by the consumer countries is from conifer logs (63%).
+The real price for sawnwood drops 18% over the study period, due to the acceptance of the substitute product and the importing of relatively inexpensive conifer sawlogs.
+Figure 8 - Forecast sawnwood consumption and price index to 2010 under the Base Case scenario
+Total log production rises
+Although the volume of logs from the conventional supply decreases by 22% (from 67 million m^3 to 52 million m^3) over the study period, 29 million m^3 of incremental supply is being utilized by 2010 (Figure 9). The more expensive portion of the conventional supply has been replaced by the lower-cost portion of the incremental wood. Consequently, real log prices decline by 16% over the study period.
+Figure 9 - Forecast harvest levels and log price index to 2010 under the Base Case scenario
+Figure 10 - Forecast levels of plywood and veneer manufacturing to 2010 under the Base Case scenario
+Plywood production falls
+Plywood production declines by 45% across the region, with most of this reduction occurring in the producer countries (Figure 10). The main consumer countries are favoured by their higher mill recoveries, the continuation of log exports in the region, and the availability of conifer substitutes.
+Sawnwood production rises
+Sawnwood production increases across the region, with consumer countries achieving a 150% increase in volume (Figure 11). As noted, much of this gain is realized by sawing imported conifer logs. Producer countries increase sawnwood production by 33%.
+Figure 11 - Forecast levels of sawnwood manufacturing to 2010 under the Base Case scenario
+Log exports rise
+Although Malaysian log exports are forecast to decline by 15% by 2010, a 150% increase in exports from Papua New Guinea causes the volume of exported logs (from current sources) in the region to rise by 36% (Figure 12). Including the exported conifer logs in the total results in an increase of 115% during the study period. (Note that the large increase in exported logs from Papua New Guinea is drawn mostly from the supply increment due to low-impact harvesting.)
+The traditional major importers of logs (Japan, the Republic of Korea, and Taiwan Province of China) retain their share, claiming 87% of the exported hardwood logs (Figure 13).
+Figure 12 - Forecast of log exports to 2010 under the Base Case scenario
+Figure 13 - Forecast of log imports to 2010 under the Base Case scenario
+Plywood exports and imports fall
+Plywood and veneer exports and imports decrease over the study period reflecting the reduction in manufacturing previously noted, the adoption of substitute panels in consuming countries, and the redirection of the product to the domestic market (Figures 14 and 15). Plywood exports from Indonesia are forecast to drop by 60% while imports to the main consumer countries will decline by 80% by 2010.
+Figure 14 - Forecast of plywood/veneer exports to 2010 under the Base Case scenario
+Figure 15 - Forecast of plywood/veneer imports to 2010 under the Base Case scenario
+Sawnwood exports and imports fall
+Sawnwood exports decrease by 50% over the study period, as exporters (mainly Malaysia) meet their domestic demand and importers adopt substitute products or manufacture conifer sawnwood (Figures 16 and 17).
+Figure 16 - Forecast of sawnwood exports to 2010 under the Base Case scenario
+Figure 17 - Forecast of sawnwood imports to 2010 under the Base Case scenario
+Implications for industry structure
+While the magnitude of some of the specific modelling results may seem unlikely, the general evolution of the Asia-Pacific forest sector described by the model, subject to the assumptions of the Base Case, is quite plausible. Log supply does not appear to constrain development of the sector under current policies and assumptions of harvesting and processing technology, and real price development seems unlikely.
+The analysis indicates that the development of the sector under Base Case assumptions will be determined largely by issues of substitution: the rate that consumers accept substitute products and the supply of conifer logs into the region.
+New manufacturing capacity will be developed in the region to utilize the changing log supply. Recovery of logs from increased utilization implies that smaller logs and logs with different technical characteristics will be processed, requiring appropriate milling capacity.
+Smaller logs and lower grades will result in substantial wood fibre that is unsuitable for sawlogs or veneer logs, but will provide a fibre source for substitute products, such as reconstituted panels.
+New or additional processing plants are most likely to be developed in the supplier countries, close to the resource, but subject to the incentives and barriers discussed earlier in this paper.
+Implications for trade
+While the modelling analysis indicates less trade of both sawnwood and plywood, the Base Case results imply that a compensating trade in substitute products must develop. For example, Indonesia's forecast reduction in plywood exports and Malaysia's reduction in sawnwood exports might be replaced with exports of reconstituted panel products and more highly manufactured products. This possibility is not represented in the model.
+Also note that the forecast growth of sawnwood manufacturing based on conifer logs in the consumer countries is, at least partially, a modelling anomaly. The conifer logs are allocated by the model to the consumer countries based on the relative efficiency of current installed milling capacity; new capacity developed to process conifer logs would likely have the same efficiency in a producer country as in a consumer country.
+5.3 Scarcity Scenario
+Key assumptions
+The Scarcity scenario incorporates the assumptions of the Base Case with the following changes:
+� the harvest limit from the natural forest in 2010 will be 25% less than was assumed in the Base Case, and this reduction will occur gradually over the study period
+� starting in 2000, Sabah's log export limits will decline from 33% of harvest to 10% in 2010, Sarawak's will decline from 62 to 10%, and Papua New Guinea from 90 to 50%
+� log exports out of the region will be eliminated in 2001
+Reduced log supply
+Under the Scarcity scenario, the availability of logs from current sources is assumed to decrease from 70 million m^3 in 1995 to 54 million m^3 in 2010. The incremental supply is also reduced (39.5 million m^3 in 2010) as it is partially a function of the supply from current sources. At 2010, 13.5 million m^3 will be available from improved utilization, 10 million m^3 from the adoption of low-impact harvesting technology, 12 million m^3 from conifer log imports into the region, and 4 million m^3 from estate crops (Figure 18).
+Figure 18 - Potential harvest levels to 2010 under the Scarcity scenario
+The product substitution rates assumed in the Base Case are unchanged. The Scarcity scenario was modelled and the results compared to the Base Case.
+Plywood consumption is suppressed
+Consumption of plywood in 2010 is reduced relative to the Base Case by about 7%, probably due to a 14% increase in price. The real price of plywood remains almost constant over the study period.
+The producer countries' share of total consumption is unchanged.
+Sawnwood consumption is suppressed
+Sawnwood consumption is also suppressed (5% less than the Base Case) by a 13% increase in price in 2010 over the Base Case price. As with plywood, the real price of sawnwood is almost constant over the study period.
+Total log production is suppressed
+The total volume of logs harvested still increases over the study period, but is 5 % less than the Base Case harvest at 2010 (Figure 19). The volume taken from current sources is reduced by 12% relative to the Base Case, and the volume obtained from improved utilization is reduced by 8 %. The harvest from the low-impact supply and conifer imports increases to partially offset the reductions from the current sources and improved utilization.
+The price of logs is unchanged over the study period, and exceeds the Base Case price by 14%.
+Figure 19 - Forecast harvest levels and log price index to 2010 under the Scarcity scenario
+Plywood production is stimulated
+Plywood production declines substantially across the region, as in the Base Case. Hardwood plywood production is suppressed in 2010, relative to the Base Case, by 5% in the consumer countries and 12% in the producer countries. However, softwood plywood production is stimulated in the consumer countries; no softwood plywood was produced in the Base Case scenario. The aggregate production (softwood and hardwood) of the Scarcity scenario exceeds that of the Base Case in 2010 by 10%.
+Sawnwood production is suppressed
+Sawnwood production is suppressed (7%) across the region, with the largest reduction occurring in the consumer countries.
+Reducing exports of tropical hardwood logs to the consumer countries stimulates the manufacture of conifer logs into plywood to meet domestic demand. The overall reduction in supply in the Scarcity scenario would cause the suppression of hardwood plywood and sawnwood across the region.
+Log exports are suppressed
+The major log exporters are constrained explicitly in the Scarcity scenario, and conifer logs flow into the region to meet the demand for logs. Under the Base Case, 7.5 million m^3 of conifer logs was exported into the region and comprised 36% of the log market; under the Scarcity scenario, 9.9 million m^3 of conifer logs comprise 62% of the market.
+General comments
+In summary, reducing the scheduled harvesting limits from current sources of supply by 25%, limiting log exports to roughly one-third of the level currently envisioned, and implementing these constraints progressively to 2010 have four general effects:
+� the price for hardwood products increases by about 15% over the Base Case, but the real price does not increase over the period covered by the study
+� manufacturing and consumption of hardwood log products decrease
+� conifer logs imports to the region increase by one-third
+� conifer logs are milled in consumer countries
+The conditions imposed by the Scarcity scenario do not change the general findings of the Base Case analysis: log supply does not appear to constrain the development of the sector and various forms of substitution will be the dominant influence on the sector. Creating scarcity by removing 25% of the most valuable supply stimulates the importing and adoption of softwood substitutes, and the price effect serves only to maintain prices at 1995 levels.
+5.4 Stronger Demand with Scarcity Scenario
+To simulate the accelerated development of demand for sawnwood and panel products, demand was increased gradually above the base trend until it exceeded the base demand at 2010 by 20%. All other assumptions of the Scarcity scenario were incorporated without modification into the new scenario.
+Plywood consumption increases
+The 20% increase in demand scheduled for the region increases plywood consumption in 2010 by 23% of the Base Case amount and by 33% over consumption under the Scarcity scenario. Sawnwood consumption changes only slightly.
+Plywood and sawnwood prices rise
+The real prices of plywood and sawnwood rise substantially relative to both the Base Case scenario and the Scarcity scenario, and increase by about 30% over the study period.
+Log prices strengthen
+The price for logs harvested from current and incremental sources in 2010 increases by about 70% over the Base Case scenario price, 45% over the Scarcity scenario price, and about 40% over the study period.
+Total log production rises only slightly
+In spite of strong prices, log production in 2010 from sources in the region is up only slightly from the Scarcity scenario and is still less than the Base Case scenario. However, the importing of conifer logs rises substantially - by 53 % over the Base Case scenario and 17% over the Scarcity scenario.
+Plywood manufacturing increases
+In the consumer countries, plywood manufacture increases by 33% over the Base Case, by peeling imported conifer logs. The producers also increase plywood production (by 8% over the Base Case scenario and 21% over the Scarcity scenario) but process only hardwood logs.
+Sawnwood manufacturing increases slightly
+Sawnwood manufacturing increases slightly but the proportion of softwood processed drops from 14% (Base Case scenario) to 12% (Scarcity scenario) to 8% (Stronger Demand with Scarcity scenario).
+Trade in hardwood logs suppressed
+The volume of trade in hardwood logs remains unchanged from the Scarcity scenario, and suppressed relative to the Base Case, due to export restrictions.
+Trade in conifer logs increases
+However, the volume of trade in conifer logs increases by 53% relative to the Base Case scenario and 17% relative to the Scarcity scenario.
+Trade in plywood and sawnwood increases
+The volume of trade in plywood increases slightly with respect to the Scarcity scenario (7%) but remains less than the Base Case volume, while the volume of trade in sawnwood increases more substantially (53% relative to the Base Case and 17% relative to the Scarcity scenario).
+General comment
+In summary, the development of the sector indicated by the Base Case and Scarcity scenarios remains unchanged, except for strong real price development of products and logs. Note that this difference is likely due to the rate of product substitution being fixed in the current model. It is likely that price development would encourage further substitution, and reduce or eliminate the price trend.
+<section>8</section>
+6. CONCLUSIONS - FORECASTS OF INDUSTRY STRUCTURE AND TRADE FLOWS TO 2010
+Consideration of the modelled scenarios and the other findings of this report lead to the following forecasts.
+Natural forest log scarcity will be offset
+Although harvest forecasts from current sources may be optimistic, sufficient incremental log supply will become available to avoid scarcity through improved utilization of current log sources, low-impact harvesting of sensitive sites, and the importing of conifer logs.
+Hardwood log trade will decline
+Hardwood log trade will decline across the region, and several more ITTO producer countries will become net importers by 2010.
+Malaysia becomes an importer of logs
+The volume of trade in hardwood logs will decline as Sarawak and Sabah progressively curtail log exports. However, Malaysia, principally Peninsular Malaysia, is already an importer of hardwood logs. This trade will grow over the study period, with most of the processing meeting demand for domestic consumption or further processing as value-added products.
+Indonesia becomes a net log importer
+Indonesia currently bans log exports and is considering log imports from Vietnam, Myanmar, and the Solomon Islands to offset declining log supplies. Log imports are likely to increase during the study period.
+Papua New Guinea will probably continue to export logs.
+Papua New Guinea's current policy is to reduce log exports by 10% each year for the period 1995-2000, and ban log exports thereafter. However, the domestic processing industry is generally non-competitive relative to other exporters of the region, and may be unable to absorb a significant increase in log supply. Consequently, log exports will likely persist well past 2000 and may even expand. Log exports from Papua New Guinea will compete with highly competitive log and product substitutes; significant price changes are unlikely.
+Myanmar and Vietnam have an export opportunity
+Myanmar and Vietnam have an opportunity to expand their log exports in the short term as the major exporters curtail their trade.
+Conifer logs imports will expand
+The region will import substantial volumes of conifer logs to provide substitutes to tropical logs in the manufacture of sawnwood and plywood, and the raw material for manufacture of substitute products such as reconstituted boards and panels.
+Manufacturing will relocate to producer countries
+Relocation of manufacturing capacity away from the consumer countries to the producers has been underway for some time, and will continue throughout the study period. This shift is due partly to normal market forces: the higher cost of manufacturing in consumer countries makes the producer countries more competitive and the manufacturing capacity in the producer countries is becoming more efficient. Relocation will also be accelerated by policies, such as constraints or bans on the export of tropical logs, or slowed by import tariffs and non-tariff barriers.
+Sawnwood manufacturing will increase
+Sawnwood manufacturing will increase in the producer countries, largely in response to growth in domestic demand and the development of secondary manufacturing for export. The same economic fundamentals will result in the manufacture of conifer sawnwood in the producer countries, making hardwood sawlogs available for manufacturing products for export.
+If sawnwood manufacturing is to increase in consumer countries, it will be based on imported conifer logs, at least for lower-end products.
+Plywood manufacturing will decline
+Plywood manufacture will decline across the region as the supply of peeler-quality logs declines and consumers adopt reconstituted panels.
+Manufacture of substitute products will expand
+While substitute products will be imported from outside the region, new capacity will also develop within the region to manufacture substitutes, especially reconstituted boards and panels. The increasing supply of conifer logs and small logs resulting from intensive utilization of current log sources are attractive sources of raw material. New capacity to manufacture substitute products from underutilized fibre from current sources will most likely be established near their source of supply in the producer countries. However, new capacity based on conifer logs may be established in producer or consumer countries.
+Sawnwood and plywood trade declines
+Although processing capacity will shift to the producer countries, the overall trade in sawnwood and plywood will decline.
+Substitute products trade increases
+With new manufacturing capacity for substitute products being established in the producer countries, the trade of substitute products will expand in the region.
+Prices will remain stable
+Although demand will continue to be strong in the region and the harvest from the natural forest is at, or above, its long-term sustainable level, this analysis demonstrates that product and technological substitution could cause real prices to remain stable, or even decline, over the study period. This result is sensitive to the rate of substitution accepted by consumers and the rate of growth in demand for tropical timber solid-wood products.
+<section>9</section>
+REFERENCES
+Barbier, E., Burgess, J.C., Aylward, B.A., Bishop, J.T., and Bann, C. 1993. The economic linkages between trade in tropical timber and the sustainable management of tropical forests. Final Report: ITTO Activity PCM(XI)/4, ITTO, Yokohama.
+Food and Agricultural Organization (FAO). 1990. Forest resources assessment 1990, Tropical countries. FAO, Rome.
+Food and Agricultural Organization (FAO). 1995. Forestry: Statistics today for tomorrow. 1945-1993, 2010. FAO, Rome.
+Food and Agricultural Organization (FAO). 1996. Forest products yearbook, 1994. FAO, Rome.
+FAO and the Ministry of Forestry of Indonesia. 1990. Situation and outlook of the forestry sector. FAO, Rome.
+International Trade Centre. 1993. Rubberwood: A study of the world development potential. International Trade Centre, Geneva.
+International Tropical Timber Organization (ITTO). 1993. Analysis of macroeconomic trends in the supply and demand of sustainably produced tropical timber from the Asia-Pacific region: Phase I. ITTO, Yokohama.
+International Tropical Timber Organization (ITTO). 1995. Analysis of macroeconomic trends in the supply and demand of sustainably produced tropical timber from the Asia-Pacific region: Phase II. ITTO, Yokohama.
+International Tropical Timber Organization (ITTO). 1996a. Analysis of macroeconomic trends in the supply and demand of sustainably produced tropical timber from the Asia-Pacific region: Phase III: Trade model workshop. ITTO, Yokohama.
+International Tropical Timber Organization (ITTO). 1996b. Annual review and assessment of the world tropical timber situation 1996. ITTO, Yokohama.
+Jacques, R. 1996. Global demand for forest products to the year 2010. Canadian Forest Service, Industry, Economics and Programs Branch, Hull, Quebec. Research Note 47e.
+PNG Forest Authority. 1996. Forest products marketing organization feasibility study. Consultant's report. ITTO, Yokohama.
+Western Canadian Wood Machinery & Services Export Association. 1996. A market study of Indonesia and Malaysia. Canadian Forest Service, Victoria, British Columbia. FRDA Working Paper 96.09.
+Zhang, D., Buongiorno, J. and Ince, P.J. 1993. PELPS III: A microcomputer price endogenous linear programming system for economic modelling, version 1.0. USDA Forest Service, Madison, Wisconsin. Forest Products Laboratory Research Paper FPL-RP-526.
+<section>a</section>
+LIST OF WORKING PAPERS ALREADY RELEASED
+APFSOS/WP/01
+Regional Study - The South Pacific
+APFSOS/WP/02
+Pacific Rim Demand and Supply Situation, Trends and Prospects: Implications for Forest Products Trade in the Asia-Pacific Region
+APFSOS/WP/03
+The Implications of the GATT Uruguay Round and other Trade Arrangements for the Asia-Pacific Forest Products Trade
+APFSOS/WP/04
+Status, Trends and Future Scenarios for Forest Conservation including Protected Areas in the Asia-Pacific Region
+APFSOS/WP/05
+In-Depth Country Study New Zealand
+APFSOS/WP/06
+In-Depth Country Study Republic of Korea
+APFSOS/WP/07
+Country Report - Malaysia
+APFSOS/WP/08
+Country Report - Union of Myanmar
+APFSOS/WP/09
+Challenges and Opportunities: Policy options for the forestry sector in the Asia-Pacific Region
+APFSOS/WP/10
+Sources of Non-wood Fibre for Paper, Board and Panels Production: Status, Trends and Prospects for India
+APFSOS/WP/11
+Country Report - Pakistan
+APFSOS/WP/12
+Trends and Outlook for Forest Products Consumption, Production and Trade in the Asia-Pacific Region
+APFSOS/WP/13
+Country Report - Australia
+APFSOS/WP/14
+Country Report - China
+APFSOS/WP/15
+Country Report - Japan: Basic Plan on Forest Resources and Long-Term Perspective on Demand and Supply of Important Forestry Products
+APFSOS/WP/16
+Country Report - Sri Lanka
+APFSOS/WP/17
+Forest Resources and Roundwood Supply in the Asia Pacific Countries: Situation and Outlook to Year 2010
+APFSOS/WP/18
+Country Report - Cambodia
+APFSOS/WP/19
+Wood Materials from Non-Forest Areas
+APFSOS/WP/20
+Forest Industry Structure and the Evolution of Trade Flows in the Asia-Pacific Region - Scenarios to 2010
+<title>Asia-Pacific Forestry Sector Outlook Study: Forest Industry Structure and the Evolution of Trade Flows in the Asia-Pacific Region - Scenarios to 2010</title>
+<section>1</section>
+INFORMATION NOTE ON ASIA-PACIFIC FORESTRY SECTOR OUTLOOK STUDY
+At its sixteenth session held in Yangon, Myanmar, in January 1996, the Asia-Pacific Forestry Commission, which has membership open to all governments in the Asia-Pacific region, decided to carry out an outlook study for forestry with horizon year 2010. The study is being coordinated by FAO through its regional office in Bangkok and its Headquarters in Rome, but is being implemented in close partnership with governments, many of which have nominated national focal points.
+The scope of the study is to look at the main external and sectoral developments in policies, programmes and institutions that will affect the forestry sector and to assess from this the likely direction of its evolution and to present its likely situation in 2010. The study involves assessment of current status but also of trends from the past and the main forces which are shaping those trends and then builds on this to explore future prospects. Working papers have been contributed or commissioned on a wide range of topics. They fall under the following categories: country profiles, selected in-depth country or sub-regional studies and thematic studies. Working papers are prepared by individual authors or groups of authors on their own professional responsibility; therefore, the opinions expressed in them do not necessarily reflect the views of their employers, the governments of the Asia-Pacific Forestry Commission or of the Food and Agriculture Organization. In preparing
+the substantive report to be presented at the next session of the Asia-Pacific Forestry Commission early in 1998, material from these working papers will be an important element but will be blended and interpreted alongside a lot of other material.
+Working papers are being produced and issued as they arrive. Some effort at uniformity of presentation is being attempted but the contents are only minimally edited for style or clarity. FAO welcomes from readers any information which they feel would be useful to the study on the subject of any of the working papers or on any other subject that has importance for the Asia-Pacific forestry sector. Such material can be mailed to the contacts given below from whom further copies of these working papers, as well as more information on the Asia-Pacific Forestry Sector Study, can be obtained:
+Rome:
+Mr. Mafa Chipeta
+Senior Forestry Officer
+Policy and Planning Division
+Forestry Department
+Food and Agriculture Organization of the United Nations
+Viale delle Terme di Caracalla
+Rome, 00100, ITALY
+Tel: (39-6) 5705 3506
+Fax: (39-6) 5705 5514
+Email: <mafa.chipeta@fao.org>
+Bangkok:
+Mr. Patrick Durst
+Regional Forestry Officer
+FAO Regional Office for Asia and the Pacific
+Maliwan Mansion
+Phra Atit Road
+Bangkok 10200
+THAILAND
+Tel: (66-2) 281 7844
+Fax: (66-2) 280 0445
+Email: <Patrick.Durst@field.fao.org>
+<section>2</section>
+EXECUTIVE SUMMARY
+Scope of the study
+Data and Assumptions
+Synthesis of Scenario Results
+The Asia-Pacific region is being rapidly transformed by fast economic development and population growth. Patterns of forest resource utilization and the manufacture and trade of forest products have changed dramatically in recent years, and will continue to evolve in response to these economic and social forces.
+This report examines the evolution of the solid-wood industries of the forest sector of the Asia-Pacific region from 1995 to 2010. Three scenarios are considered: a base case scenario reflects the current supply and demand conditions of the region, and the current industry structure and trading relationships; a second scenario examines conditions of scarcity of supply from the natural forest; and the third scenario combines scarcity conditions with stronger end-product demand.
+Scope of the study
+ITTO Trade Model
+ITTO Trade Model
+These scenarios are analyzed with the International Tropical Timber Organization Asia-Pacific Tropical Timber Trade Model. The major ITTO producing countries of the region are represented in the model: Indonesia, Malaysia (Peninsular Malaysia, Sabah, Sarawak), Myanmar, Papua New Guinea, and the Philippines. The model also includes the ITTO consuming countries: Japan, Republic of Korea, People's Republic of China, Taiwan Province of China, and Thailand. Cambodia, Laos, Vietnam, and the Solomon Islands are also included on the producer side of the model, while Hong Kong and Singapore are included as consumers. Other countries normally considered to be in the Asia-Pacific region - such as India, Pakistan, and Bangladesh - are not included in this study.
+The scope of the study with respect to forest products is limited to the current capabilities of the trade model. Only logs, sawnwood, and panel products are considered. Plywood and veneer are aggregated in the model and the ensuing analysis. Pulp, paper, and remanufactured products are not included. Secondary manufacturing and reconstituted panels (particle board, medium-density fibreboard, and oriented-strand board) are considered only in the projection of demand, and are not represented explicitly in the model.
+Data and Assumptions
+Data sources
+The primary data sources for this study are the reports documenting the development of the ITTO Trade Model and its attendant database (ITTO 1993, 1995), and the most recent annual statistical review of the ITTO (ITTO 1996b).
+Log supply
+Short-term tropical log supply is represented as a supply curve for each supply region, with four "incremental log" supply sources: improved roundwood utilization, non-conventional harvesting regimes, improved recovery of estate crops, and imported conifer logs. Figure El charts the maximum potential timber harvest from each supply source from 1995 to 2010.
+Product demand
+Demand curves are also defined for each demand region and demand growth is estimated separately for each demand region in the study (Table El); the aggregate annual growth rate estimated for the Asia-Pacific region is 2.8%.
+Product and technological substitution
+Substitution of different products (e.g., reconstituted panels for plywood) or technological substitution at the consumer level (e.g., acceptance of building technologies that use wood more efficiently) will dampen demand growth for tropical lumber and plywood in the region. This study assumes that product substitution will replace the consumption of 30.5 roundwood equivalent (RWE) million m^3 of plywood and 11.7 RWE million m^3 of sawnwood over the study period.
+Figure E1 - Potential supply levels to 2010 under the Base Case scenario
+Table E1 Average annual growth of consumption to 2010
+Group
+Category
+Country
+Growth Rate to 2010 (%)
+I
+Less developed, importers
+China, Hong Kong, Philippines, Singapore Thailand
+II
+Less developed, exporters
+Cambodia, Indonesia, Laos, Malaysia, Myanmar, PNG, Solomon Islands, Vietna
+IV
+More developed, importers
+Japan, Korea, Taiwan Province of China
+Country assignments as per Jacques (1996). No category III countries (more developed, exporters) are located in the region.
+Synthesis of Scenario Results
+Natural forest log scarcity will be offset
+Although harvest forecasts from current sources may be optimistic, sufficient incremental log supply will become available to avoid scarcity through improved utilization of current log sources, low-impact harvesting of sensitive sites, and the importing of conifer logs.
+Hardwood log trade will decline
+Hardwood log trade will decline across the region, and several more ITTO producer countries will become net importers by 2010.
+Malaysia becomes an importer of logs
+The volume of trade in hardwood logs will decline as Sarawak and Sabah progressively curtail log exports. However, Malaysia, principally Peninsular Malaysia, is already an importer of hardwood logs. This trade will grow over the study period, with most of the processing meeting demand for domestic consumption or further processing as value-added products.
+Indonesia becomes a net log importer
+Indonesia discourages log exports and is considering log imports from Vietnam, Myanmar, and the Solomon Islands to offset declining log supplies. Log imports are likely to increase during the study period.
+Papua New Guinea will probably continue to export logs
+Papua New Guinea's current policy is to reduce log exports by 10% each year for the period 1995-2000, and ban log exports thereafter. However, the domestic processing industry is generally non-competitive relative to other exporters of the region, and may be unable to absorb a significant increase in log supply. Consequently, log exports will likely persist well past 2000 and may even expand. Log exports from Papua New Guinea will compete with highly competitive log and product substitutes; significant price increase is unlikely.
+Myanmar and Vietnam have an export opportunity
+Myanmar and Vietnam have an opportunity to expand their log exports in the short term as the major exporters curtail their trade.
+Conifer logs imports will expand
+The region will import substantial volumes of conifer logs to provide substitutes to tropical logs in the manufacture of sawnwood and plywood, and the raw material for manufacture of substitute products such as reconstituted boards and panels.
+Manufacturing will relocate to producer countries
+Relocation of manufacturing capacity away from the consumer countries to the producers has been underway for some time, and will continue throughout the study period. This shift is due partly to normal market forces: the higher cost of manufacturing in consumer countries makes the producer countries more competitive and the manufacturing capacity in the producer countries is becoming more efficient. Relocation will also be accelerated by policies, such as constraints or bans on the export of tropical logs, or slowed by import tariffs and non-tariff barriers.
+Sawnwood manufacturing will increase
+Sawnwood manufacturing will increase in the producer countries, largely in response to growth in domestic demand and the development of secondary manufacturing for export. The same economic fundamentals will result in the manufacture of conifer sawnwood in the producer countries, making hardwood sawlogs available for manufacturing products for export.
+If sawnwood manufacturing is to increase in consumer countries, it will be based on imported conifer logs, at least for lower-end products.
+Plywood manufacturing will decline
+Plywood manufacture will decline across the region as the supply of peeler-quality logs declines and consumers adopt reconstituted panels.
+Manufacture of substitute products will expand
+While substitute products will be imported from outside the region, new capacity will also develop within the region to manufacture substitutes, especially reconstituted boards and panels. The increasing supply of conifer logs and small logs resulting from intensive utilization of current log sources are attractive sources of raw material. New capacity to manufacture substitute products from underutilized fibre from current sources will most likely be established near their source of supply in the producer countries. However, new capacity based on conifer logs may be established in producer or consumer countries.
+Sawnwood and plywood trade decline
+Although processing capacity will shift to the producer countries, the overall trade in sawnwood and plywood will decline.
+Substitute products trade increases
+With new manufacturing capacity for substitute products being established in the producer countries, the trade in substitute products will expand in the region.
+Prices will remain stable
+Although demand will continue to be strong in the region and the harvest from the natural forest is at, or above, its long-term sustainable level, this analysis demonstrates that product and technological substitution could cause real prices to remain stable, or even decline, over the study period. This result is sensitive to the rate of product substitution accepted by consumers and the rate of growth in demand for tropical timber solid-wood products.
+<section>3</section>
+1. INTRODUCTION
+1.1 Scope
+1.2 Organization of the Report
+1.3 ITTO Trade Model
+1.1 Scope
+The Asia-Pacific region is being rapidly transformed due to fast economic development and population growth. Patterns of forest resource utilization and the manufacture and trade of forest products have changed dramatically in recent years, and will continue to evolve in response to these economic and social forces.
+This report examines the evolution of the solid-wood industries of the forest sector of the Asia-Pacific region from 1995 to 2010. A scenario is constructed based on the current supply and demand conditions of the region, and the current industry structure and trading relationships. This scenario is analyzed with the International Tropical Timber Organization Asia-Pacific Tropical Timber Trade Model (hereafter called ITTO Trade Model or the model, and described later in this introduction). Two additional scenarios, examining conditions of supply scarcity from the natural forest and stronger end-product demand, are also discussed.
+The primary data sources for this study are reports documenting the development of the ITTO Trade Model and its attendant database (ITTO 1993, 1995) and the most recent annual statistical review of the ITTO (ITTO 1996b).
+The geographic scope of this study is limited by the state of development of the ITTO Trade Model. The major ITTO producing countries of the region are represented in the model: Indonesia, Malaysia (Peninsular Malaysia, Sabah, Sarawak), Myanmar, Papua New Guinea, and the Philippines. The model also represents the ITTO consuming countries: Japan, Republic of Korea, People's Republic of China, Taiwan Province of China, and Thailand. Cambodia, Laos, Vietnam, and the Solomon Islands are also included on the producer side of the model, while Hong Kong and Singapore are included as consumers. Other countries normally considered to be in the Asia-Pacific region - India, Pakistan, and Bangladesh - are not included in this study.
+The scope of the study with respect to forest products is limited to the current capabilities of the trade model. Only logs, sawnwood, and panel products are considered. Plywood and veneer are aggregated in the model and the ensuing analysis. Pulp, paper, and remanufactured products are not included. Secondary manufacturing and reconstituted panels (particle board, medium-density fibreboard [MDF], and oriented-strand board [OSB]) are considered only in the analysis of demand, and are not represented explicitly in the model.
+Finally, while some aspects of the model have been updated from recent ITTO statistical surveys, the model is largely based on supply and demand data collected in 1993.
+1.2 Organization of the Report
+The first part of this report describes the log supply of the region, the demand and substitution assumptions, the current industry structure, and current trade patterns. In the second part, a base case scenario is developed, analyzed, and discussed; alternative scenarios are also analyzed and compared to the base case. The concluding section presents forecasts and discusses implications for the region.
+1.3 ITTO Trade Model
+Description
+The ITTO Asia-Pacific Tropical Timber Trade Model is a spatial partial equilibrium model with trade flows between producers and consumers explicitly represented. It is a "partial equilibrium" model in that the model finds the equilibrium point where supply equals demand for each product/period, without explicitly considering any interactions between the forest sector and other sectors of the economy. Commodities (logs, sawnwood, plywood/veneer) are produced in "supply regions" according to a supply equation; transformed based on technology defined by an input-output coefficient and a unit manufacturing cost; and finally consumed according to a demand curve in a "demand region." Short-term tropical log supplies are represented as supply curves with an upper bound.
+The model calculates the equilibrium solution by maximizing the sum of producer and consumer surplus (essentially the area under the supply and demand curves for each product, representing the aggregate value to producers/consumers of supplying/consuming a product) subject to material balance and capacity constraints in each region. The model solution provides the equilibrium quantities of all products produced, transported, and consumed in the various regions/countries, as well as the market clearing prices for these products in each period.
+The model was developed under the ITTO project Analysis of Macroeconomic Trends in the Supply and Demand of Sustainably Produced Tropical Timber From the Asia-Pacific Region, Phases I, II and III (ITTO 1993, 1995, 1996a).
+The model is based on the price endogenous linear programming (PELPS) system developed by Zhang et al. (1993). This system, which consists of a data entry module, model generator, solution software, and report writer, was modified substantially in Phase III of the project to enhance user friendliness and now runs using standard Windows software for the input-output modules.
+Rationale for using the ITTO Trade Model in this study
+As noted already in this section, the ITTO Trade Model is formulated with a high level of aggregation of commodities and a low resolution of economic processes. In its current state it is unlikely to produce insightful, let alone unexpected, forecasts.
+However, the model provides a framework for considering the interactions of its various inputs and assumptions, demonstrates their completeness and consistency, and quantifies their effects. In this way, the model is a valuable tool to help the analyst develop and communicate a complex forecast.
+<section>4</section>
+2. LOG SUPPLY
+2.1 Log Supply from Estate Crops and Plantations
+2.2 Current Sources of Supply
+2.3 Incremental Sources of Supply
+The log supply of the study region is perceived to largely determine the development of the forest products manufacturing industry and the evolution of forest products trade. The logs pertinent to this study are sawlogs and veneer logs utilized in the study area; fibre logs, which are appropriate for manufacturing pulp or reconstituted boards and panels, fall outside this study, except where the products manufactured from them may substitute for sawnwood or plywood panels.
+This section identifies the various log supplies likely to be available to the industry of the region during the 15-year period covered by this study. The relevant characteristics of each supply are described. For each supply region, a "base case" supply schedule is provided to identify potential rates of harvest during the study period.
+For this study, log sources include the natural forests of the region, estate crops, plantations, and imports, and are characterized as current or incremental sources of supply.
+Supply from the natural forests of the region
+The largest source of sawlogs and veneer logs in the study area is the hardwood trees of the natural forest.
+Supply from estate crops, plantations, and import
+In addition to the supply from the natural forest, sawlogs and veneer logs are recovered from the rotation of estate crops such as plantations of rubber trees or coconut; produced from industrial plantations (e.g., teak or fast-growing species); or imported (conifer logs) to the study area. All of these sources of supply are utilized currently, to some extent, in the study region.
+Current sources of supply
+Current sources of supply are sources that were producing sawlogs or veneer logs in 1995, the base year of the analyses supporting this study.
+Incremental supply
+Incremental sources of supply are sources that are not currently producing a significant volume of logs, but may do so under favourable economic conditions. This study considers four incremental supplies:
+� logs from improved utilization of the natural forest (i.e., smaller logs or logs obtained from lesser-utilized species)
+� logs from environmentally sensitive terrain using low-impact or aerial harvesting systems
+� logs from the improved recovery of rubberwood
+� increased exports of conifer logs into the region
+2.1 Log Supply from Estate Crops and Plantations
+2.1.1 Rubberwood
+2.1.2 Coconut Wood
+2.1.3 Plantations
+2.1.1 Rubberwood
+Rubberwood is recovered as a by-product from rubber estate replacement programs and is now a significant component of the tropical timber trade. However, it is not fully exploited as a log supply for manufacturing wood products.
+Utility
+Rubberwood can be used to manufacture furniture, plywood, glue-lam joints and building components, particle board, block board, wood cement board, and MDF. It can also be pulped, although its other uses are more profitable.
+Rubberwood can be used as substitute (principally for appearance values) for several species of the study region: ramin, meranti, sersaya, merbau, kapur, tangile, and teak. These species account for more than 75% of the volume of the region's timber trade.
+Rubberwood production from each supply region (Table 1) is determined by the extent of the rubber plantation estate, the estate ownership pattern, the available infrastructure, and the scarcity of industrial wood.
+Table 1 - Potential and reported supply of rubberwood
+Rubber estate area ('000 ha)
+Recovery of total potential sawlogs and veneer (%)
+Sawlog and veneer log production 1991 ('000 m^3)
+Indonesia
+Malaysia
+Thailand
+China
+Vietnam
+Source: ITC 1993
+Recovery of logs
+Although Indonesia supports the largest rubber estate, the rubber industry is concentrated in smallholder estates with poor infrastructure and a relatively low level of organization and participation in government replanting programs. Consequently, only 45% of Indonesia's potential production of rubberwood sawlogs and veneer logs is recovered. Malaysia and Thailand are also dominated by smallholders, but are better organized and have a developed infrastructure; hence, these countries recover 84% and 80%, respectively. In China and Vietnam, where the general level of development is lower than in Malaysia and Thailand, recovery is 85% and 95%, respectively, probably due to the scarcity of industrial wood.
+Delivered wood cost
+As rubberwood need not bear its full cost of production (it is a by-product of agricultural production) delivered wood costs are relatively low. However, sawnwood recovery is also low due to the small and irregular size of most rubberwood logs (Table 2).
+Table 2 - Rubberwood supply cost and sawnwood recovery
+Delivered log cost ($/m^3)
+Sawnwood recovery (%)
+Indonesia
+Malaysia
+Thailand
+China
+Vietnam
+na
+Source: ITC 1993
+Supply assumptions
+Rubberwood is part of the current supply of many of the supply regions examined in the study and is included in the base case supply schedule. However, projected improvements in the efficiency of rubberwood recovery are considered incremental and are represented as a separate incremental supply.
+2.1.2 Coconut Wood
+Although coconut wood is not generally part of the tropical timber trade, it is an important alternative source of local supply for countries with a significant coconut resource but limited current supplies of roundwood. Like rubberwood, coconut wood is a by-product of coconut production. Normally, coconut trees are sterile after 60-70 years and are then replaced.
+Utility
+Coconut wood differs structurally from tropical hardwoods and presents unique manufacturing difficulties, but it can be used for structural, joinery, furniture, and roundwood applications.
+Supply assumptions
+Significant volumes of coconut wood have been utilized for manufacturing traditional forest products in several Asia-Pacific countries including China and Indonesia, but coconut wood has been and will continue to be most utilized in the Philippines. The present coconut plantation estate in the Philippines is just over 3.1 million hectares (ha) and supports an average of 93 trees/ha. Typically at replacement, each mature tree will contain about 1 cubic metre (m^3) of utilizable wood and sawnwood recovery rates of about 40% are possible.
+Indonesia is the other Asia-Pacific country with a major coconut plantation estate, reported to be 3.3 million ha. Thailand also has a limited resource of 0.45 million ha.
+As coconut wood contributes little to sawlog and veneer log supply, it is not considered explicitly in this study, but is incorporated into the supply estimates for the Philippines and Indonesia.
+The wood from palm-oil trunks differs significantly from that of the coconut palm. Due to extensive resources of palm-oil in the region, the utilization of palm-oil fibre is being investigated.
+2.1.3 Plantations
+Sawlogs and veneer logs from plantations are a significant source of industrial wood in the Asia-Pacific region.
+Supply assumptions
+About 1.75 million ha of net industrial plantation existed in 1990 (FAO 1990). ITTO (1995) estimated that additional planting since 1990 had increased the total net area to at least 2.0 million ha. ^1 Indonesia had the largest share of the plantation estate (50%), followed by Vietnam (21%), Thailand (13%), Myanmar (8%), Malaysia (4%), and the Philippines (2%).
+^1 These net plantation area estimates were derived by factoring the reported plantation areas given in the FAO Assessment by the reported average 61 % survival rate developed in the companion FAO study on plantations.
+A considerable proportion of the industrial plantation estate has been established for fibre products such as pulp and paper, although it is also suitable for wood-based panels. Also, encroachment on existing plantations is a serious problem in many countries.
+This study assumes that significant volumes of sawlogs and veneer logs will be available only from Indonesia, with lesser volumes from the Philippines, before 2010; these volumes are considered "current sources" and are included in the base case supply for the appropriate supply regions.
+2.2 Current Sources of Supply
+2.2.1 Indochina - Cambodia, Laos, and Vietnam
+2.2.2 Indonesia
+2.2.3 Peninsular Malaysia
+2.2.4 Sabah
+2.2.5 Sarawak
+2.2.6 Myanmar
+2.2.7 Papua New Guinea
+2.2.8 Philippines
+2.2.9 Solomon Islands
+2.2.10 Thailand
+For each of the producer regions, a base case supply schedule of logs from current sources has been identified.
+2.2.1 Indochina - Cambodia, Laos, and Vietnam
+Assumptions
+Based on the assumptions of 17 million ha of productive forest land and an annual sustainable production rate of 1 m^3/ha, ITTO (1995) estimated a sustainable rate of harvest of 17 million m^3 annually for the region with an additional 9 million m^3 potentially available from virgin broad-leaved forest, principally in Cambodia. The ITTO study indicated that although the rate of harvest in Cambodia and Laos has the potential to increase considerably, current forest management, lack of infrastructure, and the lack of institutional capacity to expand this infrastructure will severely constrain this expanded harvest. The study also questioned whether the present rates of harvest in Vietnam are sustainable.
+Current sources
+In addition to the hardwood resource, the current sources of supply for the region include minor volumes of logs from industrial plantations and rubberwood recovery.
+Vietnam base case supply
+This study assumes that the rate of harvest for Vietnam will remain at the harvest level experienced in the five-year period from 1988 to 1992; a sawlog and veneer log harvest of about 3.0 million m^3 will be available from 1995 to 2010.
+Cambodia and Laos base case supply
+This study assumes that the rate of harvest from Laos and Cambodia will increase uniformly by 75% from 1995 to 2010. For Cambodia, the harvest is forecast to increase from 380,000 m^3 in 1995 to 690,000 m^3 in 2010; the harvest in Laos is forecast to rise from 440,000 m^3 to 780,000 m^3 over the same period.
+For Indochina in total, the harvest rate would increase approximately 20% to just over 4.4 million m^3 in 2010.
+2.2.2 Indonesia
+Assumptions
+Indonesia's forest lands are classified as production forest (42%), conversion forest (19%), or conservation and protection forest (39%). Conversion forests grow on lands identified for eventual conversion to higher use (usually agriculture). In most regions of Indonesia, conversion forest clearing will continue well into the next century.
+An analysis of long-term timber supply forecasts a harvest of 33.7 million m^3 in 1995 dropping only slightly to 32.8 million m^3 in 2010 (FAO and Ministry of Forests of Indonesia 1990). The supply from the natural production forest trends down from 21.6 million m^3 in 1992 to 20.2 million m^3 in 2010; supply from clearing the conversion forest will decline from 10.5 million m^3 in 1992 to 3.6 million m^3 in 2010 (and cease altogether around 2025). Note that the cessation of conversion operations is predicted by the government and may not, in fact, occur in the time-frame given.
+Current sources
+In addition to hardwood log supply from the production and conversion forests, the current timber supply of Indonesia includes sawlogs and peeler logs produced from plantations, recovered rubberwood, and logs produced by rural farms and gardens.
+Base case supply
+This study assumes that supply will decline from the reported level of 34.5 million m^3 in 1995 (ITTO 1996b) to 33.8 million m^3 in 2010.
+2.2.3 Peninsular Malaysia
+Assumptions
+Malaysia's policy is to limit the harvest from the production component of the permanent forest estate to 3.0 million m^3 annually; clearing of the conversion forest is largely complete.
+Current sources
+Current supply in Peninsular Malaysia includes sawlogs and veneer logs from plantations and rubberwood. ITTO (1993) estimated a long-term sustainable harvest of 3.87 million m^3 from the production forest with a short-term forecast of 8.6 million m^3 in 1995 declining to 6.4 million m^3 in 2010. The log supply in 2010 is forecast to consist of 3 million m^3 of logs from the natural forest, 2.3 million m^3 from rubberwood, and 0.9 million m^3 from plantations.
+Base case supply
+This study assumes an available harvest of 8.6 million m^3 in 1995 declining to 5.2 million m^3 in 2010. (The 1993 ITTO study included 3.4 million m^3 of fibre logs in its forecast for 2010.)
+2.2.4 Sabah
+Assumptions
+Based on a review of the available information, ITTO (1993) predicted that harvesting from Sabah's virgin forests (production forest and conversion forest) will likely end by 1998 and that the better selectively logged stands could sustain a cut of 5.0 million m^3 until 2003; logging the average- and lower-volume forests could sustain the cut through 2010. However, this level of supply is unsustainable under current management practices; the long-term sustainable supply was estimated at 1.97 million m^3.
+Current sources
+Sabah's current supply of sawlogs and veneer logs is obtained from the natural forest and from plantations of fast-growing species.
+Base case supply
+This study assumes an available harvest of 5.3 million m^3 in 1995, declining to 4.9 million m^3 in 2010.
+2.2.5 Sarawak
+Assumptions
+ITTO (1993) determined that, from 1992 to 2003, a harvest of 9.2 million m^3 from the permanent forest estate and 7.4 million m^3 from the clearing of conversion forest should be decreased gradually to 6.3 million m^3 and 7.3 million m^3, respectively. Harvesting from the conversion forest would then decrease to 3.1 million m^3 from 2004 to 2010.
+ITTO (1993) noted that this harvest schedule is unsustainable in the long term, and that under current management practices, the long-term sustainable supply was only 6.5 million m^3. However, a subsequent ITTO mission to Sarawak found the sustainable yield level of the permanent forest estate to be 9.2 million m^3.
+Current sources
+The current timber supply of Sarawak is obtained entirely from the production forest in the permanent forest estate or from the clearing of conversion forest.
+Base case supply
+This study assumes that the supply of sawlogs and veneer logs from current sources (production and conversion forests) will decline from 12.3 million m^3 in 1995 to 8.8 million m^3 in 2010.
+2.2.6 Myanmar
+Assumptions
+The total productive forest area of Myanmar is 23 million ha. An annual growth rate of 1 m^3/ha (the regional sustainable average AAC) would produce an annual harvest of over 23 million m^3. However, any expansion of the harvest will require corresponding improvements in infrastructure.
+Current sources
+The current log supply of Myanmar includes industrial plantations (mostly teak) and recovered rubberwood.
+Base case supply
+This study assumes that the present rate of sawlogs and veneer logs harvested will increase uniformly from the reported level for 1995 (ITTO 1996b) of 1.1 million m^3 in 1996 to 8.4 million m^3 by 2010.
+2.2.7 Papua New Guinea
+Assumptions
+Papua New Guinea has one of the largest and most valuable blocks of virgin forests remaining in Southeast Asia and has significant potential for expanding the harvest. The forest resource is as yet relatively untouched, and the demands for local consumption are low. About 90% of the average log harvest is exported as logs; 3.0 million m^3 was exported in 1995 (ITTO 1996b).
+Of the total forest land area of 36.4 million ha, approximately 15 million ha Is considered operable at this time. The remainder is inaccessible for economic or environmental reasons. ITTO (1993) estimated an annual sustainable harvest of 15 million m^3 in the long term, based on a conservative estimate of annual growth on the operable area of 1 m^3/ha. Institutional constraints including forest land tenure and industrial organization (discussed in the section of this report Factors Influencing the Pattern of Industrial Development and Trade) will slow development of this resource.
+Current sources
+The current source of supply of sawlogs and veneer logs III Papua New Guinea is the natural hardwood forest.
+Base case supply
+This study assumes that the supply of sawlogs and veneer logs will remain constant at the 1995 reported level of 3.0 million m^3 (ITTO 1996b) from 1995 to 2010.
+2.2.8 Philippines
+Assumptions
+The Luzon pine forests produce approximately 150,000 m^3 of sawlogs annually. The annual production is 1 million m^3 from the residual Dipterocarp forest and approximately 150,000 m^3 of sawlogs from the Luzon pine forests. Under current practices, the only improvement forecast for Philippine supply over the planning period is an increase in sawlog production from existing plantations.
+ITTO (1995) estimated the long-term sustained yield from current sources to be 2.5 million m^3, assuming that the residual Dipterocarp forest could sustain a long-term annual harvest of 1.1 m^3/ha and sawlog supply from the plantations could be expanded.
+Current sources
+Current sources of log supply in the Philippines are the previously logged Dipterocarp forest, pine forests, plantations of fast-growing hardwoods, and the rotation of estate crops (rubberwood and coconut).
+Base case supply
+This study assumes that the harvest will increase from its reported level in 1995 of 614,000 m^3 to 1.65 million m^3 in 2010, based on an increase in sawlog production from existing plantations.
+2.2.9 Solomon Islands
+Assumptions
+Based on preliminary results from a new national forest inventory, ITTO (1995) estimated that the Solomon Islands has 860,000 ha of productive forest land and an industrial plantation estate of about 25,000 ha. Estimated harvestable volume from the natural productive forest is about 17 m^3/ha, which is less than 30% of the estimated total volume of about 60 m^3/ha. A cutting cycle of 35-40 years was also assumed.
+ITTO (1995) also estimated the sustainable harvest to be 325,000 m^3 which is very close to the reported production levels of recent years (330,000 m^3 for 1990-1994) (FAO 1996). Given the probability of strong future log export markets, the actual harvest could be higher and closer to the levels reached in the early 1980s (435,000 m^3).
+Base case supply
+For this study, a compromise annual harvest level of 400,000 m^3 was assumed for the 1996-2010 period.
+2.2.10 Thailand
+Assumptions
+ITTO (1995) estimated a long-term sustained yield of 7.5 million m^3 based on achieving annual growth rates of 1.5 m^3/ha on 5 million ha of natural production forest. However, in 1995, the reported production from the natural forest was only 30,000 m^3 (ITTO 1996b), while ITC (1993) forecast the production of sawlogs and veneer logs from rubberwood to be 1.64 million m^3.
+Current sources
+Current sources of supply of sawlogs and veneer logs in Thailand include the natural forest, industrial plantations (mainly teak and Eucalyptus), farm woodlots, and log recovery from rubber plantations.
+Base case supply
+This study assumes that harvests from current sources will remain near their reported rate in 1995 of 1.67 million m^3 until 2010.
+2.3 Incremental Sources of Supply
+2.3.1 Improved Utilization
+2.3.2 Low-impact Harvesting Technology
+2.3.3 Conifer Logs
+Incremental sources of supply are sources that are not currently producing a significant volume of logs, but may do so under favourable economic conditions.
+2.3.1 Improved Utilization
+Considerable potential exists for increasing the wood supply in the Asia-Pacific region through better utilization of forest residuals and of commercially less-accepted species. Recent forest utilization studies by ITTO and FAO indicate that almost 50% of the volume in felled trees is not extracted and utilized, and that only about 26% of the standing volume in harvest areas was felled.
+Supply assumption
+ITTO (1995) estimated that a 25-50% increase in supply would be physically possible across the region. Note that much of this additional supply will be unsuitable for manufacturing traditional solid-wood products such as lumber and plywood. Based on studies and work in other regions, the incremental cost could be as much as 50% more than present delivered wood costs, depending on the proportion of residuals utilized.
+Incremental supply
+This study assumes that improving utilization will create an incremental supply of sawlogs and veneer logs, beginning in 1995, that will peak at 25% of current supply by 2010. The delivered wood cost for the incremental supply is estimated to be 25% above the cost of current supply.
+It was further assumed that an incremental supply of fibre logs equivalent to 25% of the current supply could be developed at an incremental cost of 50%. These fibre logs would be suitable for the manufacture of wood-based panels or other fibre-based products. As with the incremental sawlog and veneer log supply, this supply is forecast to become available gradually and to be fully developed by 2010.
+2.3.2 Low-impact Harvesting Technology
+New harvesting technology, including aerial (helicopter and various skyline cable systems) and high flotation/low ground pressure systems, allows the removal of timber from steep and environmentally sensitive sites - which are now excluded from commercial timber production. These systems will also decrease the environmental impact on less sensitive sites by reducing soil compaction and damage to the residual stand, and the density of truck roads.
+Delivered wood costs
+The total delivered wood costs associated with these systems may be 25-50% more than present methods; require a more highly trained work force; are capital intensive; and may be limited in their application by weather and ground profile.
+Indonesia, Malaysia, and Papua New Guinea have significant areas of forest on sensitive sites which would be suitable for application of this new technology. ITTO (1995) estimated that Indonesia and Papua New Guinea could each sustain a harvest of 20 million m^3 from these sensitive areas.
+Incremental supply
+This study assumes a potential increment of sawlog and veneer log supply of 5 million m^3 for Indonesia and Papua New Guinea, and 2.5 million m^3 for Malaysia, at an average harvesting cost 50% above the cost of current log sources. This supply is forecast to become available gradually and to be fully developed by 2010.
+2.3.3 Conifer Logs
+Russia
+Traditionally, the flow of logs from Russia to the study area has been primarily to Japan, averaging 4.6 million m^3 (all grades) between 1991 and 1994, plus small volumes to the Republic of Korea. Japan and the Republic of Korea are showing increasing use of Russian logs for manufacturing plywood.
+This study assumes that the supply of conifer sawlogs and veneer logs from Russia will increase from 1.0 million m^3 in 1995 to 5.0 million m^3 in 2010.
+Australia, New Zealand and Chile
+In recent years, New Zealand, Chile, and, to a lesser extent, Australia have supplied conifer logs - which are employed as substitutes for tropical timber - into the study region. This supply is expected to increase steadily through the planning horizon of this study as most of it originates from plantations (especially New Zealand and Chile) that are managed for solid-wood products on 20-30 year rotations and, hence, already exist.
+For the 1990-1992 period, average conifer log export values were $56/m^3 for New Zealand and $48/m^3 for Chile.
+ITTO (1995) estimated that supply in excess of domestic consumption would rise from 20 million m^3 in 1995 to 35 million m^3 in 2010 (New Zealand and Chile). The same study found that Australia is unlikely to contribute additional conifer logs suitable for sawing or peeling (Table 3).
+Table 3 - Incremental supply of conifer logs available to the Asia-Pacific region
+Volume ('000,000 m^3)
+Australia
+New Zealand
+Chile
+Total
+Source: ITTO 1995
+This study assumes that the incremental supply of conifer logs available to the study region will rise from 1.75 million m^3 in 1995 to 7.0 million m^3 in 2010.
+<section>5</section>
+3. DEMAND FOR TROPICAL TIMBER PRODUCTS
+3.1 Forecasting Product Consumption
+3.2 Substitution
+The study of forest industry structure and trade - as well as consideration of how these aspects of the sector might evolve - requires an understanding of how the region's consumers respond to price changes in tropical timber products; of how the availability and prices of substitute products will change; and of how these responses might change over time.
+3.1 Forecasting Product Consumption
+Consumer demand for a product usually varies inversely with its price; the relationship between the quantity consumed and its price is the demand schedule, or curve. The demand curve for a product in a region is characterized by its own-price elasticity, which quantifies the change in demand relative to a change in price. This curve may shift over time in response to income growth or other factors. An end-use elasticity quantifies the rate of shift as a function of these variables. Changes in the prices of substitute goods also shift the demand curve.
+Note that in Table 5, all the own-price elasticities for sawnwood and plywood are less than 1 (in absolute value) and the elasticities for Japan and the Republic of Korea, both major consumers of tropical timber products, are quite low (e.g., 0.18 for plywood in Japan). Empirical studies suggest that the own-price elasticities of demand for tropical timber are generally low (i.e., consumers do not respond dramatically to price changes) (Barbier et al. 1994).
+To compare aggregate consumption forecasts with other published sources, the countries of the study region were grouped into four categories according to their resource endowment and degree of economic development (Table 4; after Jacques 1996).
+Table 4 - Average annual growth of consumption to 2010
+Group
+Category
+Country
+Growth rate to 2010 (%)
+I
+Less developed, importers
+China, Hong Kong, Philippines, Singapore, Thailand
+II
+Less developed, exporters
+Cambodia, Indonesia, Laos, Malaysia, Myanmar, PNG, Solomon Islands, Vietnam
+IV
+More developed, importers
+Japan, Korea, Taiwan Province of China
+Country assignments as per Jacques (1996). No category III countries (more developed, exporters) are located in the region.
+The aggregate annual growth rate estimated for the Asia-Pacific region is 2.8%. Globally, for wood products, Jacques (1996) forecasts 1.7%, and the FAO (1995) forecasts 2.7%.
+Table 5 - End-use growth and elasticity assumptions for plywood/veneer and sawnwood demand
+Growth rate (%)
+Own-price elasticity
+Producer countries
+Plywood/Veneer
+Cambodia
+Indonesia
+Laos
+Myanmar
+Pen. Malaysia
+Philippines
+Papua New Guinea
+Sabah
+Sarawak
+Solomon Isl.
+Vietnam
+Sawnwood
+Cambodia
+Indonesia
+Laos
+Myanmar
+Pen. Malaysia
+Philippines
+Papua New Guinea
+Sabah
+Sarawak
+Solomon Isl.
+Vietnam
+Consumer countries
+Plywood/Veneer
+China
+Hong Kong
+Japan
+Rep. Of Korea
+Singapore
+Taiwan
+Thailand
+Sawnwood
+China
+Hong Kong
+Japan
+Rep. Of Korea
+Singapore
+Taiwan
+Thailand
+3.2 Substitution
+Tropical timbers and their products have three broad categories of substitutes:
+� raw materials that supply the same or equivalent products
+The incremental sources of supply identified in the first section of this paper (plantation logs, logs resulting from improved utilization and low-impact harvesting technology, estate crops, and conifers) are substituted raw materials.
+� raw materials that will provide fibre for substitute products
+Fibre for substitute products is also available from small-log supply components of plantations, estate crops, thinnings, and improved utilization. Reconstituted boards and panels are the most relevant substitute product from this category.
+� substitute products
+Substitute products include softwood lumber and veneer, reconstituted panel products, and non-wood products. Reconstituted panel products are of growing interest in the region.
+Oriented strand board (OSB) is a potential substitute for some grades of structural plywood.
+Medium-density fibreboard (MDF) is accepted in Asia with many plants using rubberwood and plantation species. MDF can substitute for plywood and can also replace sawnwood in applications such as mouldings, door parts, and various interior millwork items.
+Particleboard is widely used in Europe for many applications such as furniture and construction flooring. The focus of new investment in the region is currently on MDF, with the possibility of significant growth in particleboard.
+Another substitution process underway in the sector is technological change at the consumer level, where consumers accept - or seek - a new concept or style of structure that serves a traditional function. The structural components may be fabricated with other materials (e.g., steel or concrete), and wood is used only for appearance.
+Following ITTO (1995), this study assumes that substitution processes will reduce the demand for traditional products in the region, replacing the consumption of 30.5 roundwood equivalent (RWE) million m^3 of plywood and 11.7 RWE million m^3 of sawnwood over the study period (1995-2010). This substitution is incorporated into the ITTO Trade Model by reducing demand rather than by modelling the process directly with cross-price elasticities.
+<section>6</section>
+4. INDUSTRY STRUCTURE AND TRADE
+4.1 Current Industry Structure
+4.2 Current Trade Flows
+4.3 Factors Influencing the Pattern of Industrial Development and Trade
+4.1 Current Industry Structure
+4.1.1 Overview
+4.1.2 Logging Sector
+4.1.3 Sawmilling Sector
+4.1.4 Veneer Sector
+4.1.5 Plywood Sector
+4.1.1 Overview
+Over the past decade, the manufacture of tropical timber products has shifted from the consumer countries (especially the Republic of Korea and Japan) to the major producers (Malaysia and Indonesia), due to increasing production costs in the consumer countries, improved manufacturing efficiency and product quality in the producer countries, and restrictions on the trade of tropical logs.
+Table 6 describes the structure of the forest industry for the major producer countries in 1995. Malaysia and Indonesia have the largest forest sectors by far; together, these two countries account for 94% of the installed capacity of sawmills and 98% of the installed capacity for plywood production.
+Table 6 - Forest industry structure in ITTO producer countries in 1995
+^a Enterprise and installed capacity figures for Indonesia are 1994 figures.
+^b Number of enterprises, installed capacity, and employees of veneer mills include those of plywood mills.
+^c Installed capacities of sawmills and plywood mills have been adjusted from ITTO figures.
+^d Number of employees of logging include those of sawmills.
+Source: ITTO 1996b
+4.1.2 Logging Sector
+The major tropical log producers of the study region are Malaysia, Indonesia, and Papua New Guinea, contributing 92% of the log supply of the region. The remaining tropical log production is from Myanmar, Vietnam, the Philippines, Cambodia, Laos, and the Solomon Islands.
+Indonesia
+The logging sector of Indonesia features a mixture of government and private ownership and management. The Ministry of Forests administers all forest land, owns several mills and approximately 1 million ha of plantations (mainly teak), and operates logging concessions. These concessions are licences granted to organizations specifying a geographic area on which harvesting will occur, the rate of harvesting, and other management obligations. In 1979, 579 concessions in Indonesia covered 60.4 million ha, with roughly two-thirds of their AAC controlled by 10 private Indonesian organizations (ITTO 1993).
+Contractors most often execute Indonesian concession logging. Separate contractors are often used for logging and log transport, and are paid on a unit-volume basis.
+Malaysia
+As in Indonesia, forest harvesting in Malaysia is controlled by awarding concessions.
+In Peninsular Malaysia, a few large-area, long-term agreements have been issued to partially or wholly state-owned integrated operations; more recent licences are small and short term.
+Approximately 3 million ha of the total land base of Sabah (7.3 million ha) is controlled and supervised by the Sabah Forestry Department. Most of these lands are allocated to concessions with a variety of durations and ownerships. The remainder is managed on long-term agreements with several state agencies and two corporations which are partially or wholly state-owned.
+Sarawak has roughly 8.8 million ha in forest licences, with about two-thirds of the area managed under long-term (5-25 year) agreements. At present, approximately 12 operators hold concessions.
+Papua New Guinea
+The forest land base of Papua New Guinea is almost entirely (98%) owned under customary law by local clans. Subject to the agreement of the clan, the state establishes forest management agreements with logging enterprises. These agreements specify conditions of access, harvesting, and management, as well as monetary benefits to the owners. The objective of the forest management agreements is to bring large contiguous forest areas under long-term management. The logging sector is comprised of 40 foreign-owned companies.
+Minor producers
+The logging and management of Myanmar's forests are the responsibility of a single state enterprise. In the early 1990s, logging concessions in the Philippines were reduced substantially by cancelling licences, due to overcutting; by late 1992, only 42 concessions operated in the country. Cambodia has reported that an Indonesian group has been awarded a 50-year concession covering 1.43 million ha. Otherwise, the institutional arrangements of the logging sectors of the remaining minor producers of the region (Vietnam, Cambodia, Laos, and the Solomon Islands) are unknown to this study.
+Producing consumers
+Two ITTO consuming countries, Australia and China, produce significant volumes of tropical logs (700,000 m^3 in 1995); this supply is consumed almost entirely domestically.
+4.1.3 Sawmilling Sector
+Total tropical sawnwood production for the study area has trended down since 1992, reflecting the move to further processing in producer countries and log shortages in consumer countries. Figure 1 shows the production of tropical sawnwood in 1993-95 for the ITTO member countries of the region. The major producers (Malaysia, Indonesia, and Japan) account for 88% of the region's tropical sawnwood.
+Malaysia
+Malaysia is the largest producer of sawnwood in the Asia-Pacific region and the world, but its production is falling due to the diversion of scarce logs to veneer and plywood mills. Peninsular Malaysia's decision to phase out sawnwood exports (in favour of more manufacturing) by 2000 will result in further decreases in production. Peninsular Malaysia has an extensive kiln drying and secondary processing industry which manufactures mouldings and furniture parts.
+Indonesia
+Indonesia ranks second in the region in the production of tropical sawnwood and is reducing production for reasons similar to those of Malaysia - scarce sawlogs are being diverted to plywood mills. Few sawmills have processing equipment suitable for small-diameter trees, but increasing scarcity of larger timber has heightened interest in the processing of small wood.
+Japan
+Tropical hardwoods are a minor proportion of Japan's sawnwood industry, and have declined steadily for two decades due mainly to the substitution of softwood lumber (largely from North America). Restrictions on the export of tropical logs has accelerated this trend.
+Other minor producers
+The Republic of Korea, China, Taiwan Province of China, Thailand, and the Philippines produce the remaining 12% of the region's sawnwood for domestic consumption.
+Figure 1 - Production of sawnwood, 1993-95
+4.1.4 Veneer Sector
+Veneer is used for manufacturing plywood and laminated veneer lumber. Most manufacturers use the veneer on site to make plywood; the volumes traded or used for laminated veneer lumber are small relative to the volume of traded plywood. However, plywood producers may purchase veneer to obtain small runs of species that would be uneconomic to peel in their facilities or to obtain a higher quality veneer for appearance surfaces.
+Malaysia
+Malaysia manufactures significant volumes of veneer for export or secondary manufacturing; it is the dominant producer of veneer in the study region with 78% of the total production in 1995.
+Japan
+Japan's share of production was 7% in 1995, with production dropping steadily over the decade, due to declining log availability.
+Taiwan Province of China, Thailand, and the Philippines are also significant producers of veneer, although production in Thailand and the Philippines is only 20% and 24%, respectively, of their 1992 levels, again due to declining log availability.
+4.1.5 Plywood Sector
+The production of tropical plywood has remained relatively constant since 1992, with reductions in Japan (4% of regional production) and Indonesia (5% of regional production) being offset by increases in Malaysia (11% of regional production).
+Indonesia
+Indonesia is the lead producer of plywood in the region but has reduced production since 1993 due to scarcity of logs.
+Malaysia
+Malaysia has increased plywood production throughout the decade and exceeded Japan's production for the first time in 1995. Logs previously exported as sawnwood and veneer from Sabah and Sarawak have been diverted to plywood mills.
+Japan
+Japan's tropical plywood production has nearly halved since 1991, reflecting the declining availability of tropical veneer logs. Japanese plywood manufacturers are steadily increasing the proportion of softwoods used in plywood production, and implementing technological innovations to re-use concrete form ply (the largest use of tropical hardwood plywood in Japan). These substitutions in Japan and other consuming countries will ensure the continued decline in plywood manufacture.
+Korea
+The Republic of Korea produced about 4% of the total tropical plywood of the region in 1995. Production levels have dropped by 29% since 1991 (the year of highest production) due to restrictions on tropical log exports from Malaysia.
+Figure 2 - Production of plywood, 1993-95
+4.2 Current Trade Flows
+4.2.1 Logs
+4.2.2 Sawnwood
+4.2.3 Veneer
+4.2.4 Plywood
+The dominant historical trade pattern of the region was the flow of hardwood logs from the southern producing countries to the northern consuming countries, primarily Japan, Taiwan Province of China, and the Republic of Korea. The current pattern of log trade has been shaped by restrictions on log flows from producer countries to consumer countries, where manufacturing has until recently been concentrated. The study region is rapidly replacing log exports with the export of processed products.
+Figures 3,4, and 5 show the relative volumes of imports and exports of logs, sawnwood, and plywood, respectively, for each country in the Asia-Pacific region in 1995. Impediments to trade in the region are listed in Table 7. ^2
+^2 Tariffs and trade barriers as reported via the ITTO (1996b) questionnaire Forecasting and Statistical Enquiry Table 7 may be incomplete due to non-reporting.
+4.2.1 Logs
+Indonesia
+Indonesia replaced log export bans with levies in 1993, but their magnitude (from $500/m^3 to $4500/m^3) continues to ensure that few logs are legally exported. Nonetheless, some countries reported substantial imports of Indonesian logs in 1994 and 1995 (ITTO 1996b).
+As of 1996, Indonesia is allowing the log imports as a short-term means of coping with a shortage of raw materials for the wood-based industries. To prevent illegal trading, imported logs must not come from neighbouring countries such as Papua New Guinea or Malaysia.
+Malaysia
+Log exports are banned from Peninsular Malaysia. In 1995, Sarawak restricted log exports to 60% of its harvest; this is scheduled to drop to 50% by 2000. Sabah plans to allow up to 2 million m^3 (one-third of its harvest) for export after a temporary three-year ban designed to ensure sufficient raw material for local industries.
+Peninsular Malaysia imported logs from Indonesia and Papua New Guinea in 1995.
+Papua New Guinea
+Papua New Guinea is the second largest exporter of logs to the region, after Malaysia, and obtains significant revenue from an average 13% FOB price export tax. Current government policy is to reduce log exports by 10% per year from 1995 to 2000, after which a ban will be imposed. However, a recent consultant's report (PNG Forest Authority 1996) casts doubt on the feasibility of this policy, as the domestic manufacturing industry is considered too inefficient to compete in the region's export markets.
+For 1995, Papua New Guinea reports a 30% import tariff on logs.
+Japan
+Japan imports the largest volume of logs in the Asia-Pacific region, but this volume decreased by 13% in 1995 and will decrease substantially over the next few years as exportable logs become scarce. In response to this scarcity in the study region, imports from Africa increased until 1994, but are now dropping as African countries have tightened their export controls.
+China and Taiwan Province of China
+China and Taiwan Province of China are the second largest importers of tropical logs in the study region. China reports a 3% import tax and 17% value-added tax (VAT) on logs.
+Other major importers
+The Republic of Korea is also a major consumer of logs, followed in order of volume by Thailand and the Philippines. Korea imposes a 2% import tariff.
+Rest of the world
+Imports into the region from the rest of the world (principally Africa) are substantial, while most logs exported from the region are destined for India.
+Figure 3 - Tropical log trade, 1995
+Table 7 - Tropical timber trade barriers of ITTO countries of the study region, 1995
+Countries
+Logs
+Sawnwood
+Veneer
+Plywood
+Exports
+Indonesia
+$500-4500/m^3
+$250-2400/m^3
+Malaysia
+Pen. Malaysia
+ban
+ban by 2000
+Sabah
+max. 2 million m^3
+Sarawak
+max. 60% to 1999
+Philippines
+Papua New Guinea
+13% (ban in 2000)
+Imports
+Indonesia
+partial ban
+Malaysia
+25% (face ven. free)
+Papua New Guinea
+China
+3% (17% VAT)
+6% (17% VAT)
+20% (17% VAT)
+20% (17% VAT)
+Japan
+15% (5% in 1999)
+17-20% (8.5-10% in 1999)
+Republic of Korea
+VAT value-added tax;
+Source: ITTO 1996b
+4.2.2 Sawnwood
+Malaysia
+Although Malaysia currently dominates the trade in tropical sawnwood, exports fell in 1995 and 1996 due to diversion of log supply to plywood production and other secondary processing. ^3 Sawnwood export is approximately evenly distributed between Peninsular Malaysia, Sabah, and Sarawak. Malaysia's major sawnwood customers in 1994-95 were all in Asia (Thailand, Japan, Taiwan Province of China, and the Republic of Korea).
+^3 Revenue from manufacturing mouldings is approximately double (per m^3) the revenue derived from lumber (Western Canadian Wood Machinery and Services Export Association 1996).
+In 1995, Malaysia also reported importing 0.4 million m^3 of sawnwood, primarily from Indonesia and the Philippines.
+Peninsular Malaysia intends to ban sawnwood exports by 2000, in response to anticipated reductions in timber supplies due to stricter management standards, and to facilitate further value-added processing within the country.
+Indonesia
+Indonesia is currently the second largest exporter of sawnwood in the study region and levies substantial export charges, ranging from $250/m^3 to $2400/m^3.
+Thailand
+Thailand imports the largest volume of sawnwood in the study region, driven by the country's rapidly expanding economy and large furniture and secondary processing industries. Thailand's sawnwood imports are primarily from Malaysia.
+Other major importers
+Japan, China, Taiwan Province of China, and the Republic of Korea are the other major importers of softwood in the study region. China collects a 6% import tariff and a 17% VAT on imported sawnwood, and Korea imposes a 5% import tariff.
+Rest of the world
+Imports of sawnwood to the region (primarily to Japan and the Philippines) totalled 1.1 million m^3 in 1995, and exports from the region were 1.6 million m^3, primarily to countries of the European Union.
+Figure 4 - Tropical sawnwood trade, 1995
+4.2.3 Veneer
+The volume of veneer trade is quite small compared to plywood.
+Malaysia
+Malaysia is the dominant exporter of veneer, shipping 91% of the volume of the study region. Malaysian veneer exports are primarily directed to China, Taiwan Province of China, and Japan.
+Other exporters
+The Philippines, Indonesia, and Taiwan Province of China contribute the remaining export volume.
+China
+China is the largest importer of veneer, primarily to sustain its own plywood industry. Veneer imports face a 20% import tax and a 17% VAT.
+Other importers
+Taiwan Province of China and the Republic of Korea are also significant importers of veneer. Japan charges a 5% tariff on veneer imports.
+4.2.4 Plywood
+Indonesia
+Indonesia is the major exporter of plywood in the region, accounting for 70% of the region's exports in 1995. Indonesia exports plywood primarily to Japan, China, and the Republic of Korea, although the proportion of its exports shipped to these countries has dropped since 1992, due to increased exports to the United States and the European Union.
+Malaysia
+Malaysia is Indonesia's major competitor in the tropical plywood trade, and accounted for 29% of the plywood exports of the study region in 1995. Sabah and Sarawak exported 42% and 46%, respectively, of Malaysia's total plywood exports. Malaysia exports plywood chiefly to Japan, China, Taiwan Province of China, Singapore, and Hong Kong.
+Malaysia discourages the import of plywood with a 45 % import tariff. Veneer also faces a 25 % tariff, although face veneers are imported free of tariff.
+Figure 5 - Tropical plywood trade, 1995
+Japan
+Japan is the largest importer of tropical plywood in the study region and is replacing domestic plywood production with imported plywood (tropical and non-tropical) and substitutes such as OSB and MDF. In 1995, plywood faced an import tariff of 17-20%.
+Other importers
+China, Taiwan Province of China, and the Republic of Korea are all substantial importers of tropical plywood. China imposes a 20% import tariff and a 17% VAT, while the Republic of Korea levies an 8% import tax.
+4.3 Factors Influencing the Pattern of Industrial Development and Trade
+4.3.1 Natural Forest Supply Restrictions
+4.3.2 Barriers and Incentives
+4.3.3 Demand Growth
+The industry structure and trade from 1995 to 2010 will be shaped largely by restrictions in producer countries on the supply and export of logs from the natural forests, growth in domestic demand for forest products, and the expansion of wood processing and secondary manufacturing. Consuming countries will face a scarcity of logs for processing and the increasing availability and acceptance of substitute products.
+4.3.1 Natural Forest Supply Restrictions
+Indonesia and Malaysia
+Indonesia and Malaysia, the dominant producers of tropical hardwood logs from the natural forests of the region, are currently harvesting at, or above, their sustained yield limit. Timber supply from the clearing of the conversion forests of Indonesia and Sarawak is scheduled to decline to about one-third of its current level by 2010. Additional timber will only be harvested at steeply higher cost from areas currently deemed inaccessible for economic or environmental reasons or by recovering and utilizing less desirable fibre.
+Papua New Guinea
+Papua New Guinea alone has substantial potential for expanding its harvest. However, the traditional clan-based ownership of the forest land base, which contributes to uncertainty about access to timber, will slow resource development. High labour and other operating costs, plus an inefficient processing industry, also discourage log production.
+Myanmar and Indochina
+While Myanmar, Cambodia, Laos, and Vietnam have considerable potential for increasing log supply from their natural forests, all suffer from a lack of infrastructure, a lack of institutional capacity to develop this infrastructure, and political and economic environments that discourage investment.
+4.3.2 Barriers and Incentives
+Although normal market forces are inducing the relocation of processing capacity from consumer countries to producer countries, this shift has been modified by trade barriers and investment incentives.
+Indonesia
+Indonesia discourages the export of logs by imposing high tariffs, to ensure a raw material supply for its sawnwood and plywood industries. The export of sawnwood is also discouraged with substantial tariffs, to encourage further processing and to meet domestic demand for lumber.
+The Indonesian plywood manufacturers are organized into the Indonesian Wood Panel Association (APKINDO), which monitors quality, influences pricing, and controls exports through quotas. While this organization has contributed greatly to the present dominance of Indonesia in tropical plywood markets, it has recently being cited as a significant source of marketing overhead in the highly competitive plywood market.
+MDF and OSB are not restricted under quotas set out by APKINDO, and with the prospect of the future timber supply yielding smaller logs, the manufacture and export of these plywood substitutes appear attractive.
+Indonesia no longer has specific tax incentives encouraging investment in the sawmilling or plywood industries, due to log supply limitations. However, ITTO (1996b) reports that Indonesia was considering the use of new fiscal, monetary, and administrative policies for selected labour-intensive industries, including furniture manufacturing.
+Malaysia
+Peninsular Malaysia bans the export of logs, while Sabah and Sarawak restrict exports and plan progressively tighter restrictions through 2010.
+Sawnwood exports from Peninsular Malaysia are scheduled to be banned by 2000 in favour of further processing, primarily wood mouldings and furniture. While the import of veneer and plywood is discouraged by tariff, the import of face veneer has no trade barriers.
+Malaysia presents an attractive investment environment and actively promotes foreign-domestic joint ventures. The level of foreign equity in a joint venture is tied to the proportion of the output that is exported. The domestic equity is subject to policies designed to include Bumiputeras (indigenous Malay peoples).
+Papua New Guinea
+Papua New Guinea is encouraging domestic processing by requiring that 20% of each licensee's harvest be directed to this processing and through an export tax on logs, but the country is hampered by an unattractive investment climate. The domestic processing requirement is perceived as expensive, ineffective, and inefficient. The distribution of returns from log exports is currently contentious and forest policy is considered unstable.
+Myanmar and Indochina
+The major barriers to expansion of the logging and processing sectors of Myanmar, Cambodia, Laos, and Vietnam are the lack of infrastructure, lack of institutional capacity to develop this infrastructure, and political and economic environments that discourage investment.
+Japan
+In 1996, Japan collected a 15% tariff against veneers, to be reduced to 5% by 1999. In the same year, a tariff rate of 17-20% was levied against plywood imports, (which is to be reduced to 8.5-10% by 2000).
+Republic of Korea
+Import tariffs are levied against logs (2%), sawnwood (5%), veneer (5%), and plywood (8%).
+The Republic of Korea has an active program to support and encourage investment by its nationals in foreign markets. Southeast Asia has benefitted from these investments, although forestry and forest products manufacturing represent a relatively small share.
+4.3.3 Demand Growth
+Differential demand growth
+In the less developed countries of the study region, the demand for timber products, driven by population and income growth, will increase at a faster rate than in the more developed consumer countries. Products currently exported will be increasingly diverted to domestic consumers.
+However, demand for wood products in the consumer countries will continue to grow, and will be filled partly by substitutes.
+Japan's economic recovery
+Japan's deep recession of the early part of the 1990s dampened the economies of the region and suppressed demand. The recovery of the Japanese economy now seems well established, and the region should resume its normal pattern of growth in demand for wood products.
+China
+Although China is already importing significant quantities of logs, sawnwood and plywood, its huge potential demand for processed wood products is not likely to develop until well into the first decade of the next century. In the short term, concerns about inflation and a shortage of hard currency will prevent China from widely expanding its imports of wood products. In the longer term, ongoing scarcity of foreign exchange and the desire to maximize domestic processing will likely limit demand.
+Substitution
+Substitution as part of the demand process (described in an earlier section), can be expected to substantially dampen demand growth in the Asia-Pacific region. OSB is gaining acceptance as a substitute for some grades of plywood in the region, and MDF capacity in the region has expanded greatly since 1994. The low costs of producing MDF will suppress plywood prices, at least in the short term, and the growth in supply of OSB may erode these prices further.
+Non-wood substitutes are also gaining ground in the region. In Thailand, flooring and other housing components are being constructed of concrete and steel as low-cost wood has become scarce.

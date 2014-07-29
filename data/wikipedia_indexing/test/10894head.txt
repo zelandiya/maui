@@ -1,0 +1,50 @@
+
+   A Safe, Efficient Regression Test Selection Technique1
+   
+   
+   Abstract
+   Regression testing is an expensive but necessary maintenance activity
+   performed on modified software to provide confidence that changes are
+   correct and do not adversely affect other portions of the software. A
+   regression test selection technique chooses, from an existing test
+   set, tests that are deemed necessary to validate modified software.
+   Most regression test selection techniques depend on a particular test
+   adequacy criterion or require prior knowledge of where code has been
+   modified. We present a new technique for regression test selection
+   that is neither adequacy-based, nor requires prior knowledge of
+   modifications. Our algorithms construct control flow graphs for a
+   procedure or program and its modified version, and use these graphs to
+   select tests, from the original test set, that execute changed code.
+   We prove that under certain conditions, the set of tests our
+   algorithms select includes every test, from the original test suite,
+   that can expose faults in the modified procedure or program. Thus,
+   under these conditions, the algorithms are safe. Moreover, although
+   our algorithms may select some tests that cannot expose faults, they
+   are at least as precise as other safe regression test selection
+   algorithms. Unlike many other regression test selection algorithms,
+   our algorithms handle all language constructs, and all types of
+   program modifications. We have implemented our algorithms; initial
+   empirical studies indicate that our technique can significantly reduce
+   the cost of regression testing modified software.
+   
+   1 Introduction
+   
+   Software maintenance activities may account for as much as two-thirds
+   of the overall cost of software production[38, 43]. One necessary
+   maintenance activity, regression testing, is performed on modified
+   software to provide confidence that the software behaves correctly,
+   and that modifications have not adversely impacted the software's
+   quality. Regression testing is expensive; it can account for as much
+   as one-half of the cost of software maintenance[30].
+   
+   An important difference between regression testing and development
+   testing is that during regression testing, we may have an established
+   suite of tests available for reuse. One regression testing strategy
+   reruns all such tests, but this retest all approach may consume
+   inordinate time and resources. Selective retest techniques, in
+   contrast, attempt to reduce the time required to retest a modified
+   program by selectively reusing tests, and selectively retesting the
+   modified program.
+   
+   Although many selective retest techniques have been proposed, most of
+   these techniques emphasize the use of structural coverage criteria[4,

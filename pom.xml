@@ -6,24 +6,96 @@
 	<artifactId>maui</artifactId>
 	<version>1.3.0</version>
 	<packaging>jar</packaging>
+
+	<url>https://code.google.com/p/maui-indexer/</url>
+
+	<developers>
+		<developer>
+			<email>medelyan@gmailDOTcom</email>
+			<id>medelyan</id>
+			<name>Alyona Medelyan</name>
+			<organization>Entopix Ltd</organization>
+		</developer>
+	</developers>
+
+	<licenses>
+		<license>
+			<name>GNU GPL v3</name>
+			<url>http://www.opensource.org/licenses/GPL-3.0</url>
+		</license>
+	</licenses>
+
+	<!-- will need to fill this in depending on where it eventually goes -->
+	<!--
+	<scm>
+		<connection>scm:git:git@github.com:rvowles/central-parent.git</connection>
+		<developerConnection>scm:git:git@github.com:rvowles/central-parent.git</developerConnection>
+		<url>git@github.com:rvowles/central-parent.git</url>
+		<tag>HEAD</tag>
+	</scm>
+	-->
+
+	<properties>
+		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+		<maven.version>3.2.2</maven.version>
+		<maui.release>dev</maui.release> <!-- gets changed to release when releasing -->
+	</properties>
+
+	<!-- where it gets uploaded to -->
+	<distributionManagement>
+		<repository>
+			<id>sonatype-staging</id>
+			<name>oss.sonatype.org Staging Repository</name>
+			<url>http://oss.sonatype.org/service/local/staging/deploy/maven2/</url>
+		</repository>
+		<snapshotRepository>
+			<id>sonatype-snapshots</id>
+			<name>oss.sonatype.org Snapshot Repository</name>
+			<url>https://oss.sonatype.org/content/repositories/snapshots/</url>
+		</snapshotRepository>
+	</distributionManagement>
+
 	<dependencies>
 		<dependency>
 			<groupId>nz.ac.waikato.cms.weka</groupId>
 			<artifactId>weka-stable</artifactId>
 			<version>3.6.10</version>
 		</dependency>
+
 		<dependency>
 			<groupId>commons-io</groupId>
 			<artifactId>commons-io</artifactId>
-			<version>2.1</version>
-
+			<version>2.4</version>
 		</dependency>
+
+		<dependency>
+			<groupId>org.apache.lucene</groupId>
+			<artifactId>lucene-snowball</artifactId>
+			<version>3.0.3</version>
+		</dependency>
+
+		<!-- this brings in some crazy dependencies, but your code only seems to need the lucene snowball analyser? -->
+		<!--
 		<dependency>
 			<groupId>de.tudarmstadt.ukp.dkpro.core</groupId>
 			<artifactId>de.tudarmstadt.ukp.dkpro.core.snowball-asl</artifactId>
 			<version>1.5.0</version>
-
 		</dependency>
+		-->
+
+		<dependency>
+			<groupId>org.apache.jena</groupId>
+			<artifactId>jena-core</artifactId>
+			<version>2.11.2</version>
+			<exclusions>
+				<exclusion>
+					<groupId>log4j</groupId>
+					<artifactId>log4j</artifactId>
+				</exclusion>
+			</exclusions>
+		</dependency>
+
+		<!--
 		<dependency>
 			<groupId>org.apache.jena</groupId>
 			<artifactId>apache-jena-libs</artifactId>
@@ -48,10 +120,217 @@
 				</exclusion>
 			</exclusions>
 		</dependency>
+		-->
+
+		<dependency> <!-- need the api, the rest is up to the person who uses the lib -->
+			<groupId>org.slf4j</groupId>
+			<artifactId>slf4j-api</artifactId>
+			<version>1.7.6</version>
+		</dependency>
+
+		<!-- we are using log4j but others may use logback or log4j2 -->
 		<dependency>
 			<groupId>org.slf4j</groupId>
 			<artifactId>slf4j-log4j12</artifactId>
 			<version>1.7.6</version>
+			<scope>test</scope>  <!-- otherwise dictating log4j -->
+		</dependency>
+
+		<dependency>
+			<groupId>log4j</groupId>
+			<artifactId>log4j</artifactId>
+			<version>1.2.17</version>
+			<scope>test</scope>
+		</dependency>
+
+		<dependency>
+			<groupId>junit</groupId>
+			<artifactId>junit</artifactId>
+			<version>4.11</version>
+			<scope>test</scope>
+		</dependency>
+
+		<dependency>
+			<groupId>org.easytesting</groupId>
+			<artifactId>fest-assert</artifactId>
+			<version>[1.4]</version>
+			<scope>test</scope>
 		</dependency>
 	</dependencies>
+
+	<profiles>
+		<profile>
+			<!-- adtivate the sonatype profile when a release is being done, which is when you need to sign your build -->
+			<id>sonaytpe</id>
+			<activation>
+				<property>
+					<name>performRelease</name>
+					<value>true</value>
+				</property>
+			</activation>
+			<build>
+				<plugins>
+					<plugin>
+						<groupId>org.apache.maven.plugins</groupId>
+						<artifactId>maven-gpg-plugin</artifactId>
+						<version>1.1</version>
+						<executions>
+							<execution>
+								<id>sign-artifacts</id>
+								<phase>verify</phase>
+								<goals>
+									<goal>sign</goal>
+								</goals>
+							</execution>
+						</executions>
+					</plugin>
+				</plugins>
+			</build>
+		</profile>
+	</profiles>
+
+	<build>
+		<plugins>
+			<!-- gives us code coverage reports -->
+			<plugin>
+				<groupId>org.jacoco</groupId>
+				<artifactId>jacoco-maven-plugin</artifactId>
+				<version>0.6.5.201403032054</version>
+				<executions>
+					<execution>
+						<id>prepare-agent</id>
+						<goals>
+							<goal>prepare-agent</goal>
+						</goals>
+					</execution>
+					<execution>
+						<id>report</id>
+						<phase>prepare-package</phase>
+						<goals>
+							<goal>report</goal>
+						</goals>
+					</execution>
+				</executions>
+			</plugin>
+
+			<!-- the source, javadoc, release-pom you can trigger only when you are releasing by moving them up to the profile above. -->
+
+			<!-- attaches source to the released/installed artifact -->
+			<plugin>
+				<artifactId>maven-source-plugin</artifactId>
+				<version>2.2.1</version>
+				<executions>
+					<execution>
+						<id>attach-sources</id>
+						<phase>package</phase>
+						<goals>
+							<goal>jar-no-fork</goal>
+						</goals>
+					</execution>
+				</executions>
+			</plugin>
+
+			<!-- required so we attach our docs -->
+			<plugin>
+				<groupId>org.apache.maven.plugins</groupId>
+				<artifactId>maven-javadoc-plugin</artifactId>
+				<version>2.7</version>
+				<executions>
+					<execution>
+						<id>attach-javadocs</id>
+						<goals>
+							<goal>jar</goal>
+						</goals>
+					</execution>
+				</executions>
+			</plugin>
+
+			<!--
+			* builds a resolved pom that tells us exactly what versions we used for
+			* each release.
+			-->
+			<plugin>
+				<groupId>com.bluetrainsoftware.maven</groupId>
+				<artifactId>release-pom</artifactId>
+				<version>1.5</version>
+				<executions>
+					<execution>
+						<id>generate-dep-list</id>
+						<phase>prepare-package</phase>
+						<goals>
+							<goal>release-pom</goal>
+						</goals>
+						<configuration>
+							<useMaven2>false</useMaven2>
+							<outputFile>${project.build.outputDirectory}/META-INF/maven/released-pom.xml</outputFile>
+						</configuration>
+					</execution>
+				</executions>
+			</plugin>
+
+
+
+			<!-- needed to make sure Git is used correctly at release -->
+			<plugin>
+				<groupId>org.apache.maven.plugins</groupId>
+				<artifactId>maven-scm-plugin</artifactId>
+				<version>1.9</version>
+			</plugin>
+
+			<!-- ensure certain rules are in place when we release -->
+			<plugin>
+				<groupId>org.apache.maven.plugins</groupId>
+				<artifactId>maven-enforcer-plugin</artifactId>
+				<version>1.2</version>
+				<configuration>
+					<rules>
+						<requireMavenVersion>
+							<version>[3.2.2,)</version>
+						</requireMavenVersion>
+						<requireReleaseDeps>
+							<!--  Don't allow releases with snapshop deps or parents -->
+							<message>No Snapshots Allowed!</message>
+							<failWhenParentIsSnapshot>true</failWhenParentIsSnapshot>
+							<searchTransitive>true</searchTransitive>
+						</requireReleaseDeps>
+						<!-- Don't allow accidental inclusion of commons logging or log4j -->
+						<bannedDependencies>
+							<excludes>
+								<exclude>commons-logging</exclude>
+								<exclude>commons-logging-api</exclude>
+							</excludes>
+						</bannedDependencies>
+					</rules>
+					<fail>true</fail>
+				</configuration>
+			</plugin>
+
+			<!-- configure the release plugin -->
+			<plugin>
+				<groupId>org.apache.maven.plugins</groupId>
+				<artifactId>maven-release-plugin</artifactId>
+				<version>2.5</version>
+				<configuration>
+					<mavenExecutorId>forked-path</mavenExecutorId>
+					<arguments>-Dmaui.release=release</arguments>
+					<preparationGoals>clean enforcer:enforce verify</preparationGoals>
+					<goals>enforcer:enforce deploy</goals>
+					<tagBase>release/${project.groupId}/</tagBase>
+					<pushChanges>false</pushChanges>
+					<localCheckout>true</localCheckout>
+				</configuration>
+			</plugin>
+
+			<!-- ensure we are using the latest compiler plugin and we are targeting JDK 1.6 -->
+			<plugin>
+				<groupId>org.apache.maven.plugins</groupId>
+				<artifactId>maven-compiler-plugin</artifactId>
+				<version>3.1</version>
+				<configuration>
+					<source>1.6</source>
+					<target>1.6</target>
+				</configuration>
+			</plugin>
+		</plugins>
+	</build>
 </project>

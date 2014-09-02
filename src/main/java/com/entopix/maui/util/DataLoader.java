@@ -43,6 +43,7 @@ public class DataLoader {
 			log.error("Directory " + datasetPath + " not found!");
 			throw new RuntimeException();
 		}
+
 		for (File file : datasetDir.listFiles()) {
 			if (!file.getName().endsWith(".txt")) {
 				continue;

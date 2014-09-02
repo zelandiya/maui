@@ -134,7 +134,7 @@ public class MauiModelBuilder implements OptionHandler {
     /**
      * Directory where vocabularies are stored *
      */
-    public String vocabularyDirectory = "data/vocabularies";
+    public String vocabularyDirectory = "src/test/resources/data/vocabularies";
 
     /**
      * Document language {en,es,de,fr,...}

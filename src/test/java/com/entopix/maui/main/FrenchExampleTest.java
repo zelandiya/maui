@@ -7,19 +7,20 @@ import com.entopix.maui.stemmers.Stemmer;
 import com.entopix.maui.stopwords.Stopwords;
 import com.entopix.maui.stopwords.StopwordsFrench;
 import com.entopix.maui.util.DataLoader;
+import org.junit.Test;
 
 
-public class FrenchExample {
+public class FrenchExampleTest {
 
 	/**
-	 * @param args
-	 * @throws Exception 
+	 * @throws Exception
 	 */
-	public static void main(String[] args) throws Exception {
+	@Test
+	public void testFrench() throws Exception {
 		
 		// location of the data
-		String trainDir = "data/term_assignment/train_fr";
-		String testDir = "data/term_assignment/test_fr";
+		String trainDir = "src/test/resources/data/term_assignment/train_fr";
+		String testDir = "src/test/resources/data/term_assignment/test_fr";
 		
 		// name of the file for storing the model
 		String modelName = "french_model";

@@ -177,7 +177,7 @@ public class MauiTopicExtractor implements OptionHandler {
 	/**
 	 * Directory where vocabularies are stored *
 	 */
-	public String vocabularyDirectory = "data/vocabularies";
+	public String vocabularyDirectory = "src/test/resources/data/vocabularies";
 
 	/**
 	 * Stemmer to be used

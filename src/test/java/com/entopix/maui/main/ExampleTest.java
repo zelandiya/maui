@@ -25,6 +25,7 @@ import com.entopix.maui.util.DataLoader;
 import com.entopix.maui.util.MauiDocument;
 import com.entopix.maui.util.MauiTopics;
 
+import org.junit.Test;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
@@ -38,9 +39,9 @@ import org.slf4j.LoggerFactory;
  * @author zelandiya (medelyan@gmail.com)
  * 
  */
-public class Examples {
+public class ExampleTest {
     
-    private static final Logger log = LoggerFactory.getLogger(Examples.class);
+    private static final Logger log = LoggerFactory.getLogger(ExampleTest.class);
 
 	private MauiTopicExtractor topicExtractor;
 	private MauiModelBuilder modelBuilder;
@@ -102,8 +103,8 @@ public class Examples {
 		setFeatures();
 		
 		// Directories with train & test data
-		String trainDir = "data/automatic_tagging/train";
-		String testDir = "data/automatic_tagging/test";
+		String trainDir = "src/test/resources/data/automatic_tagging/train";
+		String testDir = "src/test/resources/data/automatic_tagging/test";
 
 		// name of the file to save the model
 		String modelName = "test";
@@ -144,8 +145,8 @@ public class Examples {
 		setFeatures();
 		
 		// Directories with train & test data
-		String trainDir = "data/term_assignment/train";
-		String testDir = "data/term_assignment/test";
+		String trainDir = "src/test/resources/data/term_assignment/train";
+		String testDir = "src/test/resources/data/term_assignment/test";
 
 		// Vocabulary
 		String vocabulary = "agrovoc_sample";
@@ -179,34 +180,26 @@ public class Examples {
 		topicExtractor.printTopics(allDocumentsTopics);
 	}
 
-	/**
-	 * Main method for running the three types of topic indexing. Comment out
-	 * the required one.
-	 * 
-	 * @param args
-	 * @throws Exception
-	 */
-	public static void main(String[] args) throws Exception {
-		
-		String mode = "term_assignment";
-		// TODO: change to args[0];
-		if (!mode.equals("tagging") && !mode.equals("term_assignment")) {
-			throw new Exception("Choose one of the two modes: tagging or term_assignment");
-		}
-		
+	@Test
+	public void termAssignmentTest() throws Exception {
+		ExampleTest exampler = new ExampleTest();
+
 		long startTime = System.currentTimeMillis();
-		Examples exampler;
-		if (mode.equals("tagging")) {
-			exampler = new Examples();
-			exampler.testAutomaticTagging();
-		} else if (mode.equals("term_assignment")) {
-			exampler = new Examples();
-			exampler.testTermAssignment();
-		} 
+		exampler.testTermAssignment();
 		long stopTime = System.currentTimeMillis();
 		long elapsedTime = stopTime - startTime;
 		log.info("Completed in " + elapsedTime + "ms.");
-		
+	}
+
+	@Test
+	public void taggingTest() throws Exception {
+		ExampleTest exampler = new ExampleTest();
+
+		long startTime = System.currentTimeMillis();
+		exampler.testAutomaticTagging();
+		long stopTime = System.currentTimeMillis();
+		long elapsedTime = stopTime - startTime;
+		log.info("Completed in " + elapsedTime + "ms.");
 	}
 
 }

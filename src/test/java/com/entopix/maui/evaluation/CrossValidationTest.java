@@ -3,6 +3,12 @@ package com.entopix.maui.evaluation;
 import java.util.ArrayList;
 import java.util.List;
 
+import org.junit.Test;
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
+
+import weka.core.Utils;
+
 import com.entopix.maui.filters.MauiFilter;
 import com.entopix.maui.filters.MauiFilter.MauiFilterException;
 import com.entopix.maui.main.MauiModelBuilder;
@@ -12,36 +18,36 @@ import com.entopix.maui.stemmers.Stemmer;
 import com.entopix.maui.stopwords.Stopwords;
 import com.entopix.maui.stopwords.StopwordsFactory;
 import com.entopix.maui.util.DataLoader;
+import com.entopix.maui.util.Evaluator;
 import com.entopix.maui.util.MauiDocument;
 import com.entopix.maui.util.MauiTopics;
-import com.entopix.maui.util.Evaluator;
 import com.entopix.maui.vocab.Vocabulary;
 
-import org.slf4j.Logger;
-import org.slf4j.LoggerFactory;
+public class CrossValidationTest {
 
-import weka.core.Utils;
-
-
-public class EvaluateFAO {
-
-	private static final Logger log = LoggerFactory.getLogger(EvaluateFAO.class);
-
-    private final Stemmer stemmer = new SremovalStemmer();
-    private final String language = "en";
-    private String encoding = "UTF-8";
-	private final Stopwords stopwords = StopwordsFactory.makeStopwords(language);
-    
-    private Vocabulary vocabulary;
-    private MauiTopicExtractor topicExtractor;
-	private MauiModelBuilder modelBuilder;
+	private static final Logger log = LoggerFactory.getLogger(CrossValidationTest.class);
 	
-    
-    public EvaluateFAO(String vocabularyPath, String vocabularyName) {
-		this.vocabulary = new Vocabulary();
-		vocabulary.setStemmer(this.stemmer);
-		vocabulary.setLanguage(this.language);
-    	vocabulary.setStopwords(this.stopwords);
+	public void testCrossValidation() throws MauiFilterException {
+		
+		// Input data
+		String vocabularyPath = "/Users/zelandiya/Documents/Data/Entopix/AGROVOC"; //"src/test/resources/data/vocabularies";
+		String vocabularyName = "agrovoc_en"; // "agrovoc_sample";
+		String datasetPath = "/Users/zelandiya/Documents/Data/Entopix/fao780"; //"src/test/resources/data/term_assignment/train";
+		
+		// Number of validation folds
+		// If fold equals the number of documents in the dataset,
+		// then it's a Leave-One-Out
+		int fold = 10;
+		
+		Stemmer stemmer = new SremovalStemmer();
+	    String language = "en";
+	    String encoding = "UTF-8";
+		Stopwords stopwords = StopwordsFactory.makeStopwords(language);
+	    
+	    Vocabulary vocabulary  = new Vocabulary();
+	    vocabulary.setStemmer(stemmer);
+		vocabulary.setLanguage(language);
+    	vocabulary.setStopwords(stopwords);
     	try {
 			DataLoader.loadVocabulary(vocabulary, vocabularyPath, vocabularyName);
 		} catch (Exception e) {
@@ -50,8 +56,8 @@ public class EvaluateFAO {
 			throw new RuntimeException();
 		}
     	
-    	topicExtractor = new MauiTopicExtractor();
-		modelBuilder = new MauiModelBuilder();
+	    MauiTopicExtractor topicExtractor = new MauiTopicExtractor();
+		MauiModelBuilder modelBuilder = new MauiModelBuilder();
 		
     	modelBuilder.stemmer = stemmer;
 		modelBuilder.stopwords = stopwords;
@@ -71,12 +77,10 @@ public class EvaluateFAO {
 		modelBuilder.setVocabulary(vocabulary);
 		modelBuilder.setVocabularyName(vocabularyName);
 		modelBuilder.modelName = "test";
-    }
-    
+		
+		List<MauiDocument> testDocuments = DataLoader.loadTestDocuments(datasetPath);
 
-	private void runEvaluation(List<MauiDocument> testDocuments) throws MauiFilterException {
 		int numDocs = testDocuments.size();
-		int fold = 10;
 		int part = numDocs/fold;
 		int startTest, endTest;
 		
@@ -99,7 +103,7 @@ public class EvaluateFAO {
 			}
 			
 			long startTime = System.currentTimeMillis();
-			MauiFilter mauiFilter = this.modelBuilder.buildModel(train);
+			MauiFilter mauiFilter = modelBuilder.buildModel(train);
 			long stopTime = System.currentTimeMillis();
 			long elapsedTime = stopTime - startTime;
 			log.info("Built the model in " + elapsedTime + "ms.");
@@ -114,33 +118,23 @@ public class EvaluateFAO {
 			
 		}
 		
-		double avgRecall = Utils.mean(recall);
-		double avgPrecision = Utils.mean(precision);
-		double avgFmeasure = Utils.mean(fmeasure);
+		double avgRecall = Utils.roundDouble(Utils.mean(recall)*100, 2);
+		double avgPrecision = Utils.roundDouble(Utils.mean(precision)*100, 2);
+		double avgFmeasure = Utils.roundDouble(Utils.mean(fmeasure)*100, 2);
 		
 		log.info("Precision " + avgPrecision + "; Recall " + avgRecall + "; F-Measure " + avgFmeasure);
 		
+		
 	}
 	
-	/**
-	 * @param args
-	 * @throws MauiFilterException 
-	 */
-	public static void main(String[] args) throws MauiFilterException {
-		String datasetPath = "/Users/zelandiya/Documents/Data/Entopix/fao_test";
-		
+	@Test
+	public void crossValidationTest() throws Exception {
+		CrossValidationTest validationTest = new CrossValidationTest();
+
 		long startTime = System.currentTimeMillis();
-		List<MauiDocument> testDocuments = DataLoader.loadTestDocuments(datasetPath);
+		validationTest.testCrossValidation();
 		long stopTime = System.currentTimeMillis();
 		long elapsedTime = stopTime - startTime;
-		log.info("Loaded " + testDocuments.size()  + " documents in " + elapsedTime + "ms.");
-		
-		String vocabularyPath = "/Users/zelandiya/Documents/Data/Entopix/AGROVOC/";
-		String vocabularyName = "agrovoc_en";
-		
-		EvaluateFAO evaluation = new EvaluateFAO(vocabularyPath, vocabularyName);
-	
-		evaluation.runEvaluation(testDocuments);
+		log.info("Completed in " + elapsedTime + "ms.");
 	}
-
 }

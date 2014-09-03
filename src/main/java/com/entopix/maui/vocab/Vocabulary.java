@@ -603,7 +603,9 @@ public class Vocabulary {
 			}
 		}
 
-		if (upper > lower) {
+		// don't lower case words containing 5 or less characters
+		// that are all capitalized (most likely it's an abbreviation)
+		if (upper > lower && upper < 5) {
 			return false;
 		}
 		return true;

@@ -1,0 +1,1410 @@
+<title>VIT FISHERIES ANALYSIS PROGRAM. VIT: software for fishery analysis User's manual</title>
+<section>1</section>
+1. INTRODUCTION
+Fisheries biologists have at their disposal today a number of programs and software packages, specially for IBM-PC compatibles, that perform virtual population analysis or other analysis normally used in population dynamics (Sims, 1985; Hightower, 1986; Sparre, 1987; Gayanilo et al.,1988; Mesnil, 1988). Other unpublished programs also exist in places where population dynamics work is carried out. For some fisheries, however, it is impossible to obtain all of the necessary data to run one of these programs (generally the catch matrix in numbers of individuals by age and year is required). In such fisheries the scientist is confronted with the choice of waiting to have a sufficiently long time series to, in the future, apply the above mentioned methods or try to use the existing data to say something about the population under study. Many times, the scientist is also obliged to advise fishery managers that, needless to say, cannot wait to take decisions.
+In order to carry out these calculations of the dynamics of the population it is necessary to work with restrictive hypotheses and the errors associated with them. When long time series are not available, the first hypothesis that has to be used is that of steady state or equilibrium. That means assuming that the size structure of the stock is identical to that of each and everyone of its cohorts, thus referring to pseudocohorts instead of cohorts. Obviously, we are talking about a restrictive hypothesis because, in general, the population is not in equilibrium given that neither the recruiting nor the mortality are a constant. Knowing the errors associated with accepting such hypotheses does not eliminate them, but it allows to make an adequate interpretation of the results and can produce an objective assessment of the studied population.
+<section>2</section>
+2. OBJECTIVES AND STRUCTURE OF THE PROGRAM
+The principal objective of VIT is to study the population dynamics of a population subject to fishing effort. This study is done by an analysis of pseudocohorts on size frequency data, given knowledge of certain parameters. More specifically, VIT endeavors to study the exploitation rate, the interaction between fishing gears and the reaction to changes in the exploitation pattern, through virtual population and yield-per-recruit analysis. The theory behind these analysis and the equations used are presented in section 5.
+Models used in this package are those traditionally employed in population dynamics, with some modifications that are presented in the text. Descriptions of these models can be found, among other places, in Beverton and Holt (1957), Ricker (1975), Laurec and Le Guen (1981), Pitcher and Hart (1982) and Sparre et al. (1989).
+The program conducts a virtual population analysis (VPA), and assuming a steady state, reconstructs the population. There are two methods in the analysis of pseudocohorts, depending on the equation used to relate catch and fishing mortality to population numbers: the classic catch equation (Gulland 1965) or the cohort analysis Pope's equation (Pope 1972) (and section 5.4 further in this volume). Program VIT allows the use of both methods (VPA and cohort analysis) upon both catch-at-age and catch-at-length data.
+Once the population has been reconstructed, it is possible to carry out yield-per-recruit analysis and studies of the transient effects of changes in the fishing pattern or the level of fishing effort. These later analyses follow the evolution of a population that is not in equilibrium. It is also possible to do sensitivity analysis on model parameters. Because the hypothesis of a steady state is central to the mechanics of the program it is not possible to work with time series of data.
+Therefore, to carry out the various analyses it is necessary to have age or size frequency distributions (up to a maximum of 200 classes), for one or more fishing gears (up to a maximum of 4). It is assumed that such distributions are representative of the real age or size distributions of the catch for the time period used in the analysis (generally one year). Although the size interval of age or size classes is obviously fixed, it is possible to have an open final class, different from the others, which includes all individuals above a certain value (size or age) and that is denominated the plus (+) class.
+In addition to the above mentioned data it is necessary to enter a number of parameters: growth, length-weight relationship, natural and fishing mortalities, percentage mature by size or age, and proportions caught by each fishing gear.
+The program is structured in two parts, the first one relates to data input (frequency distribution of size or age, and initial parameters) and the choice of population assessment method to be used: VPA or cohort analysis (section 3.3). The method chosen and the population data input in this first part, except the parameters, cannot be modified during a run . Within this first part it is necessary to specify the output filename which contains the complete results of the analysis. This name is unique for each run of the program (section 4.4).
+It is at this point, as long as the parameters are not modified and before the program goes into its second part, that the population rebuild by VPA or cohort analysis is stored in the computer memory for future use.
+The second part starts with the appearance of the Main menu on the screen. The different options of this menu allow to save the general information (data and filenames) entered in part one (section 3.4.1), to view a synthesis of the results of the population assessment (section 3.4.2), to obtain the full results of the VPA or cohort analysis (within the output file) (section 3.4.4.1), to modify the parameters (sections 3.4.3 and 3.4.4.2), and execute any of the analyses through the different menus (section 3.4). Results of the analysis yield per recruit (section 3.4.5), transition (section 3.4.6) and sensitivity (section 3.4.7) will appear in the output file. Transient analysis require an age-structured population, that can be obtained by transforming size frequencies into age frequencies through the size to age menu (section 3.4.8). During the program run, the options that appear in the Main menu can be repeated as many times as required, because all options revert to the
+main menu. Particularly, every time a parameter is modified the program carries out a new VPA (from now we will refer to the analysis method, VPA or cohort analysis simply as VPA, considering its more general sense) before it returns to the Main menu.
+In general the results of the analysis are not shown on the screen, except for the summary information on the evaluation results (section 3.4.2) or information on how to make modifications to the input. To see the results in full it is necessary to exit the program and check the output file (section 4.4).
+The output file does not contain any graphs, instead it has numeric tables with comments. However, this file was designed so that it can be easily imported into a spreadsheet program for graphing.
+Size frequency data have to be entered in a file according to a format specified in section 4.1. Initial parameters describing growth, length-weight relationship, natural and fishing mortality and catch proportions by gear can be entered from the keyboard or by creating a formatted parameter file as it is described in section 4.2. Certain options of the transition analyses require new information which has to be provided in another file (section 4.3). All extra input required for the rest of the analyses has to be entered with the keyboard.
+In summary, to operate the program it is sufficient (i) to have a size or age frequency data file, (ii) to know or to choose a set of initial parameters, and (iii) to decide on the population assessment method to be used. The following table summarizes the requirements for the use of this program.
+Summary Requirements
+Computer: IBM PC and compatibles
+Math co-processor recommended
+Operating system: MS-DOS version 3 or later
+Data: Up to 200 size or age groups with constant group intervals
+admits a plus (+)class
+up to 4 fishing gears
+not appropriate for historic data series
+Parameters: Von Bertalanffy growth (L¥ , K, t[0])
+Length-weight relationship (a, b)
+Natural mortality (M)
+Terminal Fishing mortality (F[term])
+Proportions by fishing gear
+Maturity proportions by group
+VPA options: Catch equation
+Cohort analysis (Pope)
+Units: Any, but the same for parameters and data
+<section>3</section>
+3. USER'S MANUAL
+3.1 Introduction
+In this chapter we will be talking about how to use the VIT program and its options. The program has two parts: the first one is the initial process, the reading of the data, the choice of evaluation method of the population and the introduction of the initial parameter sets (section 3.3). The second part, centered on the main menu, allows you to modify the parameters, go from sizes to ages, make several estimates and obtain results from all the different options (section 3.4).
+Once all of the data requested in the first part has been provided, the Main menu appears. It is important to remember that the last operation of the first part is running the VPA with the information given. This means that when the Main menu appears, the population reconstructed by the VPA is already in the computer memory.
+All the work done throughout a run of the program is written on a single file, called the output file (see section 3.3) even though it is also referred to as print file. This file can normally be printed without problem because it doesn't include the characters of the ASCII extended code (beyond character 127 or 7 bits). The alphanumeric comments and titles of this file are within double quotes so that they can be imported directly to a spreadsheet program as a numerical file.
+The VIT program works in an interactive mode, based on menus with options or direct questions. We have tried showing the maximum information on screen, properly condensed, so that the user can get what he needs without having to refer to the manual as he goes. For more information, specially for the more complex options, we recommend having a look at the manual.
+Throughout this chapter, we describe how to start and access all the different options of the program. In many cases we use for that purpose the example files distributed with the VIT program (see from section 4 onwards).
+3.2 Useful tips and hints
+Before running VIT we recommend taking certain precautions to avoid unwelcome surprises such as data loss and aborted runs:
+STARTUP DIAGRAM
+1. Keep backup copies of data files in a different directory or another disk.
+2. Backup all output files after each session.
+3. Properly edit input files because there is no initial checking and incorrect data can abort program execution or produce erroneous results. For instance the data file can not contain size or age groups with zero frequency for all fishing gears (see section 4).
+4. Check that the parameter set entered corresponds to the data being used. For instance, for age-structured data, it has to be checked that there are no age groups with lower limits smaller than t0. Also, for size-structured data, it has to be checked that L(inf) is not smaller than the upper limit of the largest size group (see sections 3.3 and 4.2).
+During a run it is not possible to exit to the operating system and then continue running the program. Hence although the initial phase is quick, we recommend to have all files ready before starting.
+To get used to the program and its performance, we recommend to run it several times with the examples provided and follow the manual. Before serious analysis are attempted, we also recommend to "play" a little bit with the program and your own data.
+In many of the options it is possible to change parameters or those factors that affect them. It is interesting to take advantage of these options to test the resilience of the population. However, we do not recommend radical changes in these parameters, factors or the use of extravagant values, because it is possible to produce errors that stop the program's execution.
+Given that the program has no graphic output we recommend using a spreadsheet for graphing and other calculations, as we noted in the introduction (section 3.1).
+3.3 Program startup
+The following explains how to execute program VIT. It is necessary to first install VIT.EXE in a directory included in the PATH, or in the default directory and execute it by typing at the system prompt:
+VIT
+We will then see the following message [p1]:
+¦ Enter data file name ¦
+to this we will answer with the name of the input data file (see section 4), for example:
+DADES.DAT
+If there is no file with this name, the program will stop executing. If there is such a file, then the following message will appear on the screen [p2]:
+¦ Enter the output file name ¦
+¦ (Default: EXVIT.PRN) ¦
+to this we will answer with the output filename where the program will write all results. (see section 4.4), for example:
+OUT.PRN
+If no output filename is typed in, the program uses a default file named EXVIT.PRN, and does not check if this file already exists or not. Therefore there is a risk that useful information is inadvertently destroyed (see section 3.2). On the other hand if an output filename is typed in, as in the example above, it has to be a new filename, otherwise the program rejects it and requests a name again.
+Continuing with the initial process, the program requests the type of population analysis to be performed with the next message [p3]:
+¦ 1 Performs a Standard VPA (Catch Equation) ¦
+¦ 2 Performs the Cohort Analysis (Pope) ¦
+¦ Enter your option ¦
+To this we will answer:
+or 2
+depending on whether we want to do an analysis based on the catch equation or on the method of cohort analysis of Pope (see section 5.4). Any other response will lead to a repeat of the above message.
+After this the program requests the required parameters with the following message [p4]:
+¦ 1 The Parameters are in a File ¦
+¦ 2 To Enter the Parameters by Keyboard ¦
+¦ Enter your option ¦
+If we type in
+the program will request the name of the parameter file (see section 4.2) with the following message [p5]:
+¦ Enter the parameter file name ¦
+we can then type in the name of the required parameter file, for example
+PARAM.INI
+If the filename typed in does not exist, the program will again request the name of the parameter file.
+If all parameters are to be entered through the keyboard we should reply to [4] with
+and enter each parameter as requested by the program. The entry procedures are no different to those from the menu of Parameter modification, explained in detailed in section 3.4.3.
+As recommended in the previous section, the parameters have to be compatible with the data because otherwise not only we will obtain erroneous results but other problems may also surface. One possible incompatibility may appear with the parameter t0, when working with age structured data if t0 is positive and higher than the lower limit of the first age class (see section 4.2). In such a case, although the program may continue, some estimated lengths and weights will be negative.That is why the following message appears before the program proceeds [p6]:
+¦ WARNING! ¦
+¦ The lower limit of the first ¦
+¦ age class is lower than t0. ¦
+¦ Weights of the first age classes ¦
+¦ can be negative. ¦
+¦ Press return to continue ¦
+This problem can occur in the option to transform data from a size distribution to an age distribution (option 8 of the Main menu, see section 3.4.8).
+On the other hand, when we work with size structured data, it is possible to have a growth parameter L(inf) which is incompatible with the largest size class, because in this class there are individuals that are larger than L(inf) (See section 4.2). In this case the program can not continue and outputs an error message with the minimum value of L(inf) required, for example [p7]:
+¦ ERROR! ¦
+¦ L(inf) is too much low. ¦
+¦ It must be greater than ¦
+If the parameters were read from a file, the program stops executing. If, however, the parameters are being entered through the keyboard, the program requests them again.
+When the process of parameter input is completed, one way or the other and without problems, the information screen corresponding to option 1 in the Main Menu [p10] appears (for a detailed explanation see section 3.4.1). In the example it would be:
++- Main Option 1 ------------------------------------+
+¦ G E N E R A L I N F O R M A T I O N ¦
+¦ Input File: DADES.DAT ¦
+¦ Test Data: lengths ¦
+¦ Num. of Classes: 39 Num. of Gears: 2 ¦
+¦ Data arranged by LENGTHS VPA Method: STANDARD ¦
+¦ Lower Limits of: First Class Last Class ¦
+¦ Incr. per Class: 2.000 Class + ? NO ¦
+¦ Output File: OUT.PRN ¦
+¦ Parameter File: PARAM.INI ¦
+If we then type
+<enter>
+we will see the Main menu on the screen.
+3.4 Main menu options
+The Main menu has nine options, one of which is hidden. The hidden option depends on the structure of the data file. If the data file is structured by ages, the following menu will appear [p8]:
++-------------------- MAIN MENU ---------------------+
+¦ 1 General Information ¦
+¦ 2 Results ¦
+¦ 3 Parameter editing ¦
+¦ 4 VPA ¦
+¦ 5 Yield per recruit analysis ¦
+¦ 6 Transition analysis ¦
+¦ 7 Sensitivity analysis ¦
+¦ 0 EXIT ¦
+If the data is structured by sizes, it is not possible to run transition analysis (6). There is however, a new option (8) which converts data from sizes to ages and creates a new file with which the program can be run again (section 4.5). Then the menu which appears on the screen is as follows [p9]:
++-------------------- MAIN MENU ---------------------+
+¦ 1 General Information ¦
+¦ 2 Results ¦
+¦ 3 Parameter editing ¦
+¦ 4 VPA ¦
+¦ 5 Yield per recruit analysis ¦
+¦ 7 Sensitivity analysis ¦
+¦ 8 Creates a data file by ages ¦
+¦ 0 EXIT ¦
+In both cases option 9, which allows changing the precision of the VPA calculations, is hidden. Certain cases require changing this precision whenever there are problems with the approximation algorithms (see section 3.4.9).
+From this menu all options can be accessed, and once these are completed the program returns to it. Option 0 is used to stop program execution and return to the operating system. It is possible to return to this menu from any of the options by selecting 0, except in cases where this return happens automatically after the execution of the option. See menu descriptions in each case.
+All options, except for the first one, are interactive. The first two only give information to the user. Options 3 and 4 allow for parameter modification. Options 4, 5, 6 and 7 conduct analyses whose results are written into the output file. Option 8 creates new parameter and data files, and option 9 (hidden) allows modification of the precision of VPA calculations.
+Parameters are written into the output file immediately before the first set of results. After any modification, parameters are also written to the output file before the next set of results. If parameters have been modified but no analysis have been run, changes are not recorded in the output file. Changes appear in the output file only after the modified parameters are used in an analysis. Therefore, to find out which parameters have been used for any particular analysis, is enough to look in the output file at the parameters immediately above the results.
+DIAGRAM OF MAIN MENU
+3.4.1 General information
+If we select in the Main Menu:
+we will see the information screen, that summarizing the input data entered during program startup (section 3.3).
+We now describe all the information presented in the general information screen [p10]:
++- Main Option 1 ------------------------------------+
+¦ G E N E R A L I N F O R M A T I O N ¦
+¦ Input File: ........(1) ¦
+¦ Num. of Classes: (3) Num. of Gears: (4) ¦
+¦ Data arranged by ....(5) VPA Method: ....(6) ¦
+¦ Lower Limits of: First Class Last Class ¦
+¦ Incr. per Class: (9) Class + ? ...(10) ¦
+¦ Output File: .......(11) ¦
+¦ Parameter File: ......(12) ¦
+(1) Name of input datafile
+(2) Title appearing in the first row of the input data file
+(3) Number of age or size classes
+(4) Number of fishing gears
+(5) AGES if data is structured by ages, or
+LENGTHS if data is structured by sizes
+(6) STANDARD, if we have chosen a standard VPA and catch equation
+COHORTS, if we have chosen a cohort analysis (Pope)
+(7) The smallest age or size in the data
+(8) The largest age or size, or the lower limit of the + group, if it exists
+(9) The width of the size or age class
+(10) YES, if the last class is the + group
+NO, if the last class is not a + group
+(11) Name of the output file, as it was entered (section 3.3)
+(12) Name of the file that contains the initial parameters (section 3.3), or
+(Keyboard), if the parameters have been entered through the keyboard, or
+(Modified), if the parameters have been changed (sections 3.4.3 and 3.4.4).
+All information described above for the numbers 2, 3, 4, 5, 7, 8, 9 and 10 is obtained directly from the input data file. After reading the screen, it is possible to return to the Main Menu by pressing
+<enter>
+3.4.2 Displaying the Results
+If in the Main menu we select
+we will see the results menu, that contains the options for presenting the parameters and results of the population analysis (VPA or cohort analysis) [p11]:
++-- Main Option 2 -----------------------------------+
+¦ RESULTS ¦
+¦ 1 Parameters (Recall) ¦
+¦ 2 Catch data ¦
+¦ 3 Length, Age and Weight classes ¦
+¦ 4 Number of individuals ¦
+¦ 5 Mortalities ¦
+¦ 6 Summary of Global Results ¦
+¦ 0 Exit to Main Menu ¦
+It is possible to return to the Results menu [p11] from any of the options by pressing
+<enter>
+after the information has been presented on the screen.
+From this menu we can return to the Main menu by entering:
+It is not possible to print results or write them to the output file from the Visualizing Results menu, this can be done from option 4 in the Main menu (see section 3.4.4).
+3.4.2.1 Parameters
+If in the results menu [p11] we select
+we will see the list of parameters. Although this list does not correspond to any result, it seemed appropriate to be able to review parameters from this menu.
+To edit parameter values it is necessary to go to the Main menu and select 3 (see section 3.4.3).
+In the example, we will see the following message on the screen:
+L(inf) = 95.00
+K = .9000E-01
+t0 = -.6000
+a = .4000E-02
+b = 3.100
+M = .1500
+Fterm = .5000
+Prop. for Gears: 1883.464 1976.399
+Finally we get the following question:
+Do you want also to see the Proportion Mature? (y/n)
+If we answer with
+y
+we will see listed on the screen the proportion mature by size class. The reason behind this question is that this list is normally very long and if it was displayed automatically it would scroll out of the screen the information above.
+In the example, we will see the following on the screen:
+Class: 1 Length = 7.000 Prop. Mature = .000
+Class: 2 Length = 9.000 Prop. Mature = .000
+Class: 3 Length = 11.000 Prop. Mature = .000
+Class: 4 Length = 13.000 Prop. Mature = .000
+Class: 5 Length = 15.000 Prop. Mature = .000
+Class: 6 Length = 17.000 Prop. Mature = .000
+Class: 7 Length = 19.000 Prop. Mature = .000
+Class: 8 Length = 21.000 Prop. Mature = .000
+Class: 9 Length = 23.000 Prop. Mature = .000
+Class: 10 Length = 25.000 Prop. Mature = .000
+Class: 11 Length = 27.000 Prop. Mature = .000
+Class: 12 Length = 29.000 Prop. Mature = .000
+Class: 13 Length = 31.000 Prop. Mature = .400
+Class: 14 Length = 33.000 Prop. Mature = .700
+Class: 15 Length = 35.000 Prop. Mature = 1.000
+Class: 16 Length = 37.000 Prop. Mature = 1.000
+Class: 17 Length = 39.000 Prop. Mature = 1.000
+Class: 18 Length = 41.000 Prop. Mature = 1.000
+Class: 19 Length = 43.000 Prop. Mature = 1.000
+Class: 20 Length = 45.000 Prop. Mature = 1.000
+Class: 21 Length = 47.000 Prop. Mature = 1.000
+Class: 22 Length = 49.000 Prop. Mature = 1.000
+Class: 23 Length = 51.000 Prop. Mature = 1.000
+Class: 24 Length = 53.000 Prop. Mature = 1.000
+Class: 25 Length = 55.000 Prop. Mature = 1.000
+Class: 26 Length = 57.000 Prop. Mature = 1.000
+Class: 27 Length = 59.000 Prop. Mature = 1.000
+Class: 28 Length = 61.000 Prop. Mature = 1.000
+Class: 29 Length = 63.000 Prop. Mature = 1.000
+Class: 30 Length = 65.000 Prop. Mature = 1.000
+Class: 31 Length = 67.000 Prop. Mature = 1.000
+Class: 32 Length = 69.000 Prop. Mature = 1.000
+Class: 33 Length = 71.000 Prop. Mature = 1.000
+Class: 34 Length = 73.000 Prop. Mature = 1.000
+Class: 35 Length = 75.000 Prop. Mature = 1.000
+Class: 36 Length = 77.000 Prop. Mature = 1.000
+Class: 37 Length = 79.000 Prop. Mature = 1.000
+Class: 38 Length = 81.000 Prop. Mature = 1.000
+Class: 39 Length = 83.000 Prop. Mature = 1.000
+3.4.2.2 Catch
+If in the Results menu [p11] we select
+we will see on the screen the list of catches by fishing gear:
+In the example, we will see the following on the screen:
+Class: 1 Length = 7.000 Prop. Mature = .000
+Class: 2 Length = 9.000 Prop. Mature = .000
+Class: 3 Length = 11.000 Prop. Mature = .000
+Class: 4 Length = 13.000 Prop. Mature = .000
+Class: 5 Length = 15.000 Prop. Mature = .000
+Class: 6 Length = 17.000 Prop. Mature = .000
+Class: 7 Length = 19.000 Prop. Mature = .000
+Class: 8 Length = 21.000 Prop. Mature = .000
+Class: 9 Length = 23.000 Prop. Mature = .000
+Class: 10 Length = 25.000 Prop. Mature = .000
+Class: 11 Length = 27.000 Prop. Mature = .000
+Class: 12 Length = 29.000 Prop. Mature = .000
+Class: 13 Length = 31.000 Prop. Mature = .400
+Class: 14 Length = 33.000 Prop. Mature = .700
+Class: 15 Length = 35.000 Prop. Mature = 1.000
+Class: 16 Length = 37.000 Prop. Mature = 1.000
+Class: 17 Length = 39.000 Prop. Mature = 1.000
+Class: 18 Length = 41.000 Prop. Mature = 1.000
+Class: 19 Length = 43.000 Prop. Mature = 1.000
+Class: 20 Length = 45.000 Prop. Mature = 1.000
+Class: 21 Length = 47.000 Prop. Mature = 1.000
+Class: 22 Length = 49.000 Prop. Mature = 1.000
+Class: 23 Length = 51.000 Prop. Mature = 1.000
+Class: 24 Length = 53.000 Prop. Mature = 1.000
+Class: 25 Length = 55.000 Prop. Mature = 1.000
+Class: 26 Length = 57.000 Prop. Mature = 1.000
+Class: 27 Length = 59.000 Prop. Mature = 1.000
+Class: 28 Length = 61.000 Prop. Mature = 1.000
+Class: 29 Length = 63.000 Prop. Mature = 1.000
+Class: 30 Length = 65.000 Prop. Mature = 1.000
+Class: 31 Length = 67.000 Prop. Mature = 1.000
+Class: 32 Length = 69.000 Prop. Mature = 1.000
+Class: 33 Length = 71.000 Prop. Mature = 1.000
+Class: 34 Length = 73.000 Prop. Mature = 1.000
+Class: 35 Length = 75.000 Prop. Mature = 1.000
+Class: 36 Length = 77.000 Prop. Mature = 1.000
+Class: 37 Length = 79.000 Prop. Mature = 1.000
+Class: 38 Length = 81.000 Prop. Mature = 1.000
+Class: 39 Length = 83.000 Prop. Mature = 1.000
+Class Total Catch Catch per Gear
+3.4.2.3 Length, age and weight
+If in the Results menu [p11] we select
+we will see on the screen the list of the lower limits and averages of ages, lengths and weights for each class:
+In the example, we will see the following on the screen:
+Class Age Mean age Length Mean Length Weight Mean Weight
+3.4.2.4 Population number
+If in the Results menu [p11] we select
+we will see on the screen the population number at the initial and annual average for each class.
+In the example, we will see the following on the screen:
+Class Init. No. Mean No.
+3.4.2.5 Mortalities
+If in the Results menu [p11] we select
+we will see for each class the total mortality, the total fishing mortality and the fishing mortality for each fishing gear:
+In the example, we will see the following on the screen:
+Class Ztot Ftot F per gear
+3.4.2.6 Summary of global results
+If in the Results menu [p11] we select
+we will see a summary of the global population results calculated from the VPA and the Yield-per-recruit: overall total, fishing, and fishing per gear mortalities average age and length of the population, critical age and length (corresponding to the maximum biomass B(max), see section 5.7), annual average population number and annual average biomass, recruitment, total yield-per-recruit and yield-per-recruit by fishing gear, and biomass per recruit. A table of biomass balance is also presented (see last paragraph of section 4.4.3.4). In the example we will see
+mean Z ................... .4302
+mean F: total & per gear .2802 .0868 .1934
+global F: total & per gear .2776 .2418 .0358
+age (mean) ............... 2.6709 (critical) ........... 5.6766
+length (mean) ............ 22.7989 (critical) ........... 41.0000
+mean individuals at sea .. .4867E+07
+mean biomass (B(mean)) ... .7255E+09
+recruitment (number) ..... .2081E+07
+Y/R ...................... 96.1009
+Y/R per gear ............. 36.5183 59.5826
+B/R ...................... 348.5973
+General Biomass Equation Total Biomass Balance (D) = .3088E+09
+Biomass Percent
+Inputs Recruitment .3469E+07 1.1%
+Growth .3054E+09 98.9%
+Outputs Natural dead .1088E+09 35.2%
+Biomass caught .2000E+09 64.8%
+R/B(mean) = .5% D/B(mean) = 42.6% (turnover)
+B(max)/B(mean) = 15.0% B(max)/D = 35.3%
+We have to note that if we are dealing with a + group, these results can be misleading because most of the above averages are time-integrated values (see section 5.5).
+3.4.3 Parameter editing
+If in the Main menu we select
+we will see the parameter editing screen [p12]
++- Main Option 3 ------------------------------------+
+¦ PARAMETER EDITING MENU ¦
+¦ 1 Growth ¦
+¦ 2 Length-Weight relationship ¦
+¦ 3 Natural Mortality (M) ¦
+¦ 4 Terminal F (Fterm) ¦
+¦ 5 Proportion factors for Gears ¦
+¦ 6 Proportion Mature ¦
+¦ 0 Exit to the Main Menu ¦
+The different options of this menu show the values of the different parameters and ask you if you want to change them.
+Do you want to change them? (y/n)
+If you answer
+y
+the program will request new parameter values. To enter these values, follow the procedures outlined to enter the initial parameter set (see section 3.3).
+If you do not want to modify the parameters enter
+n
+in which case the program will return to the Parameter Menu.
+We now describe in detail all the options of this menu:
+3.4.3.1 Growth
+If in the Parameter menu we enter
+we will see on the screen the list of Von Bertalanffy growth parameters, L(inf), k and t0 (section 5.3). In the example we will see:
+The Growth Parameters are
+L(inf) = 95.00
+K = .9000E-01
+t0 = -.6000
+Do you want to change them? (y/n)
+If we have requested to modify the parameters, we will see
+Enter the Growth parameters
+L(inf) K t(0)
+Note that we will have to enter the three values even if we only wanted to modify one of them. This applies to all options of the Parameter Menu.
+The values of the growth parameters have to be consistent with the data, as it is explained in the chapters referring to parameter entry. This is specially the case of the measurement units (sections 3.3 and 4.2). If there is a problem with t0 and L(inf) a message requesting new parameter values will appear on the screen. This procedure is detailed in section 3.3.
+3.4.3.2 Length-Weight Relationship
+If in the Parameter menu [p12] we enter
+we will see the values of a and b from the length-weight relationship. In the example we will see:
+The Length-Weight relationship Parameters are
+a = .4000E-02
+b = 3.100
+Do you want change them ? (y/n)
+And if we have asked to modify the parameter values we will see
+Enter the Parameters of the Length-Weight relationship
+a b
+As previously mentioned, we need to enter both values even if only one was to be modified.
+3.4.3.3 Natural Mortality
+If in the Parameter menu [p12] we enter
+we will see the value given to natural mortality M. In the example we will see:
+The Natural Mortality is
+M = .1500
+Do you want to change it? (y/n)
+And will request a new value if we have asked to change it.
+3.4.3.4 Terminal Fishing Mortality
+If in the Parameter menu [p12] we enter
+we will see the value of fishing mortality corresponding to the last class, Fterm. In the example we will see:
+The Terminal Fishing Mortality is
+Fterm = .5000
+Do you want to change it (y/n)
+And will demand a new value if requested.
+This parameter can also be modified from option 4 in the Main menu (Section 3.4.4.2).
+3.4.3.5 Proportions by fishing gear
+If in the Parameter menu [p12] we enter
+we will see the proportions per fishing gear and will be asked if we want to change them (for more detail see section 4.2). In the example we will see:
+The Proportion factors are
+Gear 1 Prop. factor = 1883.464
+Gear 2 Prop. factor = 1976.399
+Do you want to change them? (y/n)
+If we want to change these values we will be asked if we want to make the conversion on the basis of the number of individuals or on the weight,
+Options to introduce Proportion factors:
+0 To convert according Number
+1 To convert according Weight
+In order to do the conversion according to weight it is necessary to know the total catch, otherwise the conversion can only be done on the basis of number.
+Therefore, if we decide to do the conversion on the basis of numbers, we will answer,
+in which case we will be asked to enter the proportions for each fishing gear. In the example,
+Enter Proportions for the 2 Gears
+On the other hand if we want to do the conversion by weight we will answer,
+in which case we will be asked to first enter the total catch in weight
+Enter Total Weight
+and then will be asked the percentages contributed by each fishing gear. In the example
+Enter Percentages for the 2 Gears
+Note that in this case, in contrast to the conversion by number, we are requested percentages, such that if the sum is not 100 it will not be accepted and new values will be requested again.
+Once these percentages have been entered, the program reconstructs the population through a VPA to estimate the proportions in numbers and estimate the total catch. This process is iterated until the difference between two successive estimates of total catch is less than 10^-6. If the iteration limit is reached and the difference is still larger than 10^-6 an error message will appear on the screen. For example, let's assume that the total catch was 1,000,000 kg and the value estimated through the above process was 1,000,005 kg, the relative error will be 5 10^-6, and we will see on the screen:
+WARNING! Relative error of: 5.000000E-06
+Enter to continue
+This is only a warning message and the program continues normally by typing
+<enter>
+This error, however, may be an indication that the values used are extravagant and have not reached equilibrium (see recommendations in section 3.2).
+3.4.3.6 Proportion mature
+If in the Parameter menu [p12] we enter
+we will see on the screen the proportion mature for each class. In the example we will see:
+Class: 1 Length = 7.000 Prop. Mature = .000
+Class: 2 Length = 9.000 Prop. Mature = .000
+Class: 3 Length = 11.000 Prop. Mature = .000
+Class: 4 Length = 13.000 Prop. Mature = .000
+Class: 5 Length = 15.000 Prop. Mature = .000
+Class: 6 Length = 17.000 Prop. Mature = .000
+Class: 7 Length = 19.000 Prop. Mature = .000
+Class: 8 Length = 21.000 Prop. Mature = .000
+Class: 9 Length = 23.000 Prop. Mature = .000
+Class: 10 Length = 25.000 Prop. Mature = .000
+Class: 11 Length = 27.000 Prop. Mature = .000
+Class: 12 Length = 29.000 Prop. Mature = .000
+Class: 13 Length = 31.000 Prop. Mature = .400
+Class: 14 Length = 33.000 Prop. Mature = .700
+Class: 15 Length = 35.000 Prop. Mature = 1.000
+Class: 16 Length = 37.000 Prop. Mature = 1.000
+Class: 17 Length = 39.000 Prop. Mature = 1.000
+Class: 18 Length = 41.000 Prop. Mature = 1.000
+Class: 19 Length = 43.000 Prop. Mature = 1.000
+Class: 20 Length = 45.000 Prop. Mature = 1.000
+Class: 21 Length = 47.000 Prop. Mature = 1.000
+Class: 22 Length = 49.000 Prop. Mature = 1.000
+Class: 23 Length = 51.000 Prop. Mature = 1.000
+Class: 24 Length = 53.000 Prop. Mature = 1.000
+Class: 25 Length = 55.000 Prop. Mature = 1.000
+Class: 26 Length = 57.000 Prop. Mature = 1.000
+Class: 27 Length = 59.000 Prop. Mature = 1.000
+Class: 28 Length = 61.000 Prop. Mature = 1.000
+Class: 29 Length = 63.000 Prop. Mature = 1.000
+Class: 30 Length = 65.000 Prop. Mature = 1.000
+Class: 31 Length = 67.000 Prop. Mature = 1.000
+Class: 32 Length = 69.000 Prop. Mature = 1.000
+Class: 33 Length = 71.000 Prop. Mature = 1.000
+Class: 34 Length = 73.000 Prop. Mature = 1.000
+Class: 35 Length = 75.000 Prop. Mature = 1.000
+Class: 36 Length = 77.000 Prop. Mature = 1.000
+Class: 37 Length = 79.000 Prop. Mature = 1.000
+Class: 38 Length = 81.000 Prop. Mature = 1.000
+Class: 39 Length = 83.000 Prop. Mature = 1.000
+Do you want to change them ? (y/n)
+If we have requested to change these proportions, we will see the instructions to enter the newvalue. In the example, we will see such instructions and will be requested to enter the new value for the first class:
+Enter the New proportion Mature (0 to 1)
+At the class where 1 is reached, Enter -1
+Class: 1 Length = 7.000 Old Prop. = .000
+New Prop.?
+and hereafter until the last class or until we enter
+in one of the classes, at which point the program assumes that thereafter all classes correspond to mature individuals.
+Note that, according to the instructions, these proportions have to range between 0, when no mature individuals exist, and 1, when all individuals are mature.
+VPA DIAGRAM
+3.4.4 Virtual Population Analysis (VPA)
+If in the Main menu we enter
+We will see the VPA menu [p13].
++- Main Option 4 -----------------------------------+
+¦ VPA OPTIONS ¦
+¦ 1 Print (in the output file) the VPA results ¦
+¦ 2 See F's (with option to modify Fterm) ¦
+¦ 0 Exit to Main Menu ¦
+In fact the VPA was conducted during the introductory phase of the program (section 3.1), however, its results are not written to the output file until this menu is chosen.
+3.4.4.1 Printing the results of the VPA
+If in the VPA menu [p13] we enter
+the program will write the complete results of the VPA in the output file, OUT.PRN in the example (see section 4.4.3), and will then return to the Main menu [p8] or [p9].
+3.4.4.2 Manual adjustment of the terminal fishing mortality
+The VPA menu [p13] offers the possibility to change the terminal fishing mortality by entering,
+however, in contrast with the previous menu (section 3.4.4.1), this option does not write anything to the output file. This option only shows on the screen the fishing mortalities estimated from the VPA. This allows the user to examine the values estimated by the VPA and manually adjust the terminal fishing mortality. Every time a new value is entered the VPA is recalculated, and once this option is chosen again, the new fishing mortalities are shown. In fact this menu is an alternative option for editing the value of terminal fishing mortality to the one provided in the Parameter menu (3.4.3.4). Both options have the same result, but the present one gives direct access to the list of fishing mortalities and allows us to see the impacts on the reconstructed population of changes in the terminal fishing mortality.
+Through repetition of this procedure, satisfactory values of fishing mortality can been obtained. We can then use option 1 in the VPA menu (section 3.4.4.1) to write the complete results to the output file.
+If we choose this option in the example, we will see the following list on the screen:
+Class Ftot F per Gear
+The Terminal Fishing Mortality is
+Fterm = .5000
+Do you want to change it (y/n)
+If we are happy with the results, we should reply with
+n
+However, if we want to change the value of terminal fishing mortality, we will reply with
+y
+and we will be asked for a new value, like in the Parameter menu (section 3.4.3.4),
+Enter the Terminal Fishing mortality (Fterm):
+Either way we will be sent back to the VPA menu [p13], where we can choose to print the results (1), do another adjustment (2), or return to the Main menu (0).
+3.4.5 Yield-per-recruit analysis (Y/R)
+If from the Main menu we enter
+we will see the Y/R menu [p14]:
++- Main Option 5 ------------------------------------+
+¦ YIELD PER RECRUIT OPTIONS ¦
+¦ METHOD: * Calculated Mean Weights ¦
+¦ Factor for Maximum effort = 2.0 ¦
+¦ Resolution = .010 ¦
+¦ EXECUTION OPTIONS: ¦
+¦ 1 present status, maximums and 0.1 strategy ¦
+¦ 2 print 200 points ¦
+¦ SETUP OPTIONS: ¦
+¦ 3 Change Method ¦
+¦ 4 Change Number of points or Maximum Factor ¦
+¦ 0 Exit to Main Menu ¦
+The above screen shows, in addition to the four options, the calculation method, the Factor f for maximum effort (see section 5.8 for further explainations of this concept) and the resolution (step width).
+The default method for this screen (calculated mean weights) is the correct one but it has the inconvenience of being slow (see section 3.4.5.3).
+The default for the maximum effort is twice the current effort (Factor f =2) and the default resolution is 0.01, corresponding to 200 points within the range of efforts considered.
+Other than the option to exit to the Main menu (0), there are two types of options in this menu: the Y/R analysis (1 and 2), that are written to the output file, and the method options (3 and 4).
+In option 2 the program informs of the number of points considered between zero and the maximum effort. The ratio of the maximum effort and the number of points gives us the resolution. Obviously the greater the number of points the better the resolution. However, the greater the number of points the longer it takes for the calculations.
+3.4.5.1 Reference points from the yield-per-recruit curve
+If in the Y/R menu we enter
+The program computes the reference points for the Y/R curve within the range of efforts considered, and with the precision given by the resolution. These reference points are:
+i Y/R corresponding to effort factors of 0 (zero effort), 1 (current effort) and maximum (the highest effort considered).
+ii the effort values that produce the highest Y/R for each gear and overall (F(max)).
+iii the effort corresponding to the 0.1 strategy, that is where the slope of the curve is 10% of the slope at the origin (F(0.1))
+These results are written to the output file ordered in increasing effort and indicating, as shown above, what type of reference point it is (section 4.4.4). These calculations are slow, and to prevent the user's impatience the following message appears [p15]
+¦ W O R K I N G ! ¦
+YIELD PER RECRUIT DIAGRAM
+Once the calculations are finished we are returned to the Y/R menu.
+3.4.5.2 Printing values from the Y/R curve
+If in the Y/R menu [p14] we enter
+yield-per-recruit calculations for the number of effort values selected will be made. These values are regularly spaced, according to the resolution, from 0 to the maximum effort. The resulting table allows us to draw the yield-per-recruit curves through a spreadsheet. The resolution of this curve is reported in the Y/R menu screen.
+If there is more than one gear, and we use the correct Y/R calculation method (see section 3.4.5), the screen will show two options[p16]:
++- Y/R N points -------------------------------------+
+¦ OPTIONS FOR VARYING FACTOR ¦
+¦ 1 All the gears vary according the factor ¦
+¦ 2 The factor affects every gear separately ¦
+Option 1 makes a global analysis, which means, the factor affects the total effort so the proportion of effort between the different gears stays the same.
+Option 2 makes as many analysis as fishing gears. In every single analysis the factor affects the effort of just one gear, while the rest stay in their real effort (with factor 1).
+In the particular case of working with two gears the screen shows one more option[p17]:
++- Y/R N points -------------------------------------+
+¦ OPTIONS FOR VARYING FACTOR ¦
+¦ 1 All the gears vary according the factor ¦
+¦ 2 The factor affects every gear separately ¦
+¦ 3 The factor varies inversely for the two ¦
+¦ gears ¦
+This new option 3, makes a crossed analysis, which means that whereas for the first gear the factor varies from 0 to the maximum, for the second one varies inversely, from the maximum to 0.
+Finally, when the correct calculation method is not being used, or obviously when there is just one gear, this option does not show anything because the program directly makes a global analysis, equivalent to option 1.
+In any case, the results are written in the output file and, while the calculations are being processed, the waiting screen is shown [p15].
+3.4.5.3 Change of method
+If in the Y/R menu [p14] we enter
+we will be able to change the method of calculating Y/R in the following screen [p18]:
++-- Y/R Method --------------------------------------+
+¦ Enter option for calculating Y/R and B/R ¦
+¦ 1 with Initial Weights ¦
+¦ 2 with Mean Weigths from the current VPA ¦
+¦ (Both are Faster but Inexact) ¦
+¦ 0 with Mean Weights calculated for each level ¦
+¦ (* Correct Version - Default) ¦
+Method 1 uses, for each class, the weight corresponding to the lower limit of the class, and method 2, uses the average weight for each class calculated in the VPA. Neither of these two methods require new calculations and therefore they both save time. Both methods, however, are approximations and are only useful to get an idea of the global behavior. Although method 2 is more precise than method 1, the later is included for comparison because other software packages use it. We generally do not recommend neither of the above two methods. That is why neither the crossed analyses nor the analysis by gear can be performed with either of the above methods. To perform these analyses we have to chose the correct method through option 0 (for more information see section 5.8).
+Once we have selected the method to use we will see, in the new Y/R menu, the method's name, without the asterisk if it is not the correct one. For example, if we chose method 1 we will see the following text on the screen:
++- Main Option 5 ------------------------------------+
+¦ YIELD PER RECRUIT OPTIONS ¦
+¦ METHOD: Initial Weights ¦
+¦ Factor for Maximum effort = 2.0 ¦
+¦ Resolution = .010 ¦
+¦ EXECUTION OPTIONS: ¦
+¦ 1 present status, maximums and 0.1 strategy ¦
+¦ 2 print 200 points ¦
+¦ SETUP OPTIONS: ¦
+¦ 3 Change Method ¦
+¦ 4 Change Number of points or Maximum Factor ¦
+¦ 0 Exit to Main Menu ¦
+3.4.5.4 Changing the number of points or the maximum effort factor
+If in the Y/R menu [p14] we introduce
+we will be asked the number of points and the maximum effort factor.
+enter Number of points and Maximum effort factor
+As a result of this change, the resolution of the analysis will also be modified.
+Once all the required values have been introduced, the new menu will show all the changes made. For example, if after having worked with the method 2 (section 3.4.5.3) we have introduced 50 points and a maximum factor of 3 through the present option, the screen [p14] of the Y/R menu will show:
++- Main Option 5 ------------------------------------+
+¦ YIELD PER RECRUIT OPTIONS ¦
+¦ METHOD: Mean Weights from VPA ¦
+¦ Factor for Maximum effort = 3.0 ¦
+¦ Resolution = .060 ¦
+¦ EXECUTION OPTIONS: ¦
+¦ 1 present status, maximums and 0.1 strategy ¦
+¦ 2 print 50 points ¦
+¦ SETUP OPTIONS: ¦
+¦ 3 Change Method ¦
+¦ 4 Change Number of points or Maximum Factor ¦
+¦ 0 Exit to Main Menu ¦
+Notice that the Maximum factor and the resolution have been changed, as well as the number of points that shows next to option 2.
+The program does not allow the maximum factor to be less than 1 (current effort), but it doesn't have an upper limit. However, just as it was mentioned in the general recommendations chapter (section 3.2), excessively high values that can cause errors and stop the programs' execution shouldn't be used. Also we do not recommend that the number of points be very high, since that can result in a slowness that will not compensate for the increase of resolution.
+3.4.6 Transition analysis
+If the data is structured by age, and in the main menu [p8] we introduce
+the first screen for the transition analysis (p19) will show:
++- Main Option 6 ------------------------------------+
+¦ CHANGE OF EXPLOITATION OPTIONS FOR TRANSITION ¦
+¦ A. Changes in fishing mortalities: ¦
+¦ 1 Multiplies vector(s) F(s) by factor(s) ¦
+¦ 2 modifies F(s) vector(s) ¦
+¦ B. How this changes are applied: ¦
+¦ 1 all changes in the first year ¦
+¦ 2 different changes for each year ¦
+¦ Note: ¦
+¦ Access by keyboard is restricted to Options: 1,1. ¦
+¦ The rest of combinations require an input file. ¦
+¦ Enter: No. of years to simulate, Options A and B ¦
+The transition analysis allows us to simulate, in the absence of equilibrium, the evolution of the fishery through several years starting with one or more of these conditions:
+1 Change in theeffort level,
+2 Change in the exploitation pattern (selectivity -vector F),
+3 Use of a particular stock-recruitment model,
+4 Use of stochastic recruitment (lognormal).
+The results of this analysis are written in the output file as yield-per-recruit.
+This analysis can be very useful when we want to do a medium term evaluation of the risk associated with a change in exploitation. However, we have to take into account that it is a purely theoretical analysis, and we cannot avoid to strictly monitor the exploitation changes of a real fishery.
+The first step of this analysis is to answer the three questions of screen [p19]: number of years for the simulation, type of change in fishing mortality, and how such change is to be applied throughout time.
+The number of years is limited to a maximum of 20.
+DIAGRAM FOR TRANSITION ANALYISIS
+The exploitation changes are introduced by modifying the fishing mortality (these are options in A). This modification can be done either in the initiall stage, fixing the new value through the first year of simulation; or progressively, with different values throughout the years being simulated (these are options in B).
+For the change in exploitation we can choose between the two alternative options A:
+1 To multiply the existing fishing mortalities by a factor (Option A=1)
+2 To enter new fishing mortality values (Option A=2)
+There are also two options B for how to perform these changes in time:
+1 Making a change in the first year of the simulation and leaving it at that (Option B=1).
+2 To introduce a different change each year, such that the variation can be progressive (Option B=2).
+Except in cases where we would choose options A=1 and B=1, we would have to enter quite a few data. That is why screen [p19] notes the need for a data file (section 4.3.1). The VIT program comes with example files for all possible combinations except for the one where A=1 and B=1.
+Let's assume that we are working with the example data and we have decided to study the transition over ten years by modifying the fishing mortalities by a factor (Option A=1) from the first year of simulation (Option B=1). We will therefore enter
+Given that, in this case we need to enter the data through the keyboard and we will then be asked:
+Enter 2 factor(s) for F(s)
+to which we will have to reply by entering one factor for each fishing gear (four in the example). The program will then modify the fishing mortality of each gear by the factors entered in the first year of simulation. These new values will be fixed for the 10 years of the transition period that we wanted to analyze. If we wanted to study the variations in recruitment we will have to enter 1 (no change in exploitation) for each gear factor (see below).
+Let's imagine that instead of options 1 and 1 for A and B respectively, we have chosen another pair. For example, let's say we chose 1 and 2, but we wanted to do the same analysis as above. In such case we will enter:
+and we will have to have a file with fishing mortality values for each gear, because the next question will be:
+Enter the file containing changes
+to which we will have to reply with the name of the file. In this case we can use the example file T12.DAT. The other example file T21.DAT can be used for the combinations 2,1 of options A and B (see section 4.3.1).
+Up until now we have only proposed changes in exploitation, the next step is to decide if we also want to propose changes in recruitment. We may want to particularly study only the effect of changes in recruitment with the available models. In such case, in the previous step, we will choose 1 for options A and B and enter 1 for all mortality factors. Like that we will maintain the exploitation pattern.
+Once we have, one way or the other, gone through the first step we will see the second screen of the transition analysis. This screen requests if we want constant recruitment [p20]:
+¦ Do you want a Constant Recruitment Analysis? ¦
+If we reply affirmatively
+y
+the program directly performs the analysis of the effects of changes in exploitation for the requested number of years. The results of this analysis are written to the output file and the program returns to the Main Menu.
+However, if we reply negatively to the question in [p20]
+n
+then we enter the analysis of variable recruitment. We will then see a warning on the screen about how a slow process this is [p21]:
+¦ YOU DECIDED TO PLAY WITH VARIABLE RECRUITMENT! ¦
+¦ This allows to use Stock-Recruitment models ¦
+¦ and to introduce Stochastic Recruitment in ¦
+¦ the analysis. ¦
+¦ But.... THIS OPTIONS REQUIRE TIME ¦
+¦ Do you want to proceed? ¦
+If in spite of this warning we pretend to continue, that is, if we answer
+y
+We will see a new screen [p22] where we need to choose one of the following stock-recruitment models:
+i Constant recruitment
+ii Beverton and Holt model
+iii Ricker model
+¦ STOCK RECRUITMENT RELATIONSHIP ¦
+¦ CHOOSE one of the following recruitment models: ¦
+¦ 1 Constant recruitment: R = 1 ¦
+¦ 2 Beverton & Holt's model: R = --------- ¦
+¦ a + b/S ¦
+¦ 3 Ricker's model: R = a S exp(-ßS) ¦
+¦ being R the number of recruits, S the Spawning ¦
+¦ Stock Biomass, and a, b, a and ß parameters. ¦
+¦ In all cases, the models are used 'per recruit' ¦
+¦ i.e., the selection of parameters is restricted ¦
+¦ R=1 when S is the actual S.S.B. ¦
+The above models are formulated such that R, the dependent variable is equal to 1 when the spawning stock biomass (S.S.B.) is at the level prior to the transition (section 5.9.2). That is why, when recruitment is constant, R=1.
+Note how we are still offered the possibility of choosing constant recruitment (option 1) although this option had been discounted before. In fact this option is not really a stock recruitment model, but is a particular case of Beverton & Holt (option 2) when a=1 and b=0. The only reason to be able to access this option is that it leads to the next step where we can add stochastic fluctuations. We can then have an analysis where the average recruitment is equal to the current level and it is independent of stock size.
+The parameters for curves 2 and 3 are not entered as they appear in the model equations instead, other parameters with more biological meaning are requested. The screens that request these parameters show the value of spawning stock biomass that corresponds to R=1.
+If we chose the Beverton & Holt model (Option 2) we will see the following message on the screen [p23]:
+¦ BEVERTON & HOLT'S STOCK-RECRUITMENT MODEL ¦
+¦ R(S) = 1 when S = 262.19 ¦
+¦ To determine the B&H recruitment curve you ¦
+¦ must enter the value of any one of the ¦
+¦ following parameters: ¦
+¦ 1 S(1/2) ¦
+¦ 2 Slope at origin (must be > .38140E-02) ¦
+¦ 3 Asymptote (must be > 1) ¦
+¦ ENTER: Code and Value ¦
+We can choose to enter the value of spawning stock biomass corresponding to half of the maximum recruitment, S(1/2) (Option 1), the slope at the origin (Option 2) or the asymptote (option 3). Either of these values will determine a single Beverton & Holt curve (see section 5.9.9.1 for details).
+If we chose Ricker's model (Option 3), the parameters are introduced by replying to the following screen [p24]:
+¦ RICKER'S STOCK-RECRUITMENT MODEL ¦
+¦ R(S) = 1 when S = 262.19 ¦
+¦ To determine the Ricker's recruitment curve ¦
+¦ you must enter the value of any one of the ¦
+¦ following parameters: ¦
+¦ 1 S(max) ¦
+¦ 2 Slope at origin (must be > .38140E-02) ¦
+¦ ENTER: Code and Value ¦
+In this case we can choose between: the maximum spawning biomass (option 1) or the slope a the origin (option 2). As in the previous case, either one of the two values determine a unique Ricker curve (see section 5.9.9.2 for details).
+Once the model has been decided and, when appropriate, its parameters have been introduced, we get to the last step which consists in specifying the stochastic analysis with screen [p25]:
+¦ STOCHASTIC ANALYSIS ¦
+¦ The Stochastic simulations are done in all cases ¦
+¦ as a multiplicative model: ¦
+¦ R = f(S) exp(e) ¦
+¦ where f(S) is the Stock-Recruitment model used ¦
+¦ and e a Random Normal distributed variable. ¦
+¦ Then, exp(e) is Lognormal distributed. ¦
+¦ It is assumed with Mean 1 and Variance V. ¦
+¦ Obviously, if V = 0, the analysis becomes ¦
+¦ DETERMINISTIC ¦
+¦ ENTER the value V ¦
+¦ or ¦
+¦ ENTER -1 for HELP ¦
+If we do not want to carry a stochastic analysis, in other words, if we want to do a deterministic transition analysis with the chosen model, we will enter
+in which case the analysis requested will be carried out, the results will be written to the output file, and the program will return to the Main menu.
+If we want to incorporate lognormally distributed stochastic recruitment, we will enter a positive value equal to the variance of the distribution (See section 5.9.3).
+Before we enter the value for the variance we can also get on-line help by entering
+We will then see the following screen [p26]
+¦ HELP ON VARIANCES FOR LOGNORMAL DISTRIBUTION ¦
+¦ The Lognormal distribution is asymetrical. ¦
+¦ In the program it is assumed with Mean=1. ¦
+¦ Under this assumption, the Variance affects the ¦
+¦ shape of the curve (i.e. its asymetry): the Mode, ¦
+¦ the Median are lower as the variance increases, ¦
+¦ and the upper Confidence Limit becomes higher. ¦
+¦ In the table, Mode, Median and Confidence Limits, ¦
+¦ at 95%, for several values of variance are shown ¦
+¦ Var Low C.I. Mode Median Upp C.I. ¦
+¦ Observe the meaning of upper confidence limits: ¦
+¦ for instance, for Var=2, the 2.5% of simulated ¦
+¦ recruitments would be 4.5 times the mean value. ¦
+¦ ENTER the value V ¦
+which is just a brief description of the behavior and the shape that this distribution takes depending on the value of its variance. For more information consult section 5.9.3.
+If one way or another, we have entered a value for the variance that is different from zero, the program requests confirmation of this value. To help us in the confirmation, the screen will show the confidence limits, median and mode of the distribution obtained with such value. For example if we entered the value 0.2 we will see the following screen [p27]
+¦ The Lognormal distribution obtained using ¦
+¦ this value of Variance will have the following ¦
+¦ Mode, Median and Confidence Limits at 95% ¦
+¦ Var Low C.I. Mode Median Upp C.I. ¦
+¦ Do you want to proceed with this value? [y/n] ¦
+If we reply affirmatively, the program will request the number of simulations desired to obtain the results, and their distribution statistics [p28]:
+¦ STOCHASTIC ANALYSIS ¦
+¦ How many simulations do you want ? ¦
+¦ (minimum 30) ¦
+In order to at least obtain some minimally significant values, the smallest number of simulations fixed by the program is 30. The greater the value of the variance the larger the number of simulations that we should use. In general, the minimum number recommended is 100. To estimate the time taken by the analysis and later compare the results with successive runs, it is instructive to first try with 30 simulations.
+Once we have indicated the number of simulations, the process of successive simulations starts. To prevent the impatience of the user, the screen shows the simulation count. Once the processing is finished, the program makes the statistical calculations, writes the results to the output file, and returns directly to the Main menu [p8].
+3.4.7 Sensitivity analysis
+If in the Main menu we enter
+We will see the first screen for the sensitivity analysis [p29].
+Main Option 7
++- Main Option 7 ------------------------------------+
+¦ SENSITIVITY ANALYSIS ¦
+¦ 1 Automatic analysis for each single parameter ¦
+¦ 2 Manual choice and combinations of parameters ¦
+¦ 0 Exit to Main Menu ¦
+¦ Enter your option ¦
+Sensitivity analysis estimates the effect of parameter variation (or precision errors) on the results. In spite of the disparity between parameters, the program treats them homogeneously.
+The general idea of a sensitivity analysis is to estimate the distribution of results, as a function of the error distribution of one or several parameters. This program does not attempt a general sensitivity analysis, but simply calculates the results that are obtained by changing parameter values. In total, 7 parameters and at the most 4 proportions by gear are considered. Therefore, the problem addressed is the investigation of the sensitivity of results to small changes in several, up to a maximum of 11, parameters.
+The results of this analysis are written to the output file in yield-per-recruit terms (in the same way as in the transition analysis). That way we obtain a summary information of the sensitivity of the results to errors in the parameters. If we want more information, we will have to do VPAs and yield-per-recruit analyses with the parameter modification desired.
+The seven parameters considered, other than the proportions by fishing gear, are the following:
+The Von Bertalanffy growth parameters:
+L(inf)
+k
+t0
+Length-weight parameters:
+a
+b
+Mortalities
+M
+Fterm
+Note that the parameters are not generally independent
+Given these limitations, the method proposed herein is to give a variation range to each parameter based on the error we have attributed them. The range of variation is expressed as a factor that affects the original parameter value. This factor determines the extreme values for each parameter considered, by multiplying the original values times (1 + factor) and (1 - factor).The method then calculates yield-per-recruit for the extreme values to see how these values affect the population. The method assumes that the results obtained for any of the intermediate values will fall between the results obtained for the extreme values.
+There is a single factor for each sensitivity analysis and it affects all parameters analyzed. This way of estimating the extreme values has the additional problem that the factor will not affect those parameters with an initial value of zero.
+3.4.7.1 Automatic analysis for each parameter
+If there were four fishing gears and we wanted to see all possible combinations we would have 2^11=2048 different results. Given this, the program offers two alternatives in menu [p29]. If we enter
+an analysis will be carried out where each parameter, automatically, will be varied by a factor requested on the screen [p30]:
+¦ Enter Factor (as proportion of 1) ¦
+The other parameters remain fixed to their initial values. Once the value of the factor is entered, the analysis are carried out and the program returns to the Main menu.
+It is possible that the lower limit of L(inf) is smaller than the maximum size in the data. In such case, the analysis cannot be done and we will get the following warning message [p31]:
+¦ WARNING! ¦
+¦ Analyses with too low L(inf) are requested. ¦
+¦ You have three options: ¦
+¦ 1 Back to enter a lower proportion ¦
+¦ 2 Continue. (Analyses will be done with the ¦
+¦ actual value, as lower limit) ¦
+¦ 0 Exit (return to Main Menu) ¦
+¦ Enter your option ¦
+We are then given the choice of modifying the factor, doing the analysis between the largest size and the maximum value of L(inf), or stopping the analysis. To choose we will enter respectively 1,2 or 0 .
+3.4.7.2 Analysis by groups of parameters
+If in the Sensitivity analysis menu [p29] we enter
+we will get a menu [p32] where we will be asked to enter the number of parameters, their codes - which are shown in the screen, and the factor:
+¦ SENSITIVITY ANALYSIS CHOICE MENU ¦
+¦ L(inf) K t0 a b M Fterm ¦
+¦ 8 a 11 Proportion of Gears ¦
+¦ ENTER: Number of parameters to be considered ¦
+¦ Codes of the parameters choosen ¦
+¦ Factor (as proportion of 1) ¦
+Once we have entered the information requested, and before the analyses start, we will be informed of the total number of analyses to be done and requested if we want to stop or continue. For example if we would have asked to do an analysis for 3 parameters, the number of analyses will be 2^3 = 8, and we will see the following screen [p33]:
+¦ 8 analyses to be done. ¦
+¦ Let's continue? (y/n) ¦
+We have to remember that for every parameter we add the number of analyses doubles, this not only takes a lot of time but also may produce intractable results. That is why it is recommended to first do the analysis for each parameter. Then, once we know the interactions we want to study, we can cautiously do the analysis by groups.
+It is possible that the appropriate values of factors used for each parameter are different. In such case it is not possible to study the interactions between parameters because the program requires a single factor for all parameters.
+As for the automatic analysis, if the lower limit for L(inf) is smaller than the maximum size in the population, we will see a warning message [p31]. This message gives the choice of modifying the factor, doing the analysis between the largest size and the maximum value of L(inf) or exit to the Main menu.
+3.4.8 Creating an age-structured file
+If data is size-structured, option 8 in the Main menu [p9] (section 3.4) allows us to transform the data to ages allowing the access to the transition analysis. Any other analysis can be done with either size-structured or age-structured data files.
+The transformation of data from sizes to ages creates new data and parameter files to be used in a new run of the program. Therefore, the transformed data cannot be used unless we re-start the program.
+Once the program performs the non-linear transformation of data - whose method is explained in section 5.10 - the distribution of classes changes: individuals from the same size class can belong to different age classes and vice versa. Therefore, results from analyses done with transformed data can sometimes show significant differences. Particularly, there can be conflicts between the new age classes and the parameter t0 (see section 3.3). There can also be conflicts with the definition of recruitment - the number of individuals coming into the first class - because the lower limit of the first size class, may correspond to a different instant than the lower limit of the first age class.
+The program also creates a new parameter file derived from the parameter values kept in memory at the time we selected this option. It has to be remembered that the parameter values can be modified during program execution (sections 3.4.3 and 3.4.4.2). The only parameters that require adapting to the new class structure are: the terminal fishing mortality (Fterm), and obviously the proportion mature per class. The other parameters do not require any modification. In section 5.10 we show the method employed to transform sizes to ages and how parameters are modified.
+Given the above considerations, if in the Main menu [p9] we enter:
+the program will request the name of the file that will contain the converted data by showing [p34]:
+¦ Enter the File name for Converted Data ¦
+to which we will respond with the name of a file, for example:
+EDATS.DAT
+If this was an already existing file, and to avoid overwriting it, we will get the following message:
+Existing file. Overwrite it? [y/n]
+If we reply affirmatively, the information contained in the file will be lost. If we reply negatively, screen [p34] will appear again to request another name.
+The next step will be to request the name of the file that will contain the parameters converted to the new structure of the data. This is done with the following screen [p35]:
+¦ Enter the File name for Converted Parameters ¦
+to which we will respond with the name of a file, for example:
+PARAM.EDA
+Like in the previous case, if the file existed, the program requests confirmation to overwrite it with the message,
+Existing file. Overwrite it? [y/n]
+If we reply affirmatively, the information contained in the file will be lost. If we reply negatively, screen [p35] will appear again to request another name.
+Once this process is finished, the program performs the calculations and writes the files whose characteristics are described in section 4.5. The program then returns to the Main menu, and displays a few lines with the names of the new files recently created. In the previous example we will see:
+NOW, Files: EDATS.DAT as Input
+and PARAM.EDA for Parameters, are created.
+Restart VIT, any time, to use them.
++-------------------- MAIN MENU ---------------------+
+¦ 1 General Information ¦
+¦ 2 Results ¦
+¦ 3 Parameter editing ¦
+¦ 4 VPA ¦
+¦ 5 Yield per recruit analysis ¦
+¦ 7 Sensitivity analysis ¦
+¦ 8 Creates a data file by ages ¦
+¦ 0 EXIT ¦
+As usual, it is possible to continue working with the program and select other options. However, as mentioned in the message above the menu, to work with transformed data it is necessary to restart the program because the information within memory still refers to the size-structured data.
+Whenever we have transformed the data to ages, and as soon as we decide to stop the program, we will see a message reminding us that we have done the transformation and showing us the names of the new files created. In the example it will be:
+You can restart VIT using
+EDATS.DAT
+as Input File, with
+PARAM.EDA
+for Parameters File,
+to use the options that require Age Structured Data.
+Stop - Program terminated.
+3.4.9 Changing the precision of the VPA
+Within the main menu there is a hidden option 9, used to modify the precision of the VPA. This option is used when the precision required to find a solution to the catch equation (with the secant method) is too high (see section 5.4.1). The precision can be lowered with this option.
+The default precision is 10^-12 (1.0E-12). If the algorithm has not converged this precision is lowered by an order of magnitude until a solution is found. This is an automatic process, however, the screen warns us of the final precision used. For example, if the solution was not found until the precision reached 10^-4, we will see the following message:
+WARNING: VPA precision decreased to 1.000000E-04
+This process is repeated until we reach a solution. Every time we carry out these calculations again, normally when we modify parameters, the precision returns to the default value. The only exception occurs when we have used the option to modify the precision. To do that from the Main menu we enter:
+we will then see on the screen the present precision value and will be requested if we want to modify it:
+The precision for VPA is 1.000000E-12
+Do you want to change it? (y/n)
+If we reply negatively, the program will return to the Main menu without doing anything. If we reply affirmatively, we will be requested a new value:
+Enter a new value
+The program will then change the default value and return to the Main menu.
+From now on this will be the precision used by the VPA.
+Note that, according to section 3.1, the VPA calculations were performed before the Main menu appeared. Therefore, if we do not modify the parameters, this new precision will not be used.
+<section>4</section>
+4. INPUT AND OUTPUT FILES
+4.1 Data files (Input)
+Each run of VIT can only analyze one set of data. This must be written in ASCII code in a sequential file. The first question made by the program is precisely the name of the file that contains the data (section 3.3). There are no restrictions for the name and extension of this file other than those defined by the operating system.
+The format of the file must be as follows:
+Row Contents
+1 Title, comment or message
+2 Data description according to the following 6 parameters:
+1 number of classes (age or size). Maximum 200
+2 number of fishing gears. Maximum 4 
+3 age or size indicator code: 
+if we deal with ages the code is 1
+if we deal with sizes the code is 2
+4 lower limit of the first class
+5 size class interval
+6 indicator code for plus group (see 5.2.2)
+if there is no class plus group the code is 1
+if there is a plus group the code is 2
+3 Frequency of the first class for each fishing gear
+4 Frequency of the second class for each fishing gear
+etc.
+All records in this file are entered in free format; values can be separated by either commas or spaces.
+In this file all classes must besorted in ascending order. If the frequency for any class is zero, there must still be a record for it. For example, a data set with 39 classes will have a file with 41 records or rows (2 headings and 39 frequencies).
+Example.
+We now show the file DADES.DAT, that exemplifies the above. This data corresponds to two fishing gears, with 39 size classes, with 2 cm class intervals, with a lower limit for the first class equal to 7 and without a plus group:
+Test Data: lengths
+Note that the units (cm) do not appear in the file.
+The data file cannot contain any rows (size or age classes) where the frequency is zero for all fishing gears. If that occurs, the execution stops because of a division by zero error.In this case we will have to find a reasonable alternative such as to substitute, at least for one fishing gear, the zero by a small number (small relative to the other frequencies). Other alternatives are: to convert the frequencies to other size or age classes, to smooth the frequency distribution, or to create or expand the plus group. This alternatives should be exercised according to experience or other sources of information.
+4.2 Parameter file (Input)
+The use of parameter file is optional but we recommend its use to facilitate the work. The parameter file must be created by the user in ASCII code. There are no restrictions for the name and extension of this file other than those defined by the operating system. The contents are as follows:
+Row Contents
+1 Growth parameters (Von Bertalanffy model): L(inf), k, t0
+2 Length-weight parameters: a and b
+3 Natural Mortality: M
+4 Terminal fishing mortality: Fterm
+5-6 Proportion factors or elements to calculate them.
+There are two options:
+Option 1. When we do not know the total biomass captured:
+Multiplicative proportion factor for each fishing gear
+Option 2. When we do know the total biomass captured:
+Total biomass captured
+Proportions of the biomass caught by each fishing gear
+7 Proportion mature in the first class
+8 Proportion mature in the second class
+etc. 
+For each class we have to enter the proportion of sexually mature individuals ranging from 0 (none are mature) to 1 (all are mature).
+All records in this file are entered in free format; values can be separated by either commas or spaces.
+When option 2 above is used for rows 5 and 6 of this file, the program calculates the proportions by numbers with an iterative method, as described in detail in section 3.4.3.5).
+Example
+We now show a possible parameter file (PARAM.INI) adapted to the population from the example of the previous chapter (section 4.1). In the example we know the total catch (row 5) and the percentages caught by each fishing gear (row 6). The first 12 classes correspond to immature individuals, and from class 15 onwards they are all mature.
+2.E08
+If the data is age-structured, there may be a conflict between
+the t0 parameter - third from the first row - and the lower limit of the first class,
+fourth from the second row of the parameter file (section 4.1). The conflict occurs when
+t0 is larger than the lower limit of the first class. To avoid this problem, the user must
+decide between changing the value of t0, reorganize the data so that this problem does not
+arise, or accept the errors derived from having negative weights.
+This problem often arises when the files have been obtained from size-structured data
+that has been transformed to ages from option 8 in the Main menu (see section 3.4.8).
+Given that the goal of the transformation is often to be able to do a transition analysis,
+we generally have to either accept the errors or change the parameters appropriately.
+4.3 Other input files 4.3.1 Files for changes in exploitation
+In the transition analysis, it is required to enter the changes in fishing mortality from a file. This does not apply in the case where we want to have a factor for each of the fishing gears in the first year of simulation (option A=1 and B=1, section 3.4.6). In all other cases, and depending on the option, we have to have a file with the desired changes and their evolution in time:
+Option A=1 and B=2
+This option proposes to go from the present fishing effort proportions, to the new proportions, by gradually modifying fishing effort year by year. That is why the file will need as many rows as there are years in the simulation. This is true even if effort is maintained during a few years, as in the example. In each row there will be one factor for each gear to affect the corresponding fishing mortality vector.
+Example
+In the example we can see a file (T12.DAT) that simulates, through twenty years, a gradual change in fishing effort. This change reduces to half the effort for the first fishing gear, and increases by 50% the fishing effort of the second fishing gear. The changes happen in five years from the first year of the simulation.
+Option A=2 and B=1
+This option proposes to change the fishing mortality vectors from the first year of simulation. That is why we need to create a file with the new fishing mortalities for each class (row) and fishing gear (columns).
+Example
+In the example we show a test file (T21.DAT) that was created from the fishing mortality vectors obtained by applying a VPA to the transformed age-structured data (see section 4.5). The only other modification is to shift the mortalities by one class and enter a value of 0.01 for the first class. In this way we simulate an increase in the mesh size.
+Option A=2 and B=2
+This option proposes doing a transition analysis when we change the values of fishing mortality from year to year. The file required for this option has the same structure, to be repeated for each year of the simulation, than that of option A=1 and B=2. An example is not presented because of the space it would take: for a file with 25 age groups and a 20 year simulation we will have to use 25x20 = 500 rows.
+4.4 Output file
+All results from processes requested by the user are written to a unique output file. This is an ASCII file which name and extension are set by the user, unless the default name given by the program is accepted (section 3.3). Although in the matter of names there are no limitations other than those defined by the operating system, it is recommended to use the extension .PRN to indicate that this file is ready for importing into a spreadsheet.
+The file is basically made up of titles and number tables. All titles appear within quotes to allow importing them without problems into a spreadsheet. Also, whenever there is a blank space within a number table, the file contains double quotes ("") so that the spreadsheet reserves a blank cell. Therefore, " should not be interpreted to mean that there is a repetition of the previous quantity.
+The output file is opened during the initial process, during which the file header is written. Each output from processes requested from the different menus is appended to the end of the file. Only the header file is written as a result of just starting the program.
+When the run is completed the file is closed. If in a new run we open this same file, all contents in the file are lost. This happens when the default name is used and is known as "wiping the data" (see recommendations from section 3.2). Remember that the program does not allow the use of the name of an existing file except for the default file name (section 3.3).
+At the end of this chapter an example of an output file with results from different options is presented.
+4.4.1 File header and final message
+The file header is created every time VIT is initialized. It includes the date and time at the beginning of the execution, followed by general information with the job title, specifications from the data file and the names of input, output and parameter files (if these are to come from a file). Therefore it is the same information contained in the general information screen [p10] (section 3.4.1).
+Whenever the program is stopped the execution time (in minutes) is recorded at the end of the file. Therefore all output files contain at least the header and the final message.
+Example:
+The following shows an example output file that contains only the header and the final message. This example was generated by running VIT, following the initial process and terminating it without doing any calculations, by using option 0 in the Main menu.
+" * VIT *
+" (c) F.A.O. & I.C.M. (C.S.I.C.).
+" Date " 29/10/97 "Initial time:" 14:33:57
+" GENERAL INFORMATION
+" Test Data: lengths
+" Num. of Classes:" 39 " Num. of Gears:" 2
+" Data arranged by LENGTHS VPA Method: STANDARD
+" Lower Limits: First class =" 7.00 " Last class =" 83.00
+" Incr. per Class:" 2.00 " Class + ? NO
+" Input File: DADES.DAT
+" Output File: OUTVIT.PRN
+" Parameter File: PARAM.INI
+"End time:" 14:34:39
+"Elapsed time:" .70 "minutes"
+4.4.2 Parameters
+The parameters are shown just before the results are printed, and will not be presented again until they are modified. If they are modified, they will be printed again just before the start of the printing of the next set of results. That is why it is always possible to associate parameters with the results that follow them.
+These parameters are: growth parameters from the Von Bertalanffy growth equation, L(inf), k, and t0; parameters from the length-weight relationship, a and b; natural mortality M; terminal fishing mortality Fterm; proportion factors for each fishing gear; and the proportion mature for each class. See the example at the end of the next section, next to the VPA results.
+4.4.3 Output from the population analyses (VPA and cohort)
+Given that the VPA represents the core of the program, the output of results contains large amounts of general information; in contrast to other options that, strictly, only have the requested results.
+The printing of VPA results has a few parts. One is the global results that contain the initial and average values by length, age, and weight, per class. Another one is a listing of the data used, and finally, a full listing of the VPA results.
+That is why it is recommended to print the VPA results (Section 3.4.4.1) to the output file.
+4.4.3.1 Global data
+The program presents a table with the class index and the lower and upper limits of length, age, and weight classes. It also presents the average age, length and weight of each class (see section 5.5). If there is a plus group, the index of this group shows a + sign. Note that the class limits are independent of the VPA and only depend on the growth and length-weight parameters. The average values, however, depend on the VPA. Such averages are a function of the curves of decline in numbers of individuals, determined by mortalities (see section 5.5). That is why the averages are always lower than the mid-point of the class.
+The last row has only the upper limits of age, length and weight, and the spaces for the averages and index are reserved. If there is a plus class, its upper limit is indicated with the word "infinity" because, that is the upper limit of this age class.
+It is worth noting that, generally, does not exist an individual matching the average age, length and weight for each class because the growth and length-weight relationships are non-linear. In the other parts of the program the results are presented in terms of average weights (more specifically in terms of yield-per-recruit).
+The class indices (first column) are used in all output structured by classes and always appear in the first column.
+4.4.3.2 Catch in numbers data, by class
+This table presents the frequency of individuals, per class, in the total catch (first column), and in the different gears (following columns) transformed according the proportion factors. At the end the table indicates the total number of captured individuals (sum), and the average lengths and ages of the total catch and the catch of each fishing gear.
+4.4.3.3 Catch in weight data, by class
+This table presents the catch in weight for each class: total (first column), and by fishing gear (following columns). A row at the end indicates the total catch and the catch by fishing gear, and the following row indicates the percentage (in weight) caught by each fishing gear. Note that if the option of using weights to calculate proportion factor is selected during parameter input, the total catch and the above percentages are fixed by the user.
+4.4.3.4 VPA results
+The results of the VPA are presented in several tables. The first one contains for each class, the initial number of individuals, the average annual number of individuals, the annual instantaneous total mortality rate, the annual instantaneous fishing mortality rate, and the annual instantaneous fishing mortality rate for each fishing gear. Some detailed comments have to be made about these results:
+First, recruitment is defined as the number of individuals at the beginning of the first class. This may result in differences between the analysis of ages or lengths, because rarely will the lower limits of the first class coincide (see section 3.4.8).
+Second, note that the time unit used for the average quantities and mortalities is the year. This procedure must be adopted always when dealing with time-dependent variables (see section 5.1). Thanks to this procedure, and although residence times within a size class may be smaller than a year, mortality rates (with units of T^-1) can be compared and eventually summed.
+Similarly the average number of individuals represent annual values and can be related to catches, that are always referred to a year. This is not a problem for classes defined by ages because average numbers are between the initial and final number of each class. However, if a length-structured analysis is done the class intervals, expressed in time units, are not constant and are often very different from one year. In cases where the class interval is smaller than one year, the average annual numbers may be smaller than both the initial number and the final number of the corresponding class. When the class interval is larger the opposite may happen.
+That is why it is possible to sum the average annual numbers to produce the average annual number of individuals in the population. These sums can then be related to the total (annual) catch (in number) through an overall (called global, see section 5.5) fishing mortality rate. Such computations are presented at the end of the table. The initial number per length class cannot be summed, because otherwise the same individual would be counted several times whenever it jumps from one class to another, if class interval were less than one year.
+As a summary, this table also shows the above mentioned average number and two overall fishing mortalities (see section 5.5): the mean fishing mortalities (computed weighting time), and the global fishing mortalities (computed weighting population in number), and the average size and age of the population at sea. All of these are very general values, but they can be used to summarize in a few words the status of the stock. The overall mortalities have to be interpreted with caution because they are calculated by considering that all classes are included in the analysis. Therefore if a given fishing gear exploits very intensively (very high values of F) only a few classes, the average mortality will be low. In addition, when data contains a plus group, the average mortalities are not presented because, by definition, the time interval of such a class is infinite and, therefore dominates the calculation of the average. In this sense the value of global fishing mortality rate is more
+informative because it better shows the effects caused by fishery exploitation (see section 5.5 for the definition and properties of global fishing mortalities).
+In the next table the initial and average weights for each class are presented in a similar structure as it has been done with numbers. In addition to the total annual average biomass (sum of the mean weights, or B(mean) as it is called in other sections), the total annual average spawning stock biomass is also presented. These figures are very useful because they represent the average stock, and spawning stock, biomasses at sea. These quantities divided by the recruitment (first class from the previous table) are equal to the biomass-per-recruit and spawning stock biomas-per-recruit which are presented in the output of the yield-per-recruit (Y/R) for factor 1 (f = 1, see section 4.4.4).
+To finish the VPA output, the critical ages and lengths for the stock at its virgin state and at the exploitation level being analyzed, are shown at the end of this table. Remember that the critical length and age correspond to the maximum biomass of a cohort (see section 5.7).
+Finally, it appears a table that attempts to give a global view of the exploitation of the stock. It corresponds to the annual biomass balance equation according to which, in a stock in equilibrium, the biomass gains are compensated by the losses. The program records the total annual biomass involved in the balance (D), and, separately, the gains (growth and recruitment) and losses (natural and fishing mortalities) in biomass, in absolute values and percentages of the above mentioned D. Lastly a series of fractions, expressed in percentages are presented to shed some light on the structure of the stock. In addition to D these are: the biomass of recruits (R), the biomass of the critical class (B(max)) and the average biomass (B(mean)). All these calculations are made through simple operations (the four rules), carried out from the output previous to the VPA. These results appear in the global results menu as a summary of the overall results (section 3.4.2.6).
+The later information, and the one detailed below, is equivalent to the one given when the global data is requested (section 3.4.2.6).
+Example:
+The following is an example of an output from the VPA.
+"L(inf)=" 95.00 "K=" .9000E-01 "t(0)="-.6000
+"a=" .4000E-02 "b=" 3.100
+"M=" .1500 "Fterm=" .5000
+"Proportion factors:" .188E+04 .198E+04
+Rates of mature:
+"Global data:"
+" " "Ages" " " "Lengths" " " "Weights"
+"Class" "Lower" "Mean" "Lower" "Mean" "Lower" "Mean"
+25 9.011 9.284 55.000 55.968 994. .105E+04
+26 9.581 9.868 57.000 57.964 .111E+04 .117E+04
+27 10.182 10.481 59.000 59.951 .124E+04 .130E+04
+28 10.817 11.135 61.000 61.953 .137E+04 .144E+04
+29 11.490 11.820 63.000 63.931 .151E+04 .158E+04
+30 12.208 12.576 65.000 65.974 .167E+04 .175E+04
+31 12.974 13.365 67.000 67.962 .183E+04 .192E+04
+32 13.798 14.215 69.000 69.953 .201E+04 .209E+04
+33 14.687 15.135 71.000 71.942 .219E+04 .228E+04
+34 15.654 16.157 73.000 73.966 .239E+04 .249E+04
+35 16.713 17.281 75.000 75.988 .260E+04 .271E+04
+36 17.883 18.491 77.000 77.947 .282E+04 .293E+04
+37 19.192 19.854 79.000 79.914 .305E+04 .316E+04
+38 20.676 21.438 81.000 81.916 .330E+04 .342E+04
+39 22.389 23.185 83.000 83.816 .356E+04 .367E+04
+"" 24.414 "" 85.000 "" .383E+04
+"Catch in numbers:"
+"Class" "Total catch" "Catch per gear"
+"Sum:" .13510E+07 .11768E+07 .17421E+06
+"Mean Age:" 2.54 1.82 7.43
+"Mean Length:" 21.87 17.97 48.22
+"Catch in weight:"
+"Class" "Total catch" "Catch per gear"
+"Sum:" .20000E+09 .76000E+08 .12400E+09
+"Percentages:" 38.00 62.00
+"VPA RESULTS"
+"Numbers & Mortalities:"
+"Class" "Initial no." "Mean no."" Z" "F(tot)" "F per gear"
+"Tot:" "" .48670E+07
+"Mean mortalities:" "" "" .430 .280 .087 .193
+"Global Fishing mortalities:" "" "" "" .278 .242 .036
+"Stock:" "Mean age=" 2.67 "Mean length=" 22.80
+"Weights:"
+"Class" "Initial" "Mean"
+"Tot:" "" .72548E+09
+"SSB:" "" .56074E+09
+" " "Critical age" "Critical length"
+"Actual Stock" 5.68 41.00
+"Virgin Stock" 10.84 61.07
+"General Biomass Equation" "Total Biomass Balance (D) = " .3088E+09
+"Biomass" "Percent"
+"Inputs" "Recruitment" .3469E+07 1.1 "%"
+" " "Growth" .3054E+09 98.9 "%"
+"Outputs" "Natural dead" .1088E+09 35.2 "%"
+" " "Biomass caught" .2000E+09 64.8 "%"
+"R/B(mean) =" .5 "%" "D/B(mean) =" 42.6 "% (turnover)"
+"B(max)/B(mean) =" 15.0 "%" "B(max)/D =" 35.3 "%"
+4.4.4 Output from yield-per-recruit analysis (Y/R)
+The output from Y/R first presents the slope of the Y/R curve at the origin, that is for effort equal to zero (factor f = 0) and the virgin biomass. Then appears the method chosen, the number of points, the maximum factor and the resulting resolution, all entered by the user (section 3.4.5).
+Next the program indicates if the analysis of changes corresponds to a single fishing gear - pointing to which one - or if it corresponds to the inverse analysis of two fishing gears. If the analysis performed is the one where all fishing gears vary by a common factor, nothing is indicated.
+Finally, the results of the analysis are printed according to the following columns:
+Factor f ,
+Total Y/R
+Biomass-per-recruit
+Spawning biomass-per-recruit
+Y/R values for each fishing gear (up to the maximum of 4).
+The values of factorf , in the first column, correspond with options 1 and 2 in the yield-per-recruit menu (section 3.4.5).
+With option 1 the Y/R listing is restricted to the following values of factor f :
+f = 0, absence of fishing.
+f , where the curve has a slope equal to 10% of that of the curve at the origin, F(0.1).
+f corresponding to the maximum Y/R, for each fishing gear and for the total, respectively represented as Max(i) and Max.
+f equal to the maximum factor considered.
+This analysis is carried out according to the resolution indicated initially.
+With option 2 chosen, when all fishing gears vary according to one factor, the Y/R are listed at regular intervals of the factor. These intervals go from zero to the maximum value and are determined by the number of points specified by the user. In such listing the reference points of the curve are not indicated.
+If in addition to option 2, we have chosen that the factor should affect one fishing gear and leave the other constants, the program presents as many listings as there are gears and indicates which is the fishing gear being affected. Finally, if we have chosen the inverse analysis of two gears, the listing is presented and the type of analysis is indicated.
+Example:
+The following is an example of the output from Y/R
+"YIELD PER RECRUIT"
+"Slope at origin=" 1236.11 "Virgin biomass=" .916162E+10
+"Method: * Calculated Mean Weights "
+"Number of points=" 200 "Maximum Factor for effort=" 2.0
+" Resolution=" .010
+"Factor" "Y/R" "Biomass/R" "SSB/R" "Y/R per gear"
+"*** F(0.1):"
+"*** Max(2):"
+"*** Max:"
+"*** Max(1):"
+"YIELD PER RECRUIT"
+"Slope at origin=" 1236.11 "Virgin biomass=" .916162E+10
+"Method: * Calculated Mean Weights "
+"Number of points=" 20 "Maximum Factor for effort=" 2.0
+" Resolution=" .100
+"Factor" "Y/R" "Biomass/R" "SSB/R" "Y/R per gear"
+"YIELD PER RECRUIT"
+"Slope at origin=" 1236.11 "Virgin biomass=" .916162E+10
+"Method: * Calculated Mean Weights "
+"Number of points=" 20 "Maximum Factor for effort=" 2.0
+" Resolution=" .100
+"Analysis of variation of gear no." 1
+"Factor" "Y/R" "Biomass/R" "SSB/R" "Y/R per gear"
+"Analysis of variation of gear no." 2
+"Factor" "Y/R" "Biomass/R" "SSB/R" "Y/R per gear"
+"YIELD PER RECRUIT"
+"Slope at origin=" 1236.11 "Virgin biomass=" .916162E+10
+"Method: * Calculated Mean Weights "
+"Number of points=" 20 "Maximum Factor for effort=" 2.0
+" Resolution=" .100
+"Inverse analysis of the two gears"
+"Factor" "Y/R" "Biomass/R" "SSB/R" "Y/R per gear"
+4.4.5 Output from transition analysis
+The first output from the transition analysis is either the fishing mortality factors (if options A=1 and B=1 have been selected), or the name of file that contains the changes in exploitation (for all other options). After that follows a listing of the results in terms of yield-per-recruit arranged by columns:
+Year of simulation
+Total Y/R
+Biomass-per-recruit
+Spawning biomass-per-recruit
+Y/R values for each gear (maximum of 4)
+Note that the above columns are the same as the ones for the output of the yield-per-recruit analysis, except for column one, which now contains the year of simulation instead of the factor (which here is always 1).
+The first row has the results in the initial steady state, before the transition starts. This row is indicated by the word "ini" in the column corresponding to year.
+The last row contains the steady state results for the final exploitation pattern. This row is indicated by the word "Fin" in the column corresponding to year. The greater the number of years simulated after the change in exploitation pattern, the closer the above results will be to those of the last simulated year.
+Whenever the variable recruitment option has been selected, and before the listing of results, there will be a row with information on the model used and its parameters.
+In cases where we have chosen to work with stochastic recruitment, an extra row appears with the value of the variance and the number of simulations performed. Given that each simulation produces a different set of results, the program presents information that attempts to characterize the lognormal distribution of the results. In such case, the output only contains the first row of the listing of results (initial steady state), the last row (final steady state, if applicable) and the results for each year. These yearly results are described by the average, median, variance, mode and the 95% confidence limits.
+Example:
+The following is an example of the output from the transition analysis:
+"TRANSITION ANALYSIS"
+"Factor(s) for F(s):" .50 1.50
+"Year" "Y/R" "Biomass" "S.S.B." "Y/R per gear"
+"Ini" 92.9 341. 262. 35.8 57.1
+"Fin" 138. 476. 360. 26.3 112.
+"TRANSITION ANALYSIS"
+"Factor(s) for F(s):" 1.00 1.00
+"Stochastic recruitment"
+"Variance=" .200 "No. of Simulations:" 100
+"Year" "Y/R" "Biomass" "S.S.B." "Y/R per gear"
+"Ini" 92.9 341. 262. 35.8 57.1
+"Fin" 92.9 341. 262. 35.8 57.1
+"Means:"
+"Variances:"
+1 .991E-01 2.22 .922E-11 .991E-01 .144E-12
+2 4.99 33.4 .922E-11 4.99 .144E-12
+3 9.11 140. .922E-11 9.11 .144E-12
+4 13.7 364. 1.51 13.7 .144E-12
+5 18.5 712. 255. 17.4 .504E-01
+6 38.9 .112E+04 760. 21.4 6.63
+7 89.7 .141E+04 .107E+04 23.3 38.5
+8 123. .153E+04 .116E+04 22.5 64.5
+9 128. .161E+04 .123E+04 26.0 70.9
+10 136. .172E+04 .135E+04 26.4 69.7
+11 149. .182E+04 .124E+04 27.7 77.4
+12 153. .191E+04 .136E+04 29.8 75.3
+13 156. .202E+04 .149E+04 29.8 74.4
+14 169. .208E+04 .147E+04 28.9 84.9
+15 174. .213E+04 .153E+04 32.6 86.6
+16 166. .222E+04 .163E+04 29.9 86.7
+17 181. .233E+04 .159E+04 33.5 88.8
+18 193. .240E+04 .181E+04 33.7 93.3
+19 189. .239E+04 .182E+04 31.7 98.0
+20 192. .233E+04 .178E+04 28.9 104.
+"Confidence Limits at 95% :"
+"Lower Limits:"
+"Upper Limits:"
+"Modes:"
+"TRANSITION ANALYSIS"
+"Factor(s) for F(s):" .50 1.50
+" Variable recruitment"
+"Model: Ricker" "a=" .5379E-01 "b=" .1009E-01
+"Year" "Y/R" "Biomass" "S.S.B." "Y/R per gear"
+"Ini" 92.9 341. 262. 35.8 57.1
+"TRANSITION ANALYSIS"
+"File containing changes: T21.DAT "
+"Year" "Y/R" "Biomass" "S.S.B." "Y/R per gear"
+"Ini" 92.9 341. 262. 35.8 57.1
+"Fin" 138. 476. 360. 26.3 112.
+"TRANSITION ANALYSIS"
+"File containing changes: T21.DAT "
+"Year" "Y/R" "Biomass" "S.S.B." "Y/R per gear"
+"Ini" 92.9 341. 262. 35.8 57.1
+"Fin" 112. 376. 278. 50.9 60.8
+4.4.6 Output from sensitivity analysis
+The results of the sensitivity analysis are presented as a list of yield-per-recruit values as follows:
+Parameters affected by the factor
+Total Y/R
+Biomass-per-recruit
+Spawning biomass-per-recruit (S.S.B)
+Y/R values for each gear (maximum of 4)
+Note, that like in the transition analysis, these columns are the same as the ones for the yield-per-recruit analysis, except the first column which in this case is a coded indication of the parameters that have been modified.
+The coding used to indicate the parameters affected by the changes is as follows: each parameter is symbolized by a zero whenever it has maintained its value, by a + sign if its value has increased by a - sign when it has decreased according to the factor.
+These symbols are grouped in the first column according to the following order (section 3.4.7):
+Von Bertalanffy growth parameters:
+(1) L(inf)
+(2) k
+(3) t0
+Length-weight parameters:
+(4) a
+(5) b
+Mortalities:
+(6) M
+(7) Fterm
+Proportions for each fishing gear (maximum 4):
+(8 to 11).
+Before each presentation of the data an extra row is included with the value of the factor and the ordinal above indicated of the parameters being analyzed.
+Example:
+The following is an example of the output from the sensitivity analysis:
+"SENSITIVITY ANALYSIS"
+"Factor=" .10
+"Parameters" "Y/R" "Biomass" "SSB" "Y/R per gear"
+"ooo oo oo oooo" 96.10 348.60 269.44 36.52 59.58
+"-oo oo oo oooo" 83.52 554.83 456.59 31.74 51.79
+"+oo oo oo oooo" 102.88 285.72 217.52 39.10 63.79
+"o-o oo oo oooo" 90.30 384.51 296.08 34.31 55.99
+"o+o oo oo oooo" 100.85 318.69 247.08 38.32 62.53
+"oo- oo oo oooo" 96.10 348.60 269.44 36.52 59.58
+"oo+ oo oo oooo" 96.10 348.60 269.44 36.52 59.58
+"ooo -o oo oooo" 86.49 313.74 242.49 32.87 53.62
+"ooo +o oo oooo" 105.71 383.46 296.38 40.17 65.54
+"ooo o- oo oooo" 30.18 111.12 81.57 12.58 17.60
+"ooo o+ oo oooo" 310.17 1107.77 894.00 108.01 202.17
+"ooo oo -o oooo" 101.35 349.94 271.23 38.51 62.83
+"ooo oo +o oooo" 90.86 347.09 267.53 34.53 56.33
+"ooo oo o- oooo" 96.08 349.47 270.29 36.51 59.57
+"ooo oo o+ oooo" 96.12 347.89 268.75 36.52 59.59
+"ooo oo oo -ooo" 99.82 367.70 285.89 35.49 64.33
+"ooo oo oo +ooo" 92.89 332.12 255.25 37.41 55.48
+"ooo oo oo o-oo" 92.56 330.43 253.79 37.50 55.06
+"ooo oo oo o+oo" 99.46 365.84 284.29 35.59 63.87
+"SENSITIVITY ANALYSIS"
+"Factor=" .10 "Parameters" = 2 6
+"Parameters" "Y/R" "Biomass" "SSB" "Y/R per gear"
+"ooo oo oo oooo" 96.10 348.60 269.44 36.52 59.58
+"o-o oo -o oooo" 96.12 386.46 298.53 36.53 59.59
+"o-o oo +o oooo" 84.49 382.31 293.45 32.11 52.39
+"o+o oo -o oooo" 105.62 319.65 248.43 40.14 65.49
+"o+o oo +o oooo" 96.08 317.62 245.64 36.51 59.57
+"SENSITIVITY ANALYSIS"
+"Factor=" .20
+"Parameters" "Y/R" "Biomass" "SSB" "Y/R per gear"
+"ooo oo oo oooo" 96.10 348.60 269.44 36.52 59.58
+"+oo oo oo oooo" 107.89 245.86 185.72 41.00 66.89
+"o-o oo oo oooo" 83.08 428.25 328.20 31.57 51.51
+"o+o oo oo oooo" 104.82 293.45 228.09 39.83 64.99
+"oo- oo oo oooo" 96.10 348.60 269.44 36.52 59.58
+"oo+ oo oo oooo" 96.10 348.60 269.44 36.52 59.58
+"ooo -o oo oooo" 76.88 278.88 215.55 29.21 47.67
+"ooo +o oo oooo" 115.32 418.32 323.33 43.82 71.50
+"ooo o- oo oooo" 9.63 35.94 24.81 4.42 5.21
+"ooo o+ oo oooo" 1012.58 3561.42 2980.01 324.86 687.72
+"ooo oo -o oooo" 106.59 351.15 272.90 40.50 66.08
+"ooo oo +o oooo" 85.63 345.42 265.49 32.54 53.09
+"ooo oo o- oooo" 96.06 350.58 271.37 36.50 59.55
+"ooo oo o+ oooo" 96.13 347.31 268.18 36.53 59.60
+"ooo oo oo -ooo" 104.19 390.12 305.20 34.28 69.91
+"ooo oo oo +ooo" 90.09 317.76 242.88 38.18 51.91
+"ooo oo oo o-oo" 88.82 311.25 237.28 38.53 50.29
+"ooo oo oo o+oo" 102.66 382.23 298.40 34.71 67.95
+4.5 Age-structured files created by VIT (Output)
+These files have the same structure and characteristics as the parameter and data files described in sections 4.1 and 4.2. The data file retains the title from the original data (row 1).
+The following example presents the files EDATS.DAT and PARAM.EDA created by using this option from DADES.DAT and PARAM.INI.
+Example:
+File EDATS.DAT
+Test Data: lengths
+202.685100 0.000000E+00
+244.978300 0.000000E+00
+77.467750 0.000000E+00
+43.299180 0.000000E+00
+5.849250E-01 4.782644
+2.963863E-01 3.995715
+1.543711E-01 2.686190
+1.676991E-01 8.374952E-01
+1.549617E-01 4.729559E-01
+1.022819E-01 4.022288E-01
+9.522250E-02 2.247726E-01
+0.000000E+00 9.016639E-02
+0.000000E+00 1.401765E-02
+0.000000E+00 1.022057E-01
+0.000000E+00 9.764422E-02
+1.438079E-02 6.204229E-02
+4.180058E-02 5.851555E-04
+1.525362E-02 2.193671E-02
+0.000000E+00 3.304959E-02
+0.000000E+00 1.284623E-02
+File PARAM.EDA
+95.000000 9.000000E-02 -6.000000E-01
+4.000000E-03 3.100000
+1.500000E-01
+2.071761E-01
+<section>5</section>
+5. THEORY AND METHODS
+This chapter presents the equations used in program VIT. Its objective is to present a brief description of the methodology used in population dynamics to inform the user about the different options of the program. Therefore, this chapter is not a comprehensive review of population dynamics. For such review there are a number of basic books: Beverton&Holt (1957), Ricker (1975), Csirke (1980), Laurec & Le Guen (1981), Pitcher & Hart (1982), Pauly & Murphy (1982), Pereiro (1982), Gulland (1983), Sparre et al. (1989) and others.
+5.1 Units
+The time unit is the year. This is the only variable with predetermined units. All other working units are fixed by the user through the values of the data and parameters. Therefore, during a given run of the program the same units must be used. For example, if the user desires to work in grams, all inputs requested by the program representing weight or biomass will have to be in these units (see table below). All output is then presented in this same units.
+Variable or Parameter Magnitude
+Length L
+Age T
+Weight M
+Catch M T^ -1
+Biomass M
+Yield-per-recruit M T^ -1
+Biomass-per-recruit M
+Growth: L(inf) L
+k T^ -1
+t0 T
+Length-weight: a M L^-3
+b 
+Mortalities: M, F, Z T^ -1
+In spite of what is said above it is not strictly necessary to use the year as a time unit. However, given that the equations work with ages and years, a change in time units may create problems: reconverting growth equations, desaggregating catches that may be affected by a seasonal component etc.. That is why it is not recommended to use any time unit other than the year.
+5.2 Class intervals
+VIT always work with grouped data, be it age or size. All data used corresponds to a histogram of absolute frequencies and the results make reference to this histogram. Each class corresponds to an interval of ages or sizes, which are all of equal width, except if there is a "plus" group. The "plus" group represents all individuals that are either bigger or older than the second to last class.
+5.2.1 Notation
+A data set will be made up of n classes. Let i be one of these classes, it is then possible to define the following symbols:
+In some equations the above symbols are used as functions instead of numeric values. In such case the symbols have no subscript, and may or may not indicate the independent variable. For example l or l(t) denote length as a function of time (age), whereas l[i] denotes the length at the beginning of the size class i.
+In section 5.5 the method for calculating average values is presented. The average lengths, weights and ages do not match, that is, whithin a class, the average weight or length are not the weight or length corresponding to the average age. This is because these functions are not linear.
+The next class to i is symbolized with i+1. The difference in ages between the beginning of i and i+1 is a quantity commonly used and symbolized by:
+5.2.2 Plus group
+The last class can be open or close, in the later case this class is denoted as plus group. In the example from section 4 the last class is closed and its limits are 83 cm and 85 cm. If it had been defined as Plus group the lower limit would remain at 83 cm, but the upper limit would be equal to L(inf), that is 95 cm. The age corresponding to this upper limit would then be infinity.
+5.3 Growth equations
+Individual growth is expressed by the Von Bertalanffy (1934) growth equation:
+where L¥ , k and t[0] are constants (these are respectively parameters L(inf), k and t0 from the growth equation)
+The length-weight relationship is considered to be allometric (Huxley, 1924) and its expressed by a power function of the type:
+where a and b are constants (respectively parameters a and b from the length-weight relationship).
+5.4 Dynamic equations
+The reconstruction of the virtual population can be done through the classic VPA or cohort analysis. Traditionally the former is used with age-structured data, and the later for both age and length structured data. For instance, the length-based cohort analysis (LCA, Jones 1982) is practically the only method for the analysis of length data, available in the common software. VIT allows for the four possible combinations between length and age and the VPA and cohort analysis equations.
+5.4.1 Virtual Population analysis (VPA)
+To reconstruct the population according to the method that we denote as standard VPA (Gulland 1965), the usual population dynamic equations are used. For instance, the survival equation,
+that can be expressed, for each class (in difference form) as
+and the catch equation
+The process starts with the last class. The number of individuals at the beginning of the last class is calculated using the catch equation with the terminal fishing mortality and the catch. Then, by replacing the survival equation in the catch equation, the following new expression is derived,
+Given that Z[i]=F[i]+M, the only unknown in the above equation is F[i]. Because there is no analytical solution to this expression, an algorithm incorporating the method of the secant, is used to obtain an approximate solution. The tolerance of the convergence is 10^-12, but it can be modified by the user through option 9 (hidden) from the Main menu (See section 3.4.9). If the algorithm has not converged after 50 iterations, the precision is reduced by one order of magnitude and a warning is shown on the screen. This process is repeated until a solution is found. Next time the subroutine that finds the approximate solution is used, the precision will again be equal to 10^-12 (or equal to the last value given with option 9 in the Main menu during the same run of VIT).
+Once F[i] is known, the survival equation is used to calculate N[i]. We have now solved for the class before last. The virtual population analysis is completed by repeating this process.
+5.4.2. Cohort analysis
+It uses the cohort equation from Pope (1972):
+and the survival equation.
+The process starts like in the previous case, by using the catch equation to calculate the number of individuals entering the beginning of the size class. Then with Pope's equation the number of individuals in the class before last is calculated. Next, the fishing mortality is derived by solving the survival equation. Once the class before last has been solved, the process is repeated until the population is fully reconstructed. Note that in this method all equations are solved analytically.
+5.5 Average values
+The equations that allow for the calculations of average values are the following:
+Average annual numbers
+Average age
+Average length
+Average weight
+where
+Given that the last integral cannot be solved analytically, the program uses numerical integration according to the Simpson rule and 20 classes. Note the change in variable (t for m ) to avoid improper integrals and disproportionate intervals to apply the Simpson rule in the presence of a plus group.
+In addition to the above results, the program offers overall mortality values (if there is no plus group). For the overall total mortality, this computation is performed as:
+and similarly for the overall mean fishing mortality, only substituting the Zs for Fs. According to the survival equation this is equivalent to weighting the mortalities according to the time during which they act. That is why in the presence of a plus group, these averages are not calculated. This is due to the fact that the plus group lasts eternally and, consequently, the overall total mortality would be equal to the mortality of the plus group. All these quantities allow summarizing the survival scheme of the cohort by considering the initial and final number of individuals. The later disregards the shape of the curve and the intermediate numbers resulting from the different fishing mortalities by class. In summary, these overall figueres do not reflect the catch distribution by class.
+However, the program presents another quantity, the overall global fishing mortality that should not be confused with the overall mean fishing mortality mentioned above. The calculation of this other fishing mortality is based on the following concept:
+The catch equation (section 5.4.1) can be rewritten as a function of the average annual number,
+in a way that fishing mortality per class indicates the proportion of individuals caught in each class. This interpretation of fishing mortality can be extended to a pseudochort, given that the total catch
+we can then define the overall global fishing mortality F^* as,
+or
+This is an overall value that relates the total annual catch with the average number of individuals in the population. Note that it equates to an average fishing mortality weighted by the number of individuals. Therefore there is no problem with the plus group. It is important to note that this value cannot be applied to the survival equation because this equation requires average mortality. This overall value has been considered and often used by ICES working groups (Shepherd 1983).
+5.6 Treatment of fishing gears
+VIT can work with a maximum of four fishing gears acting on the same resource. The treatment used for the m fishing gears is based on disaggregating the instantaneous rate of total fishing mortality for class i, F[i], into the mortalities exerted by each fishing gear j, F[i,j]. In such a way that,
+Actually, the VPA is done for all gears combined by calculating F[i] for each class. After that, the F[i,j] are estimated according to the next equation
+where C[i,j] indicates the number of individuals of class i captured by fishing gear j. The overall fishing mortalities for each gear (section 5.5), are calculated in the same way.
+5.7 Computations of weights
+Once the population in numbers has been reconstructed, the transformation to biomass is done from the average numbers and weights for each class
+(see section 5.5). The information provided by these calculations is very useful, and the w7219e of the population in biomass terms is very illustrative.
+From these results, it is possible to obtain the critical ages and lengths (those corresponding to the points where the cohort reaches the maximum in biomass), for the virgin stock and for the present level of exploitation. To calculate the later the only requirement is to locate the class which provided the greatest biomass. In the case of the virgin stock, the critical age is obtained from the following expression:
+analytically obtained from the maximum biomass of the virgin stock as a function of time
+where N(t) is derived from the survival equation (section 5.4.1) in the absence of fishing, that is,
+and w(t) is derived from the growth equations (section 5.3). Finally, the critical length for the virgin stock is calculated by substituting the value of the critical age t[c] in the Von Bertalanffy growth equation (section 5.3).
+5.8 Yield-per-recruit analysis (Y/R)
+Yield-per-recruit analysis allows the user to get a more global vision of the population under study. Recruitment is defined as the number of individuals at the beginning of the first class, and yield as the total weight of the catch. Therefore, the yield-per-recruit is obtained by dividing the total weight of the catch by the number of recruits calculated from the VPA. However, because Y/R analysis attempts to investigate how this quantity changes as a function of fishing effort, there is a need for an alternative expression that incorporates fishing effort. The formula used in VIT is derived from the catch equation, expressed as a function of the average number of individuals per class (section 5.5):
+The Y/R value obtained from this expression is equivalent to the one obtained by dividing the catch by the recruitment. It is therefore compatible with the catch equation. In comparison with other alternative expressions presented below, the above is said to be the exact formula for Y/R.
+Note that the above expression requires for each class, the average number of individuals and the average weight (See section 5.5) These values and the fishing mortality vector are obtained from the VPA.
+The usefulness of the yield-per-recruit analysis resides precisely, on observing its behavior as fishing effort varies. In order to do this the program introduces a factorf , that multiplies fishing effort, and that is interpreted as an effort factor. If for example the values 0, 0.5, and 2, are given to this factor, they will represent fishing efforts equal to the absence of fishing, half and double of the present fishing effort.
+According to the above, the correct Y/R is expressed as a function of the fishing effort factor f ,
+Note that for each value of f the average numbers and weights have to be recalculated with a new VPA. This makes this analysis very slow. It is possible to use option 3 in the Y/R menu to simplify these calculations and make them approximative but quicker (section 3.4.5.3):
+One of the options, "with initial weights", is based on the equation
+The other option, "With mean weights from current VPA", uses for all calculations a single average weight vector: that calculated in the last run of VPA. Therefore the Y/R values are only exact for f =1. The values for f <1 are underestimated and those for f >1 are overestimated. The program runs much faster because it does not need to recalculate the average weights per class for each value of f , and the results are only slightly less precise. This may be useful for the initial trial runs, but it is recommended that the correct equation be used in the final analyses.
+5.9 Transition analysis (only with data structured by ages)
+This option performs an analysis in the absence of equilibrium. It is the only part of the program where equilibrium is not assumed. Basically, it consists in simulating the evolution of the population when either the fishing mortality or recruitment are not constant.
+The functioning mechanism is as follows: it starts with the equilibrium population structure generated by the VPA - consisting in vectors with the number of individuals at the beginning of each class and a fishing mortality per class vector. This is the initial equilibrium state at the beginning of the process. The user indicates the number of years for the simulation (maximum 40), then the fishing mortality vector and the recruitment model can be modified by the user.
+This analysis can be used, not only for studying the evolution of the fishery in the presence of changes in recruitment or the exploitation pattern, but also to study the sensitivity of the stock to recruitment (eg. Pallarés and Pereiro 1990). It is for this purpose that the program allows for the introduction of stochastic recruitment.
+5.9.1 Modifying fishing effort
+The modification of fishing effort can be done in two ways (options 1 and 2 in A in section 3.4.6).
+The first option (A=1), consists in multiplying all the elements in the F vector by a single factor. In such case the proportions by class are maintained.
+The second option (A=2), consists in substituting the F vector generated from the VPA by a new vector (where the proportions by class do not have to be maintained). With this process it is possible to simulate a change in gear selectivity.
+The two changes above can also be done in two different ways (options 1 and 2 in B, section 3.4.6):
+Perform the change in a single year (the first one in the simulation), and maintain through the process the new fishing mortalities (option B=1), or introduce a new F vector for each year of the simulation (option B=2).
+Therefore the user has four possibilities to modify the effort within the transition analysis: (A=1, B=1), (A=1, B=2), (A=2, B=1) and (A=2, B=2).Once all years requested have been simulated, the program presents the equilibrium results for the last set of Fs entered.
+5.9.2 Recruitment models
+The user of VIT has to decide on the stock-recruitment model to be used, and whether to add stochastic variability to the recruitment.
+The default option is constant recruitment equal to 1, however it is also possible to use the B&H (Beverton & Holt, 1957) and the Ricker model (Ricker, 1954). The choice of one of the three recruitment model options (constant, B&H, or Ricker) is independent of the choice on imposing stochasticity.
+The initial hypotheses state that the stock is in equilibrium and that, at the level of spawning stock biomass-per-recruit calculated by the VPA, recruitment is equal to 1. This limits the number of values that the stock-recruitment parameters can take. The stock-recruitment curves, R vs S, where R is the recruitment and S the spawning stock biomass (SSB) have to go through R=1 when S takes the value of spawning biomass calculated by the VPA.
+5.9.2.1 Beverton and Holt model
+According to Beverton and Holt, the equation that relates stock and recruitment is:
+Graphically (Figure 1) this represents a monotonous, asymptotic function that goes through the origin. The value of the asymptote is R=1/a and the slope at the origin is 1/b. There are three different ways that can help the user determine the parameters of the above equation (remember that for the current S, R has to be equal to 1):
+1 Fixing the value of the spawning stock biomass to give a recruitment value equal to half of the asymptote. This value S[1/2] has to be smaller than the spawning stock biomass value calculated in the VPA. In this case a = S/(S+S[1/2]) and b = S(1-a).
+2 Fixing the value of the slope at the origin (which has to be greater than 1/S). The parameter b is the inverse of that slope and a = 1-b/S.
+3 Fixing the value of the asymptote (has to be greater than 1), a will be the inverse of the asymptote and b = S(1/a).
+Figure 1
+Graphical example of a Beverton & Holt stock-recruitment curve indicating: the asymptote, the slope at the origin, the values of spawning stock biomass-per-recruit corresponding to a recruitment of 1 and to a recruitment of half of the asymptote.
+5.9.2.2 Ricker's model
+According to Ricker the equation which relates stock and recruitment is:
+Graphically this is a curve that passes through the origin (Figure 2), that presents a maximum and is asymptotic to zero (R=0 when S ® ¥ ). The maximum of the curve is at R = a /b e and S=1/b . There are two different ways that can help the user to determine the parameters of the above equation (remember that for the present S, R has to be equal to 1):
+1 Fixing the value of S which gives the maximum recruitment (S[M]). Then b = 1/S[M ]and a = 1/(S exp(-b S)).
+2 Fixing the value of the slope at the origin, which is equal to a . Then the other parameter is b = Ln(a S)/S.
+Note that in this case the option of calculating parameters by selecting a value of spawning stock which gives half of the maximum recruitment is not offered as it was in the Beverton and Holt model. This is because the Ricker model is not monotonously increasing and has an asymptote of zero. Consequently there are two values of spawning stock corresponding to each value of recruitment between zero and the maximum (Figure 2).
+Figure 2
+Graphical example of a Ricker stock-recruitment curve, indicating the maximum, the slope at the origin and the value of spawning stock biomass per recruit corresponding to a recruitment of 1 (R=1).
+5.9.3 Stochastic variability
+Whichever stock-recruitment model is used, it is possible to generate stochastic recruitment. To make the computations compatible with a recruitment of 1 (R=1), this stochastic component is lognormally distributed with mean 1. Therefore, if the variance is zero, recruitment is equal to 1 and if the variance is greater than 0, recruitment is never negative (something possible if, for example, a normal distribution had been chosen).
+A lognormal distribution with mean E(x) and variance Var(x) corresponds to a normal distribution with mean m and variance s ^2. The functions that relate these two quantities are:
+and
+That is why, to obtain random numbers distributed as a lognormal with mean E(x)=1 and variance Var(x), fixed by the user, the program proceeds to calculate random numbers from a normal distribution N(m ,s ^2).
+The lognormal distribution has the mean and variance not independent. To help the user set a variance the program provides some on-line help on the mode and 95% confidence intervals of the distribution for a given variance (See section 3.4.6). The next figures, 3 and 4, provide examples of the properties of this distribution.
+Figure 3
+Examples of lognormal distributions. The 6 distributions have the same mean (=1) and differ in their variance whose value is indicated next to each curve. Note that the greater the variance, the greater the asymmetry of the curve.
+Figure 4
+Graphic of a lognormal distribution with mean of 1 and variance of 0.2 with an indication of the mode, median, and the lower and upper limits of the 95% confidence intervals.
+5.10 Conversion of lengths to ages
+The conversion of lengths to ages is done by superimposing the abscissa axis of the length frequency histogram to the corresponding age axis. Ages are calculated according to the Von Bertalanffy equation and the length frequencies are divided to each age interval proportionally. This is the procedure known as slicing. See figure 5 below.
+Figure 5
+Example of a transformation from lengths to ages. The length frequency histogram is in the lower part, and the resulting age frequency histogram is in the upper part. Note how the age scale is not linear because it has been derived from the growth equation.
+<section>6</section>
+6. REFERENCES
+Von Bertalanffy, L. 1934. Untersuchungen über die Gesetzlichkeit des Wachstums. 1. Teil. Allgemeine Grundlagen der Theorie; mathematische und physiologische Gesetzlicheiten des Wachstums bei Wasertieren. Archiv. f. Entwicklungsmech., 131: 613-52.
+Beverton, R.J.H. and S.J. Holt. 1957. On the dynamics of exploited fish populations. U.K. Min. Agric. Fish., Fish. Invest. (ser 2). 9: 533 pp.
+Caddy, J.F. (ed.). 1982. Provisional world list of computer programs for fish stock assessment and their availability by country and fisheries institute. FAO Fish. Circ. 746: 51 pp.
+Gayanilo Jr., F.C., M. Soriano and D. Pauly. 1988. A draft guide to the COMPLEAT ELEFAN. ICLARM, Manila, Philippines. Software 2: 65 pp.
+Gulland, J.A. 1965. Estimation of mortality rates. Annex to Rep. Artic Fish. Working Group, Int. Counc. Explor. Sea. C. M. 1965(3): 9 pp.
+Gulland, J.A. 1983. Fish stock assessment A manual of basic methods. FAO/Wiley Ser. on Food and Agriculture, Vol 1: 233 pp.
+Hightower, J.E. 1986. Using GENMOD - a generalised age-structured model. 22 pp. (manual included with software).
+Huxley J.S. 1924. Constant differential growth-ratios and their significance. Nature, 114: 895-96.
+Jones R. 1982. El uso de datos de composicion por tallas en la evaluacion de poblaciones de peces (con notas sobre el VPA y analisis de cohortes). FAO Circ. de Pesca, 734: 61 pp.
+Laurec, A. and J.C. Le Guen. 1981. Dynamique des populations marines exploitées. Tome I, Concepts et Modéles. CNEXO, Rapp. Scient. Tech., 45: 118 pp.
+Lleonart, J. 1990. La pesquería de Cataluña y Valencia: Descripción global y planteamineto de bases para su seguimiento. Informe Final Proyecto C.E., D.G. XIV. Ref 1989/3: 1634 pp. (mimeo)
+Lleonart, J. & J. Salat. 1992. VIT. Programa de análisis de pesquerías. Inf. Técn. Sci, Mar., 168-169: 116 pp
+Mesnil, B. 1988. Logiciels pour l'evaluation des stocks de poissons. ANACO: Logiciel d'analyse des donées de capture par classe d'âge sur IBM PC et compatibles. FAO Doc. Tech. Pêches. 101 suppl. 3: 78 pp.
+Pallarés P. and J.A. Pereiro. 1990. LCA errors with recruitment fluctuations. ICES C.M. 1990/D:32, 12 pp. (mimeo).
+Pauly, D. and G.I. Murphy (eds.) 1988. Theory and management of tropical fisheries. ICLARM Conference Proceedings, 9: 360 pp.
+Pitcher T.J. and P.J.B. Hart. 1982. Fisheries Ecology. Comm. Helm. 414pp.
+Pope, J.G. 1972. AN investigation of the accuracy of Virtual Population Analysis using Cohort Analysis. Int. Comm. Northwest Atl. Fish. Res. Bull., 9: 65-74.
+Ricker, W.E. 1954. Stock and recruitment. J. Fish. Res. Bd. Can. 11: 114-128.
+Ricker, W.E. 1975. Computation and interpretation of biological statistics of fish population. Bull. Fih. Res. Bd. Can. 191: 328 pp.
+Shepherd, J.G. 1983. Two measures of overall fishing mortality. J. Cons. int. Explor. Mer., 41: 76-80.
+Sims, S.E. 1985. Selected computer programs in FORTRAN for fish stock assessment. FAO Fish. Tech. Pap., 259: 183 pp.
+Sparre, P. 1987. Computer programs for fish stock assessment. Length-based Fish stock assessment (LFSA) for Apple II computers. FAO Fish. Tech. Pap. 101 suppl. 2: 218 pp.
+Sparre, P., E. Ursin and S.C. Venema. 1989. Introduction to tropical fish stock assessment. Part 1. Manual. FAO Fish. Tech. Pap., 306.1: 337 pp.

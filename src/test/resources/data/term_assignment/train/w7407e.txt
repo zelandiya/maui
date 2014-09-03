@@ -1,0 +1,807 @@
+<title>THE ROLE OF WOOD ENERGY IN EUROPE AND OECD</title>
+<section>1</section>
+Foreword
+Wood energy constitutes a major source of energy in most countries, both developing and developed, and its contribution is expected to grow in the future as a result of the application of stricter environmental regulations and the use of more competitive sources of locally-available energy. Although FAO collects and presents statistical data and information on fuelwood and charcoal in its Forest Products Yearbook, this data needs improvement, disaggregation and better presentation.
+FAO's wood energy initiatives have included, within its current regular programme activities, the development of an improved woodfuel and wood energy data base. This initiative is being carried out through different complementary approaches, mechanisms and activities, one of which is Wood Energy Today for Tomorrow.
+Wood Energy Today for Tomorrow
+(WETT) collects, reviews and collates existing information and data on wood fuels and its related energy aspects at national level through the preparation of "regional studies". The main aim of these studies is to overcome the shortcomings encountered in the main wood energy databases and to fill the main data gaps. New and improved wood energy data will contribute to (a) determine how, where and how much wood fuel is used in different countries and regions; (b) describe the contribution of forests, wood lands and trees to the energy sector; (c) assess the environmental impacts; and (d) identify the main critical problem areas to be tackled for the development of sustainable wood energy systems.
+It is also expected that the development of improved wood energy data will contribute to the better understanding of wood energy systems and to the planning of more sustainable production and utilization.
+In addition, WETT will constitute an essential source of information for forest resource assessments, improved forest products statistics, outlook studies and the valuation of forests. Other studies are also being carried out by the FAO Forestry Department as part of the periodic assessment of the state of forest resources and for the presentation of the best available statistics on forest products world-wide which contributes to the understanding of the multidisciplinary role of forests, woodlands and trees and enables the planning of a more sustainable forest management together with the promotion of "greener" and more environmentally friendly energy systems.
+This regional study presents an overview of the total wood energy consumption in 42 European and OECD countries based on information available in selected international organizations and makes recommendations for further improvements of Wood Energy Information Systems.
+M.A. Trossero
+Senior Forestry Officer
+Wood Energy
+<section>2</section>
+Part A:
+The role of wood energy
+in Europe and OECD countries
+Summary
+Part A is the analytical part of the study on Wood Energy Today for Tomorrow: a study for Europe/OECD. The main aim of this report is to give a quantitative and qualitative analysis of the use of wood for energy purposes in this region. The whole European/OECD region has been split into three groups: the European Union, OECD-non-Europe and Europe-non-EU.
+On the basis of five existing databases, which have been described in part B of this report, a best estimate has been made on the use of wood energy in the three country groups. The construction of the best estimate for the European Union has largely been based on the UNECE database in Geneva. Data for the sectoral consumption of wood energy have been based on the Eurostat database. The best estimate for Europe-non-EU has been done in the same way, but more aggregated because the amount and quality of the available data did not allow a more detailed assessment. For the OECD-non-European countries the best estimate has been constructed on the basis of data from both the International Energy Agency and the Lawrence Berkeley Laboratory.
+France appears to be the largest wood energy consumer in the European Union, with Sweden just behind it. Wood energy consumption accounts for about 3% of total primary energy supplies in the EU-15. In Sweden and Finland this is even higher than 16%. In the OECD-non-Europe group, the USA is by far the largest wood energy consumer, almost twice as high as the total consumption in the EU-15. Turkey is the largest wood energy consumer in the Europe-non-EU group, but this consumption is decreasing sharply.
+In general in all regions, about 30-50% of the total wood removed from forests is ultimately used for energy purposes. The average for the EU-15 is 50%. Only a small amount of this is coming directly from the forest. The other streams are mainly residues from forest industries.
+In most EU countries (except for Sweden and Finland) wood energy is still mainly consumed in households. Trends like this can also be found in the Europe-non-EU region. There are both positive and negative environmental impacts of the present wood energy consumption. The main positive benefit is the CO[2] neutral character of this energy source. Negative impacts can mainly be found in small scale inefficient conversion units (often present in households) where CO and PAC emissions can become serious problems. There is however a large scope to improve the use of wood energy towards a real sustainable energy source.
+No detailed socio-economic analysis has been undertaken in this report. Literature data however points to a much higher number of jobs created by wood energy as compared to energy from coal. Dependent on the category of wood that has been used, job creation can be up to 14 times as high with wood energy.
+A.1. Introduction
+Part A is the analytical part of this report. On the basis of a best estimate, for which the basic guidelines are set in the background part (Part B) of this report, an analysis will be given on the use of wood for energy in all countries which are part of the OECD, Europe or of both. To get country categories which do not overlap each other, the countries were divided into three groups: European Union (15), Europe-non-EU and OECD-non-Europe.^1
+A.1.1. Objective
+In this report an analysis is made of the quantity and quality of wood energy consumption in the three regions mentioned. Wood energy consumption is related to the total removals of roundwood and to the total primary energy supply in each country. Further, a disaggregation is made for most countries into the various categories of wood energy which are consumed. In addition to this for the EU we also show by which main economic sectors the wood energy is consumed. Especially in relation to the EU, we also focus on the impact of this wood energy consumption on the environment and socio-economic factors as employment.
+A.1.2. Overview of the report
+Part A starts with a short methodological section. Here the way in which the best estimate has been constructed on the basis of the available databases is discussed. These databases have been described in the background section of this report. The rest of the report consists of an analysis of the use of wood energy in the three regions that have been distinguished: the European Union, OECD-non-Europe and Europe-non-EU. The analysis has the most detail for the EU, because the coverage and the quality of the available data are relatively high here. For this region, also a qualitative analysis has been given on environmental and economic aspects.
+A.2. Methodology used for construction of the best estimates
+This section describes the way in which the best estimates for the three country groups have been constructed. Here, only the method of construction itself is described. For the reasons behind this, see section B.5.1. The various definitions of the categories of wood energy which are used for energy purpose can be found in Appendix 1.
+The best estimates are limited to the years 1980, 1985 and 1990.
+A.2.1. Construction of best estimate for EU
+To construct the best estimation of the role of wood energy in the EU the following steps have been undertaken:
+* The overall wood energy consumption (for 1980 and 1990) and the disaggregation into the various categories of wood energy is based on the UNECE data [UNECE, 1996].
+* The 1985 UNECE questionnaire data are added.
+* For all categories of wood energy, the number of the preceding year is repeated, if for a certain country data are not available for all three years (but at least for one year). If there is no data in a preceding year or if only the 1980 figure is known , data of the following years are repeated.^2
+* If for the categories direct woodfuels, primary residues and black liquor for a certain country no data were available at all, they were estimated. The UNECE estimations in their final report [UNECE, 1996] are adapted so that they are in consistence with the estimations in the original UNECE background report made by Morin [Morin, 1995]. This implicates the following:
+* The direct woodfuel figure is estimated by the FAO fuelwood figure [FAO, 1996].
+* The primary residues figure is estimated on the basis of the relation that can be observed in look-alike replying countries.^3 between their primary residue figure and their figure for veneer and sawnwood production from FAO [FAO, 1996].
+* The black liquor figures have been estimated on the basis of the FAO chemical pulp figures [FAO, 1996], according to the formula used by Morin..^4
+* If other figures than direct woodfuel, primary residues and black liquor were not available for a certain country, it has been estimated as 0.
+* The sectoral consumption (not in absolute values but in terms of percentages) is based on the Eurostat database..^5
+A.2.2. Construction of best estimate for OECD-non-Europe countries
+The total wood energy consumption figures for Japan and the USA were based on the LBL database. Those for Australia, New-Zealand and Canada, were based on the IEA database.
+The shares of the various categories of wood energy is limited to a distinction between woodfuels and black liquor (being a wood derived fuel). These figures have all been based on the IEA statistics.
+No estimations were made for sectoral consumption, for it is believed that the quality of the available data is too low for this. For the same reason, the resulting data on the various categories of wood energy which have been used, the shares of wood energy of total removals, and its share in the total primary energy supply are limited to the year 1990.
+A.2.3. Construction of best estimate for European-non-EU countries
+The method applied here was the same as for EU countries with the main exception that here (for the same reason as in the previous section) no estimations were made for sectoral consumption..^6
+As with OECD-non-Europe countries, the resulting data on the various categories of wood energy which have been used, the shares of wood energy of total removals, and its shares in total primary energy supply are limited to the year 1990.
+A.3. Analysis of the role of wood energy in the EU
+The resulting best estimate has been presented in the table in Appendix 3. The next sections analyse the main results.
+A.3.1. Quantitative analysis of the role of wood energy in the EU
+The total wood energy consumption according to the best estimate is presented in Figure 1. It can be seen that France is the largest wood energy consumer of all EU countries in absolute terms. The new member states Austria, Finland and Sweden are, together with Germany, other large wood energy consumers in absolute terms. The southern countries Spain, Portugal and Italy follow after these. In all other EU countries wood energy consumption in absolute terms is very modest still.
+Given all uncertainties surrounding wood energy statistics, from these figures no concrete conclusions can be drawn on the growth of wood energy consumption in the 80's. The figures for the EU-12 countries showed an annual growth of 1.0% in wood energy consumption, while the new member states grew with 2.1%. Overall for the EU-15 this resulted in a growth of 1.5% per annum. It is questionable, however, to what extend this growth reflects the real growth in wood energy during this period, or the growth in the degree of coverage of the wood energy consumption by the UNECE replies in their questionnaires.
+wpeC.gif (11310 bytes)
+Figure 1. Consumption of the various categories of wood energy in EU countries; the three bars per country refer to the years 1980, 1985 and 1990.
+Figure 2 shows the wood energy use in these countries as a share of total wood removals (or: total roundwood production) and as share of their total primary energy supply.
+For the EU-12 and EU-15 the share of total wood energy of the total removals does not differ a lot, 41% as compared to 48%. One has to realise that this does not only come from direct forest removals. For EU-15, almost 60% of wood energy came from indirect woodfuels and wood derived products such as black liquor (see Figure 3).
+The share of wood energy in total energy supply in EU-15, however, is almost twice as high as in the EU-12 (2.7 and 1.5% respectively), resulting from the very high shares of wood energy in total primary energy supply in the new member states (between 12-18%).
+The role of Denmark in terms of relative share is much higher than one may suspect of its low absolute amount of wood energy that is consumes. They ultimately consume about 70% of their forest removals as energy. Direct forest removals, however, only constituted about 25% to 50% of their total wood energy consumption (Figure 3). Wood energy in Denmark is just over 2% of their total energy supply, which is above average for the EU-12.
+wpe11.gif (12298 bytes)
+Figure 2. Wood energy use in the EU as a share of total removals and of total primary energy supply for the year 1990.
+wpeA.gif (21958 bytes)
+Figure 3. The share of the various categories of wood energy in total wood energy use in the EU. The three bars for each country represent figures for the years 1980, 1985 and 1990.
+Although in absolute terms France consumes about the same amount of wood energy as Sweden, their consumption is much lower when expressed as share of total energy supplies (4% compared to about 16% for Sweden). Wood energy consumption as a share of total removals is extremely high in France: over 80%. The questionnaire results from France show, however, that the direct woodfuels come for over 60% of non-inventoried growing stock, which may be part of the explanation for this high figure. For Austria this share is 48%, for Denmark 36%, and for Sweden only 16%.
+Figure 3 shows that in Sweden and Finland black liquor constitutes about 50% of the total wood energy consumption. This is quite a different picture than we see in France, where about 70% of the total wood energy consumption comes from direct forest residues. This coincides with the large shares of households in total wood energy consumption in France which can be seen in Figure 4 (over 80%). In Sweden, however, the industry and transformation sector constitute almost 70% of total wood energy consumption.^7
+The case of Portugal has to be treated with care. Because no UNECE questionnaire results were available on this country, everything was estimated. This may be the explanation for the remarkable high share of black liquor in total wood energy consumption (see Figure 3).
+wpe9.gif (16205 bytes)
+Figure 4. Share of the various sectors in wood energy consumption in EU for the year 1990.
+In general, it can be concluded from Figure 4 that wood energy consumption in the EU is still mainly a household matter. The household component varies between over 60% for EU-15 to over 70% for the EU-12.
+A.3.2. Environmental aspects of wood energy in the EU
+Use of wood for energy can have both positive and negative environmental impacts, dependent on the way in which the wood is grown and how it is converted. The main environmental positive impact is the fact that it is basically CO2 neutral,^8 as long as the rate of harvest equals the rate of regrowth. Since the latter is the case for wood in Europe,^9 this positive environmental impact can be considered a fact.
+Other emissions of wood energy systems depend a lot on the type and the scale of the system and the way in which it is operated. Although, in general small scale systems do have the advantage that they require less transport of wood and therefore less transport related emissions, conversion related emissions become lower when the scale of the conversion unit (and thus the efficiency) increases.
+The most important emission that can occur are CO, polycyclo-aromatic-carbonhydrogens (PACs), NOx and particles.
+PACs and carbon monoxide occur as a result of incomplete combustion of wood and will therefore improve with the efficiency of the conversion unit. Thermal efficiencies in small scale household wood heaters can be around 50% (at lower heating value), but are much lower in less efficient designs [Okken, 1992]. Modern district heating stations in Denmark have efficiencies near 99% (at lower heating value) [Hayden, 1996], which leads to much lower CO and PAC emissions. The situation in the Netherlands can illustrate the CO emission problem of household wood heating systems. Although residential wood heating accounts only about 0.5 % to the national primary energy consumption, it is responsible for 10% of the Dutch CO emissions [Okken, 1992].
+NOx and particle emissions also depend on the type of combustion process. It is out of the scope of this report to discuss this in detail. An advantage of large scale wood heat or power plants here is that they often have flue gas cleaning systems to reduce those emissions.
+It can be concluded that the present consumption of wood for energy is near to CO2 neutral, but considering the large share of households in wood energy consumption one can pose doubts on the behaviour of these systems in the field of CO and PAC emissions. This problem may be overcome by improvement of wood heating systems or centralisation of the conversion, which will in general raise conversion efficiencies.
+A.3.3. The impact of wood energy consumption on macro-economy and employment
+In the Eurostat household survey [Eurostat, 1993] for 5 EU countries (France, UK, Portugal, Greece and Italy) both amount of wood consumed per household and the corresponding expenditures are mentioned. From this we can estimate costs per unit of wood energy consumed. To get a rough indication of the amount of money that is involved with wood energy in the EU, a weighed average cost level has been calculated according to the relative share of the mentioned countries in total EU household wood energy consumption. This leads to a price for wood energy of 2,86 million ECU per PJ^10. With a total wood energy consumption of 1460 PJ per year this leads to an estimated expenditure of about 4 billion ECU per year in the EU-15. Of course, this figure can only be considered as a very rough estimation of the order of magnitude of the real turnover that is associated with wood energy. It is quite imaginable that the figure represents an overestimation, because many households collect
+their fuelwood themselves and thus get it for free. From a macro-economic point of view, this still means savings in oil imports.
+Table 1 gives an illustration of the amount of employment that is generated by different types of biomass energy in Sweden.
+Table 1: Direct employment of various bioenergy options in Sweden [Hektor, 1992, 1996 revised]
+Harv-
+esting
+Chipping
+Terrain transport
+Road
+transport
+At energy
+plant
+Admini-
+strative
+Total
+Sawmills 
+Recycled use 
+Logging residues 
+Residues pulp and paper industry 
+Direct harvesting of fuelwood; manual 
+Direct harvesting of fuelwood; mechanical 
+Woodfuel for small scale household use 
+Willow short rotation coppice, manual harvesting 
+Willow short rotation coppice, mechanical harvesting
+Canary Reed 
+Straw 
+Coal 
+It can be seen there that for the wood energy types which are used in Europe at present, the number of man-years created per PJ of primary energy varies between 8 and 73. For energy crops this varies between 25 and 113 man-years/PJ. The amount of employment needed for coal is estimated at about 8 man-years/PJ. It has to be noted that the figures only include direct employment generation and that indirect multipliers effects are not included.
+A.4 Quantitative analysis of the role of wood energy in OECD-non-Europe
+Because the quality of the available data is quite low here (as described in the background section), the analysis will be more general than the analysis of the EU figures.
+wpe13.gif (7341 bytes)
+Figure 5. Total wood energy use in OECD-non-Europe.
+wpe14.gif (11377 bytes)
+Figure 6. Wood energy use as a share of total removals and total primary energy supply in OECD-non-Europe in 1990.
+As Figure 5 shows, the absolute amount of wood energy consumption in the USA is enormous in comparison with other OECD/European countries^11. It is almost twice as large as the complete EU-15 consumption and it constitutes about 50% of the wood energy consumption in the whole OECD/Europe region. The amount of wood energy consumed in Canada is in the same order of magnitude as the French and Swedish one. The roughly 10 million m^3 which are annually consumed in Japan and Australia are in the range of the Austrian consumption, but still considerably lower than the Finish and German ones. The limited data available on New-Zealand show a quite moderate absolute amount of wood energy consumed.
+Most notable from Figure 6 is that the share of wood energy in total energy supply is, except for Japan, much higher than the average in the European Union. Although it is not as high as in the new EU member states, the 4% for Canada equals the French figure and the 3% for the USA is also higher than the EU-15 average. An interesting difference between Canada and the USA shows up when the previous figures are compared with the share of wood energy in total removals. Here, the share in the USA is about 2.5 times as large as that of Canada. Explanations for this difference could be the high energy intensity in the USA in combination with the strong forestry tradition in Canada.
+The low absolute amount for New-Zealand appears to be still significant, if expressed as share of their total primary energy supply.
+Because of the fact that forestry in Japan is relatively weak, we can see that the modest share in total energy supply still goes with a significant share of wood energy in total removals (almost 40%).
+Because no IEA data were available on Japan, Figure 7 is limited to 4 countries and only distinguishes between woodfuels and black liquor (being a wood derived fuel).
+wpe17.gif (7799 bytes)
+Figure 7. Share of various categories of wood energy in total wood energy use in OECD-non-Europe for the year 1990.
+The share of black liquor is very large. Where the average share of black liquor in wood energy was less than 20% for EU-12 and less than 30% for EU-15, the USA and Canada get almost 40% of their wood energy from black liquor. For Canada this is even almost 60%. Note that this share for Finland and Sweden is about 50%.
+A.5. Quantitative analysis of the role of wood energy in Europe-non-EU
+It is believed that data quality is also relatively poor for this region. Therefore only part of the countries are discussed.
+The available data on total wood energy consumption (Figure 8) are quite low in absolute terms as compared with the other regions, except for Turkey. The amount of wood energy consumed in Turkey in 1980 was in the range of the amount of Germany, but it declined sharply to near 11 million m^3 in 1990, which is close to the Austrian consumption. The most probably explanation of the decline is the relative traditional way in which the wood is used in Turkey and the reduction of this use which goes along with the economic development in Turkey and the introduction of other energy sources in rural areas.
+Beside Turkey, in absolute terms, the Czech republic, Poland, Romania and Norway are the larger consumers in this region (which is more a rest category than a geographical or political coherent region). Their consumption, however, is in the order of magnitude of consumption in Italy and Spain, which are relatively modest wood energy consumers in the EU.
+wpe18.gif (9678 bytes)
+Figure 8. Wood energy use in Europe-non-EU, respectively in 1980, 1985 and 1990.
+Figure 9 shows a very high share of wood energy in the total primary energy supply in Albania.. The Albania wood energy figure is an estimated figure which almost completely consists of the FAO fuelwood figures (see Figure 10). An explanation for the fact that wood energy constitutes about 18% of the total primary energy supply could be the relatively low development level of Albania, which often goes along with a large traditional woodfuel use in rural areas.
+The share of wood energy in Norway is quite high, but still much lower than that in Sweden and Finland.
+Like in all other regions, it can be seen here that there are quite some countries with a share of wood energy in total removals which is in the order of magnitude of 50%.
+wpe1A.gif (11027 bytes)
+Figure 9. Share of wood energy in total removals and total primary energy supply in Europe-non-EU for the year 1990.
+Figure 10 should especially be interpreted with care. Only the figures for Norway, Switzerland, Czech republic, Poland and Romania and the direct woodfuel figures for Turkey come straight from the UNECE questionnaires. All other data are estimated as described in the Section A.2.
+Except for Romania, all other 4 countries which were totally covered in the UNECE questionnaires, show relatively low shares of direct woodfuels, ranging from 50% in Poland down to only 25% in the Czech republic. This means that a considerable part of the wood used for energy is not used in the traditional (household related) way in these countries.
+wpe1C.gif (14092 bytes)
+Figure 10. Share of various categories of wood in total wood energy use in Europe-non-EU for the year 1990.
+A.6 Conclusions
+There is still a lot of uncertainty with respect to the use of wood energy in Europe/OECD. The data quality of the databases that have been investigated in this research is still considerably low. This is discussed in detail in part B of this study. This means, however, that the conclusions presented here should be interpreted as not more than indicative for the present reality.
+Wood energy consumption constitutes about 3% of the total primary energy consumption in the EU-15. The highest shares can be found amongst the new member states, where this share varies between 12 and 18%. France and Sweden are the largest EU consumers in absolute terms. In OECD-non-European countries, the USA dominates in quantitative terms. They consume about twice as much as the whole EU-15, which is about 3% of their total primary energy supply. In the Europe-non-EU group, Turkey is the largest consumer, although wood energy consumption is sharply decreasing in this country.
+In the EU-15, about 50% of the total removals are, either directly or indirectly, used as an energy source. In the OECD-non-European countries this figure is slightly lower, with Canada having only 20% of their removals used for energy. Most countries in the Europe-non-EU group fall within the 30-50% range. There are some exceptions (e.g. France, Austria, Denmark, Albania and Turkey) in which the statistics say that over 70% of the total removals is used for energy. In some of these countries (e.g. France and Austria), this figure is upwardly distorted because the direct woodfuel figure does also include non-inventoried sources, while these are not included in the figure for total removals.
+The share of the different type of fuels that are used for energy varies quite a lot amongst different countries. Two extremes can be observed. On the one hand there are the countries where wood energy is mainly consumed in the form of direct forest residues. Often this is traditional use in households. Examples of this are Turkey, France, Greece and Albania. On the other hand there are the countries that have a well developed forest industry including a large pulp and paper sector, e.g. Sweden, Finland and Canada. In these countries the share from indirect woodfuels and black liquor dominates.
+Beside Sweden and Finland, where the industrial and transformation sector consumes most wood energy, in the EU in general, still the largest share of wood energy is consumed in households. Although there are hardly data on the shares of the different sectors in other regions, it can be expected that this trend is the same or even stronger in most countries in the non-EU part of Europe. This does have implications for the present environmental impact for wood as an energy source.
+Wood energy is a potentially sustainable energy source with its CO[2] neutral character as its main advantage. In Europe at present the rate of harvest of wood is lower than the rate of regrowth, so this potential advantage appears to be reality in Europe at present.
+In spite of this, there is still a lot to improve, especially on the field of CO and PAC emissions of small scale household heating systems. Conversion efficiencies in household consumption is generally very low and emissions are relatively high. Scope for improvement is present, looking at the enormous development in modern clean biomass technologies (both small and large scale) that have been developed the last decade.
+An illustration for the employment impacts is given by the situation in Sweden, where wood energy has already become a commercial market. Here, the number of direct jobs created per unit of primary energy supply from woody residues is a factor 1 to 10 higher than is the case with coal as a primary fuel. For willow as an energy crop this is even a factor 3 to 14 higher than with coal.
+1 The tables in Appendix 3 give a complete overview of the countries included.
+2 With Arecovered products we did not use this backward repetition. If data on previous years were not known for this woodfuel type, they were estimated as 0.
+3 The figures for the non-replying countries Belgium/Luxembourg, Greece, Ireland, Italy, Portugal and United Kingdom were based on the replying countries Denmark, France, Germany, Spain and the Netherlands.
+4 This means that the number of tonnes of chemical pulp is divided by 0.44 to get to the wood equivalent of black liquor in cubic meters. For the 1980 figures the 1982 chemical pulp figures were used, because the 1980 figures were not available.
+5 An exception is made for Sweden and Austria, for the sectoral consumption data are available in the UNECE database and not in the Eurostat database.
+6 Primary residue figures for Albania, Bulgaria, Cyprus, Hungary, Israel, Serbia & Montenegro and Turkey are based on the replying countries: Poland, Romania and Czech Republic.
+7 It should be noted that the consumption data for Finland are not very reliable. The questionnaire data from UNECE were not available; therefore Eurostat data were used, in spite of the fact that their data of new member states are still of modest quality.
+8 If fossil fuels are used as input in the wood energy supply chain (eg for transportation) there will be a positive CO[2] emission. In theory, however, all inputs can be supplied with wood as primary energy source. If this would be done, the CO[2] balance would be neutral again, but the overall efficiency (expressed as amount of wood needed to supply one unit of energy) decreases slightly.
+9 Around 1990 annual fellings in Europe amounted 420 million m^3, while the net annual increment was about 600 million m^3 [FAO, 1995 #21].
+10 This is quite in line with figures from Sweden (which was not included in Eurostat study), where depending on the application the commercial price for fuelwood ranges from 2.4 - 4.8 ECU/GJ [NUTEK, 1996 #23].
+11 Note the different scales in Figures 1, 5 and 8.
+A.7 References
+Eurostat, 1993: Energy consumption in households,, Luxembourg.
+FAO, 1996: FAO forest product yearbook,, Rome.
+Hayden, S., 1996: Personal communication, CANMET Energy Technology Centre, Ottawa, 1996.
+Hektor, B., 1992, 1996 revised: Employment effects of biofuels (in Swedish), SIMS, Uppsala.
+Morin, 1995: Energetic use of wood (in French), UNECE, Paris.
+Okken, P.A., et al., 1992: Wood stoves in the Netherlands: the contribution to the energy supply and emissions (in Dutch), Report no. 9209, ECN.
+UNECE and FAO, 1996: European timber trends and prospects: into the 21st century, Report no. Geneva timber and forest study papers, Geneva.
+<section>3</section>
+Part B:
+Overview of available data
+on wood energy
+in Europe and OECD countries
+Summary
+The main aim of this background part is to give an overview and to compare available data on wood energy in Europe/OECD countries. Data have been collected by literature searches, but mainly by means of personal visits to all statistical institutes involved, which are FAO, UNECE, Eurostat, IEA and the Lawrence Berkeley Laboratory. Each of the 5 databases has been put into a common format which consists of a set of 8 tables in order to facilitate mutual comparison.
+An overview of the main characteristics of the various databases is presented in Table S.1. The FAO database only concentrates on fuelwood, which is wood that is directly removed from the forest for the purpose of energy generation. Data collection is integrated with the annual forestry questionnaire. All countries in the world are included. The UNECE sends out questionnaires focused on wood energy, each 5 years. The rate of reply is relatively low but the level of detail of replying countries high. All European countries are included. Eurostat constructs their renewable energy database on the basis of a standard questionnaire. Each member state gets a contract to write a detailed background report. They cover the whole EU, although the present data quality for the three new member states is relatively low. Beside wood and wood-waste also agricultural residues are included in one aggregated category. The International Energy Agency has increased their efforts to estimate
+wood energy consumption in both OECD and non-OECD countries. However, their present database consists of data collected in the past, which are believed to be not very reliable. The Lawrence Berkeley Laboratory constructs their energy database, which also includes data on wood, directly on individual national statistics. They include 10 OECD countries. Appendix 4 presents all databases in the common format.
+Table S.1: Overview of characteristics of the 5 studied databases on wood energy in European and OECD countries
+Database
+Country
+Categories of wood energy
+Sectoral consumption
+Years
+FAO forest products yearbook
+World
+fuelwood (N+NC) charcoal
+completely aggregated
+IEA
+OECD (+non-OECD)
+3 categories
+very detailed
+Eurostat renewable energy sources statistics
+EU-12
+included in wood/wood-waste/other solid waste (excl. MSW)
+households, industry, district heating plants and power stations
+ECE European Timber Trend Study V
+Europe
+6 categories
+households, intermediate users, forest industries
+LBL database
+Selected OECD countries
+completely aggregated
+households, industry
+One has to be very careful with comparing the figures of the different databases. There are large differences in both the amount of countries covered and the types of woodfuels included.
+However, it is possible to learn from such a comparison. One clear trend is that (especially in the EU where the data quality is the largest) the FAO figures are much lower (about a factor 5 as compared with UNECE and Eurostat for the EU) than the figures in the other databases. The reason for this is that the FAO only includes direct removals (probably only from inventoried sources) used for fuelwood. This appears to be only a small part of the total picture. Data quality for non EU countries appears to be much lower. Much more figures here are based on estimations of the database organiser instead of questionnaire results.
+B.1 Introduction
+This background part of the report "Wood energy today for tomorrow: a regional study for Europe/OECD" presents the methodology and results of a comparison of statistical databases on wood energy. On the basis of these results a best estimate will be made for the use of wood energy. This serves as an input for the analytical Part A of this report.
+Only international statistical databases were covered in this study. Individual country databases were therefore not considered.
+B.1.1. Objectives
+* Presenting an overview on total wood energy use in European/OECD countries based on literature searches and on personal communication with the respective authors and institutes.
+* Presenting various data sources in a comparable format, including:
+* Time series of total wood energy consumption
+* Disaggregation into different types of wood that are used for energy
+* Disaggregation into the main sectors which consume the wood energy.
+* Comparing the main characteristics of the databases
+* Construction of a best estimate for wood energy.
+* Making recommendations for future improvement of wood energy databases at FAO and other institutes.
+B.1.2 Overview of the contents of part B
+Part B starts with an overview of the methodology used. Both the steps undertaken in the project and the format in which all databases are presented is discussed here. Thereafter, a description is given of the 5 databases which were studied. For all databases the method of data collection and the structure of the database is discussed. An overview of the databases in the common format is given in Appendix 4. In this background part they are presented in an aggregated way and the most important differences are explained. On the basis of these data a best estimate is made for the consumption of wood energy in European and OECD countries.
+B.2. Methodology
+B.2.1 Basic steps undertaken in the project
+In order to meet the objectives as stated above the following steps were undertaken:
+* Literature study on the available database sources on wood energy production and consumption in Europe/OECD;
+* Writing of preparatory document to give an overview of the literature search [Broek, 1996]
+* Visits to responsible persons of the 5 most important institutes on the field of databases of wood energy in Europe/OECD;
+* Analysis of available databases and converting them all into the same format in order to facilitate comparison.
+B.2.2 Description of the format to present the databases
+All data sources are presented by means of 8 tables each. All tables have a list of all European and OECD countries on the y-axis. The countries are grouped into three groups, namely: EU-15, OECD-non-Europe and Europe-non-EU.
+Basically, in these 8 tables 5 different aspects of the databases are shown on the x-axes:^12
+1. Timeseries of the total use of wood for energy between 1980-1994. Table A.z.1. presents the timeseries in volume terms with 1000m^3 as unit and Table A.z.3 presents the same timeseries translated into primary energy with PJ (peta-Joule = 10^15 Joule) as the unit.^1,13
+2. The ratio between the amount of wood energy consumed and the total removals (within the country under consideration). This is presented in Table A.z.2. with % as the unit.^14 Total removals are represented by the figures on total roundwood production from the FAO forest product yearbook [FAO, 1996].
+3. The ratio between the amount of wood energy consumed and the total primary energy supply in the country under consideration. This is presented in Table A.z.4.; again with % as the unit.^2 Figures on total primary energy supply are based on the IEA database [Denman, 1996].
+4. The different types of wood that are used for energy. The basis distinction that has been made here is between woodfuel and wood-derived fuels.^15 Woodfuels are further divided into direct forest woodfuels (from inventoried and non-inventoried sources) and indirect forest woodfuels (industrial residues and recovered products). The only wood-derived fuel that was included in the various databases was black liquor. Exact definitions on all these items are given in Appendix 1. The main aim of this division was to make results of different databases comparable. Only UNECE and IEA have presented disaggregated figures on these items. The division made here has largely been based on the UNECE division, but included the idea of making the highest level division only on the basis of the inherent quality of the wood. This item is presented in Table A.z.5. and Table A.z.6., respectively in the units 1000m^3 and PJ.
+5. The various sectors in which the wood energy is consumed. The sectors that are considered are: households, industry, transformation and others. Again, definitions have been given in Appendix 1.
+Different fonts and shading have been used to indicate the main characteristics for each figure in the databases. This mainly refers to whether a figure comes directly from the questionnaires, whether it has been estimated by the database organiser and whether it is an original figure or the result of a calculation in order to be put in the common format. An overview of the symbols that have been used is presented in Appendix 2.^16
+B.3. Description of various databases
+In this study, 5 databases on wood energy use in Europe/OECD have been analysed, namely:
+1. FAO forest product yearbook [FAO, 1996];
+2. UNECE/FAO European Timber Trend Study V [UNECE, 1996];
+3. Eurostat Renewable Energy Resources Statistics [Eurostat, 1996];
+4. IEA Energy Balances [IEA, 1996a];
+5. Lawrence Berkeley Laboratory Energy Statistics [Schipper, 1996].
+All five databases are briefly described on the basis of the method of data collection and the structure of the database.
+B.3.1. FAO forest product yearbook
+For the purpose in this study we analysed the fuelwood and charcoal production data of the FAO forest product yearbook [FAO, 1996]. These figures are part of an extensive overview of production figures on various types of forest products.
+Method of data collection
+Data are collected by means of annual questionnaires send to basically all countries in the world [UNECE, 1996]. This questionnaire is joint by FAO and UNECE and since one year also Eurostat uses the same questionnaire in order to have equal databases, save money and to avoid that the same information is asked twice to countries.
+As part of total removals, data on fuelwood (including wood used for charcoal) are asked, disaggregated into coniferous and non-coniferous wood. Further, in the production section, production on charcoal is asked for.
+Neither in the questionnaire nor in the yearbook, an explicit definition has been given for "fuelwood". The FAO Internet site where all statistical data can be accessed, defines fuelwood as "Wood in the rough (from trunks, and branches of trees) to be used as fuel for purposes such as cooking, heating or power production. The commodities included are fuelwood, coniferous and non-coniferous and the roundwood equivalent of charcoal" .^17 Charcoal is defined there as "Wood carbonized by partial combustion or application of heat from an external source. It is used as a fuel or for other uses".
+Chipeta defines fuelwood as "wood harvested specifically for the purpose of energy production" [Chipeta, 1996]. So it includes the fuelwood that comes directly from the forest, thus excluding residues from industries, recycled products, etc..
+Further, figures on import and export of fuelwood is asked for. This figures have not been included in this study for it is believed that in practice they represent other types of wood than fuelwood [Prins, 1996].
+Structure of the database
+Basically, an annual overview is given for all countries in the world. Roughly one third of the figures for Europe/OECD are estimated by the FAO. This is in first instance done by repeating the figures of the years in which data were given. If no data are available at all, estimations are made on the basis of assumed average per capita consumption figures of fuelwood which are multiplied with the number of inhabitants of the country under consideration [Padovani, 1996].
+B.3.2. UNECE European Timber Trend Study V
+The Timber Section of the UNECE Trade Division and the forestry staff attached to the FAO Liaison Office at Geneva, have recently produced the European Timber Trend Study V (ETTS V). Within the framework of this outlook study, one chapter is devoted on energy from wood.
+Method of data collection
+For the energy chapter of ETTS V, questionnaires have been made by a "team of specialists on energy from wood" and were sent out to specialised institutes regarding the use of wood for energy of all ECE member countries. Similar questionnaires have already been analysed in 1980, 1985 and 1990. According to Prins [Prins, 1996] it is not useful to have annual questionnaires on wood energy, for the information at national levels is not available in sufficient detail for this purpose. About 10 useful replies to the 1995 questionnaire were received.
+In these questionnaires (related to the ETTS V study) detailed information is asked on the use of wood for energy, disaggregated into different types of wood and the various sectors within which the wood is consumed.
+The disaggregation into the various wood types has been done according to the following definitions:
+Fuelwood
+Wood from the forest used for energy. This may come from inventoried sources (stemwood in forest formations) or from non-inventoried sources, such as tops and branches, trees outside the forest, etc. It may be harvested commercially and marketed, enter "informal" circuits or be consumed by the forest owner himself.
+Industry residues
+Residues of all sorts, including solid wood chips and offcuts, bark, sawdust, etc., whether clean or contaminated by paint and lacquer. This is further divided into:
+Primary residues : residues from sawmilling and panel-producers
+Secondary residues : residues from joinery, furniture, wooden elements, etc
+Pulp and paper residues : bark and chips residues of the pulp- and paper industry
+Recovered wood
+Wood which is used for energy after it has carried out its initial function, which includes short-lived products, especially pallets and other packaging as well as demolition waste.
+Black liquors
+The lignin naturally occurring in wood, dissolved out with the hemi-cellulose during sulphate pulping. They are normally burnt in recovery boilers to provide process heat and to recover the chemicals.
+The main categorisation is not done on the basis of the inherent quality of the wood, but on the location where the wood comes from (an implicit inherent quality criterion used is: black liquor or no-black liquor). This may have advantages in relation to policies that try to maximise the use of residues during the different stages of wood through society.
+The disaggregation into the consuming sectors is as follows [according to questionnaire]:
+* households:
+* forest industry
+* intermediate users, including: district heating plants, non-forest industry, and consumers like schools and hospitals.
+* manufacture of charcoal
+* manufacture of wood-derived solid fuels (such as pellets and briquettes)
+* manufacture of synthetic fuels
+Here, the third category is a bit problematic from the viewpoint of comparison with official energy statistics, for it includes a mixture of ISIC categories (transformation, industries and service sectors in one category). Moreover, the second category includes more than one basic ISIC category, that is used in the official UNECE, Eurostat and IEA energy statistics.
+Structure of the database
+The replies from the ETTS V questionnaires were analysed by Morin [Morin, 1995]. On the basis of his background report the results were presented in the final ETTS V study [UNECE, 1996]. The main differences between those two publications were that the database of the second one included all UNECE countries, while the first one not includes a number of Eastern European countries. The main results of the study of Morin in terms of the share of wood energy in total removals and total primary energy supply, however, were used in both studies.
+The countries are grouped into the regions: Central-Europe, East-Europe, South-east-Europe, the Baltic States, the Nordic countries and EU-12. The database in Geneva comprises the years 1980 and 1990^18 and has 1000m^3 as unit.
+The figures for the non-replying countries for fuelwood and primary residues were estimated. In the report of Morin the method of estimation has been described. For fuelwood, Morin uses the FAO forest products yearbook for estimations for the year 1990. For primary residues the figure for a non-replying country was linked to the average value for replying countries within the same country region. This was done by multiplying this value with the ratio of the veneer- and sawnwood production of the country under consideration and the average value of (veneer and sawnwood-production of the) the replying countries.^19
+Wood equivalents of black liquor for 1990 were calculated on the basis of the volume of wood (lignin) that was needed to "produce" the black liquor. This was not done on the basis of the questionnaire results, but on the basis of the amounts of chemical pulp produced from the FAO forest product yearbook [Morin, 1995]. The questionnaire results were used in the sense that on the basis on their 1980/1990 ratio the 1980 black liquor wood equivalents data were calculated.^20
+For the other fuel types only questionnaire replies were used and no additional estimations were made.
+The secretariat in Geneva made some additional estimations. The 1980 figures for fuelwood and primary residues were estimated by repeating the 1990 figures estimated by Morin^21. Additional estimates were made for fuelwood and primary residues of the countries that were added. Regional estimations for regions with non-replying countries were made for secondary residues and recovered wood products.^22 The methodology for these estimates has not been described in the ETTS V report. The black liquor wood equivalents are presented in the UNECE database as regional totals.
+B.3.3. Eurostat Renewable Energy Resources Statistics
+In order to be able to evaluate the extend in which the EU quantitative objectives for renewable energy sources are achieved, Eurostat in 1991 started with the establishment of a methodology for collecting and presenting renewable energy sources statistics for their member countries. One major demand was that it had to fit in the annual energy balances as published by Eurostat.
+Method of data collection
+The main part of the data are collected by getting out contracts with centres of expertise of each member state. In this way country-reports have been established for all EU countries. On the basis of this information a synthesis report was made [Eurostat, 1995] which presented the renewable energy data for 1989-1991. Recently an updated version of this report has been published for the period of 1989 - 1994 [Eurostat, 1996].
+Additional input to these synthesis reports on the field of wood consumption in households came from a household energy consumption survey study [Eurostat, 1993] of which an updated version is upcoming. Household wood consumption in Belgium and Germany was considered as being weak areas of information. Therefore, additional surveys have been undertaken on this.
+The questionnaire that was sent out to the centres of expertise and which formed the core of the country reports, included basically the following four items concerning wood energy:
+* heat production by burning firewood in households;
+* heat production in district heating plants burning wood/wood waste/other solid waste;
+* heat production (exclusively) for on-site use in industry burning wood/wood waste/other solid waste; and
+* electricity generation by the public supply and autoproducers.
+Thus, for the first sector, wood has been aggregated into one item, while in the other 3 the level of aggregation in somewhat higher, since the data also include other solid waste.
+This aggregated category of "wood/wood waste/other solid waste" includes firewood and wood waste (wood chips, bark, etc.) while there is a minor contribution from black liquor, straw and other agricultural waste [Eurostat, 1995]. It is estimated that the first three categories consist for about 100% of "pure wood" and the fourth for about 20%, the remainder being black liquor and bark. [Roubanis, 1996].
+Structure of the database
+The database has exactly been organised according to these categories in the questionnaire. It presently contains information of the period 1989-1994 for the EU-12 and Finland. Figures for Austria and Sweden are not available yet on the categories presented above. Estimation have been made for total biomass/waste use in these countries (also including MSW, anaerobic fermentation and biofuel production).
+B.3.4. IEA Energy Statistics
+The data on wood energy of the IEA ultimately have to fit in the structure of their energy balances. These energy balances are the main basis for modelling and forecasting work that is undertaken within IEA. Therefore it is essential that data are available in the form of timeseries, that a clear definition of the various types of wood is available (based on their inherent quality and that information on sectoral consumption is according to the (ISIC based) system which is already developed for all conventional fuels.
+Method of data collection
+Information on wood energy is included in the IEA coal questionnaire, which is a joint questionnaire together with the UNECE. Since 1995 this questionnaire has also been joint by Eurostat [Roubanis, 1996]. Before 1995, all biomass was included in the category "other solid waste", which also included peat, municipal solid waste and industrial waste. In the new questionnaire, production, transformation and final consumption data are asked for "solid biomass and animal products". Production figures only are asked for a higher level of disaggregation. Here "wood" and "wood waste" are included [IEA, 1995].
+Questionnaires are sent to official national administrations which have some kind of government connection, for IEA members are obliged to answer the questionnaire. These institutes, however, are often not very familiar with wood or biomass in general so responses on these items are relatively poor [Denman, 1996]. Since last year the IEA increased efforts to improve the quality of the biomass data by discussing them intensively with the various countries. One way to improve reliability will be to send the results of the statistical project on renewable energy of Eurostat to the IEA respondents. Since the Eurostat data are official country data they have to be accepted by all member states [Savage, 1996].
+Deliberately, no exact definitions "wood" and "wood-waste" have been given in the questionnaire. After the answers have been received from the respondents, IEA is now trying to understand how countries interpret these categories [Savage, 1996].
+Structure of the database.
+In general IEA has two types of published statistical outputs for OECD countries. The "energy balances" are the most aggregated as regards types of energy sources, but presents all data in energy units so that the whole system of production, transformation and supply is in balance [IEA, 1996a]. Wood is included here in the aggregated item of "combustible renewables and waste". The other one is the "basic energy statistics". This gives a higher level of disaggregation and presents the data in their original units (e.g. tones, m3, litres, etc.) [IEA, 1996b]. It does include the production, transformation and sectoral consumption. The main item "combustible renewables and waste" is split up into "solid biomass and animal products", "gas/liquids from biomass", "municipal solid waste" and "industrial waste".^23
+The item "solid biomass and animal products" is further disaggregated in the database itself into "wood", "vegetal waste (including the share of "wood waste"), "black liquors" and "other solid biomass". Only production figures are included.^24
+B.3.5. Lawrence Berkeley Laboratory Energy Statistics
+The energy statistics of the Lawrence Berkeley Laboratory are used for many analytical purposes, like international comparison of energy efficiency in different sectors and looking for improvement potentials for energy efficiency.
+Method of data collection / Structure of the database
+Their database is directly based on country statistics. It comprises 10 OECD countries and includes information on wood for the following sectors: households, manufacturing and services/commercial sector. Wood as energy source is not further disaggregated. For some countries it may even also include non-woody biomass, for the main aim was to get those fuels in one category which is CO[2 ]neutral [Schipper, 1996]. The timeseries are for the period 1970-1992. In the household sector disaggregation is available for the purpose for which the energy source is used (e.g. space heating, cooking, etc.).
+12 All the tables in the appendices are numbered as A.z.x., with z referring to the number of the database (from 1 to 5) and x to the number of the table (from 1 to 8). A refers to "appendix".
+13 The conversion of volume into energy has been based on density figures of "general wood" as presented in the Forest Product yearbook of the FAO [FAO, 1996 #2], being 725 kg/m^3. The corresponding moisture content has been assumed as 20% (on wet basis). With a higher heating value of wood on dry basis of 19.4 MJ/kg and an average hydrogen content of 6% on dry basis, this led to a lower heating value of 10 GJ/m^3 of wood. Both figures are still open for discussion. It is important that there is consensus onthe average dry matter density and moisture content in the various regions within European/OECD countries.
+14 In the calculation of the shares of wood energy use of total removals (and of total energy consumption), the countries for which data on either wood energy consumption or total removals (and of total primary energy supply) lack, have not been included in the calculation of the average shares for the various regions.
+15 Conversion of black liquor figures into wood volume equivalents will in principle be done by directly dividing the energy content of the black liquor by the heating value of wood (in volume terms). In this way the black liquor and not the wood (lignin) that constituted it, is assumed to be the primary energy source. The reason for this is that the black liquor is basically a waste product. The conversion process from lignin to black liquor does not have the purpose of an energy conversion (like is the case with wood conversion into charcoal). If the database organiser under consideration had a different methodology of calculating wood volume equivalents of black liquor, this methodology has been followed in order to be in line as much as possible with the original database.
+16 In the Tables A.z.2. the various lettertypes only represent characterisitcs of the wood energy figures and not of the FAO roundwood production figures.
+17 The internet adres for the forestry statisitics is: http://apps.fao.org/lim500/nph-wrap.pl?Forestry
+.Primary&Domain=SUA
+18 The questionaires also asked for 1985 data. Replies were received on this year in about a similar amount as the 1980 replies.
+19 The total value of the estimated countries comprised 8% of the total amount of fuelwood and 22% of the total amount of primary residues. The real share of the estimated countries may be higher when the estimations turn out to be too conservative (which can at least be expected for the fuelwood estimations).
+20 This method led for the replying countries ultimately to an amount of energy from black liquor that was about 25% higher than the questionnaire results.
+21 This is basically not consistent with the methodology of Morin, for the same methodology could have been used with the help of the 1980 FAO yearbook figures.
+22 In the database presented in the the formats of this study, there was no space to put regional estimates as separate items. Therefore these have been added to the regional totals. This does, however, imply that the sum of the country figures within Table A.2.1, A.2.3, A.2.5-A.2.8. does not equal the regional total anymore.
+23 For non-OECD countries the energy balances are the only published source where wood can be found. Again it is included in the aggregated item "combustible renewables and waste". Because the quality of the data is still believed to be relatively poor, they are not yet included in the energy balances itself, but shown as a separate column [IEA, 1996 #18].
+24 The underlying database for non-OECD countries is more detailed on wood, however, as compared with OECD countries. For many countries in Latin-America and Asia, not only production, but also transformation and sectoral consumption is included. A difference, further, is that share of wood-waste in vegetal waste is not indicated and that charcoal is included.
+<section>4</section>
+B.4. Aggregated overview and comparison of the various databases
+The resulting tables in the formats as described above are presented in Appendix 4. The first page of this appendix starts with an overview of the 40 (8 tables times 5 databases) tables. In this section the main outcomes of this overview are presented in an aggregated form and the most interesting features and differences are explained. It is explicitly not the aim of this section to present an analysis of what the role of wood energy is in Europe at present.
+The overview is divided into (1) total wood energy use, (2) the wood energy consumption in the various sectors and (3) the different types of wood that are used.
+B.4.1. Aggregated overview of total wood energy use ^25
+Table 2 shows a selection of the main results of the tables in Appendix 4 in a very aggregated mode. One has to take care not to draw fast conclusions from the table itself, because the aggregated mode hides many structural differences between the various databases. In the text below the table the main figures will be elucidated by highlighting the main caveats per region. In the footnotes, general characteristics of the various databases are summarise.
+Table 2: Aggregated overview of selected data from the various databases
+Total amount of wood energy in database
+Share of wood energy in 1990 of:
+[PJ]^a
+[PJ]^a
+Annual growth^b
+Total removals
+Total energy consumption
+European Union: EU-15
+FAO^c 
+UNECE / FAO^d
+Eurostat^e 
+IEA^f 
+LBL^g 
+OECD-non-Europe
+FAO^c 
+UNECE / FAO^d
+Eurostat^e 
+IEA^f 
+LBL^g 
+Europe -non-EU
+FAO^c 
+UNECE / FAO^d
+Eurostat^e 
+IEA^f 
+LBL^g 
+^aTo convert from PJ to Mm^3, divide by 10.
+^bAnnual growth has only been calculated for those databases that comprise roughly the same countries in 1980 and 1990. In many cases it is questionable whether the annual growth reflects the real growth of wood energy use or the degree of coverage of the database itself.
+^cThe main source is the FAO forest product yearbook. Almost all countries in the world are covered. Data only reflect direct removals from forest with the explicit purpose of using it for energy [FAO, 1996].
+^dQuestionnaire replies about 12 countries and estimations of the secretariat constitute this database. Almost all European countries are included. Both direct and indirect forest woodfuels (industrial residues and recovered wood) and the wood derived product black liquor have been included [UNECE, 1996].
+^eIncludes all EU-15 countries, 13 have been investigated by detailed country reports, 2 by more aggregated estimations. Beside all kinds of wood fuels (which form the major part), also agricultural residues are included [Eurostat, 1996].
+^fMany countries are included. Wood energy was part of a large coal questionnaire and the quality of the replies is believed not to be very high [Denman, 1996].
+^gIncludes only 10 OECD countries, of which the data are directly based on national energy statistics. Wood is considered as one aggregated source and may for some countries also include other biomass.
+European union (15)
+* The large difference of about a factor 5 between FAO on one hand and UNECE/FAO and Eurostat on the other, is mainly caused by the fact that FAO includes only woodfuels that are directly removed from the forest, while the others include all wood and wood-derived fuels. This becomes very pronounced when looking at Table 3, where the total wood energy figures are disaggregated into individual countries. It can be seen there that especially in countries with much forest industry there is a large difference between FAO and the UNECE/Eurostat figures.^26
+* In 1990 LBL and IEA comprise roughly half of the EU countries, but do include the largest ones (except France in IEA and Austria in LBL).
+* The aggregated figures of Eurostat and UNECE are very close for 1990, although these institutes did clearly no make any direct use of each others figures. Table 3, however, shows that there are still considerable differences if the databases are compared country by country. The general trend is that Eurostat figures are higher for the Southern European countries and Denmark, lower for the new member states and quite comparable for the other (7) countries. The two differences appear to outweigh each other for a large extend in the total figure. A possible explanation for the higher Eurostat figures could be the inclusion of non-woody biomass (e.g. straw in Denmark and other agricultural residues in South-EU).
+Table 3: Total amount of wood energy in database per EU country in 1990 [PJ]
+FAO
+UNECE/FAO
+Eurostat
+IEA
+LBL
+Belgium 
+Denmark 
+France 
+Germany 
+Greece 
+Ireland 
+Italy 
+Luxembourg 
+Portugal 
+Spain 
+The Netherlands 
+United Kingdom 
+EU-12 
+Austria 
+Finland 
+Sweden 
+New member-states
+EU-15
+* Only the LBL data show considerable growth of wood energy use between 1980 and 1990 (Table 2). For FAO the aggregated growth figure is stable and UNECE shows a slow growth in wood energy consumption.
+* Table A.3.2. on the share of total removals at Eurostat shows that the figures for 1990 are relatively low compared with other years (where they are about 70% on average). Some countries have a share which is higher than 100%. Again, this may point at the inclusion of considerable amounts of non-woody biomass (e.g. agricultural residues). For a country like Italy, the low degree of self-sufficiency in roundwood supplies (about 50%) could also be an explanation that consumption of wood/wood waste/other solid biomass is larger than indigenous roundwood removals. Further, there will of course also be inaccuracies in the FAO roundwood production figures.
+OECD-non-Europe
+* In comparing the databases for the OECD-non-European countries, one has to realise that the countries included in this category differ largely. Therefore, also in this case a disaggregation into individual countries is presented (Table 4).
+* The reason that the share in total removals is considerably higher for LBL compared with IEA (Table 2), despite of its lower absolute amount of energy, is that Canada is included in IEA and not in LBL. In the IEA database, Canada has a relatively large amount of total removals but a small share of wood energy use from these removals (about 20%) which brings the average for the region down.
+* The figures for this region are clearly dominated by the USA figures. The estimates for the USA for LBL and IEA appear to coincide quite well. A reason for this could be that both are based on official national statistics. The UNECE figure for 1980 was 3,727 which is significantly higher. According to this database wood energy represents 4.9% of the total energy consumption and 88% of the total removals in 1980. The difference between FAO and the others is smaller here as compared with EU countries; the ration here is about 3.
+* The presented growth figures are negligible for this region.
+Table 4: Total amount of wood energy in database for OECD-non-European countries in 1990 [PJ]
+FAO
+UNECE/FAO
+Eurostat
+IEA
+LBL
+Australia 
+Canada 
+Japan 
+New-Zealand 
+United-States 
+OECD-non-Europe
+European-non-EU countries
+* Again, disaggregation into country levels is needed to make good comparison for the absolute figures for the various databases. This is presented in Table 5. It can be seen that FAO, UNECE and IEA included largely the same countries. Note that the LBL database only includes Norway.
+* FAO figures are much closer to UNECE here than compared with the other two regions. One explanation for this is that also UNECE used much estimations for this regions, the fuelwood part of which was based on the FAO figures. Thus, partly, this is a resemblance by definition. The countries from which relatively complete replies were received by the UNECE questionnaires (Czech Republic, Norway, Poland, Switzerland) show much higher values than FAO (varying between a factor 2 to 6).
+* Both UNECE and FAO show a slow decrease in the wood energy use that is included in their database.
+Table 5: Wood energy in the various databases for European-non-EU countries in 1990 [PJ]
+FAO
+UNECE/FAO
+Eurostat
+IEA
+LBL
+Albania 
+Bosnia & Herzegovina
+Bulgaria 
+Croatia 
+Cyprus 
+Czech republic 
+Estonia 
+FYR Macedonia 
+Hungary 
+Iceland 
+Israel 
+Latvia 
+Lithuania 
+Malta 
+Norway 
+Poland 
+Romania 
+Serbia & Montenegro 
+Slovakia 
+Slovenia 
+Switzerland 
+Turkey 
+Europe-non-EU
+B.4.2 Aggregated overview of wood energy consumption in the various sectors
+Disaggregation into the different wood-energy consuming sectors has been undertaken by UNECE, Eurostat and LBL. Figure 1 gives an aggregated overview of the results. All data are for 1990, except for the OECD-non-Europe data, which are for 1980.
+The regions presented in this figure with the largest country gaps are : OECD-non-Europe for UNECE (only USA included), EU for LBL (only 6 countries, including Sweden, Finland and France), OECD-non-Europe for LBL (only USA and Japan) and Europe-non-EU for LBL (only Norway!).
+In all three databases household consumption in the EU appears to be about 60% of the total^27.
+The transformation sector for LBL is zero in all cases because it has simply not been included in their database (w.r.t. wood at least), since their transformation sector data do not rely on national statistics, but on IEA figures, which show no sectoral disaggregation at all for wood.
+B.4.3. Aggregated overview of the various types of wood used for energy
+Figure 2 shows which types of wood are used for wood energy in the three regions according to the databases of UNECE and IEA. Again the OECD-non-European data for UNECE only comprise the USA and are for 1980 while all others are for 1990. Remarkable is the extremely high share of black liquor in the USA for the UNECE data. Although it is not clear whether their 1990 study [UNECE, 1990] uses the same method as the ETTS V study, part of the explanation could be in the method of converting the energy unit of black liquor into wood volume equivalents. In the EU, fuelwood directly from forests, appears to comprise about 40% in the two databases. According to UNECE, for European-non-EU countries this percentage is significantly higher (>60%).
+B.5. Best estimate for wood energy use
+In order to construct the analytical part of this report, a best estimate is made for wood energy use in EU, OECD-non-European countries and Europe-non-EU.
+B.5.1. Best estimate for EU
+The two most reliable, complete and disaggregated databases for the EU are the UNECE and Eurostat database. It is preferred however to use one single set of data for the analysis chapter. Therefore the strong and weaker points of the two databases are weighed against each other:
+Eurostat
+Strong points:
+* All data are compiled by national expertise centres. No estimates by Eurostat itself are included.
+* The national centres of expertise were able to spend time on collecting data for their background reports, because they were paid for it under contract by Eurostat.
+* The sectoral consumption data of Eurostat fit within the format of the energy balances as applied by IEA, Eurostat and UNECE.
+* The database is based on the sectoral consumption. Especially household wood energy consumption data are of high quality, because of the specific surveys that were undertaken for this purpose.
+* Eurostat database is improved and updated every year. Timeseries are produced.
+Weaker points of the Eurostat database are:
+* The database is very aggregated with respect to the various supply sources. There is only one category of wood/wood waste/other solid waste which for some EU countries is likely to include a significant amount of agricultural residues.^28
+* The quality of the data for the new member states is still lower. For Sweden and Austria only total biomass/waste estimates have been given (also including MSW, anaerobic fermentation and biofuel production). These new member states are very important with respect to wood energy. It is clear that this lack in the database will improve in the future.
+* No data prior to 1989 are available.
+UNECE
+The strong points of the UNECE/FAO database are:
+* The database is explicitly focused on wood energy only.
+* The database is based on a high level of disaggregation on supply sources; various different types of wood are distinguished.
+* Data are available back to 1980.
+* All large wood energy consuming EU countries are included within the nine countries of which complete questionnaire replies were received.
+* There is already about 20 years of experience within UNECE in collecting and interpreting wood energy data.
+Weaker points:
+* There are no timeseries. The gap between the data as presented in ETTS V is ten years, which is very large. It is a pity that the 1985 information from either the questionnaire or the 1990 study [UNECE, 1990] were not included in the analysis.
+* The definitions of the sectors are not completely in accordance with the ISIC standards and do as such not fit in the standard energy balances.
+* Sectoral consumption data are only available for 6 EU member states.
+* The secretariat had to make estimations for 6 countries. The estimations by the secretariat are not always consistent with those made in the original report by Morin.
+* - No timeseries are available, because it is believed that the quality of available data at the national level does not allow for such a detailed assessment.
+* The conversion of black liquor is believed to lead to an overestimation of about 25%.
+Although the choice for one of the two would provide the most consistent set of data it is decided to use both databases:
+* The overall wood energy consumption (for 1980 and 1990) and the disaggregation into the various types of fuels will be based on the UNECE data.
+* The 1985 UNECE questionnaire data are added.
+* For all categories of wood energy, the number of the preceding year is repeated, if for a certain country data are not available for all three years (but at least for one year). If there is no data in a preceding year or if only the 1980 figure is known , data of the following years are repeated.^29
+* If for the categories "direct woodfuels", "primary residues" and "black liquor" for a certain country no data were available at all, they were estimated. The UNECE estimations in their final report [UNECE, 1996] are adapted so that they are in consistence with the estimations in the original UNECE background report made by Morin [Morin, 1995]. This implicates the following:
+- The "direct woodfuel" figure is estimated by the FAO fuelwood figure [FAO, 1996].
+- The "primary residues" figure is estimated on the basis of the relation that can be observed in look-alike replying countries^30 between their primary residue figure and their figure for veneer and sawnwood production from FAO [FAO, 1996].
+- The black liquor figures have been estimated on the basis of the FAO chemical pulp figures [FAO, 1996], according to the formula used by Morin.^31
+- If other figures than direct woodfuel, primary residues and black liquor were not available for a certain country, it has been estimated as 0.
+* The sectoral consumption (not in absolute values but in terms of percentages) is based on the Eurostat database.^32
+In this way it is believed that the strong points of both databases are combined, without doing too much concessions to the consistency of the set of data.
+The resulting set of data will be further presented in the analysis part of this report.
+B.5.2. Best estimate for OECD-non-European countries
+There is a clear lack of reliable data on wood energy from this region. UNECE and Eurostat, which were the most reliable databases for the EU, did not include this region, with the exception of the 1980 USA figures in the UNECE database.^33 The FAO figures are believed to present huge under-estimations if one considers total woodfuel use. The two databases left are LBL and IEA. The LBL database is clearly based directly on national statistics and is therefore believed to be the most reliable of the two. Therefore we will use the LBL figures for the USA and Japan, and the IEA figures for Australia, Canada and New-Zealand. Because of the low reliability, no best-estimate for this region will be presented on disaggregation to sectoral consumption.
+B.5.3. Best estimate for Europe-non-EU
+Here the UNECE does present data for all countries. However only figures for four countries of the total of 22 were based on questionnaires. Figures for the other countries were estimated as described in chapter B.3. Fuelwood was estimated on the basis of the FAO figures and primary residues on the basis of comparing their production of veneer- and sawnwood with countries that did reply.
+However, since the UNECE appears to be the least unreliable, and the most complete, we will use this database (with caution) in the analytical part of this report. Again, no disaggregation into the various consuming sectors will be made here, because of the low amount and low quality of data.
+B.6. Recommendations
+The recommendations will be split in two parts. One are general recommendations to the whole "wood energy statistical society" and the other are specific recommendations to FAO with respect to the establishment of a world wide database on wood energy.
+B.6.1. General recommendations
+* Although it is very clear that communication between the various statistical institutes that deal with wood energy has rapidly increased the last year, an explicit (ad-hoc) meeting of representatives of all relevant institutes (at least the ones mentioned in this report) could be very desirable. A possible initiator of such a meeting could be the already existing inter-secretarial Working Group on Forest Statistics. Though, it is desirable that the focus will be mainly on wood energy.
+In the following some points of attention will be mentioned that could be dealt with during such a meeting:
+* More integral co-operation between all institutes (so not only bilateral agreements) could lead to:
+- increased consistency between all wood energy databases
+- more efficient use of the limited resources in all institutes
+- higher quality databases by combining expertise on both forestry and energy statistics
+- better availability of country respondents by avoiding that information is asked more than one time.
+* There should be more consistency in definitions with respect to both the fuel types and the consuming sectors. The highest level of disaggregation of fuel types should preferably be based on the inherent quality of the fuel (e.g. difference between woodfuels and wood-derived fuels, such as black liquor). Further disaggregation that fits within such a basic disaggregation by individual institutes according to specific wishes is then still possible. Disaggregation into consuming sector should fit within existing energy statistics and be according to the official ISIC categories.
+* The treatment and conversion of units is an important point of attention. The way in which primary data are converted should be the same at all institutes. Conversion from volume to energy units needs some basic assumptions, to be agreed upon by all relevant statistical institutes. The main are the average dry matter density of the wood that is used and its average moisture content. On the basis of this, conversion factors can be calculated. It has appeared that presently there is no clearness on what kind of assumptions are appropriate. It should be realised that huge distortions can occur with this.^34 It may be necessary not to have overall conversion factors, but to differentiate for regions (e.g. Nordic countries, Central and Southern Europe) according to the types of trees that are used for fuelwood. In this case assumptions can be different for different regions, but the method for conversion should remain the same.
+The conversion method to express black liquor into wood volume equivalents should get special attention.
+* The present national respondents should be made aware of available statistical data that has been prepared for their country on behalf of other statistical institutes. Activities that enhance this, are going on at IEA at the moment, where one explicitly points the national respondents (in case the reliability of data is suspected to be too low) at the existence of the Eurostat country studies. Activities like this could be extended by Eurostat and IEA with respect to the figures that have been compiled by the respondents of the ETTS V questionnaire of UNECE (and vice versa, of course).
+* A discussion could be undertaken on the most suitable ways of data collection on the item of wood energy. Experiences at FAO and IEA have learnt that including wood energy within a huge questionnaires on other items (respectively the forestry and coal questionnaire) may lead to neglecting this item. The results of the databases of Eurostat and UNECE, however, states that energy from wood is a very, but complicated energy source and therefore deserves more attention.
+B.6.2. Recommendations to FAO
+* The present way in which wood energy is dealt with in forestry statistics seems quite undesirable. At least, the definition of fuelwood within the present forest product yearbook should be more clear. If one aims at including direct removals of wood for energy in order to complete the balance it should be very clear from the name and the definition of this wood that this is not representative for the total use of wood for energy. The present name of "fuelwood" and the lack of a suitable definition in the yearbook does not meet this requirement. An alternative name and definition could be the one that has been used in this report: "direct forest-woodfuel" (see Appendix 3).
+* If FAO aims at having a complete database on energy from wood, the present statistical database should be extended. Of course, this should always be in line (w.r.t. definitions and units) with existing databases and it should be avoided that questionnaires ask for information which is already asked for at other places.
+* One should consider whether it is necessary to collect additional data at member countries or to make use (possibly in co-operation) of already existing sources. It can be questioned whether inclusion into the present forestry statistics will guarantee sufficient attention to this complicated matter of energy from wood.
+* Inclusion of a complete database on wood energy may not fit within the present structure of the FAO forestry statistics. The main balance here is in the total removals, while wood energy is created to a large extend downstream, from sources that have been put in the production statistics under other categories (like pulp- or sawnwood). Of course, double counting should be avoided. Either the indirect wood energy use should be a separate item outside the removal balance or the balance should be constructed as a complete material flow balance. The latter has the main problem of data-availability and the time-aspect. This time aspect (wood can be available for energy as a recycled product many years after its harvest) is a major complication as compared with the balance within energy statistics.
+It is up to the FAO to decide to what level of detail data on energy from indirect woodfuels and wood derived fuels have to be integrated within the present forestry statistics.
+25 On the basis of this section one best estimation for the wood energy use will be constructed, which will be the basis for the analytical part of this report.
+26 For Sweden the difference is a factor 9 and for Finland a factor 7. If one considers pulpwood, a large part (about 50%) of the wood goes into energy via black liquor. This is a very important component in Sweden for instance.
+27 For the 6 countries examined by LBL 70% of the household consumption comes from France (where its the only sector consuming wood according to this database). A similar thing can be observed for Turkey in the UNECE database. Wood is totally consumed by households and the Turkish household sector comprises 40% of the Europe-non-EU household consumption.
+28 The main reason for this assumption are the very high wood energy/total removal ratios, which are for some countries well above 100%. However, beside the inclusion of agricultural residues there could also be other reasons for this high figure, like: (i) dependency of the country under consideration on imports of roundwood which are indirectly used for energy, (ii) inaccuracies in the FAO roundwood production figures.
+29 With Arecovered products@ we did not use this backward repetition. If data on previous years were not known for this woodfuel type, they were estimated as 0.
+30 The figures for the non-replying countries Belgium/Luxembourg, Greece, Ireland, Italy, Portugal and United Kingdom were based on the replying countries Denmark, France, Germany, Spain and the Netherlands.
+31 This means that the number of tonnes of chemical pulp is divided by 0.44 to get to the wood equivalent of black liquor in cubic meters. For the 1980 figures the 1982 chemical pulp figures were used, because the 1980 figures were not available.
+32 An exception is made for Sweden and Austria, for the sectoral consumption data are available in the UNECE database and not in the Eurostat database.
+33 The 1990 report of UNECE [UNECE, 1990 #20] did also include figures for the USA for 1985.
+34 For instance: the lower heating value of wood on wet weight basis is about 14 MJ/kg for wood of 20% moisture content (which is air dry in some areas) and 8.0 MJ/kg at 50% moisture content (fresh wood in most areas). If addition to the assumption of the moisture content, the ratio between coniferous and non-coniferous wood is assumed differently (the dry matter density can vary by at least 20% on average), a difference of the lower heating value per (wet) cubic meter of a factor 2 can occur.
+B.7. References
+Broek, 1996: Review on data on woodfuel use, production and trade in European countries: a preparatory document for the regional "Wood energy today for tomorrow" study on European countries., Department of Science, Technology and Society, Utrecht University, Utrecht.
+Chipeta, M., 1996: Personal communication, FAO, Rome, 1996.
+Denman, J., 1996: Personal communication, IEA, Paris, 1996.
+Eurostat, 1993: Energy consumption in households, , Luxembourg.
+Eurostat, 1995: Renewable energy sources statistics: 1989-91, , Luxembourg.
+Eurostat, 1996: Renewable energy sources statistics: 1989-1994, , Luxembourg.
+FAO, 1996: FAO forest product yearbook, , Rome.
+IEA, 1996a: Energy balances of OECD countries: 1993-1994, IEA, Paris.
+IEA, 1996b: Energy statistics of OECD countries: 1993-1994, IEA, Paris.
+IEA and ENECE, 1995: Coal (solid fuels, wastes and manufactured gases): annual questionnaire: 1993 and 1994, , Paris.
+Morin, 1995: Energetic use of wood (in French), UNECE, Paris.
+Padovani, 1996: Personal communication, FAO, Rome, 1996.
+Prins, C., 1996: Personal communication, UNECE, Geneva, 1996.
+Roubanis, N., 1996: Personal communication, Eurostat, Luxembourg, 1996.
+Savage, E., 1996: Personal communication, IEA, Paris, 1996.
+Schipper, L., 1996: Personal communication, Lawrence Berkeley Laboratory, Berkeley, 1996.
+UNECE and FAO, 1990: Survey of medium-trends for wood raw material, notably pulpwood, and wood for energy, Timber bulletin. XLII(2).
+UNECE and FAO, 1996: European timber trends and prospects: into the 21st century, Report no. Geneva timber and forest study papers, Geneva.
+<section>5</section>
+APPENDICES
+Appendix 1
+Definitions
+Wood energy : All primary lignocellulosic energy sources that are used for energy generation and that have (thus) not already undergone any energy conversion process (except for photosynthesis).
+Wood energy is sub-divided into three major categories which differ with respect to inherent quality, namely woodfuels and wood-derived fuels.
+- Woodfuels : Fuels that have a woody physical structure. Examples are branches, woodchips, pallets, etc.
+Within this category of woodfuels we distinguish between direct forest-woodfuels and indirect forest woodfuels:
+- Direct forest woodfuels : Woodfuels that are removed from the forest with conversion into energy as the most important driving factor.
+These direct forest woodfuels(which coincide with fuelwood definition of FAO and UNECE) are (according to UNECE methodology) subdivided into wood from inventoried sources and wood from non-inventoried sources. The inventoried sources only include wood that is included in the official forest resource assessment. Non-inventoried includes all other wood, such as tops and branches and trees outside the forest [UNECE, 1996].
+- Indirect forest woodfuels : Woodfuel which are removed from the forest and do not have energy as the main driver.
+We distinguish between industrial residues and recovered (or recycled) woody products.
+Wood-derived fuels : Fuels which got their calorific value from wood, but which were converted in some other kind of fuel which does not have a woody physical structure.
+In the databases that were used in this study, the only wood derived fuel that was included was black liquor. This is defined according to the IEA definition [IEA, 1995].
+Black liquor The alkaline spent liquor from the digesters in the production of sulphate or soda pulp during the manufacture of paper. The energy content derives from the lignin removed from the wood pulp.
+Appendix 2
+Overview of meaning of fonts and shading in the common format
+Explanation of cell background colour and lettertypes used for data
+Figure directly from questionaire
+Unclear whether directly from questionaire or estimated by database organiser
+Estimated figure by database organiser
+No data available
+No data available
+Result of calculation on the basis of figures that all came directly from questionaire (except for estimations of average heating values, etc.)
+Result of calculation. It is not clear whether figures have been involved that are estimated by the database organiser
+Result of calculation in which also figures have been involved that are estimated by the database organiser
+<section>6</section>
+Appendix 3
+Best estimate for total wood energy consumption on the basis of available databases in Europe and OECD countries
+Total wood energy
+Woodfuels
+Direct forest-woodfuels
+Indirect forest-woodfuels
+Wood derived fuels Black liquor
+Total indirect forest woodfuels
+Industrial residues
+Recovered products
+OECD + Europe
+Total Europe
+Total OECD
+EU-12
+EU-15
+OECD-non-Europe
+Europe-non-EU
+EU
+Belgium^a
+Danmark
+France
+Germany
+Greecea
+Irelanda
+Italya
+Luxembourg
+Portugala
+Spain
+the Netherlands
+United Kingdoma
+Austria
+Finland
+Sweden
+OECD - non Europe
+Australia
+Canada
+Japan
+new-Zealand
+United-statesa
+Europe-non EU
+Albania
+Bosnia & Herzegovina
+Bulgaria
+Croatia
+Cyprus
+Czech republic
+Estonia
+FYR Macedonia
+Hungary
+Iceland
+Israel
+Latvia
+Lithuania
+Malta
+Norway
+Poland
+Romania
+Serbia & Montenegro
+Slovakia
+Slovenia
+Switzerland
+Turkey
+<section>7</section>
+Appendix 4
+Overview of databases in similar formats
+(Note: The contents of this Appendix is in separated Excel files)
+Tables from A.1.1 to A.1.8
+Table A.1.1.
+Table A.1.2.
+Table A.1.3.
+Table A.1.4.
+Table A.1.5.
+Table A.1.6.
+Table A.1.7.
+Table A.1.8. Total wood energy consumption from FAO forest products yearbook; [1000 m^3]
+Total wood energy consumption as a percentage of total removals from FAO forest products yearbook; [%]
+Total wood energy consumption from FAO forest products yearbook; [PJ]
+Total wood energy consumption as a percentage of total primary energy consumption from FAO forest products yearbook; [%]
+Consumption of energy from different types of wood from FAO forest products yearbook [1000 m^3]
+Consumption of energy from different types of wood from FAO forest products yearbook [PJ]
+Consumption of wood energy in various sectors from FAO forest products yearbook [1000 m^3]
+Consumption of wood energy in various sectors from FAO forest products yearbook [PJ]
+Tables from A.2.1 to A.2.8
+Table A.2.1.
+Table A.2.2.
+Table A.2.3.
+Table A.2.4.
+Table A.2.5.
+Table A.2.6.
+Table A.2.7.
+Table A.2.8. Total wood energy consumption from UNECE ETTS V; [1000 m^3]
+Total wood energy consumption from UNECE ETTS V as a percentage of total removals; [%]
+Total wood energy consumption from UNECE ETTS V; [PJ]
+Total wood energy consumption from UNECE ETTS V as a percentage of total primary energy
+consumption; [%]
+Consumption of energy from different types of wood from UNECE ETTS V; [1000 m^3]
+Consumption of energy from different types of wood from UNECE ETTS V; [PJ]
+Consumption of wood energy in various sectors from UNECE: [1000 m^3]
+Consumption of wood energy in various sectors from UNECE: [PJ]
+Tables from A.3.1 to A.3.8
+Table A.3.1.
+Table A.3.2.
+Table A.3.3.
+Table A.3.4.
+Table A.3.5.
+Table A.3.6.
+Table A.3.7.
+Table A.3.8. Total wood energy consumption from Eurostat; [1000 m^3]
+Total wood energy consumption as a percentage of total removals from Eurostat; [%]
+Total wood energy consumption from Eurostat; [PJ]
+Total wood energy consumption as a percentage of total primary energy consumption from Eurostat; [%]
+Consumption of energy from different types of wood from Eurostat [1000 m^3]
+Consumption of energy from different types of wood from Eurostat [PJ]
+Consumption of wood energy in various sectors from Eurostat; [1000m^3]
+Consumption of wood energy in various sectors from Eurostat; [PJ]
+Tables from A.4.1 to A.4.8
+Table A.4.1.
+Table A.4.2.
+Table A.4.3.
+Table A.4.4.
+Table A.4.5.
+Table A.4.6.
+Table A.4.7.
+Table A.4.8. Total wood energy consumption from IEA; [1000m^3]
+Total wood energy consumption as a percentage of total removals from IEA; [%]
+Total wood energy consumption from IEA; [PJ]
+Total wood energy consumption as a percentage of total primary energy consumption from IEA; [%]
+Consumption of energy from different types of wood from IEA; [1000m3]
+Consumption of energy from different types of wood from IEA; [PJ]
+Consumption of wood energy in various sectors from IEA: [1000m^3]
+Consumption of wood energy in various sectors from IEA: [PJ]
+Tables from A.5.1 to A.5.8
+Table A.5.1.
+Table A.5.2.
+Table A.5.3.
+Table A.5.4.
+Table A.5.5.
+Table A.5.6.
+Table A.5.7.
+Table A.5.8. Total wood energy consumption from LBL database; [1000 m^3]
+Total wood energy consumption as a percentage of total removals from LBL database; [%]
+Total wood energy consumption from LBL database; [PJ]
+Total wood energy consumption as a percentage of total primary energy consumption from LBL database; [%]
+Consumption of energy from different types of wood from LBL database [1000 m^3]
+Consumption of energy from different types of wood from LBL database [PJ]
+Consumption of wood energy in various sectors from LBL database [1000 m^3]
+Consumption of wood energy in various sectors from LBL database [PJ]
+<section>8</section>
+Appendix 5
+Addresses of persons interviewed or otherwise involved in this study
+Food and Agriculture Organization
+Viale delle Terme di Caracalla
+00100 Roma, Italy
+Eurostat
+Statistical Office of the European Communities
+Batiment Jean Monnet
+L-2920 Luxembourg
+Miguel Trossero
+Forestry Department
+Tel: +39-6-570-54175
+Fax: +39-6-570-55618
+E-mail: miguel.trossero@fao.org
+Nikolaos Roubanis
+Energie et matieres premieres
+Tel: +352-4301-32483
+Fax: +352-4301-34771
+E-mail:nikolaos.roubanis@eurostat.cec.be
+Maffa Chipeta
+FOND
+Tel: +39-6-570-55514
+Fax: +39-6-570-53254
+E-mail: chipeta@fao.org
+Martti Aarne
+Agricultural accounts and structures
+Tel: +352-4301-37313
+Fax: +352-4301-37317
+E-mail: martti.aarne@eurostat.cec.be
+Felice Padovani
+Tel: +39-6-522-
+Fax: +39-6-522-
+E-mail: felice.padovani@fao.org
+International Energy Agency
+9, Rue de la Federation
+75739 Paris, Cedex 15, France
+UNECE
+UN-ECE Trade Division
+Palais des Nations
+CH 1211 Geneva 10, Switzerland
+John Denman
+Non-OECD countries - Biomass
+Energy Statistics Division
+Tel: +33-1-40 57 66 24
+Fax: +33-1-40 57 66 49
+E-mail: john.denman@iea.org
+Christopher Prins
+Timber Section
+Tel: +41-22-917 2974
+Fax: +41-22-917 0041
+E-mail: chistopher.prins@unece.org
+Savage
+Head - Coal, Renewables, Electricity & Heat
+Energy Statistics Division
+Tel: +33-1-40 57 66 31
+Fax: +33-1-40 57 66 49
+E-mail: eric.savage@iea.org
+Edward Pepke
+Timber Committee
+Tel: +41-22-917 2872
+Fax: +41-22-917 0041
+E-mail: edward.pepke@unece.org
+Lawrence Berkeley Laboratory
+Lee Schipper
+Present address:
+International Energy Agency
+9, Rue de la Federation
+75739 Paris, Cedex 15, France
+Tel: +33-1-40 57 66
+Fax: +33-1-40 57 66 49
+E-mail: lee.schipper@iea.org
+Georges-Andre Morin
+Sous directeur de l'Amenagement foncier et de l'Hydraulique
+Ministere de l'Agriculture et de la Peche
+19 avenue du Maine
+75732 Paris Cedex 15, France
+Tel: +33-1-49.55.59.05
+Fax: +33-1-49.55.50.63
+Utrecht University
+Richard van den Broek
+Department of Science, Technology and Society
+Padualaan 14
+3584 CH Utrecht, The Netherlands
+Tel: +31-30-2533145
+Fax: +31-30-2537601
+E-mail: broek@nwsmail.chem.ruu.nl

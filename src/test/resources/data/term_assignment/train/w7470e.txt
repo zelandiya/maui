@@ -1,0 +1,213 @@
+<title>International standards for phytosanitary measures: Export certification system</title>
+<section>1</section>
+Endorsement
+International standards for phytosanitary measures are prepared by the Secretariat of the International Plant Protection Convention as part of the United Nations Food and Agriculture Organization's global programme of policy and technical assistance in plant quarantine. This programme makes available to FAO Members and other interested parties these standards, guidelines and recommendations to achieve international harmonization of phytosanitary measures, with the aim to facilitate trade and avoid the use of unjustifiable measures as barriers to trade.
+This standard was endorsed by the 29th Session of the FAO Conference in November 1997.
+Jacques Diouf
+Director-General
+Food and Agriculture Organization of the United Nations
+<section>2</section>
+Review and amendment
+International standards for phytosanitary measures are subject to periodic review and amendment. The next review date for this standard is 2002, or such other date as may be agreed upon by the Commission on Phytosanitary Measures.
+Standards will be updated and republished as necessary. Standard holders should ensure that the current edition of this standard is being used.
+<section>3</section>
+Distribution
+International standards for phytosanitary measures are distributed by the Secretariat of the International Plant Protection Convention to all FAO Members, plus the Executive/Technical Secretariats of the Regional Plant Protection Organizations:
+- Asia and Pacific Plant Protection Commission
+- Caribbean Plant Protection Commission
+- Comité Regional de Sanidad Vegetal para el Cono Sur
+- Comunidad Andina
+- European and Mediterranean Plant Protection Organization
+- InterAfrican Phytosanitary Council
+- North American Plant Protection Organization
+- Organismo Internacional Regional de Sanidad Agropecuaria
+- Pacific Plant Protection Organization.
+<section>4</section>
+Introduction
+Scope
+References
+Definitions and abbreviations
+Outline of requirements
+Scope
+This standard describes the components of a national system for the issuance of phytosanitary certificates.
+References
+Glossary of phytosanitary terms, 1997. ISPM Pub. No. 5, FAO, Rome. International Plant Protection Convention, 1992. FAO, Rome.
+Definitions and abbreviations
+Additional declaration
+A statement that is required by an importing country to be entered on a phytosanitary certificate and which provides specific additional information pertinent to the phytosanitary condition of a consignment.
+Consignment
+A quantity of plants, plant products and/or other regulated articles being moved from one country to another and covered by a single phytosanitary certificate (a consignment may be composed of one or more lots).
+Country of origin
+Of a consignment of plants, country where the plants were grown; of a consignment of plant products, country where the plants from which the plant products were derived were grown; of other regulated articles, country where the regulated articles were first exposed to contamination by pests.
+Country of re-export
+Country into which a consignment of plants, plant products, or other regulated articles has been imported and was stored, split up, had its packaging changed or was otherwise exposed to contamination by pests, prior to export to a third country.
+Harmonization
+The establishment, recognition and application by different countries of phytosanitary measures based on common standards. (Definition based on the World Trade Organization Agreement on the Application of Sanitary and Phytosanitary Measures.)
+Import permit
+Official document authorizing importation of a commodity in accordance with specified phytosanitary requirements.
+Inspection
+Official visual examination of plants, plant products or other regulated articles to determine if pests are present and/or to determine compliance with phytosanitary regulations.
+IPPC
+International Plant Protection Convention, as deposited in 1951 with FAO in Rome and as subsequently amended.
+National Plant Protection Organization (NPPO)
+Official service established by a government to discharge the functions specified by the IPPC.
+Pest
+Any species, strain or biotype of plant, animal, or pathogenic agent, injurious to plants or plant products.
+Phytosanitary
+Pertaining to plant quarantine.
+Phytosanitary certificate
+Certificate patterned after the model certificates of the IPPC.
+Phytosanitary certification
+Use of phytosanitary procedures leading to the issue of a phytosanitary certificate.
+Phytosanitary regulation
+Official rule to prevent the introduction and/or spread of quarantine pests, by regulating the production, movement, or existence of commodities or other articles, or the normal activity of persons, and by establishing schemes for phytosanitary certification.
+Plant products
+Unmanufactured material of plant origin (including grain) and those manufactured products that, by their nature or that of their processing, may create a risk for the introduction and spread of pests.
+Plants
+Living plants and parts thereof, including seeds and germplasm.
+Test
+Official examination, other than visual, to determine if pests are present or to identify pests.
+Treatment
+Officially authorized procedure for the killing, removal or rendering infertile of pests.
+Outline of requirements
+The International Plant Protection Convention (IPPC) requires its contracting parties to make arrangements to issue phytosanitary certificates certifying compliance with the phytosanitary regulations of other contracting parties. This standard describes an export certification system to produce valid and credible phytosanitary certificates. Exported consignments certified under these systems should meet the current phytosanitary requirements of the importing country.
+The basic elements of the phytosanitary certification process include:
+- ascertaining the relevant phytosanitary requirements of the importing country (including import permits if required)
+- verifying that the consignment conforms to those requirements at the time of certification
+- issuing a phytosanitary certificate.
+The requirements for a certification system to fulfil these functions comprise the following:
+- legal authority
+- management responsibility, including resources, documentation, communication and review mechanism.
+<section>5</section>
+Requirements
+1. Legal authority
+2. Management responsibility
+3. Resources
+4. Documentation
+5. Communication
+6. Review mechanism
+The framework for a certification system includes the following components.
+1. Legal authority
+The National Plant Protection Organization (NPPO) should have the sole authority by legislative or administrative means for control and issuance of phytosanitary certificates.
+In using this authority, the NPPO should:
+- bear the legal authority for its actions
+- implement safeguards against potential problems such as conflicts of interest and fraudulent use of certificates.
+The NPPO may have the authority to prevent the export of consignments which do not meet an importing country's requirements.
+2. Management responsibility
+The NPPO should:
+- have a management system that ensures that all requirements, including certification specifications, legislative requirements and administrative requirements are satisfied
+- identify a person or office responsible for the export certification system
+- identify the duties and lines of communication of all personnel with certification-related responsibilities
+- ensure that adequate personnel and resources are available to undertake the following functions:
+- maintenance of information on importing country phytosanitary requirements as needed
+- production of operational instructions to ensure that importing country phytosanitary requirements are satisfied
+- inspection and testing of consignments and associated conveyances
+- identification of organisms found during inspection of consignments
+- verification of the authenticity and integrity of phytosanitary procedures
+- completion and issue of phytosanitary certificates
+- document storage and retrieval
+- training
+- dissemination of certification-related information
+- review regularly the effectiveness of its export certification System
+- development of bilateral protocols if necessary.
+3. Resources
+3.1 Staff
+3.2 Information on importing country phytosanitary requirements
+3.3 Technical information
+3.4 Equipment
+3.1 Staff
+The NPPO should have personnel with a level of expertise appropriate for the duties and responsibilities of the positions being occupied. NPPOs should have or have access to personnel with training and experience in:
+- performing inspections of plants, plant products and other regulated articles for purposes related to the issuance of phytosanitary certificates
+- identification of plants and plant products
+- detection and identification of pests
+- performing or supervising phytosanitary treatments required for the certification in question
+- survey, monitoring and control activities related to phytosanitary certification
+- constructing appropriate certification systems and formulating instructions from importing country phytosanitary requirements
+- auditing of accredited personnel and certification systems, where appropriate.
+Except for the issuance of phytosanitary certificates, non-governmental personnel may be accredited by the NPPO to carry out specified certification functions. To be accredited, such personnel should be qualified and skilled, and responsible to the NPPO. To ensure independence in their exercise of official functions, they should be subject to restrictions equivalent to those for government officials and have no financial interest in the outcome.
+3.2 Information on importing country phytosanitary requirements
+The NPPO should, to the extent possible, maintain official current information concerning the import requirements of its trading partners. It may be useful for the exporter to obtain information on the current import requirements for the country of destination and supply it to the NPPO.
+3.3 Technical information
+The NPPO should provide the personnel involved in phytosanitary certification with adequate technical information concerning quarantine pests, and to the extent possible, non-quarantine pests, for the importing countries including:
+- their presence and distribution within the exporting country
+- the biology, surveillance, detection and identification of the pests
+- pest management, where appropriate.
+3.4 Equipment
+The NPPO should ensure that adequate equipment and facilities are available to carry out inspection, testing, consignment verification and phytosanitary certification procedures.
+4. Documentation
+4.1 Phytosanitary certificates
+4.2 Phytosanitary certificate for re-export
+4.3 Procedures
+4.4 Records
+4.5 Consignment tracing
+4.1 Phytosanitary certificates
+The model phytosanitary certificates as described in the Annex of the IPPC should be used. The phytosanitary certificate should contain sufficient information to clearly identify the consignment to which it relates. The phytosanitary certificate should not carry other information, of a non-phytosanitary nature.
+The validity of phytosanitary certificates should not be indefinite but limited in duration (prior to export), to the extent the NPPOs deem appropriate, to ensure phytosanitary and physical integrity. Appropriate disclaimers related to legal liability may be included on the phytosanitary certificate issued.
+4.2 Phytosanitary certificate for re-export
+Before issuing a phytosanitary certificate for re-export of a consignment, the NPPO should first examine the original phytosanitary certificate issued by the country of origin and determine whether the requirements of the country of destination are more stringent, the same, or less stringent than those satisfied by the phytosanitary certificate.
+If the consignment is repacked, additional inspection should be carried out, whatever the stringency of the requirements. If, however, the consignment is not repacked, two cases arise. If the requirements are the same or less stringent, no additional inspection will be required. If the requirements are more stringent, additional inspection should be carried out.
+If the country of destination has special requirements (e.g. field inspection) that cannot be fulfilled by the country of re-export, no phytosanitary certificate for re-export can be issued unless this special item has been included or declared on the original phytosanitary certificate or if equivalent laboratory tests agreed by the country of destination can be done on samples. When regular re-export exists, or is started, suitable procedures for satisfying these special requirements may be agreed between the NPPOs of the countries of origin and re-export.
+If the country of re-export does not require a phytosanitary certificate for the commodity in question but the country of destination does, and the requirements can be fulfilled by visual inspections or laboratory testing of samples, the country of re-export may issue a normal phytosanitary certificate with the country of origin indicated in brackets.
+4.3 Procedures
+The NPPO should maintain guidance documents, procedures and work instructions as appropriate covering every aspect of the certification system.
+Key elements include:
+- instructions relating to phytosanitary certificates:
+- control over issuance (manual or electronic)
+- identification of issuing officers
+- inclusion of additional declarations
+- completion of the treatment section of the certificate
+- certified alterations
+- completion of phytosanitary certificates
+- signature and delivery of phytosanitary certificates
+- instructions relating to other components:
+- procedures for working with industry
+- sampling, inspection and verification procedures
+- security over official seals/marks
+- consignment identification, traceability, and security
+- record keeping.
+4.4 Records
+In general, records should be kept concerning all activities mentioned in this standard.
+A copy of each phytosanitary certificate should be retained for purposes of validation and "trace back".
+For each consignment for which a phytosanitary certificate is issued, records should be kept as appropriate on:
+- any inspection, testing, treatment or other verification which was conducted on a consignment basis
+- the names of the personnel who undertook these tasks
+- the date on which the activity was undertaken
+- the results obtained
+- any samples taken.
+It may be useful to keep equivalent records for those non-conforming consignments for which phytosanitary certificates were not issued.
+The NPPO should be able to retrieve these records when required, over an appropriate period of time. The use of secure electronic storage and retrieval is recommended for standardized documentation of records.
+4.5 Consignment tracing
+Consignments and their certification should be traceable as appropriate through all stages of production, handling and transport to the point of export. If the NPPO becomes aware after certification that an exported consignment may not have complied with the importing country's phytosanitary requirements, the importing country's NPPO should be so advised as soon as practicable.
+5. Communication
+5.1 Within the exporting country
+5.2 Outside the exporting country
+5.1 Within the exporting country
+The NPPO should have procedures in place for timely communication to relevant personnel and to industry concerning changes in:
+- importing country phytosanitary requirements
+- pest status and geographical distribution
+- operational procedures.
+The NPPO may put in place, for non-conforming consignments, a procedure which enables rapid communication to all affected industry parties and certification personnel. This is in order to facilitate resolution of the problem and to prevent re-submission of the consignment unless approved corrective action has been undertaken.
+5.2 Outside the exporting country
+The NPPO should:
+- liaise with the nominated representatives of relevant NPPOs to discuss phytosanitary requirements
+- make available a contact point for importing country NPPOs to report cases of non-compliance
+- liaise with the relevant Regional Plant Protection Organizations and other international organizations in order to facilitate the harmonization of phytosanitary measures and the dissemination of technical and regulatory information.
+6. Review mechanism
+6.1 System review
+6.2 Incident review
+6.1 System review
+The NPPO should periodically review the effectiveness of all aspects of its export certification system and implement changes to the system if required.
+6.2 Incident review
+The NPPO should establish procedures for investigating reports from importing countries of non-conforming consignments covered by a phytosanitary certificate. If requested, a report of the outcome of the investigation should be supplied to the importing country.
+For further information on international standards, guidelines and recommendations concerning phytosanitary measures, and the complete list of current publications, please contact the:
+Secretariat of the International Plant Protection Convention
+Postal address:
+IPPC Secretariat
+Plant Protection Service
+Food and Agriculture Organization of the United Nations
+Viale delle Terme di Caracalla
+00100 Rome, Italy
+Fax: +39-06-5706347
+Email: ippc@fao.org
+Or consult our Internet site at:
+http://www.fao.org/WAICENT/FaoInfo/Agricult/AGP/AGPP/PQ/Default.htm

@@ -1,0 +1,423 @@
+<title>Asia-Pacific Forestry Sector Outlook Study: Country Report: Nepal</title>
+<section>1</section>
+INFORMATION NOTE ON ASIA-PACIFIC FORESTRY SECTOR OUTLOOK STUDY
+At its sixteenth session held in Yangon, Myanmar, in January 1996, the Asia-Pacific Forestry Commission, which has membership open to all governments in the Asia-Pacific region, decided to carry out an outlook study for forestry with horizon year 2010. The study is being coordinated by FAO through its regional office in Bangkok and its Headquarters in Rome, but is being implemented in close partnership with governments, many of which have nominated national focal points.
+The scope of the study is to look at the main external and sectoral developments in policies, programmes and institutions that will affect the forestry sector and to assess from this the likely direction of its evolution and to present its likely situation in 2010. The study involves assessment of current status but also of trends from the past and the main forces which are shaping those trends and then builds on this to explore future prospects. Working papers have been contributed or commissioned on a wide range of topics. They fall under the following categories: country profiles, selected in-depth country or sub-regional studies and thematic studies. Working papers are prepared by individual authors or groups of authors on their own professional responsibility; therefore, the opinions expressed in them do not necessarily reflect the views of their employers, the governments of the Asia-Pacific Forestry Commission or of the Food and Agriculture Organization. In preparing
+the substantive report to be presented at the next session of the Asia-Pacific Forestry Commission early in 1998, material from these working papers will be an important element but will be blended and interpreted alongside a lot of other material.
+Working papers are being produced and issued as they arrive. Some effort at uniformity of presentation is being attempted but the contents are only minimally edited for style or clarity. FAO welcomes from readers any information which they feel would be useful to the study on the subject of any of the working papers or on any other subject that has importance for the Asia-Pacific forestry sector. Such material can be mailed to the contacts given below from whom further copies of these working papers, as well as more information on the Asia-Pacific Forestry Sector Study, can be obtained:
+Rome:
+Mr. Mafa Chipeta
+Senior Forestry Officer
+Policy and Planning Division
+Forestry Department
+Food and Agriculture Organization of the United Nations
+Viale delle Terme di Caracalla
+Rome, 00100, ITALY
+Tel: (39-6) 5705 3506
+Fax: (39-6) 5705 5514
+Email: <mafa.chipeta@fao.org>
+Bangkok:
+Mr. Patrick Durst
+Regional Forestry Officer
+FAO Regional Office for Asia and the Pacific
+Maliwan Mansion
+Phra Atit Road
+Bangkok 10200
+THAILAND
+Tel: (66-2) 281 7844
+Fax: (66-2) 280 0445
+Email: <Patrick.Durst@field.fao.org>
+<section>2</section>
+1. INTRODUCTION
+Nepal is a small, landlocked country situated between China and India, at 80° 04' E to 88° 12' E longitude and 26° 22' N to 30° 27' N latitudes. It has a total area of about 14.7 million hectares and a rectangular shape extending from east to west. Rugged terrain makes up more than 80% of Nepal. In the south there is a belt of almost level land known as the Terai, which is an extension of the Gangetic plain of India.
+Within a horizontal distance of about 150 km there is a climatic range from the sub-tropics of the Terai to the upper tree limit and perennial snow. The number of ecosystems per unit area is probably greater than in any other country in the world. Due to the wide range of climatic and topographic conditions across the country, almost every known forest type (except for tropical rain forest) is found in Nepal.
+Most of Nepal lies within the sub-tropical monsoon climatic region, but because of its varied topography and elevation, it experiences a wide range of climates. Precipitation varies greatly from one place to another: the average, however, ranges from 250 to 4,500 mm.
+This report attempts to assess the status, trends and outlook for Nepal's forestry sector to 2010. It will serve as an input to the Asia-Pacific Forestry Sector - Towards 2010 being prepared by the Asia-Pacific Forestry Commission. The report tries to summarize the available forestry statistics and information together with an informed judgement and assessment of trends of Nepal's forestry sector. Most of the projections given here are based on the Master Plan for the Forestry Sector Nepal (MPFS, 1988) which spells out the forestry policy and programmes of Nepal. Up to date departmental reports and records have also been rigorously consulted. Comments from forestry officials on the draft version have also been incorporated in this report.
+<section>3</section>
+2. CONTEXT IN WHICH THE FORESTRY SECTOR IS DEVELOPING
+2.1. Highlights of social and economic situation
+2.2. Objectives
+2.3. Role of Nepal in the regional context
+2.4. Major issues
+2.1. Highlights of social and economic situation
+The people of Nepal have traditionally depended on forests for the supply of fuelwood, fodder, timber and other forest products. This heavy pressure on forests together with the land use practices that are not compatible with the terrain of the country, has resulted in serious environmental problems. The country's economy largely depends on the use of its natural resources, but the growth has been hampered by the lack of economic opportunities and infrastructures. The problems have been further exacerbated by rising poverty and environmental degradation.
+Nepal has largely a subsistence economy. The GDP of Nepal is US$ 3,063 million and the per capita income is US$ 180. Together with agriculture, forestry plays a central role in the economic and social life of the rural people. The share of agriculture, forestry and fishery in the GDP is about 60% with forestry contributing about 15%. According to the data compiled by the Central Bureau of Statistics in 1993/94 forestry sector earned US$ 4.4 million for the treasury (CBS, 1996).
+Livestock raising is an essential component of the rural farming system. It is the second major economic activity in rural areas accounting for about a quarter of the annual farm income. Grazing in the forest by the livestock is heavy and goes on all round the year. Over-grazing is one of the primary factors responsible for the rapid depletion of the forests. This in turn has resulted in acute shortage of feed and fodder for livestock. Although most farmers have private fodder trees and some possess private forest land, these are rarely sufficient to meet the year-round feed requirements of the increasing numbers of livestock.
+According to 1991 census, the population of Nepal was 18,491,097 (9,220,974 males and 9,270,123 females). Population density was 125/km^2 and more than 90% live in rural areas. The population growth rate is estimated at 2.1%. The main reason for the fast growth in recent years is that the birth rate remains high whereas the death rate has declined. Figure 1 shows the estimated population 1991-2010.
+Figure 1: Population estimates 1991 - 2010
+Source: CBS (1996)
+Over half of the population lives in the mountainous areas and most are dependent on agriculture for their livelihood. Yet the ratio of agricultural land to agricultural population is only 0.12 ha/capita. Consequently, the hill residents are forced to seek off-farm employment through both reasonable and permanent migration to the Terai and urban areas. Migration has been taking place from the mountains to the Terai and from rural to urban areas. Nepal has a chronic problem of unemployment and under employment, brought about by a combination of factors such as high population growth rate, scarcity of cultivable land, declining agricultural productivity and the slow pace of industrialization.
+Agriculture is by for the most important sector of the economy. About 90% of the population is supported by it. All the efforts made during the five-year plan periods to raise agricultural output and productivity have met with little success due mainly to increasing population density and the consequent decrease of cultivable land per capita.
+Nepal has to depend heavily on external funding sources for all development works including forestry. Data shows that in recent years the contribution of the external sources has been increasing at a slightly higher rate than that of the domestic sources. In 1994/95 the external sources made up about half of the total development expenditure in the forestry sector.
+On an average, forestry sector has been receiving only 4.6% of the government's total development expenditure. It can be expected that this trend will continue in the coming years. Table 1 compares total development expenditure of the government and the expenditure on forestry.
+Table 1: Total development expenditure vs. forestry sector (million US$)
+Year
+Total Expenditure
+Forestry Sector
+Adapted from CBS (1996)
+In spite of the most extreme physical difficulties, Nepal has built up a considerable road transportation system. So far nearly 9,600 km of roads have been constructed. Of this, 3,404 km is black top, 2,373 gravelled and 3,757 fair-weather (CBS, 1996). The gradual increase in the length of roads has improved the north-south and east-west linkage of different parts of the Kingdom. Public transport services, mostly in the private sector, have developed with the construction of roads. The nearest port is Calcutta in India which is 1,127 km away. Nepal uses Indian railways and roads for transporting goods to and from Calcutta. Air transport may seem to be too expensive for a poor country like Nepal. Given the difficult terrain, however, air transport is the most logical and feasible transport system in many parts of the country.
+So far, no commercial deposits of oil, coal or gas have been found. So the development of hydro-electricity for power has been emphasized. However, electricity has contributed very little to the country's total consumption of energy. Fuelwood from the forests is therefore the major source of energy for domestic consumption. With a view to reducing the pressure on the forests, the government is launching plans and programs to develop alternative sources of energy such as biogas, turbines, solar and wind energy, as well as a particular emphasis on hydra-power.
+2.2. Objectives
+Long-term
+Medium-term
+The Master Plan for the Forestry Sector has spelled out the following objectives for the development of the forestry sector.
+Long-term
+· to meet the basic needs of the people for fuelwood, fodder, timber, and other forest products, and to contribute to food production through an effective interaction between forestry and farming practices.
+· to protect the land against degradation by soil erosion, floods, landslides, desertification, and other effects of ecological imbalance.
+· to conserve the ecosystems and genetic resources.
+· to contribute to the growth of local and national economies by developing forest management and forest based industries and creating opportunities for income generation and employment.
+Medium-term
+· to support decentralization and promote people's participation in forest resource development, management and conservation.
+· to develop the legal framework needed to enhance the contribution of individuals, communities, and institutions to forest resource development, management, and conservation.
+· to strengthen the organizational framework and develop the institutions of the forestry sector to enable them to carry out their missions.
+2.3. Role of Nepal in the regional context
+From the beginning of the 1900s till 1979 the successive governments of Nepal had pursued the policy of large scale export of logs and timber from the Terai and Siwalik regions to India. In fact, up to 1970 the income from the forest was the largest source of government revenues in Nepal. Logs and timber export has been banned since 1979. Nevertheless, due to the open border between India and Nepal, illegal smuggling of logs and timber has continued. This has usually intensified during the periods of political turmoil when the government security machinery is weakened.
+The supply of logs and timber has been adequate to fulfil the domestic demand of the country. Although some timber has been imported from Malaysia in recent years, it has not been able to compete with local timber in terms of quality.
+If managed properly the forests of the Terai still have a great potential of earning huge amounts of revenue for the government. According to Pessonen (1994), if 50,000 ha of sal forests were managed as commercial production units on a sustainable basis, they would bring net income and royalties from timber worth US$ 10 million annually.
+Nepal has been actively participating in almost all forestry and environment related regional forums, networks and projects. More important among these are: Farmer-centred Agricultural Resource Management (FARM) project, Asia-Pacific Agroforestry Network (APAN), Asia-Pacific Forestry Commission, International Tropical Timber Organization (ITTO), Forestry Research Support Programme for Asia (FORSPA). Due to its political neutrality, Nepal has the potential of playing a leadership role in coordinating the activities of these international bodies in South Asian Region. For example, ICIMOD has its headquarters in Kathmandu, the capital of Nepal.
+Due to its location in the Himalayas the sources of water for the major river systems of north India and Bangladesh, the proper management of Nepal's watersheds has an important international significance. Similarly, Nepal's national parks and wildlife reserves serve as attractive ecotourism spots for the people of the region. For example, in 1995/96 14,636 Indian tourists (18% of all visitors) visited the Royal Chitwan National Park in the Central Terai of Nepal (DNPWC, 1996).
+In terms of policy development, Nepal's community forestry policy and legislation have been instrumental in shaping up similar policies in other countries of the region. Groups of policy makers and professional have been coming to Nepal on study tours to learn about Nepal's community forestry programme.
+2.4. Major issues
+The major issues confronting the development of forestry in Nepal are summarized in this section.
+· The increasing human and livestock population continues to exert intense pressure on the forests. Excessive and uncontrolled grazing has created problems like low natural regeneration, soil compacting, reduced infiltration, increased runoff, soil erosion and related downstream impacts.
+· The forest based industries have suffered severely from the declining supply of raw materials.
+· The Timber Corporation of Nepal has monopoly right to harvest and market logs and fuelwood. This introduces market distortions and entrenches inefficiency in the forest operations.
+· The cumbersome bureaucratic permit system seriously discourages private forestry. Lack of dissemination of information, quality seed supply, planting material and adequate technical support has not been conducive to successful private forestry.
+· The government has not been able to scientifically manage the country's forest resources which have high potential of generating enormous revenues. Management plans have been prepared for many districts of the Terai. However, it is not clear whether the government can allocate enough budget for their implementation.
+· Many donors are involved in Nepal's forestry sector but we are still far from achieving the goal of coordinating/complementing the projects of the donors for the overall development, management and utilization of forest resources.
+· In spite of the involvement of many NGOs in the forestry sector, the government has not been able to establish mutually beneficial working relations with them.
+· Community forestry programme has gained momentum: some 300,000 ha of forests in the hill districts have been converted to de jure community forests. Technical support to the Forest User Groups (FUGs) by the District Forest Office still calls for much improvement. Many instances of conflict have also begun to surface in community forestry which is a serious issue.
+· There is also a need to change the organizational set up of government forestry institutions according to the future changes in policies and programmes.
+· Matching up of forestry research with the needs of forest management is also a critical issue.
+<section>4</section>
+3. THE STATE OF FORESTRY IN NEPAL
+3.1. Status and trends of forest resources
+3.2. Policies and institutions
+3.3. Environmental initiatives, protected areas and wildlife resources
+3.4. Wood energy
+3.5. Wood based industries
+3.6. Non-wood forest products
+3.7. Forests as service industry
+3.1. Status and trends of forest resources
+The distribution of natural forests generally follows attitudinal zones. Below 1,000 m there are tropical forest, predominantly of Shorea robusta. Acacia catechu/Dalbergia sissoo forests replace Shorea along rivers. In the foot hills in western Nepal, Shorea is replaced by Terminalia/Anogeissus forests.
+Sub-tropical forests occur between 1,000-2,000 m which include Pinus roxburghii, Alnus nepalensis, Schima wallichii and Castanopsis sp. Lower temperate forests (2,000-2,700 m) consists of Pinus wallichiana and several species of Quercus. Upper temperate forests (2,700-3,000 m) includes Quercus semecarpifolia forest along with Rhododendron arboreum, Acer sp, Pinus wallichiana etc.
+Sub-alpine forests are found at around 3,000 m up to 4,200 m. Abies spectabilis, Betula utilis and Rhododendron forests and Juniperus Indica forest represent this category. The alpine zone has no trees, but shrubby Rhododendron and Juniperus are found up to 4,500 m.
+The forest area of Nepal is estimated to be 5.5 million ha or 37.4% of the total area of the country. The "other land" category covering another 15.7% has good potential for development into forest or pasture. These lands include shrublands, grasslands and uncultivated areas. Table 2 shows the distribution of Nepal's natural forests.
+Table 2: The distribution of Nepal's natural forests (' 000 ha.)
+Distribution by
+Conifer
+Hardwoods
+Mixed
+Total
+Crown cover
+Maturity
+poles & regeneration
+small timber
+large timber
+Nepal - total
+Adapted from (MPFS, 1988)
+More than a quarter of the forests are degraded (less than 40% crown cover). Almost two-thirds are occupied predominantly by small-sized timber, and one-third by large timber. There is not enough regeneration or pole-sized stands. The total growing stock is 522 million m^3 over-bark up to 10 cm top diameter or an average of 96 m^3/ha (MPFS, 1988).
+Annual government and community planting has been 5,260 ha during the 1992-96 period. Reliable figures for private planting, however, are not available. Dalbergia sissoo is the most common plantation species in the Terai. Eucalyptus camaldulensis. Acacia catechu, Tectona grandis and Albizia sp. have also been planted. In the mountains, Pinus roxburghii has been the most commonly planted species. In recent years a number of other species such as Alnus nepalensis, Ficus sp. and Primus cerasoides have also been planted.
+With regard to forest land use changes, a total of 103,968 ha of forests in the Siwaliks and Terai were cleared under the government's settlement programme from the 1950s to mid 1980s (MPFS, 1988). A more recent study conducted by FORESC which compares the 1978/79 maps with the Landsat data of 1990/91 shows that the annual deforestation rate is 1.3% for the Terai (FORESC, 1994). This is less pessimistic than the figure of 3.9% given by MPFS (1988).
+The major causes of forest degradation are over-cutting of wood for fuel and heavy lopping of trees for fodder. Forest fire is also a major cause. Although forests are not immediately lost unless the fire spreads to the canopy, they are doomed by continuous loss of reproduction. Another cause of forest degradation in Terai is the illicit felling of timber for smuggling across the border to India.
+3.2. Policies and institutions
+3.2.1. Policies
+3.2.2. Institutions
+3.2.1. Policies
+The inherent vulnerability of the national forests to degradation and encroachment has long been recognized and a strategic plan for bringing the situation under control was elaborated in the Master Plan for the Forestry Sector. To facilitate implementation of the Plan, Forest Act 1993 and Forest By laws 1995 are in place.
+The Master Plan outlines broad strategies for sustainable management of the nation's forest resources in line with Nepal's economic, social and environmental goals. These are further elaborated in the Eighth Five Year Plan (1992-97). The first priority is to increase forest production and productivity without permanently damaging the resource base. The second is to reduce pressure on the resource through increasing efficiency in resource use, development of alternative sources of energy, rehabilitation of degraded forest land, promotion of private farm forestry and enforcement of legislation.
+According to MPFS (1988), the approved forestry policy of Nepal is as follows:
+a) Production and Utilization
+· The forest resource to be managed and utilized for the basic priority products of fuelwood, fodder, timber, and medicinal plants.
+· Forests near villages to be managed with the people's participation.
+b) Conservation of ecosystems and genetic resources
+· Land and forest resources to be managed and utilized according to their ecological capability so as to conserve the forests, soil, water, flora, fauna and scenic beauty.
+c) Social aspects of land use
+· The principles of decentralization policy to be applied in the forestry sector by community forestry as the priority forest management strategy.
+· If the availability of forest land exceeds the needs of the local communities, the excess will be allocated for forest management in the following priority sequence: people living below the poverty line, small farmers and forest-based industries.
+· Emphasis will be given to the multiple utilization of land for integrated farming systems by strengthening soil conservation and watershed management, agroforestry and other related activities.
+d) Role of the private sector
+· Establishment of private forests on leased and private land to be promoted.
+· The Government to lease land to forest based enterprises for growing raw materials. New industries to be established only if their plans for the production and acquisitions of raw materials are acceptable to the Ministry of Forests and Soil Conservation.
+3.2.2. Institutions
+The Ministry of Forests and Soil Conservation (MFSC) and the four departments under it are the major government forestry institutions. MFSC is responsible for policy formulation in the forestry sector. It does that in close collaboration with National Planning Commission for the plan and programmes and the Ministry of Finance for budget. It is also responsible for drafting forest legislation in close rapport with the Ministry of Law and Justice. The four departments under MFSC are:
+· Department of Forest
+· Department of Soil Conservation
+· Department of National Parks and Wildlife Conservation
+· Department of Plant Resources.
+The ministry is also responsible in supervising the operations of the following parastatals and development boards:
+· Nepal Rosin and Turpentine Industry
+· Herb Production and Processing Company
+· Forest Products Development Board
+· Forest Research and Survey Centre Development Board.
+The Timber Corporation of Nepal (TCN) under the Ministry of Supplies is involved in the marketing of logs collected from the government forests.
+The Forest User Groups (FUGs) also comprise a prominent institution in the use and management of the forest resource. A large number of NGOs, both national and international, are active in Nepal. Because of the extensive destruction and degradation of the forest resource in the country with adverse impact on the supply of forest goods and services, many of them have incorporated tree planting and forest conservation in their agenda.
+A large number of bi-lateral and multi-lateral donors are providing technical and financial support to Nepal. The more important bi-lateral donors are: USAID, ODA, AusAid, DANIDA, FINNIDA, GTZ, SDC, JICA and SNV. The multi-lateral donor agencies are: World Bank, FAO, EU, IFAD, ADB and UNDP. Agencies like CARE and UMN are also involved in Nepal's forestry sector.
+Many other institutions are also closely associated with the forestry sector in Nepal. These include: Institute of Forestry, Tribhuvan University, professional societies like Nepal Foresters Association, Association of Forest-based Industrialists, Ministry of Population and Environment and many environmental forums.
+3.3. Environmental initiatives, protected areas and wildlife resources
+The National Park and Wildlife Conservation Act provides for five categories of protected areas to help achieve the conservation of ecosystems and genetic resources. As defined in the Act, these are:
+· National Park: an area set aside for conservation, management and utilization of flora and fauna together with the natural environment.
+· Strict Nature Reserve: an area of ecological significance set aside for scientific study.
+· Wildlife Reserve: an area set aside for the conservation of animal and bird resources and their habitats.
+· Hunting Reserve: an area set aside for the management of animal and bird resources for hunting purpose.
+· Conservation Area: an area managed for the sustainable development of human and natural resources.
+In addition to protected areas under the National Park and Wildlife Conservation Act, the government may designate any land in public or private ownership as "protected watershed" based on the Soil and Watershed Conservation Act.
+In the short history of protected areas in Nepal, diverse natural areas have been selected to protect notable biological communities representing the flora, fauna and culture of the country. To date there are eight National Parks, four Wildlife Reserves, one Hunting Reserve and two Conservation Areas totalling 2,105,100 ha, i.e. 14% of the country's total land area.
+The Terai and High Mountain zones are well represented in Nepal's protected area system whereas the Middle Mountain zone is not adequately covered. The need for further protected areas to achieve better representation is recognized in national policies.
+Some 100 mammalian, 850 bird and 3 large reptile species are found in the country out of which 26 mammals, nine birds and three reptile species are listed as totally protected in Nepal (MPFS, 1988). These are also listed in the Red Data Book on IUCN as rare and endangered species. Fish have not been included in the protected fauna so far.
+The protected areas are closely associated with local people. The ultimate goal is to safeguard human and cultural values along with the natural environment. Accordingly, the habitation areas surrounding the National Parks have been classified as Buffer Zone and there is a legal provision for sharing the revenues of a National Park with the local communities living within the Buffer Zone.
+The protected areas of Nepal clearly demonstrate the existence of varieties of plant and animal biodiversity in Nepal. In addition, there is also an urgent need to incorporate biodiversity management in forest areas outside protected areas (community forests and government forests).
+3.4. Wood energy
+Fuelwood is consumed in households as well as industries. Per capita consumption in household varies from one physiographic zone to another, because of climatic, economic and other differences. Based on per capita figures, combined with population projections, total household fuelwood consumption can be generated. Table 3 shows the projection of household fuel consumption.
+Table 3: Household fuel consumption projection ('000 tonnes)
+zone
+High Himal
+High Mountains
+Middle Mountains
+Siwaliks
+Terai
+Nepal
+Adapted from MPFS (1988).
+It is estimated that household fuel consumption in the Middle Mountains and Siwaliks will continue to increase. However, consumption in the High Mountains and High Himal will decline, as the population in these areas decreases because of migration to lower zones. The Terai has the biggest projected increase in consumption as a result of the big population increase that is expected, mainly from migration. It is estimated that 80% of fuelwood is obtained from forests, and private trees are the source of the remaining 20% fuelwood demand. Table 4 shows the industrial fuelwood consumption projections.
+Table 4: Industrial fuelwood consumption projections ('000 tonnes)
+Zone
+Middle Mountains
+Siwaliks
+Terai
+Nepal
+Adapted from MPFS (1988).
+A decrease is predicted in fuelwood use by industries after 2000, as industries switch over to alternative fuels possibly electricity.
+3.5. Wood based industries
+3.5.1. Timber Harvesting
+3.5.2. Sawmilling
+3.5.3. Furniture industry
+3.5.4. Plywood
+3.5.5. Wooden handicrafts
+3.5.6. Papermills
+The first mechanized wood-based industry, in the form of a match factory, was established only in 1938. Successive five year plans have emphasized the development of industries based on indigenous materials; the speeding up of industrial development and the contribution of forests to the country's economic, social and industrial development. However, the wood-based industries have not advanced much, because of a number of constraints.
+3.5.1. Timber Harvesting
+Two streams of timber harvesting is prevalent in Nepal. The first is the crude, manual harvesting by the villagers. The other is through government agencies. The harvesting techniques are labour intensive and only slightly more mechanized than those used by the villages. Hand saws and axes are used for felling, delimbing and cross-cutting. Bullock carts are used to bring the logs to depots, from where they are loaded manually onto trucks that take them to the mill. At present these are no industries being planned that would require large volumes of logs over short periods. It is therefore, unlikely that timber harvesting techniques will change much, except for the introduction of better hand tools.
+3.5.2. Sawmilling
+It is estimated that 86% of all timber consumption takes place outside industrial units i.e. rural consumption. Industrial saw milling is done by private saw mills. The saw mills are all technically similar, consisting of a horizontal band saw with a very simple carriage and a vertical band saw for re-sawing. Power is supplied by electricity or diesel engine. Private saw mills are licensed without being given timber quotes, and are dependent on parastatals for their log supply. The saw milling industry supplies the towns with sawn wood, where it is used for furniture, joinery, building and construction.
+Based on the growth of urban population and assuming a constant per capita consumption and 10% demand by development projects the demand for industrial sawn wood has been projected in table 5.
+Table 5: Demand for industrial sawn wood up to 2010
+Urban population, million
+Consumption '000 m^3 per capita
+Sub total '000 m^3/yr.
+Development projects (10% above)
+Total demand '000 m^3/yr.
+Corresponding log requirement, '000 m^3/yr.
+Adapted from MPFS (1988).
+The capacity of the present saw milling industry is more than sufficient to meet sawn wood requirements up to 2010. However, most of the mills will have to be renovated before that date. Some many have to be relocated for better access to the raw material. In order for it to be able to serve Nepal with a supply of sawn wood, sawmilling would have to be recognized as an industry and not just an extension or by-product of forestry.
+3.5.3. Furniture industry
+Nepal's furniture industry includes modern factories, hundreds of small workshops and thousands of individual carpenters. To meet future demand, there is room for additional modern factories, but these will have to secure raw materials from the parastatals. Existing factories are already unable to operate at full capacity because of the lack of raw materials. While furniture has export potential, since its value added nature could overcome the high transport cost, there are problems that would have to be solved in raw material supply, product quality, suitable designs, and knowledge of export markets.
+3.5.4. Plywood
+There are two plywood mills in Nepal whose total production capacity is 62,300 m^2. Both mills have old machinery and are very labour intensive. Because of shortage of raw materials, these mills are operating at about 52% capacity. There are no reliable data on plywood consumption in Nepal because there is an unrecorded flow across the border from India. But it is estimated that two-thirds of the local demand is fulfilled by imports from India. Therefore, there is sufficient demand to encourage the local plywood industry to expand. However, a demand for more plywood logs would put more pressure on the reduced forest resources so the alternative of easing plywood importation rules will have to be considered.
+3.5.5. Wooden handicrafts
+Wooden handicrafts are produced all over the country at a cottage industry level. There are no estimates of the volume or value of craft production for the country as a whole. However, for Kathmandu valley 4300 m^3 of sawn wood is utilized by the handicraft industries and the value of their production is estimated at US$ 1 million (MPFS, 1988).
+Although the required volume is not large, the producers are not obtaining good quality wood on a regular basis. This problem is hampering the export possibilities of the industry.
+3.5.6. Papermills
+At present Nepal's paper mills use non-wood raw materials such as sabai grass (Eulaliopsis binata), straw and waste paper. There are still no plans a foot to shift to wood-based paper and pulp factory in Nepal. In order to be self sufficient in printing and writing papers, Nepal will have to establish six new small mills (30 tonnes/day) or one or two large mills with a total annual capacity of 60,000 tonnes by 2010 The size of the mills should preferably be larger to derive the benefits of economy of scale and to bear the cost of pollution control facilities.
+Given the uncertain availability of the raw materials being used at present, any new mills should be based on plantation grown wood. If 60,000 tonnes of paper were to be produced from fast growing short rotation plantations, it is estimated that 30,000 ha. area will have to be planted.
+3.6. Non-wood forest products
+The major non-wood forest products of Nepal are: medicinal and aromatic plants; lokta paper; pine resin; katha, and sabai grass. Lokta is linked to a traditional cottage industry while the others are linked to industries which add considerable value.
+Medicinal and aromatic plants are important components of the vegetation of Nepal. More than 700 species are on record, constituting about 12% of Nepal's vascular flora. They are distributed throughout the country from the Terai to the alpine zone with some concentration in the higher altitudes.
+Collection of medicinal and aromatic plants in the wild has been going on for ages in Nepal. Utilization of medicinal and aromatic plants in this country has been and still is largely as crude drugs. The bulk of the harvest is exported mostly to India. Because of the open border between India and Nepal and the poor maintenance of records, it is difficult to as certain the exact figures.
+Herb Production and Processing Company Limited (HPPCL), a parastatal within MFSC, is responsible for the production, processing and export of medicinal and aromatic plants, crude drugs and extracts. In 1995/96, HPPCL sold US$ 448,000 worth of processed products (HPPCL, 1997). It also conducts commercial scale experiments in agro-technology in its herbal farms. It has a number of herb purchasing centres in different parts of the country. In addition to HPPCL, the trading of crude drugs is being handled by private firms and individuals. According to Edwards (1995) every year between 10,000 and 13,000 tonnes of medicinal and aromatic plants are harvested from the forests of Nepal. The value of their trade to Nepal's economy is estimated to be US$ 8.6 million/year.
+Lokta (Daphne sp.) which is a shrub occurring in upper temperate forests, have been used as raw material for hand-made paper for a long time. They are the basis of a cottage industry with an estimated turnover of around US$ 175,000. Hand-made paper is used for a variety of purposes from legal documentation to record keeping papers, religions scriptures, file folders, envelopes and greeting cards. The handmade paper is also exported in small quantities. Special management plans for lokta harvest have been prepared and implemented in Baglung, Parbat and Myagdi districts. Hand-made paper production is a very important source of income for people living in the paper production areas. It is estimated that about 344,000 man-days are spent annually in hand-made paper production (MPFS, 1988).
+Resin tapping of Pinus roxburghii has been going on for several decades. It has great economic significance, providing raw materials for domestic use and for the rosin and turpentine industry. One large resin processing plant is being operated by Nepal Rosin and Turpentine Industry, a parastatal. Six small scale private industries are also operating. Bulk of the resin is tapped in the western and far western regions of the country. Table 6 shows the estimates of resin collection and prospective industrial production.
+Table 6: Estimates of industrial production based on pine resin
+Resin collection '000 tonnes
+Resin production '000 tonnes
+Turpentine production '000 tonnes
+Adopted from MPFS (1988).
+Katha is an extract obtained from the heartwood of Acacia catechu. It is a light brown coloured crystalline substance used in the preparation of "paan" a chewing substance popular in South Asia. A by-product of katha production is catch, which is used in tanning and dyeing. Nepal has six katha factories with a total production of 650 tonnes of katha and 700 tonnes of catch. Nearly all of the production is exported to India and other countries of South Asia. This industry is dependent not on the market, but on the availability of khair, a rapidly diminishing resource.
+Sabai grass is a common wild grass which grows from 450 to 900 m in tile sub-tropical forest areas of Nepal. It is traditionally used in rope making and thatching. Along with straw, it is used as raw material in Nepal's paper mills. Sabai improves the value of the paper significantly. Replanting becomes necessary when the grass yield starts diminishing as the root stock becomes exhausted.
+In the absence of country-wide data, an estimate of annual production in four selected districts of Terai is shown in figure 2.
+Figure 2: Estimate of annual production of sabai grass (tonnes) in four selected districts
+Adapted from MPFS (1988)
+The production of mines and quarries on forest lands are considered forest products in the forest legislation of Nepal. There are several stone, gravel, slate, lime and marble quarries operating in forest land in various parts of the country. Statistics on the production of these is not available.
+3.7. Forests as service industry
+The protected areas play an important role in the tourism industry of Nepal, both by attracting people to visit the country and by providing activities for them, once they are here. Many of the mountains including Everest, Makalu, and Langtang, the key species of wildlife and examples of cultural diversity are found in and around the protected areas. Protected areas are therefore, important in promoting Nepal as a tourist destination. The parks and reserves of the mountains are popular for trekking and mountaineering activities while those in the Terai are renowned for wildlife watching.
+Many tourist lodges are operated by the park management in national parks, on a contract basis. In Royal Chitwan National Park, concessions have been given to commercial organizations to operate high class ecotourism resorts like Tiger Tops, Machhan Wildlife Resort, Gaida Wildlife Camp, Chitwan Jungle Lodge, and Temple Tiger.
+Recently investment in ecotourism has been extended to other protected areas as well. The protected areas earn significant tourist revenues in Nepal. In 1995/96 the Department of National Parks and Wildlife Conservation earned US$ 1.16 million from ecotourism related activities (DNPWC, 1996). More than 111,000 tourists (Nepali as well as foreigners) visited the National Parks and Wildlife Reserves in 1995/96. The number of visitors to these areas have been increasing in recent years (Figure 3).
+Figure 3: Number of visitors in protected areas
+Source: DNPWC (1996)
+The protected areas help sell airline seats for Royal Nepal Airlines and fill hotel beds and restaurants in Kathmandu. They are also helping the trekking business because most scenic trekking, routes are within the boundaries of protected areas. They also promote many other sectors e.g. the book trade. The large range of books on wildlife and national parks and related topics in Kathmandu's book stores amply demonstrate this.
+The parks and reserves are also used for educational and research purposes. According to DNPWC (1996), 17 researchers/students used the protected areas for their studies/research work. Similarly, these areas are also used by the film industry and television documentary producers. In 1995/96 DNPWC earned US$ 50,000 from licensing film shooting in the protected areas.
+It is expected that the protected areas will continue to provide their services to more and more visitors. Experience shows that the number of Nepali tourists visiting:, these areas has been increasing in the recent years and this trend is expected to continue in future.
+<section>5</section>
+4. THE FUTURE
+4.1. Supply and Demand
+4.2. Future Developments and their Implications
+4.1. Supply and Demand
+In the absence of more recent projections applicable for the whole country, most of the information given here have been adapted from MPFS (1988). Supply and demand situation for fuelwood, timber and fodder have been considered here. Table 7 shows the projected biomass fuel (including agricultural residue, dung and fuelwood) supply and consumption based on current trends.
+Table 7: Projected biomass fuel supply and consumption ('000 tonnes)
+Zone
+Fuelwood
+Dung
+Agricultural residue
+Total supply
+Total consumption
+Deficit/Surplus
+% of consumption
+Adapted from MPFS (1988).
+Overall fuelwood surpluses will not be attained in the country under the current trends assumptions even when its projected plantations, managed natural forests and private tree farms are in full production.
+Table 8 shows the projected timber supply and demand based on the trends of 1985. It shows deficit throughout the projected period. However, if the forests of Terai are managed for production forestry in place of today's protection approach, the situation could be reversed. In this projection, the production of community forest areas was not considered. Community forestry together with private forestry will also be a significant source of timber in the years to come.
+Table 8: Projected timber supply and demand based on 1985 trends ('000 m^3)
+Year
+Supply
+Demand
+Adapted from MPFS (1988)
+The projections given in table 9 shows an optimistic scenario with regard to the fodder supply and demand. With increased production from community forest areas and private trees, this projection is expected to be further improved. It has been estimated that roughly 50% of the fodder supply comes from farmlands.
+Table 9: Projected fodder balance ('000 tonnes)
+Year
+Supply
+Demand
+Adapted from MPFS (1988).
+4.2. Future Developments and their Implications
+Like elsewhere in the region, Nepal's forestry sector is expected to face significant challenges in the years to come. Increasing population will continue to exert pressure on the forest areas. Due to pressing problems in every other sector of the economy, the allocation of budget to the forestry sector cannot be expected to rise significantly.
+At present Nepal's forests are considered less as a source of revenue and more as a development activity. There has been persuasion from the donor community, particularly World Bank and FINNIDA, to manage the forests of the Terai as a source of government revenue through production forestry and timber export. A major shift towards considering;, the forest resource as a source of government revenue is not likely in the near future. The ban on export of logs and timber will continue for some time to come.
+Private planting of Dalbergia sissoo, particularly in the Terai, will continue to be popular. People buying shares in commercial tree plantations will also increase. This activity will generate public interest as environmental consideration becomes a concern for more and more people.
+The timber sector outlook will see more products from private forestry supplying the needs particularly for the furniture industry. More wood preservation plants are expected to come up as less used species will have to be utilized as substitutes for the better species now used. Future trend of timber utilization is expected to shift from big dimension logs to smaller logs, commercially well-known timber species to lesser-known species and solid wood to reconstituted woods.
+With respect to the forest-based industrial scenario, the industries are likely to request the Department of Forest for leasing out the government forest land for leasehold forestry. Due to the lack of khair, some katha mills will close down and the few survivors will start planting khair on the land leased from the government.
+It is envisaged that more intensive forest management will be carried out in the coming years, particularly with the increasing emphasis now being placed on sustainable management of all forest resources. In accordance with Agenda 21, (especially Chapter 11 - Combating Deforestation and Chapter 15 - Conservation of Biological Diversity) Nepal will direct its efforts towards achieving its stated goals.
+It is also envisaged that international bilateral and multi-lateral donors will continue to support various projects in the forestry sector. Pressure from the donor community will continue for managing the forest resources of the Terai to generate revenues for the government. The supply of products will exceed the demand of the domestic market and the present export ban will have to be lifted. Accordingly, the policy of conservative forestry will be gradually replaced by production forestry. The regional market will benefit from the diversity of value added forest products from Nepal. Efforts will increase in the exchange of information and experts, transfer of technology, training and education, and collaborative research among the countries of the region.
+Due to the lack of transportation, many forest areas in the mountains cannot be brought under profitable commercial management. Cable logging and the use of helicopters are technical solutions but the cost involved would be prohibitively high for a country like Nepal.
+Community forestry will continue to be the major focus of the forestry sector particularly in the mountains. More and more government forest areas will be handed over to the Forest User Groups as community forests. The recent experience is encouraging and suggests possibilities of rejuvenating the once dwindling forest resources of the mountains. Forest products from the community forests will also gradually enter the market as the FUGs become more entrepreneurial. Together with this development, more instances of conflict will begin to surface and the field forestry officials will increasingly have to play the role of conflict managers. It is also expected that the federation of FUGs will be more strongly organized at district as well as central levels. As a result, they will have a strong say in shaping the government policy on community forestry.
+It is expected that more areas will come under the protected area system especially the areas of middle mountains that are rich in biodiversity. Income from ecotourism and recreation will continue to provide sizeable revenue for the government. More tourists from the region will visit Nepal's National Parks and Wildlife Reserves.
+Soil Conservation Service will be provided to all the districts of the country and critical sub-watersheds will be managed in an integrated way.
+To sum up, the forestry sector scenario is envisaged to be as follows:
+· Intensive commercial forestry in the Terai (both government and privately managed) thus flooding the market with products and the government will have to rethink its policy of export ban of wood.
+· Community forestry will start to market forest products and services; conflict and their resolution will be a major issue.
+· Leasehold forestry by forest-based industries.
+· Soil conservation service will be extended to all the districts of Nepal.
+· More areas will come under the protected area system of national parks, wildlife reserves and conservation areas. These areas will become popular ecotourism destinations.
+<section>6</section>
+REFERENCES
+CBS (1996) Statistical Year Book of Nepal 1995, Central Bureau of Statistics (CBS), Kathmandu.
+MPFS (1988) Master Plan' for the Forestry Sector Nepal (various documents), Ministry of Forests and Soil Conservation, HMGN, Kathmandu.
+DNPWC (1996) Annual Report 1995/96. Department of National Parks and Wildlife Conservation. (DNPWC), Kathmandu.
+Edwards, D. (1996) Non-Timber Forest Products and Community Forestry: Are They Compatible? Banko Jankari (A Journal of Forestry Information for Nepal) Vol. 6(1): 3-8.
+FORESC (1994) Deforestation in the Terai Districts 1978/79 - 1990/91. FSD Publication No. 60, Forest Research and Survey Centre (FORESC)/Forest Resource Information System Project/FINNIDA, Kathmandu.
+HPPCL (1997) Herb Production and Processing Company (HPPCL) Company Report. Gorkhapatm Daily, 1 January 1997, Kathmandu.
+Pessonen, P. (1994) The potential of the Natural Forests of the Terai and the New Principles of Forest Management. Working Paper No. 15 Forest Management and Utilization Development Project, Kathmandu.
+<section>7</section>
+ANNEX I: LIST OF EXISTING RELEVANT STUDIES
+CBS (1993), Population Census 1991 Nepal. Central Bureau of Statistics, (CBS), Kathmandu.
+CBS (1996), Statistical Year Book of Nepal 1995. Central Bureau of Statistics (CBS), Kathmandu.
+EPC (1993), Nepal Environmental Policy and Action Plan. Environment Protection Council (EPC), Kathmandu.
+FORESC (1994), Deforestation in the Terai Districts 1978/79 - 199d/91. FSD Publication No. 60. Forest Research and Survey Centre (FORESC)/Forest Resource Information System Project/FINNIDA, Kathmandu.
+HMGN (1992), Livestock Master Plan. Ministry of Agriculture His Majesty's Government of Nepal (HMGN), Kathmandu.
+HMGN (1995), Nepal Agricultural Perspective Plan 1995/96-2015/15. Ministry of Agriculture HMGN, Kathmandu.
+MPFS (1988), Master Plan for the Forestry Sector Nepal (MPFS) Main Report Ministry of Forests and Soil Conservation, His Majesty's Government of Nepal (HMGN) Kathmandu.
+Master Plan for the Forestry Sector Nepal. Forest Resources Information Status and Development Plan. Ministry of Forests and Soil Conservation, HMGN, Kathmandu.
+Master Plan for the Forestry, Sector Nepal. Forest-based industries Development Plan. Ministry of Forests and Soil Conservation, HMGN, Kathmandu.
+Master Plan for the Forestry Sector Nepal Forest Development for the supply for the Main Forest Products. Ministry of Forests and Soil Conservation, HMGN, Kathmandu.
+Master Plan for the Forestry Sector Nepal. Executive Summary. Ministry of Forests and Soil Conservation, HMGN, Kathmandu.
+Master Plan for the Forestry Sector Nepal. Human Resource Development Plan. Ministry of Forests and Soil Conservation, HMGN, Kathmandu.
+Master Plan for the Forestry Sector Nepal. Impacts and Monitoring Plan. Ministry of Forests and Soil Conservation, HMGN, Kathmandu.
+Master Plan for the Forestry Sector Nepal. Forestry Research Development Plan. Ministry of Forests and Soil Conservation, HMGN, Kathmandu.
+Master Plan for the Forestry Sector Nepal. Forestry Sector Policy. Ministry of Forests and Soil Conservation, HMGN, Kathmandu.
+Master Plan for the Forestry Sector Nepal. Soil Conservation and Watershed Management Plan. Ministry of Forests and Soil Conservation, HMGN Kathmandu.
+Master Plan for the Forestry Sector Nepal. Institutional Development Plan. Ministry of Forests and Soil Conservation, HMGN, Kathmandu.
+Master Plan for the Forestry Sector Nepal. Plan for the Conservation of Ecosystems and Genetic Resources. Ministry of Forests and Soil Conservation, HMGN, Kathmandu.
+NPC (1991), Eighth Five Year Plan. National Planning Commission (NPC), Kathmandu.
+NPC (1991), National Conservation Strategy. National Planning Commission (NPC), Kathmandu.
+Pessonen, P. (1994) The potential of the Natural Forests of the Terai and the New Principles of Forest Management. Working Paper No. 15. Forest Management and Utilization Development Project, Kathmandu.
+<section>8</section>
+ANNEX II: NEPAL - STATISTICS RELATED TO FORESTRY - GEOGRAPHICAL SETTING
+Location:
+Latitude - 26° 22' N to 30° 27' N
+Longitude - 8004' E to 88° 12' E
+Border:
+N - China
+S, E, & W. - India
+Size:
+Area - 147,181 km^2
+Length - 885 km (E - W)
+Width - not uniform, mean width of 193 km (N-S)
+Ecological zones:
+Five zones on a south to north axis: Terai, Siwaliks, Middle Mountains, High Mountains and High Himal.
+Population (1991 census):
+Population density:
+125/km^2
+Forest area:
+5.5 million ha (37.4% of the total land area) conifers 17%, hardwoods 59%, mixed 24%
+Total growing stock:
+522 million m^3 (over bark)
+Area of National Parks, Wildlife Reserves and Conservation Area:
+2,105,100 ha (14% of the land area)
+Community forest area:
+300,000 ha.
+No. of Community Forest User Groups:
+Govt. expenditure on forestry sector:
+4.6% of the total expenditure (mean of 1989/85 - 1993/94)
+<section>9</section>
+ANNEX III
+<section>a</section>
+LIST OF WORKING PAPERS ALREADY RELEASED
+APFSOS/WP/01
+Regional Study - The South Pacific
+APFSOS/WP/02
+Pacific Rim Demand and Supply Situation, Trends and Prospects: Implications for Forest Products Trade in the Asia-Pacific Region
+APFSOS/WP/03
+The Implications of the GATT Uruguay Round and other Trade Arrangements for the Asia-Pacific Forest Products Trade
+APFSOS/WP/04
+Status, Trends and Future Scenarios for Forest Conservation including Protected Areas in the Asia-Pacific Region
+APFSOS/WP/05
+In-Depth Country Study - New Zealand
+APFSOS/WP/06
+In-Depth Country Study - Republic of Korea
+APFSOS/WP/07
+Country Report - Malaysia
+APFSOS/WP/08
+Country Report - Union of Myanmar
+APFSOS/WP/09
+Challenges and Opportunities: Policy options for the forestry sector in the Asia-Pacific Region
+APFSOS/WP/10
+Sources of Non-wood Fibre for Paper, Board and Panels Production: Status, Trends and Prospects for India
+APFSOS/WP/11
+Country Report - Pakistan
+APFSOS/WP/12
+Trends and Outlook for Forest Products Consumption, Production and Trade in the Asia-Pacific Region
+APFSOS/WP/13
+Country Report - Australia
+APFSOS/WP/14
+Country Report - China
+APFSOS/WP/15
+Country Report - Japan: Basic Plan on Forest Resources and Long-Term Perspective on Demand and Supply of Important Forestry Products
+APFSOS/WP/16
+Country Report - Sri Lanka
+APFSOS/WP/17
+Forest Resources and Roundwood Supply in the Asia Pacific Countries: Situation and Outlook to Year 2010
+APFSOS/WP/18
+Country Report - Cambodia
+APFSOS/WP/19
+Wood Materials from Non-Forest Areas
+APFSOS/WP/20
+Forest Industry Structure and the Evolution of Trade Flows in the Asia-Pacific Region - Scenarios to 2010
+APFSOS/WP/21
+Decentralization and Devolution of Forest Management in Asia and the Pacific
+APFSOS/WP/22
+Commentary on Forest Policy in the Asia-Pacific Region (A Review for Indonesia, Malaysia, New Zealand, Papua-New Guinea, Philippines, Thailand and Western Samoa
+APFSOS/WP/23
+Asia Pacific Forestry Sector Outlook: Focus On Coconut Wood
+APFSOS/WP/24
+Ecotourism And Other Services Derived From Forests In The Asia-Pacific Region: Outlook To 2010
+APFSOS/WP/25
+Technology Scenarios in the Asia-Pacific Forestry Sector
+APFSOS/WP/26
+In-Depth Country Report - India
+APFSOS/WP/27
+People and Forests: Situation and Prospects
+APFSOS/WP/28
+Non-Wood Forest Products Outlook Study for Asia and The Pacific: Towards 2010
+APFSOS/WP/29
+Opportunities for Forestry Investment in Asia and the Pacific Through Carbon Offset Initiatives
+APFSOS/WP/30
+Country Report - The Maldives
+APFSOS/WP/31
+Country Report - Vietnam
+APFSOS/WP/32
+Country Report - Nepal

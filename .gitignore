@@ -7,3 +7,4 @@ out
 target
 *.serialized
 french_model
+org.eclipse.jdt.core.prefs

@@ -1,0 +1,1502 @@
+<title>THE ROLE OF WOOD ENERGY IN ASIA</title>
+<section>1</section>
+Foreword
+Wood energy constitutes a major source of energy in most countries, both developing and developed, and its contribution is expected to grow in the future as a result of the application of stricter environmental regulations and the use of more competitive sources of locally-available energy. Although FAO collects and presents statistical data and information on fuelwood and charcoal in its Forest Products Yearbook, this data needs improvement, disaggregation and better presentation.
+FAO's wood energy initiatives have included, within its current regular programme activities, the development of an improved woodfuel and wood energy data base. This initiative is being carried out through different complementary approaches, mechanisms and activities, one of which is Wood Energy Today for Tomorrow.
+Wood Energy Today for Tomorrow
+(WETT) collects, reviews and collates existing information and data on wood fuels and its related energy aspects at national level through the preparation of "regional studies". The main aim of these studies is to overcome the shortcomings encountered in the main wood energy databases and to fill the main data gaps. New and improved wood energy data will contribute to (a) determine how, where and how much wood fuel is used in different countries and regions; (b) describe the contribution of forests, wood lands and trees to the energy sector; (c) assess the environmental impacts; and (d) identify the main critical problem areas to be tackled for the development of sustainable wood energy systems.
+It is also expected that the development of improved wood energy data will contribute to the better understanding of wood energy systems and to the planning of more sustainable production and utilization.
+In addition, WETT will constitute an essential source of information for forest resource assessments, improved forest products statistics, outlook studies and the valuation of forests. Other studies are also being carried out by the FAO Forestry Department as part of the periodic assessment of the state of forest resources and for the presentation of the best available statistics on forest products world-wide which contributes to the understanding of the multidisciplinary role of forests, woodlands and trees and enables the planning of a more sustainable forest management together with the promotion of "greener" and more environmentally friendly energy systems.
+This regional study presents an overview of the total wood energy consumption in 16 Asian countries based on information available in selected international organizations and makes recommendations for further improvements of Wood Energy Information Systems.
+M.A. Trossero
+Senior Forestry Officer
+Wood Energy
+<section>2</section>
+Chapter 1:
+Introduction
+1.1 Background
+Many developing countries in Asia still rely on wood energy. It is estimated that more than half of the total energy consumption in many Asian countries is accounted for by wood energy. However, there is no precise information on a region-wide level and existing information are scattered in national agencies. Thus, there is a need to organize and analyze available information to serve as a basis for energy policy.
+The present study is part of the regional Wood Energy Today for Tomorrow (WETT) studies undertaken by the Wood Energy Programme (WEP). The results of these studies will serve as inputs to other FAO activities and studies including Wood Energy Information System (WEIS), the Global Fibre Supply Study (GFSS), and the Asia-Pacific Forestry Outlook Study.
+1.2 Objectives of the study
+The two main objectives of the study are: (a) to assess past and present woodfuel consumption and production from forests and non-forest lands and analyse the future contribution of wood to energy in Asian countries; and (b) to present an overview of the different approaches, definitions, units and factors used by different agencies during the collection, storage, and presentation of data and information on wood energy.
+The second objective is further divided into the following specific objectives:
+* To present an overview of on total wood energy use in 16 Asian countries (i.e., the member countries of FAO's Regional Wood Energy development Programme in Asia) based on literature survey and on personal communication.
+* To present various data sources in comparable format, including
++ Time series of total consumption
++ Disaggregation of wood energy into the main consuming
+* To compare the main characteristics of these databases
+* To make recommendations for future improvement of the existing wood energy databases.
+1.3 Scope of the study
+The study consists of the following tasks:
+1. Collection and analysis of wood energy data available in the databases of FAO, UN, and AIT and presentation of the information in the same format in order to facilitate comparison. The format will follow that used for the WETT study for Europe and the OECD countries.
+2. On the basis of the results of the first task, suggesting a "best estimate" of past and present consumption, production, and trade of woodfuels for all the countries according to main category of users (residential, commercial, and industrial) and areas (rural and urban) and undertaking a comparative analysis of woodfuel contribution with other sources of energy.
+3. Description of how the different agencies organize their collection, collation, and presentation of wood energy data, including an overview of the main characteristics, approaches, terminologies and definitions, parameters, conversion factors, and units used. This task also includes a detailed description and comparison of the databases consulted and recommendations for future improvement of wood energy database in the region.
+4. Analysis of the past and present role of wood energy in Asian countries and its interrelations with the forest and energy sectors taking into account supply sources, trade, and utilization of woodfuels.
+5. Following the analysis in the preceding task, analysis of the future role of wood energy, including (i) identification and analysis of the factors affecting the utilization, trade, and production of woodfuels, and (ii) analysis of scenarios of wood energy use.
+6. Taking into consideration the limitation on data and information available on woodfuel supply sources, analysis of implications for forests, woodlands, and trees of the present and projected woodfuel consumption and production patterns.
+The study will cover the 16-member countries of the Regional Wood Energy Development Programme for Asia (RWEDP), which are divided into three groups. South Asia includes Bangladesh, Bhutan, India, Maldives, Nepal, Pakistan and Sri Lanka, which are also the members of South Asian Association for Regional Co-operation (SAARC). South East Asia comprises Cambodia, Indonesia, Laos, Malaysia, Myanmar, Philippines, Thailand and Vietnam. These seven countries, excluding Cambodia, are also the members of Association of South East Asian Nations (ASEAN)^1, along with Singapore and Brunei. China is treated as a separate group for the purpose of this study.
+1.4 Methodology
+In order to meet the above mentioned objectives the following steps were undertaken.
+* Literature survey on the available wood energy database for Asian countries
+* Corresponding with various institutions, organizations, and individuals to explore existing wood energy databases for Asian countries
+* Presenting the available wood energy databases in similar formats in order to facilitate their comparison
+* Evaluating the available databases on wood energy for Asia identifying their merits and demerits
+1.5 Overview of the report
+Chapter 2 surveys three wood energy databases for Asia. The wood energy databases are described in terms of their methodology, definitions, measurements, scope. This chapter also discusses how the statistics available from these databases are tabulated in similar format to facilitate their comparison. The resulting tables, however, are presented in Appendix 1.
+Chapter 3 analyzes the past and present role of wood energy based largely on the information presented in the CEERD/AIT database. This database is preferred over the two others because more information are available at the national level, although information are not adequately available for all countries under study. This chapter discusses different aspects of wood energy consumption patterns, including wood energy flow and wood energy supply, but the emphasis is on household and non-household rural/urban fuelwood consumption.
+Chapter 4 examines the future role of wood energy by discussing the macro and micro factors affecting wood energy use. Towards the end of this chapter, three scenarios are developed that describe possible (not necessarily feasible) wood energy futures. Separate fuelwood consumption projections are made in each scenario, which are also compared with other existing projections to further test their validity.
+Chapter 5 concludes the report by drawing the implications of the future role of wood energy for the forestry sector. Recommendations are also made with regards to the issues related to wood energy data.
+^1 Myanmar and Laos have been recently acepted as members in the group. Cambodia was also expected to get a membership along with Myanmar and Laos earlier, but the decision on Cambodia was delayed due to recent political development in the country.
+<section>3</section>
+Chapter 2:
+Wood Energy Database
+2.1 Introduction
+Collecting and preparing a wood energy database is a complex process due to a number of reasons: diversity in consumption patterns, variation in heat contents in different species of fuelwood, differences in measurement of volume and weight, lack of regular surveys on wood energy supply and consumption, and divergence in the way wood energy data are presented. Because of this wood energy figures are likely to be different in different databases. Thus, when wood energy data are gathered either for national planning and policy purpose or for some analytical studies, confusion sets in regarding the reliability of data and statistics available from different wood energy database or statistics. It is therefore, mandatory, to explore the existing database, evaluate their reliability and consistency and to identify the most appropriate database for above mentioned purposes.
+This chapter discusses the existing situation of wood energy database for 16 Asian countries which are also the members of FAO's Regional Wood Energy Development Programme in Asia (RWEDP). It tries to present an overview of wood energy database at a regional level. There exists only very few databases that includes wood energy figures for Asia. The known wood energy databases on Asia are FAO Forest Products Yearbooks, UN Energy Statistics Yearbooks and CEERD/AIT Energy-Environment Database. At the national level, some countries (e.g., Bangladesh, Myanmar, Nepal, Sri Lanka, Thailand) do have statistics on wood energy.
+The word "fuelwood" in this part of the study represents the combination of primary fuelwood and its main derivative¾ charcoal. Fuelwood from FAO and UN databases corresponds to the fuelwood originated only from the forests (does not include wood wastes or recycled wood), whereas fuelwood from CEERD/AIT databases also includes fuelwood from other sources such as trees in home garden and agricultural land and wood wastes. The main sources of CEERD/AIT database are national statistics, which include these other sources of fuelwood.
+2.2 Description of the presentation of the database
+In contrast to European/OECD countries, there are only three databases on wood energy for Asian countries currently available. These are:
+1. FAO forest product Yearbook [FAO 1996]
+2. UN energy statistics [UN 1996]
+3. CEERD/AIT energy and environmental database.
+The first two are published databases whereas the last one is a compilation of data from various published/prepared national statistics, reports and other secondary sources, but the compilation itself has not been published yet. Besides these, International Energy Agency (IEA) is planning to include biomass energy consumption of Asian countries for years 1994 and 1995 in its forthcoming publication, the Energy Statistics of non -OECD Countries.
+^1 However, the data from IEA are not available at present.
+Wood energy consumption data from the above mentioned sources are presented in tabular form. The presentation follows the same format as that used in the study "Overview of available data on wood energy in Europe/OECD". All tables have a list of 16 Asian countries on the y- axis and data on wood energy consumption and other relevant indicators are presented in x-axis
+^2 . These 16 countries are grouped into three groups: South Asia, South East Asia and China. The data in the different tables are directly taken or calculated according to the following procedures:
+1. Data on wood energy Consumption in physical unit (Table A.z.1)
+These tables consist of total wood energy data expressed it terms of volumetric unit (thousand cubic meter). The data for these tables compiled as follows:
+FAO Forest Products Yearbook (z =1)
+FAO Forests Products Yearbook
+(FAO, 1994) provides domestic production, import and export of fuelwood and charcoal in volumetric unit (thousand cubic meter). Since we need wood energy consumption data, we can not directly copy the production figures as presented in the statistics. Hence, we first calculated wood energy supply data from the following relationships:
+Wood energy supply = Domestic production + imports - Exports
+With an assumption that there is no transportation and distribution losses of wood energy, wood energy supply equals to wood energy consumption.
+UN energy statistics (z = 2)
+In contrast, UN energy statistics presents fuelwood and charcoal consumption data in different units. Fuelwood consumption is presented in cubic meter, while charcoal is presented in tonne. However, domestic production and export of charcoal are already included into the domestic fuelwood production. Imported charcoal is converted into equivalent fuelwood and presented in cubic meter. Hence, total fuelwood consumption is given as:
+Fuelwood[total] (cubic meter) = Fuelwood (cubic meter) + Imported charcoal (in tonne)/(eff * d)^3
+where,
+eff = Factor converting fuelwood to charcoal or charcoal kiln efficiency; the value taken here is 0.225^4.
+d = Factor converting volume to weight of fuelwood or density of fuelwood on dry basis, the value
+taken here is 0.72^5.
+Only a few Asian countries import charcoal, and the imported amount is very small compared to the domestic production.
+AIT energy environmental database (z = 3)
+In the case of the AIT database, both fuel wood and charcoal are presented in mass unit (thousand tonne). They are converted into volume unit as follows:
+Fuelwood[total] (cubic meter) = Fuelwood (tonne)/d + imported charcoal (in tonne) )/(eff * d)
+where "eff" and "d" have the same values as in the UN statistics.
+2. Data on wood energy share in total forest removals (Table A.z.2)
+These tables present the share (in percent) of wood energy in total forest removals. Wood energy share in total forests removals represents the ratio between the amount of fuelwood production and total round wood production (both presented in volumetric units) within the country. However, round wood production data is available only in FAO forest products yearbook. Hence, the same data are used for calculating this indicator for the other two databases.
+3. Total wood energy consumption in energy unit (Table A.z.3)
+Data in these tables are presented in terms of energy unit (peta joule). Conversion factor from volumetric unit to energy unit for different countries and in the cases of different databases are given in Table 2.1.
+4. Share of biomass energy consumption in total energy consumption
+These tables present the share of biomass energy (in percent) in total energy consumption. However, biomass energy consumption data are not available from the FAO database, so these indicators are not calculated for the FAO database. Total energy consumption data for calculating these indicators in the case of the UN and AIT databases were taken from the respective databases.
+5. Share of wood energy consumption in total biomass energy consumption
+These tables present the share of wood energy (in percent) in total biomass energy consumption. It represents the ratio of total wood energy consumption to the total biomass energy consumption. However, as the biomass energy consumption data are not available for the FAO database, this indicator has not been calculated for the FAO database.
+6. Share of wood energy consumption in total energy consumption
+These tables gives the ratio of total wood energy consumption to total energy consumption. The calculation of these indicators for the FAO database uses the total energy consumption figure from UN sources.
+Table 2.1: Heat value of fuelwood (TJ/Thousand Cubic Meter)
+Country
+FAO
+Database
+UN
+Database
+CEERD/AIT
+Database
+Bangladesh
+Bhutan
+Cambodia
+China
+India
+Indonesia
+Malaysia
+Maldives
+Myanmar
+Laos
+Nepal
+Pakistan
+Philippines
+Sri Lanka
+Thailand
+Vietnam
+Source: UN and AIT.
+7. Consumption of wood energy in various sector in physical unit
+These tables present the wood energy consumption data at the sectoral level in physical unit (volumetric unit). The sectors considered here are Industry, Residential/commercial and others.
+8. Consumption of wood energy in various sector in energy unit
+These tables present wood energy consumption data at the sectoral level in energy unit (peta joule).
+2.3 Description of the various databases
+2.3.1. FAO Forest Products Yearbook: the data source of FAO wood energy database
+FAO Forest Products Yearbook, an annual publication of FAO in Rome, contains time series data (for the past 12 years) on production and trade of products from forests. In this study, two yearbooks were used. The first (the 48th issue), published in 1996, contains data for 1983-1994 and was used for the data for this period. The second (the 45th issue), published in 1993, contains data for 1980-1991 and was used for the data for 1980-1982.
+Structure of the database
+The FAO yearbook presents production and trade figures of various types of forest products (e.g., roundwood, fuelwood, and wood derivatives). In the case of fuelwood, the statistics presents data for fuelwood and charcoal separately as well as jointly. This study considers data for fuelwood from "fuelwood + charcoal" category of the statistics.
+Data collection methods
+Data of FAO statistics are collected by means of questionnaires send to concerned departments of all countries in the world. However, in the absence of official replies of the questionnaires, data are either estimated by FAO or obtained from other sources. The data for all countries under this study are estimated data (not the real data) and are subjected to change in the next issues of FAO Forest Product Yearbook if suggested officially by the governments or new information were available from any other sources. The estimates of fuelwood production data in this statistics based on the per capita fuelwood production and population growth rate.
+Definitions and terminologies
+The definitions of forest products follow the classification and definitions of forest products, FAO, Rome, 1982. However, there is no explicit definitions of fuelwood. This study also follows the definitions of fuelwood as stated in van den Broek (1997). However, Broek (1997) is not clear whether the fuelwood corresponds only for the fuelwood from natural forests or from both natural and on-farm forests (e.g., trees in home garden, agricultural land etc.). This study assumes that fuelwood data from FAO statistics refers to the fuelwood from all types of forests i.e., natural, private, social or community forests. The statistics however, defines charcoal. According to which, charcoal is "wood in the rough (from trunks and branches of trees) to be used as fuel for purposes such as cooking, heating or power production. Wood for charcoal, pit kilns and portable ovens is included." But, it is amazing! this in fact, is the definition of fuelwood not of charcoal.
+2.3.2. Energy Statistics Yearbook--the data source for UN wood energy database
+Energy Statistics Yearbook
+is an annual publication of the United Nations, published by Department of Economic and Social Information and Policy Analysis. This statistics presents time series (for the past 4 years) data on production, trade and consumption of various types of energy commodities for the countries all over the world. Since this statistics presents data for past four years and the data of the earlier issues are always revised in the new issues, this study uses various issues of this statistics. For example, Energy Statistics Yearbook, 1983 (published in 1985) which presents data for years 1980-1983, was used for data for year 1980. Similarly subsequent issues were used for the data till 1991. Since the latest available issue is "Energy Statistics Yearbook, 1994 (published in 1996), data for the 1992-1994 period were also taken from this issue.
+Structure of the database
+This statistics includes both conventional and biomass energy commodities. The conventional commodities included in the statistics are coal (hard coal, lignite, coke, peat, hard coal briquettes and lignite and peat briquettes), petroleum (crude petroleum, LPG, aviation gasoline, motor gasoline, kerosene, jet fuels, gas-diesel oils, residual fuel oil), gas (natural gas, other gas) and electricity (hydro, thermal, nuclear). The biomass fuels included in the statistics are fuelwood, charcoal and Bagasse. Data for each type of fuel and aggregate data for the total mix of conventional fuels are provided for individual countries as well as summarized into regional and world tables. There are altogether 38 tables in the statistics, of which Table 13 provides production and trade of biomass energy.
+Data collection methods
+The data in this statistics are compiled primarily from annual questionnaires distributed by the United Nations Statistical Division and supplemented by official national statistical publications. Where the official data are not available or are inconsistent, estimates are made by the Statistical Division based on governmental, professional or conventional materials. Estimates include, but are not limited to, extrapolated data based on partial year information, use of annual trends.
+Definitions and terminologies
+Fuelwood in this statistics is defined as "all wood in the rough used for fuel purpose. Fuelwood production data include the portion used for charcoal production, using a factor of 6 to convert from a weight basis to the volumetric equivalent (metric tons or cubic meters) of charcoal". Similarly, charcoal is defined as "solid residue consisting mainly of carbon obtained by the destructive distillation of wood in the absence of air". Biomass fuel in this statistics refer to fuelwood, charcoal, Bagasse, animal, vegetal and other wastes.
+2.3.3. CEERD/AIT Energy-Environment Database
+Center for Energy-Environment Research and Development (CEERD)^6 , a center involved in research and development activities on energy and environmental field since 1986 at Asian Institute of Technology, has established a regional database on energy and environment for Asia and pacific countries. The database currently have data on energy and environment for 22 countries. The database is managed through a fox-pro based computer software called Database Administration Variable Output and Input Data (DBA_VOID). In this database, a separate group has been created for wood energy data. Although attempts have been made to gather wood energy data and information from different countries, only a few countries (Nepal, Sri Lanka and Thailand) have a complete time series on wood energy data, whereas for the rest of the countries have only partial data (data for a few years).
+Structure of the database
+The database presents data tables in aggregated and detailed forms. Aggregated tables presents main biomass energy commodities such as fuelwood, charcoal, agricultural residues, dung, biogas, municipal wastes and wood derived liquid fuel (e.g., black liquor, ethanol, methanol) in columns and time series data in rows. Data tables are designed for each type of activities or flow like resources/reserves, production, trade (imports/exports), total supply, transformation and final consumption. Consumption data are also presented by types of economic sectors (e.g., household sector, commercial and service sector, industrial sector and others). Detailed tables are aimed to provide in-depth information of a particular type of fuel or activity. For example, fuel wood is divided into different components such as primary fuelwood, wood residues, sawdust, furthermore production of fuelwood is disaggregated according to its sources such as fuelwood from natural forests, fuelwood from
+on-farm forests etc. However, the existing data mostly correspond to the aggregated tables.
+Data collection methods
+The main characteristics of CEERD/AIT energy-environment database is that no data based on estimation. Whatever data are available are taken from the published or prepared (but not published) statistics of national level institutions. Most of the existing data are taken from regular publications and provides time series, however, some data are taken from special studies, reports and correspond to the particular point of time. The main data sources for wood energy data in CEERD/AIT energy-environment database are summarized in Table 2.2.
+Definitions and terminologies
+The definition of terminologies relevant to this study used in this CEERD/AIT energy-environment database are as follows:
+Biomass fuels: all the organic fuels from biological origin used for energy purposes are referred as biomass fuels. It includes all terrestrial and aquatic vegetation, its residues such as fuelwood, twigs, dead leaves, shell; cultivated crops and their residues like cereal straw, seed-husks, Bagasse; livestock products and their residues (e.g., dung).
+Biomass energy: energy derived from the combustion of biomass fuels are called biomass energy.
+Wood fuel: all types of lignocellulosic material derived directly and indirectly from plants, trees, shrubs, and herbaceous plant grown in forest as well as non-forest lands and used for fuel purpose. The main components of woodfuels are fuelwood, charcoal and wood derived fuels (e.g., black liquor, methanol, ethanol).
+Wood energy: energy derived from woodfuels are known as wood energy.
+Fuelwood: wood in rough produced from forests as well as non-forests and used solely for fuel purposes. Fuelwood includes twiggs, branches, wood chips, pellets and power derived from natural or other forest or even non forests area (e.g. home garden), industrial wood residues and recovered wood.
+Charcoal: it is a solid residue derived from carbonization, distillation, pyrolysis and torrefaction of wood (from trunks and branches of trees) and wood by-products using pit, brick and metal kilns. It includes also charcoal briquettes made from wood-based charcoal.
+2.4 Comparison of various databases
+This section presents a comparative analysis of wood energy databases used in this study. A careful observation of data tables presented in Appendix 1, reveals that there is a big deviation from among the figures from various databases. Data on tables (Tables A.z.1, where z refers different databases) corresponding to the fuelwood consumption, indicate that the absolute value of fuelwood consumption from FAO database were increasing smoothly in all Asian countries selected under the study. However, this is not the case in other two databases. In UN databases (Table A.2.1 in Appendix 1), absolute amounts of fuelwood consumption were found to decrease in some years for Bangladesh, Bhutan, Laos, Thailand, China and Myanmar. There exist a big drop in the total fuelwood consumption from year 1982 to 1983 in Bangladesh and a big jump from year 1991 to 1992 in Thailand in UN database. The reason for this discrepancy in the case of Bangladesh may be the change of data sources of UN
+energy statistics. As mentioned in the table notes of UN Energy Statistics Yearbooks, it seems that UN statistics took fuelwood consumption data from FAO Forest Products Yearbook till 1982 and took from other sources thereafter. However, the reason for the discrepancy in the case of Thailand is unknown. The same phenomenon as in the case of UN database was also observed in CREED/AIT database (see Table A.3.1 in Appendix 1). Absolute amount of fuelwood consumption was found to be decreased in some years in most of the countries with time series data.
+The variation in fuelwood consumption data from various databases can be analyzed with the help of Tables A.z.2 in Appendix-1. These tables presents the ratio of fuelwood consumption from various sources to the round wood production from FAO forest products yearbook (i.e., with respect to a common denominator). Comparing the indicators given in tables A.1.2, A.2.2 and A.3.2, it can be found that, a very big deviation (more than 2 times) occurred in fuelwood consumption data from FAO and UN databases in Bangladesh during 1983-1994, Bhutan during 1980-1994, and Thailand during 1992-1994. A significant difference (more than 1.2 times) was also observed in the case Nepal, Pakistan and Sri Lanka. Note that, for these countries, the sources of UN statistics are national sources rather than FAO. For the rest of the countries, the difference is not significant as UN statistics eventually took data from FAO statistics. In the case of fuelwood consumption data from FAO and CEERD/AIT
+databases, a large (more than 1.5 times) difference observed in Bangladesh, Myanmar, Sri Lanka, Thailand (1992-1994) and Vietnam. From these deviations, one can clearly come to a conclusion that there exits a very big difference in fuelwood consumption data originated from FAO and national statistics.
+On the other hand, the shares of wood energy in total energy consumption from FAO and UN databases are comparable in most countries. However, these figures differs significantly in the case of CEERD/AIT databases.
+A better comparison of fuelwood consumption data from various sources is possible for year 1994, as data for more countries are available from CEERD/AIT databases in this year. As shown as in Table 2.3, total fuelwood consumption data on South Asian countries are comparable in FAO and UN databases expect on Bangladesh. However, fuelwood consumption data are higher in the case of CEERD/AIT data for the reason as mentioned above.
+In South-East Asian countries, there exists only a smaller variation in total fuel wood consumption data between FAO and UN databases except in Thailand. In fact, these data are comparable among all sources except in Indonesia and Thailand (see Table 2.4).
+Fuelwood consumption data from FAO and UN databases are close to each others for China, but this is not the case for data from CEERD/AIT statistics (see Table 2.5).
+Although, there is a big variation in total fuelwood consumption among the data from various sources, the variation is not as big as in the case of European/OECD countries, where total fuelwood energy consumption data varies from 2 to 6 times among the various sources (van den Broek, 1997).
+Table 2.2: Main sources of wood energy data in CEERD/AIT energy-environment database
+Country
+Data Sources (Institutions)
+Bangladesh
+1. Bangladesh Bureau of Statistics
+2. Ministry of Planning
+3. Forestry Department
+4. Bangladesh Agricultural Research Council
+Bhutan
+1. Department of Power
+2. Forest Department
+3. Ministry of Agricultural
+Cambodia
+1. Department of Forest and Wildlife
+2. Ministry of Energy and Mines
+China
+1. Energy Research Institute, State planning Commissions
+2. Research Institute of Tropical Forestry
+3. Chinese Academic of Agricultural Research
+4. Ministry of Agricultural, Animal Husbandry and Fishery
+India
+1. Ministry of Environment and Forests
+2. Ministry of Non-Conventional Energy Sources
+3. Tata Energy Research Institute
+Indonesia
+1. Department of Energy and Electricity
+2. Institute of Technology Bangdung
+Malaysia
+1. Ministry of Science, Technology and Environment
+2. Economic Planning Unit, Ministry of Prime Minister
+3. Forest Research Institute Malaysia
+Maldives
+1. Ministry of Fisheries and Agricultural
+2. Ministry of Planning
+Myanmar
+1. Ministry of Energy
+2. Forest Department
+3. Ministry of National Planning and Economic Development
+Laos
+1. State Planning Commission
+2. Department of Forestry, Ministry of Agricultural
+Nepal
+1. Ministry of Forest and Soil Conservation
+2. Water and Energy Commission Secretariat (WECS)
+3. Central Bureau of Statistics
+Pakistan
+1. Pakistan Forest Institute
+2. Energy Wing, Ministry of Planning & Development
+3. Department of Forestry
+4. Ministry of Petroleum and Natural Resources
+Philippines
+1. Department of Energy (DOE)
+2. Department of Environment and Natural Resources (DENR)
+3. National Statistical Coordination Board
+Sri Lanka
+1. Ceylon Electricity Board
+2. Ministry of Irrigation, Power and Energy
+3. Central bank of Sri Lanka
+Thailand
+1. Department of Energy Development and Promotion
+2. National Energy Policy Office
+3. Royal Forest Department (RFD)
+4. Ministry of Agricultural and Co-operatives
+Vietnam
+1. Institute of Energy
+2. Forest Science Institute of Vietnam
+Table 2.3: Total amount of wood energy in databases per South Asian country in 1994 (PJ)
+FAO
+UN
+CEERD/AIT
+South Asia
+Bangladesh
+Bhutan
+India
+Maldives
+Nepal
+Pakistan
+Sri Lanka
+Table 2.4: Total amount of wood energy in databases per South Asian country in 1994 (PJ)
+FAO
+UN
+CEERD/AIT
+South East Asia
+Cambodia
+Indonesia
+Laos
+Malaysia
+Myanmar
+Philippines
+Thailand
+Vietnam
+Table 2.5: Total amount of wood energy in databases China (PJ)
+FAO
+UN
+CEERD/AIT
+China
+2.5 Best estimate for wood energy use
+What is the "best" estimate for wood energy use? This is a not a very easy question to answer. However, it is necessary to choose a particular database when making an analysis as mixing data from various databases would not only distort the result but would also give wrong signals to policy makers. Before answering the question on the best estimate for wood energy use, it is necessary to identify the strong and weak points of the three databases described in this study.
+2.5.1 FAO database
+Strong points
+* Provides time series on wood energy consumption data for all countries.
+* Data are more consistent than the UN and AIT base.
+* Data are regularly updated and improved.
+Weak points:
+* Wood energy consumption data are all estimated for the countries under study. Furthermore, the estimation is based only on population growth, which is not the only driving factor for wood energy demand. (In the long run, income becomes a very important determining factor.)
+* Wood energy consumption data refers only to fuelwood supply from forest, and thus do not take into account fuelwood supply from non-forest lands, which can be very significant for at least some countries.
+* Data are highly aggregated. For example, wood energy consumption by sector is not available.
+* No information is given on total energy consumption; hence, the importance of wood energy cannot be interpreted in terms of its contribution to total energy requirement.
+* No definition of "fuelwood" is provided and the definition of "charcoal" is misleading.
+2.5.2 UN Database
+Strong points
+* Time series on wood energy data for all countries is available.
+* It gives the whole picture of energy consumption including both conventional and biomass energy sources. This facilitates analysis of the role of wood energy in meeting total energy requirement from one database.
+* The definition of fuelwood is very clear; it includes fuelwood and charcoal.
+* Since UN database takes fuelwood energy consumption from FAO statistics for most of the countries and there is no data available for total energy consumption in FAO statistics, these two databases will complement each other for an overall wood energy consumption analysis.
+Weak points:
+* UN energy statistics uses FAO statistics as its data sources for more than 50% of countries selected under this study. The other half comes from other sources. In this regard, the FAO database provides more consistent set of data.
+* Time series data on fuelwood consumption shows "spikes" in some years for a number of countries. No explanation is available for the big discrepancies.
+* UN statistics encounters with several topological errors. For example, in the case of Bangladesh, several issues of UN Energy Statistics Yearbook (1981 to 1989 editions) show the total energy consumption (the sum of biomass and conventional energy consumption) either lower than biomass energy consumption or not equal to the sum of biomass and conventional energy consumption^7.
+* The flow of time series on wood energy data is inconsistent in some country cases due to changes in original sources of data. For example, wood energy consumption for Bangladesh dropped five times in 1983, which is very unlikely in reality. It appears due to the change of original source from FAO to national statistics.
+* As in the case of FAO database, no disaggregation is available for production by source and for consumption by sector.
+2.5.3 CEERD/AIT Database
+Strong points
+* All data (whatever available) were taken from national statistics and hence the data are most probably the real data not the estimated one.
+* Wood energy consumption data provide sectoral disaggregation to some extent.
+* It provides information on other energy (conventional) consumption; hence the importance of wood energy can be calculated in-terms of total energy requirement.
+Weak points
+* Time series data on wood energy are provided only for a very few countries.
+From the comparison of various databases in terms of their merits and demerits, it can be concluded that no single wood energy database is favored for analysis purposes. For making regional overview and analysis, the FAO database provides more consistent set of data that are available for all countries covered by the study. On the other hand, the CEERD/AIT database are most useful for making country specific analysis, in particular for countries where a comprehensive set of data exist. The UN database provides time series data on total energy consumption. Otherwise, it is less useful than the other two databases.
+^1 John Denman, (IEA) personal communication, 1997.
+^2 The presentation of the data follows the same format as used in the similar study for Europe/OECD conducted by Richard van den Broek. According to that format, all the tables in the appendices are numbered as A.z.x., with z referring to the number of database (from = 1 to 5) and x to the number of the table (from 1 to 4). A refers to "appendix".
+^3 In the UN statistics, charcoal in tonne is converted to fuelwood in cubic meter by directly multiplying by a factor of 6.
+^4 This value is taken as an average efficiency of charcoal kilns operating in different Asian countries.
+^5 The corresponding average moisture contents assumed in FAO statistics is 20% (wet basis) [FAO, 199], whereas it is 20-30 in UN statistics [UN, 1994].
+^6 CEERD was known before as Energy Planning Central Consultant Team (EPCCT).
+^7 Please refer to Table 4 (Total energy requirement) of UN Energy Statistics Yearbook, 1981 to 1989 issues.^
+<section>4</section>
+Chapter 3:
+Analysis of the Past and Present Role of
+Wood Energy in Asia
+3.1 Introduction
+This chapter analyses past and present wood energy consumption patterns based on the AIT database. As mentioned in Chapter 2, the AIT database is more reliable than the other two databases in analysing wood energy situations in specific countries for it provides more information with respect to the different aspects of and the factors influencing wood energy use.
+The AIT database compiles information mostly from country case studies on wood energy and data and statistics from national government and private agencies. Energy data and statistics from these studies and agencies are based on national standards of energy measurements and definitions that usually vary from one country to another. Some efforts have to be expended, therefore, to make energy units consistent and uniform for more precise comparisons.
+The study converts all original energy units into petajoules (PJ), or its derivatives, which is the International System unit for energy. Most countries in Asia are using the tons of oil equivalent (TOE) and its derivatives. The study converts all derivatives of the TOE unit into PJ using the factor 41.9 GJ per TOE (UN, 1987). The Philippines is one exception as it uses the barrel of fuel oil equivalent (BFOE). The study converts BFOE and its derivatives into TOE using the country's conversion factor of 0.1444 TOE/BFOE (Philippine Energy Plan, DOE, 1996). Another exception is India which uses the tons of coal replacement. The study converts from original physical units of the fuel to PJ using the conversion factors in UN (1987). For example, fuelwood consumption is converted to PJ by using the factor 12.60 GJ per metric tons. Animal dung consumption is converted to PJ assuming a net calorific value of 13.6 MJ per kg. Crop residues consumption are expressed in PJ using the
+net calorific value of 13.4 MJ per kg for rice husk
+3.2 Socio-Economic background
+The 16 Asian member-countries of RWEDP occupy a total land area of 18.5 million sq. km. Their total population represents more than half of the world's total and reached almost 3 billion in 1994. However, the physical and population size of the individual member countries represent the extremes. On the one hand, you have China and India that already account for about two-thirds of the total population of the region as well as its total land area (see Table 3.1). Bhutan, Lao, Cambodia, and Maldives, on the other hand, have population under 10 million and occupy less than 3% of the total land area of the region.
+By global standards, the region as a whole has high population growth rates (despite serious efforts to control it). The numbers were in the range of 1.1% to 3.2% for the period 1989-1994. China's average population growth has been maintained below 2% per year and declining since 1970 through the government's "one-child policy." Average population growth in South Asia, except in Pakistan, Sri Lanka, and Maldives, as well as in some countries in Southeast Asia, is close to 2% per year. The rest have average annual population growth rate above 2.5%.
+Table 3.1: Land Area and Population Data
+Land Area
+('000 sq. km.)
+Population
+Population Growth Rates (%)
+Population
+Density
+(persons/sq. km.)
+Bangladesh
+Bhutan
+Cambodia
+China
+India
+Indonesia
+Lao PDR
+Malaysia
+Maldives
+Myanmar
+Nepal
+Pakistan
+Philippines
+Sri Lanka
+Thailand
+Vietnam
+Source: WB (1996)
+Table 3.1 also shows the varied population densities among the countries covered by the study. The number ranges from 19 persons per sq. km. in Lao to 827 persons per sq. km. in Maldives. The national average, however, must be interpreted with caution. Population densities vary from one region to another within each country and between rural and urban areas. The major urban centers in the region have population density much higher than the national average.
+Despite high concentration of population in major urban areas in the region, rural population continues to comprise the majority. The rural areas are still home to at least two-thirds of the total national population, with the exception of Malaysia and the Philippines. However, urban population tends to grow faster (in some cases much faster) than rural population. Table 3.2 shows the extent and growth of the urban population in the RWEDP member countries between 1970 and 1994. All of the countries' urban population were growing faster than total population and in many the growth was twice as fast. In addition, it was only in the Philippines and Malaysia where total urban population exceeds rural population, though only slightly. In most of the countries, urban population accounted for less than one-third of total population.
+The predominantly rural character of the countries in the region partly explains why agriculture continues to dominate or contribute significantly to their economies (or vice versa). Table 3.3 shows that in most countries agriculture still accounts for at least 30% of GDP. In recent years, though, contributions from the primary sectors have been declining. It is now only in the transition economies of Lao, Cambodia, and Myanmar and the South Asian countries of Bhutan and Nepal where agriculture contributes more than 40% of GDP.
+The increasing relative output from the industry and services sectors contributed to the high GDP growth in 1985-1994. The result was a marked improvement in the per capita incomes during this period, though for majority of the countries, this performance is still way below that achieved even by the newly industrializing economies of Thailand and Malaysia (see Figure 3.1).
+Table 3.2: Urban Population
+As % of Total Population
+Average Annual Growth Rate, %
+Bangladesh
+Cambodia
+China
+India
+Indonesia
+Lao PDR
+Malaysia
+Maldives
+Myanmar
+Nepal
+Pakistan
+Philippines
+Sri Lanka
+Thailand
+Vietnam
+Note: Data are not available for Bhutan
+Source: WB (1996)
+The national per capita income, however, is an average and does not reflect how income is distributed or shared by the population. Measures of income distribution are better indicators of the poverty situation. Available data show that on top of the low income, many countries in the region suffer from inequitable income distribution in which more than 40% of national income are held by only the top 20% of households, while the bottom 20% of households get less than 10% of income (see Table 3.4). In fact, the situation is slightly worse in the better off countries of Indonesia, Malaysia, and Thailand.
+3.3 Energy indicators
+The more important energy indicators are shown in Table 3.5. Together with the information presented in the last section, Table 3.5 shows that countries with better economic performance tend to have higher average energy consumption. This is particularly true for China, Malaysia, and Thailand. Indonesia and the Philippines, although they have relatively high GNP per capita, do not have comparable per capita energy consumption because many people in these countries do not yet enjoy nor can afford the benefits of modern energy. This is reflected in the relatively low electrification ratio in these two countries. Only 26% of households in Indonesia have access to electricity, while 37% of the households in the Philippines remain without access electricity.
+However, access and affordability could mean different things in some situations. India and Maldives have high electrification coverage but the low income in India and the presumably poor income distribution in Maldives are partly responsible for the low average energy and electricity consumption in these two countries.
+Table 3.3: Real GDP Growth and Sectoral Contributions
+Country
+Real GDP Growth Rate, 1985-1994
+(percent)
+Share of Agriculture
+(percent)
+Share of Industry
+(percent)
+Share of Services
+(percent)
+Bangladesh
+Bhutan^1
+Cambodia^2
+China^3
+India
+Indonesia
+Lao PDR^5
+Malaysia
+Maldives
+Myanmar
+Nepal
+n.a.
+n.a.
+n.a.
+n.a.
+Pakistan
+Philippines
+Sri Lanka^7
+Thailand^6
+Vietnam
+Notes:
+1 Data cover period 1985-1993
+3 Growth, 1987-1994; sectoral value added, 1985-1988
+7 GDP growth for 1990-1992; Sectoral shares, 1992 and 1985.
+Sources: Basic data come from ADB (1995) except for China (SSB, 1995); Myanmar (UNDP, 1992 and MNPED, 1995); and Vietnam (GSO, 1996)
+At any rate, the more obvious relationship has persisted in most of the countries: that is, low income countries tend to have low average energy or electricity consumption and have poor access to modern sources of energy like electricity.
+<section>5</section>
+3.4 Consumption of wood energy
+National energy statistics seldom include information about traditional energy consumption with comparable level of details as those for commercial or conventional energy sources. Because of the difficulties associated with wood energy data collection and the decentralized nature of wood energy systems (Bhatia, 1985 and Ramani et al., 1995), wood energy consumption is not regularly monitored in the same way as that of conventional or commercial energy sources. But the large proportion of rural population and the significant contribution of agriculture in the economies of the countries under study (coupled with the low national income) indicate a still important role for traditional energy sources (fuelwood and charcoal, agricultural residues, and animal dung).
+Figure 3.1
+Figure 3.2
+Reliable statistical data on wood energy have been obtained only from household energy consumption surveys and wood energy studies. However, most of these surveys and studies are necessarily limited in scope both in terms of the area and type of information covered. Few household energy consumption surveys are national in scope and produce comprehensive detailed information. But national household energy consumption surveys could not be conducted on a more frequent or regular basis because of the time and money involved.
+Published national energy balance tables are also useful in getting an overall picture of the role of wood energy in national energy systems and in making cross-country comparisons. The latter, however, has to be done with a lot of caution because of differences in wood energy definitions and measurements among countries. For example, not all countries use the same energy unit and care should be exercised from converting from one unit to another because each country could be using different conversion factors. Some countries, moreover, may deliberately lump all biomass fuels under fuelwood because the other biomass fuels may be taking up a small portion of total energy. In addition, available data may not coincide in timing preventing more precise comparisons.
+Table 3.4: Energy Indicators
+Per Capita Energy
+Consumption (kgoe)
+Per Capita Electricity Consumption (kWh)
+Population access to
+electricity (%)
+Bangladesh
+Bhutan
+Cambodia
+China
+India
+Indonesia
+Lao PDR
+Malaysia
+Maldives
+Myanmar
+Nepal
+Pakistan
+Philippines
+Sri Lanka
+Thailand
+Vietnam
+Source: ADB (1994)
+Household energy consumption surveys that are national in scope have been conducted for India (NCAER, 1979), Pakistan (UNDP, 1993), and the Philippines (UNDP, 1992).
+India. According to the survey conducted in India in 1978-79, biomass fuels accounted for 97% of rural household energy use. Of this, fuelwood contributed 42%. It is estimated that after more than 15 years, with the expected increase in total energy consumption, the share of fuelwood in total biomass energy consumption may have actually increased with the likely decline in contributions from agricultural residues and animal dung (Natarajan, 1995). More recent survey (on the use of improved cookstoves, NCAER , 1993) shows that the share of biomass fuels in rural households energy consumption has declined to 94%, but that of fuelwood has increased to 47% (see Figure 3.3). The consumption of fuelwood rose to 130 million tonnes (mt) in 1992-93 from 80 mt in 1978-79. Similarly, total rural energy consumption climbed to 3,499 from 2,368 petajoules (PJ).
+It was also found out that the proportion of households using firewood logs increased to about 56% from 35%, while those using firewood twigs slightly declined to 63% from 68% (Figure 3.4).
+While total fuelwood consumption in rural areas increased both in relative and absolute terms, urban fuelwood consumption declined from 16.5 million tonnes in 1978-79 to 9.5 million tonnes in 1985. The decrease is explained by the shift to modern fuels, in particular LPG and kerosene, which had steady growth in sales during this period.
+Pakistan. The household energy consumption survey in Pakistan (UNDP, 1993) show that households accounted for 53%, equivalent to almost 994.2 petajoules (PJ), of total final energy consumption in 1991. Seventy-nine percent (79%) of all households used fuelwood which accounted for around 53% of total household energy use (Table 3.5). All biomass fuels contributed a total of 86%. The average annual fuelwood consumption per household was estimated at 2,324.4 kilograms (kg).
+Figure 3.3
+Rural Household Energy Consumption in India
+Note: "Others" include coal/softcoke, kerosene, and other unspecified fuels. Coal and kerosene are converted to PJ from physical units, while the other unspecified fuels which are expressed in tons of coal replacement are converted to PJ using the conversion factor for hard coal.
+Source of basic data: Natarajan (1995)
+Figure 3.4
+Charcoal was used by only 9.2% of households in Pakistan and accounted for less than one percent of total household energy consumption.
+The contribution of fuelwood in rural household energy consumption at 58% was significantly higher than in urban areas where the figure dropped to 38%. Around 30% of household energy requirements in urban Pakistan were met by natural gas. In rural areas, animal dung and agricultural residues accounted for 37% of household energy consumption.
+Philippines. Based on a similar survey conducted in 1989 (UNDP, 1992), fuelwood and charcoal accounted for 68% and 11%, respectively, of total household fuel consumption in the Philippines that was just half that of Pakistan, or 497.7 PJ (Table 3.6).
+The share of fuelwood in household energy consumption was higher in rural areas (82%) which accounted for 72% of total household energy consumption.
+Table 3.5: Pakistan Household Energy Consumption by Fuel and by Area
+(in PJ)
+Urban
+Rural
+Pakistan
+Firewood
+Dung
+Crop Residues
+Charcoal
+Subtotal Biofuels
+Natural Gas
+Electricity
+Kerosene
+LPG
+Subtotal Modern
+Total
+Note: Sum may not add up to totals due to rounding off.
+Source of basic data: Ouerghi and Heaps (1993)
+Table 3.7 also shows the proportion of households using each fuel. The data indicate that most households were using more than one type of fuel, particularly electricity, kerosene, fuelwood, and, to some extent, crop residues. Data also show that kerosene and electricity were the closest substitutes of fuelwood nationwide. In fact, in rural areas almost the same number of households was using kerosene and fuelwood. In urban areas, most households were using electricity, kerosene, and LPG.
+Table 3.6: Estimated Household Fuel Consumption, 1989, Philippines
+Electricity
+(GWH)
+LPG
+(`000 tons)
+Kerosene
+(`000 m3)
+Charcoal
+(`000 tons)
+Fuelwood
+(`000 tons)
+Crop Residues
+(`000 tons)
+MBFOE
+NCR
+Other Urban
+All Urban
+Rural
+Philippines
+Original Units
+MBFOE
+Terajoules
+MBFOE (%)
+Source: UNDP (1992)
+Table 3.7: Percent of Households Using Each Fuel, Philippines
+Electricity
+LPG
+Kerosene
+Charcoal
+Fuelwood
+Crop
+Residues
+NCR
+Other Urban
+All Urban
+Rural
+Philippines
+Source: UNDP ( 1992), Annex
+Wood energy consumption data are also scattered in energy studies conducted mostly for or by national and international agencies. The results of some of these studies are as follows:
+* Cambodia's Ministry of Industry, Mines, and Energy compiled sources of energy information for the country and has come up with a comprehensive national energy statistics (MIME, 1996). According to this study, 92% of Cambodia's households use fuelwood (Table 3.9), so that fuelwood accounts for 83% of total final energy consumption.
+* Ramani et al. (1993) reveal that only 22% of total biomass fuels consumed by households in Bangladesh are fuelwood. Nevertheless, more than 80% of fuelwood consumed still go to households.
+* Down (1983), in a household energy consumption survey conducted for West Sumatra (Indonesia), shows that fuelwood supplies almost the entire cooking energy requirement in the area.
+* Fuelwood also provides almost all the energy for cooking in the households of Sri Lanka (MLFD, 1986).
+* A study made for Thailand shows that 92% of rural households energy needs are met by biomass fuels (Chantavorapap, 1993). An earlier study indicates that, of this, almost 60% are accounted for by fuelwood (FAO, 1986). Charcoal provides another 30%. Another study, however, shows that charcoal supplies up to 65% of rural household energy requirements, more than fuelwood (UNDP, 1989). In fact, this same study indicates that in all of Thailand, charcoal accounts for 57% of total household energy consumption.
+* The Ministry of Planning of Maldives estimates, based on the 1990 Census, that 93% of households in Atolls (rural Maldives) use fuelwood, mainly for cooking, while kerosene is the more popular fuel in Male (urban Maldives), used by 64% of urban households. Only 20% of the households in urban Maldives use fuelwood. Gas and electricity are also used to some extent.
+While the above-mentioned household energy consumption surveys and studies reveal many data gaps and lack of uniformity in the available information, some patterns can be observed:
+* Most households continue to rely on fuelwood particularly for cooking. The converse is also true: the bulk of fuelwood consumed go to households.
+* As can be expected, fuelwood has greater contribution to rural household energy consumption than in urban households. However, in countries like Bangladesh, rural households may rely to a large extent on traditional energy sources other than fuelwood. Agriculture residues take up the larger 78% of total biomass consumption in Bangladesh. This also explains why in relative terms more urban (57% of all households using fuelwood) than rural households use fuelwood. In addition, agriculture residues and animal dung contribute significantly to rural household energy consumption in India and Pakistan.
+* Non-household fuelwood consumption may also be significant, for example, in Bangladesh, Sri Lanka, Thailand, and Vietnam. In these countries, fuelwood (and other biofuels) are used extensively in agro-based industries, including crop drying, tobacco curing, preparation of animal feeds, and in small commercial establishments like bakeries and foodshops.
+Fuelwood appears in the national energy balance tables of all countries except China and India (see Table 3.8). The information derived from national energy balance tables give broad but reasonable indications as to the significance of fuelwood in meeting national energy requirements. To summarize, Table 3.8 shows that:
+* households continue to be the biggest energy consuming sector in many countries;
+* the contribution of fuelwood to total final energy consumption may vary over a wide range (from 1.5% to 85.3%) but its share in household energy consumption has remained well above 50% in many countries;
+* households account for the bulk of fuelwood consumption, but non-household fuelwood consumption could be significant in some countries; and
+* fuelwood accounts for a large portion of all biomass fuels consumed, but the share of agriculture residues and animal dung are also significant in some countries.
+<section>6</section>
+3.5 Wood energy consumption in households
+Fuelwood is used primarily for cooking, which accounts for at least 60% of enduse energy consumption of households. Additional information about some countries reveal other end-use applications of fuelwood.
+Cambodia. Statistics show that 92% of all households in Cambodia used firewood for cooking. The rest used charcoal, kerosene, or LPG. The proportion (of households using fuelwood) was higher in rural areas at 95.3%, while in urban areas, charcoal had become more popular and was used by 40% of households in Phnom Penh. In addition, in the rural areas, households was also using dung and agricultural residues (palm, straw, waste, paddy husk) for cooking and water heating together with or as a substitute for firewood.
+India. Cooking accounted for 62% of all urban household end-use energy consumption. Available data also show that this proportion increases for low income households, reaching, for example, 79% for households with annual income of only up to 500 rupees (Table 3.9). In contrast, data also show that household energy consumption for water heating, space cooling, and lighting increases with income. Additional data for urban households indicate that fuelwood provided 32% of energy requirements for cooking (Table 3.10). However, this was second only to LPG which contributed 47%. The contribution of fuelwood was more significant for water heating.
+Being the major energy end-use, cooking gets most of the fuel supplied to households. It accounted for almost 86% of fuelwood consumed in households. The remaining 14% were used for water heating (Table 3.11).
+Nepal. Data on biomass fuels consumption by type of end-use are also available for Nepal. It can be shown that, among the household end-use energy consumption met by biomass fuels, cooking accounted for 72% (see Table 3.12). End-use energy consumption also included animal feeding (16.4%), heating/cooling (3.8%), agro-processing (4.7%), and other applications (3.5%). On the other hand, 78% of cooking energy needs were met by fuelwood. Corollarily, 75% of total fuelwood consumption went to cooking alone. Animal feeding took up another 15%.
+Pakistan. Cooking accounted for 78.5% of household end-use energy consumption in Pakistan. The other household end-use applications were space heating (5.7%), water heating (7.5%), lighting (3.4%), and space cooling (1.6%). Woodfuels supplied 55% of energy used for cooking. Animal dung and crop residues shared 36%. The remaining 9% were provided by natural gas, LPG, and kerosene.
+Table 3.8: Summary Wood Energy Information from Energy Balance Tables
+Country
+Period for
+which tables
+are available
+Original
+Unit
+Woodfuels \1 in
+TFC \2 (percent)
+Biomass/
+Traditional
+fuels in TFC
+(percent)
+Contribution
+of Woodfuels
+in HH \3 Final
+Energy
+Consumption
+(percent)
+Share of
+HH in
+TFC
+(percent)
+Proportion of
+Fuelwood
+Supply Going
+to HH (percent)
+Fuelwood
+Supply
+(PJ)
+Total
+Final
+Energy
+Consumption
+(PJ)
+Sources
+Bangladesh \4
+ktons
+n.a.
+n.a.
+n.a.
+n.a.
+n.a.
+n.a.
+Zaki (1994)
+Bhutan
+TJ
+Danida (1991)
+Cambodia
+TJ
+MIME (1996)
+China
+n.a.
+n.a.
+n.a.
+n.a.
+n.a.
+n.a.
+n.a.
+n.a.
+n.a.
+India \5
+n.a.
+n.a.
+n.a.
+n.a.
+n.a.
+n.a.
+n.a.
+n.a.
+n.a.
+Indonesia
+KTOE
+AEEMTRC (1993)
+Lao PDR
+KTOE
+UNDP (1992)
+Malaysia
+KTOE
+AEMMTRC (1993)
+Maldives
+KTOE
+Abu-Alam and Hill (1993)
+Myanmar
+KTOE
+UNDP (1992) and DOE
+Nepal
+TJ
+WECS (1994)
+Pakistan
+KTOE
+Energy Wing (1995)
+Philippines
+KTOE
+AEEMTRC (1993)
+Sri Lanka
+KTOE
+CEB (various years)
+Thailand
+KTOE
+DEDP (various years)
+Vietnam
+PJ
+FAO (1992)
+Notes:
+n.a. means no data available
+\1 Fuelwood and charcoal
+\2 Total final energy consumption
+\3 Household
+\4 Commodity accounts
+\5 The available energy balance tables for India do not include traditional fuels.
+Table 3.9: End-use Energy Consumption by Income Categories, India
+(in percent)
+Annual
+Household Income
+(Rs)
+Cooking
+Water
+heating
+Space
+Heating
+Space
+Cooling
+Lighting
+Others
+Up to 500
+above 6000
+All Categories
+Source: TERI (1995)
+Table 3.10: Share of Each Fuel for Different End-use in Urban Households, India
+(in percent)
+Fuel
+Cooking
+Water
+Heating
+Lighting
+Space
+Heating
+Space
+Cooling
+Others
+LPG
+Kerosene
+Soft Coke
+Firewood
+Dung
+Electricity
+Total
+Source: TERI (1995)
+Table 3.11: Share of End-use in Urban Households Fuel Consumption, India
+(in percent)
+Fuel
+Cooking
+Water
+Heating
+Lighting
+Space
+Heating
+Space
+Cooling
+Others
+Total
+LPG
+Kerosene
+Soft Coke
+Firewood
+Dung
+Electricity
+Source: TERI (1995)
+Table 3.12: Biomass Consumption by End-use, Nepal (1992/93)
+(in PJ)
+End-use
+Fuelwood
+Agricultural Residues
+Animal Waste
+Total
+Cooking
+Animal feeding
+Heating/cooling
+Agro-processing
+Other
+Total
+Source of basic data: WECS (1995)
+While 80% of energy from fuelwood and charcoal were spent in cooking, the remaining 20% were used for water heating (9.9%), space heating (8.0%), and others (1.9%).
+In addition, the HESS also shows that of the possible multiple end-use of fuelwood, 54.5% were accounted for by cooking only. Cooking, space and water heating combined accounted for 20.6%, while almost the same proportion (19.8%) was shared by the combination of cooking and water heating.
+Philippines. Cooking and water heating accounted for 90% of the end-use energy in households. The HECS survey in 1989 showed that while less than 6% of electricity consumed in the residential sector was used for cooking, more than one-third of kerosene, three-fourths of charcoal, and nearly all of LPG, fuelwood and crop residues used by households went to cooking. In fact, fuelwood provided 58% of the energy expended for cooking nationwide and 76% and 29% of those in the rural and urban areas, respectively.
+Thailand. It is estimated that in 1990 cooking accounted for 76% of energy end-use in rural households (Chantavorapap, 1993). On the other hand, biomass fuels provided 97% of total cooking energy requirements. An earlier study places a higher estimate of 83% as the energy consumed in cooking by rural households, but gives a slightly lower estimate of 75% for all of Thailand's households (urban and rural) (UNDP, 1989). The latter study also provides estimates on end-use consumption by income level (see Table 3.13). Data shows that the share of cooking in household energy consumption tends to decrease with higher income level, for example, declining from 87% at "very low" income level to 46% at "high" income level. The same can be said of fuelwood consumption, whose share in household energy consumption dropped from 20% at very low income level to barely 2% at high income level.
+<section>7</section>
+3.6 Wood energy consumption in rural industries and
+commercial/public applications
+The previous section shows that most fuelwood are consumed in households. But non-household consumption of fuelwood could also be significant. The available national energy balance tables indicate that 10-20% of fuelwood consumed went to non-household activities in Bhutan, Sri Lanka, Thailand, and Vietnam. Studies show that non-households fuelwood consumption is also significant in Bangladesh and Maldives. Most of the non-household fuelwood consumption are in agro-based rural industries such as crop drying, tea processing, and tobacco curing. But fuelwood consumption is also significant in non-agro based industries, in particular the brick and ceramic industries. For example, Koopmans and Joseph (1993) report that annual fuelwood consumption in the brick industry in Asia ranges from 75,000 tons in Pakistan to 2 million tons in Bangladesh, equivalent to 2.3 and 94.9%, respectively, of the fuel consumption in of the brick industry in these two countries. To some extent
+fuelwood is also used in commercial application like in food stalls, bakeries, and restaurants. Fuelwood also finds applications in public institutions like the monasteries and the armed forces in Bhutan.
+Table 3.13: Household Energy Consumption by Income Level, Thailand (1986)
+(in PJ)
+Income Level
+Very Low
+Low
+Medium
+High
+Total
+Enduse
+Cooking
+Lighting
+Refrigerating
+Air-conditioning
+Others
+Fuel
+Fuelwood
+Charcoal
+Commercial
+Source of basic data: UN (1989)
+Bangladesh. Zaki (1994) shows that in 1991-92, out of the 7.2 million tons fuelwood consumed, two million tons went to the industrial sector and another 157 thousand tons, to the commercial sector. All in all, non-household sectors represented 31% of the total fuelwood consumption. Ramani et al. (1993), however, present a lower estimate of 21% (as the proportion of fuelwood going to non-households). It was also shown that 64.5% of total non-household fuelwood consumption (or 11.39 petajoules) in 1991 went to brickmaking alone. In addition, fuelwood was also used in tea processing, tobacco curing, baking, pottery, and soap making. Another 10% go to small food shops. (See Table 3.14.)
+Fuelwood, however, contributed less than 20% of biomass consumption in non-households. Higher contribution came from agricultural residues at around 65% of total biomass consumption in agro- and non-agro based industries including paddy parboiling and processing, sugar milling, tobacco curing, pottery, and lime making.
+Bhutan. FAO (1991) estimates that more than 920,000 tons of fuelwood are consumed in Bhutan every year. Of this, the household sector accounts for 88%. Agriculture and forestry activities account for 7.4%. Overall, non-household activities consume close to 106,000 tons of wood (in the form of firewood and waste woods) every year (Table 3.19). More than one-third of this volume are converted to charcoal and another 25% are used for cardamom drying. It was also estimated that the Bhutan armed forces use fuelwood significantly, amounting to around 10% of the fuelwood consumption every year. In addition, large quantities of fuelwood is also used monasteries, road construction, cremations, and boarding houses.
+Table 3.14: Estimated Consumption of Biomass Fuels in Industry,
+1981 and 1990, Bangladesh
+(in PJ)
+Fuelwood
+Bagasse
+Agriculture
+Residues
+Total
+Fuelwood
+Bagasse
+Agriculture
+Residues
+Total
+Agro-based
+industries
+Paddy parboiling
+Paddy processing
+Tea processing
+Sugar milling
+Sugar cane gur
+Palm gur
+Tobacco curing
+Baking
+Subtotal
+Nonagro-based industries
+Brick
+Pottery
+Soap
+Lime
+Others
+Subtotal
+Total
+Source: Ramani et al. (1993)
+Sri Lanka. CEB (1992) estimates that 8.6 million tons of fuelwood were consumed by the household sector in 1992. Agro- and small manufacturing industries, on the other hand, combined for 1.4 million tons in the same year. Fuelwood and other biomass fuels are used in coconut, rubber, tea, and tobacco processing as well as in bakeries, bricks and tiles manufacture, distilleries.
+In energy unit, fuelwood consumption in Sri Lanka reached 164.9 PJ in 1992. The household sector accounted for 83%, while the industry and commercial sectors, for 14% and 3%, respectively.
+Thailand. Biomass fuels accounted for 27% of total fuel consumption in the industry sector (DEDP, 1994). It consumed 163.9 PJ of biomass fuels in 1994 (this was almost equal to the total fuelwood consumption in Sri Lanka in 1992) that was about half of that consumed by the household and commercial sector in the same period, which amounted to 317.8 PJ. The share of fuelwood in industrial energy consumption was not even half that of bagasse which accounted for 19%.
+Vietnam. In Vietnam, biomass fuels was used in crops processing, food processing, preparation of animal feeds, and in mineral-based industries (see Table 3.15).
+Table 3.15: Non-household Biomass Energy Consumption, Vietnam
+(in tons)
+Fuelwood
+Agri Residues
+Total Biomass
+Crops processing
+Food processing
+Animal feeds
+Mineral-based industries
+Source: FAO (1992)
+3.7 Evolution of wood energy consumption
+Household energy consumption surveys and most wood energy studies oftentimes just provide a "snapshot" of national or local fuelwood situations. Because of the time and money involved in conducting these surveys and studies, they are seldom conducted regularly, and thus a consistent basis for assessing wood energy consumption over a certain period is difficult to find. Nevertheless, some studies do produce information about the evolution of wood energy consumption. Moreover, available national energy balance tables could provide some historical data on wood energy consumption at the national level.
+Bangladesh. Ramani et al. (1993) indicates that there was slight decline in biomass consumption in rural areas between 1981 and 1990 (Table 3.16). Together with this decline is the drop in the relative share of cooking end-use (or household energy consumption), from 71% of total to 66%. Fuelwood consumed for cooking, however, increased both in absolute and relative terms.
+Ramani et al. (1993) also compares biomass fuel consumption in agro- and non-agro based industries during the same 10-year period. Total biomass fuel consumption also decreased from 93 PJ to 90 PJ, with practically no change in the relative fuelwood (18%), bagasse (16%), and agriculture residues (66%) consumption (see also Table 3.14).
+Table 3.16: Energy Consumption by End-use in Rural Areas, Bangladesh
+End-use/Fuel
+PJ
+PJ
+Cooking
+Agriculture residues
+Fuelwood
+Animal Dung
+Industry
+Biomass
+Others
+Total
+Source: Ramani et al. (1993)
+China. Household energy consumption in rural China increased from 7,680.3 PJ in 1980 to 8,254.3 PJ in 1985 (Table 3.17). During this period, fuelwood consumption went down both in relative and absolute terms, from 3,041.9 PJ (equivalent to 39.6% of total household energy) to 2,849.2 PJ (34.5%). On the other hand, the absolute consumption of crop residues (agricultural by products) was up from 3,431.6 PJ to 3,616.0 PJ, but its relative contribution to the household energy mix dipped to 44% from 45%. This decrease in contributions from biomass fuels was offset by the higher contribution from coal.
+Table 3.17: Rural Household Energy Consumption, China
+PJ
+PJ
+Crop residues
+Firewood
+Coal
+Kerosene
+Electricity
+Total
+Source: Abbot (1990)
+India. Natarajan (1995) compares results from the household energy consumption survey in 1978-79 and the study to evaluate the National Programme on Improved Chulha in 1992-93. Over this 15-year period, energy consumption in rural households grew 1.5 times, from 2,368 to 3,499 PJ, or by nearly 3% per annum.
+During this period, the share of biomass fuels in the household energy mix declined from 97% to 94%. There were, however, changes in the relative shares of the different biomass fuels. The share of fuelwood increased to 47%% from 42%, while those of animal dung and crop wastes both went down by the same proportion (see Figure 3.3). It is also interesting to note that there were also mixed movements in the type of fuelwood, classified as logs and twigs, consumed. Despite the increase in total fuelwood share, that of twigs actually dropped to 26% from 31%, while logs share was almost doubled to 21% from 11%. In addition, the consumption of firewood logs increased as much as five times that of firewood twigs. This is coupled by similar trends in the number of households using and collecting biomass fuels. For example, the proportion of households using logs increased from 35% to 56%, while that using twigs declined from 68% to 63%. Similarly, the proportion of rural households
+collecting logs increased to 84% from 64%, while that collecting twigs slightly decline to 94% from 96%. This indicates that collecting twigs had become more difficult over time that people resorted to cutting or felling logs, thus increasing its consumption both in relative and absolute terms.
+Another study shows that firewood consumption in urban areas declined from 16.5 million tonnes in 1978-79 to about 9.5 million tonnes in 1985 because urban households shifted to using LPG (NCAER, 1985 in Natarajan, 1995).
+Myanmar. Household energy consumption in Myanmar increased from 236 PJ in 1985 to 272 PJ in 1992 (UNDP, 1993). During this period, the share of fuelwood increased slightly to 90% from 88%.
+Nepal. Household biomass consumption in Nepal increased from 203.4 PJ in 1984/85 to 252 PJ in 1993/94 (WECS, 1994). During this 10-year period, fuelwood share decreased from 77% to 74%. This decline was compensated by the increase in the share of agriculture residues from 13% to 17%. The share of animal dung dipped slightly from 10% to 9%.
+Non-household biomass fuel consumption grew faster from 2.04 to 4.83 PJ in the same period. In 1987/88, industries began using agriculture residues such that its share was up to 7% in 1993/94. Fuelwood accounted for the remaining biomass fuel consumption.
+Sri Lanka. Based on the available energy balance tables of Sri Lanka (CEB, various years) fuelwood consumption in this country had actually declined from 189.2 PJ in 1989 to 164.9 PJ in 1992, or by 13% over this three-year period. Both the fuelwood consumption of the household and industry sectors decreased, but the share of households was down slightly from 84% to 83%, while the latter's remained at around 14%. The balance is accounted for by the commercial sectors which tripled its fuelwood consumption from 1.53 to 4.62 PJ.
+Thailand. Fuelwood had been the dominant household fuels up to the late 1980's, when it was overtaken by the commercial fuels and later by charcoal. Fuelwood consumption in the residential and commercial sector grew from 107.9 PJ in 1985 to 131 PJ in 1994. Charcoal consumption, on the other hand, more than doubled from 82.8 to 186.8 PJ. Thus, by 1994 charcoal was the dominant fuel, accounting for 38%, even slightly higher than the 35% share of commercial fuels.
+During this period also, fuelwood consumption of industry dropped from 50.5 to 32.5 PJ. There was a decline in paddy husk consumption, from 24.6 to 18.8 PJ. But the consumption of bagasse more than doubled from 51.1 to 111.7 PJ.
+Vietnam. Fuelwood consumption in Vietnam increased from 87.7 PJ in 1985 to 100.4 PJ in 1990 (Hung, 1993).
+Table 3.18 summarizes the evolution of fuelwood consumption for the above-mentioned countries. Though data is wanting, it broadly indicates that fuelwood consumption in households was generally increasing over time.
+Table 3.18: Evolution of Fuelwood Consumption in Selected Asian Countries
+(in PJ)
+Country
+Period
+Households
+Non-households
+beg period
+end period
+GR, %
+beg period
+end period
+GR, %
+Bangladesh ^1
+China ^2
+India ^3
+Myanmar
+Nepal ^4
+Sri Lanka
+Thailand ^5
+Vietnam ^6
+1 Only for rural households, but total non-households.
+2 Only for rural households.
+3 Only for rural households.
+4 Non-households figures refer to all biomass fuels consumption, of which fuelwood accounted for more than 90%.
+5 Households include commercial sector.
+6 Total fuelwood.
+<section>8</section>
+3.8 Rural and urban wood energy consumption
+The preceding sections tell many things about wood energy consumption in the countries under study. One of the most important that is common to all of these countries is that rural and urban woodfuel consumption have distinct patterns. Specifically, available data indicate or explain the following distinguishing characteristics between rural and urban fuelwood:
+* Fuelwood consumption tend to be higher in rural areas, with more households in rural areas using fuelwood.
+* Fuelwood tends to be the dominant fuel for rural household energy end use, particularly cooking. In urban areas, fuelwood competes with other fuels and might not play the dominant role.
+* Cooking takes up a big portion of rural household end use energy consumption. In urban areas, other end use energy consumption can be significant.
+* Household income determines fuelwood and total energy consumption to a large extent, but the pattern or degree of influence is distinct for rural and urban areas. For example, the shift to modern fuels with increasing income is more pronounced in urban areas.
+The rural areas account for the bigger portion of total fuelwood consumption. In Pakistan, for example, the rural fuelwood consumption exceeded urban fuelwood consumption by a factor of more than five, equivalent to 84% of total fuelwood consumption. The Philippines has a slightly lower figure at 82%.
+Corollarily, more households in rural areas are using fuelwood. In the Philippines, 86% of rural households was using fuelwood in combination with other fuels, particularly kerosene, while only 37% of urban households used fuelwood. In Cambodia, 95% of rural households rely on fuelwood, while 89% of households in urban areas outside Phnom Penh use fuelwood. In Phnom Penh, only 54% use fuelwood because many households use charcoal. In Pakistan and Maldives, the proportion of rural households using fuelwood is also more than 90%.
+The only exception perhaps to this trend is Bangladesh. Data from Ramani et al. (1993) reveal that in Bangladesh fuelwood is actually slightly more important for urban than rural households. Urban households account for 57% of total household fuelwood consumption, while rural fuelwood, for 43%. The reason is that rural households in Bangladesh rely primarily on agriculture residues and animal dung, which account for 66% and 22%, respectively of total biomass consumption in rural households. Fuelwood, on the other hand, accounts for 65% of biomass consumption in urban households.
+Fuelwood, therefore, tends to be the dominant fuel in rural areas and is primarily used for cooking. In the rural areas of both Pakistan and India, for example, fuelwood accounted for close to 60% of household energy use. Fuelwood certainly is the dominant fuel in rural Philippines, in which the share of fuelwood in household energy consumption nationwide was placed at nearly 70%. However, in the case of the Philippines and in terms of the number of households, this dominant role was shared with kerosene, as almost the same number of rural households were using kerosene and fuelwood. And there are other exceptions. It is already clear that this general is not the case for Bangladesh where agricultural residues took up more than 60% of household energy consumption. The same is true for China where fuelwood accounted for less than 35% of rural household energy consumption, while crop residues was responsible for more than 40%.
+In urban areas, fuelwood competes with mostly modern fuels. In the Philippines, for example, more urban households are using electricity, kerosene, and LPG, although the combined share of these three alternative fuels in total household energy consumption nationwide was less than 20%. In Phnom Penh, fuelwood would still be the dominant fuel but share of charcoal has become significant. The same can be said of urban Pakistan in which natural gas accounted for 30% of household energy consumption, while fuelwood's share remained at around 38%. In urban India, fuelwood was only second to LPG whose share in cooking was 47%, while fuelwood was 32%.
+It is also observed that cooking accounts for the bulk of household end-use energy consumption in general and more particularly in rural areas. For example, in Thailand, cooking accounted for more than 75% of all household energy end use in 1986. In addition, more than 70% of total biomass fuel consumption in Nepal went to cooking alone in 1992/93.
+In urban areas, cooking may still be the number one energy end use, but other end use applications are expected to be significant. In the case of urban India, for example, cooking on the average accounts for 62% of urban household energy consumption, but water heating, space cooling, and lighting are also significant.
+The last point about rural and urban fuelwood consumption is also illustrated with data for India. As shown in Table 3.19, increasing income tends to decrease the share of fuelwood in total household energy consumption, whether in rural or urban areas. The tendency, however, is more pronounced in urban areas. The share of fuelwood in rural household energy consumption decreased from 61% to 49%, while in urban areas the decrease was from 55% to 14%.
+Table 3.19: Share of Fuels in Urban and Rural Household Energy by Income, India
+(in percent)
+Fuel
+Annual Household Income (Rupees)
+Up to 3000
+18000 and above
+Average
+Rural
+Soft Coke
+Kerosene
+Electricity
+Firewood
+Crop Residues
+Dung Cake
+Commercial
+Non-commercial
+Urban
+Soft Coke
+Kerosene
+Electricity
+LPG
+Firewood
+Crop Residues
+Dung Cake
+Charcoal
+Commercial
+Non-commercial
+Source: TERI (1995)
+3.9 Woodfuel flow
+The contrasting characteristics between rural and urban fuelwood consumption also determine how fuelwood supplies reach the final energy consumers. In rural areas, fuelwood is not usually a commodity that is traded as in urban areas. Available data show that in most cases, fuelwood in rural areas are collected freely from the local environment, while most, if not all, urban households buy fuelwood and charcoal from traders and retailers. However, there are indirect costs associated with acquisition and use of fuelwood in rural areas. These costs are linked to the accessibility of fuelwood sources. Rural households, in particular women and children, in many cases spend considerable time and travel great distances to collect fuelwood. In urban areas, woodfuels are commodities that compete with other fuels to satisfy household energy needs. Moreover, there is stronger tendency for urban fuel use to increase, diversify, and switch from fuelwood and charcoal to commercial fuels
+(for example, LPG and kerosene). Thus, fuel consumption patterns in urban areas may be changing more rapidly than in rural areas.
+In this context, woodfuel flow is about rural/urban trading network existing in relation to woodfuel use in urban areas and the fuelwood collection practices in the rural areas. In both cases, information about the actors involved, in particular their socio-economic status, volume and types of woodfuel traded or collected, sources of fuelwood, are important. For urban fuelwood, information should include distribution, trading and pricing practices, including the prices of alternative fuels.
+Information about rural/urban trading network are important because the associated activities constitute one major source of income particularly for the rural people, as fuelwood in urban areas come from rural areas. On the other hand, information on fuelwood collection practices in rural areas, coupled with a knowledge of fuelwood sources, address the issue of accessibility and the (indirect) costs associated with fuelwood collection. In urban areas, moreover, fuelwood prices are affected by distribution, trading and pricing practices.
+Data from woodfuel flow studies confirm the fact that rural households in general collect fuelwood, while urban households buy them. Data for the Philippines, for example show that 85% of the fuelwood consumed in the rural areas, which account for 82% of total fuelwood consumption, are collected (Figure 3.5). At the same time, 53% of urban fuelwood consumption are purchased. The data available for Pakistan illustrate better the point. Here at least 84% of the urban households buy fuelwood, while at least 61% of the rural households collect fuelwood (Table 3.20). The same set of data for Pakistan show that income influence to a large extent whether fuelwood are collected or purchased. In both the rural and urban households, it is shown that as income increases the number of households buying fuelwood also increases, while those collecting fuelwood decreases. In Sri Lanka, 19% of the rich income class purchase fuelwood, while only 6% of the poor are able to do so (Figure 3.6).
+(In Sri Lanka, however, more households are collecting than buying fuelwood, regardless of income class.)
+Figure 3.5
+Figure 3.6
+Table 3.20: Sources of Firewood for Urban and Rural Households by Income Class, Pakistan
+(in percent)
+Rural
+Low
+Medium
+High
+Total
+Buy only
+Collect only
+Buy and Collect
+Urban
+Low
+Medium
+High
+Total
+Buy only
+Collect only
+Buy and Collect
+Source: Ouerghi and Heaps (1993)
+Moreover, woodfuel flow studies provide information about opportunity cost associated with fuelwood collection. It is shown, for example, for Pakistan that this tends to be higher in rural areas because of the greater time and distance involved.
+Woodfuel flow studies also reveal the main actors in the fuelwood supply and demand chain. The main agents in fuelwood collection, for instance, could vary with respect to land ownership. The data for Bangladesh show that women and children are the main actors involved in collecting fuelwood (see Figure 3.7). The extent of their involvement depend on the income class as indicated by land ownership. The landless class, therefore belonging to the lowest income level, employs more women and children, while the big farmer class, with presumably higher income, employs more hired labor in fuelwood collection.
+Figure 3.7
+3.10 Woodfuel supply
+Fuelwood is sourced from forest and agricultural lands. Table 3.21 shows the extent of forest and agricultural lands in the RWEDP member countries and indicate the varying resource endowments of the countries in the region. Both Bangladesh and Pakistan have less than 10% forest cover, but Bangladesh has 60% of its land area devoted to agriculture while Pakistan only has one-third of this. Both China and India, the largest countries in the region, have not as much forest cover as the rest of the countries in the region, but have sizeable agricultural lands (more than 50%). Of the remaining countries, only Philippines and Thailand have more than 40% agricultural lands, but their forest cover is less than 30%. Bhutan, Cambodia, Indonesia, Lao, Malaysia, and Myanmar have large forest areas, but have the smallest proportion of agricultural lands. Thus, it seems that there is an inverse relationship between the size of forest and agricultural lands, indicating, as it were, the
+competing land uses (e.g. in certain areas forests are "burned" to pave the way to farming).
+Forests have been the traditional sources of firewood and wood for making charcoal. Indeed, there is some positive correlation between the share of fuelwood in total final consumption and the extent of forest lands. Countries with high fuelwood consumption in proportion to total energy consumption are also those that have high share of forest land areas. And at one time, fuelwood collection was blamed as the major cause of deforestation until further investigations have shown that changing land uses (i.e. conversion of forests into farm and grazing lands) has caused deforestation more than any other factors and that situations vary greatly from one area to another.
+However, later studies also show that more and more fuelwood are being collected from non-forest lands. India, Pakistan, and the Philippines are three cases.
+India. In 1978-79, as many rural households were collecting fuelwood from forests as from own farms. But, in a span of about 15 years, the proportion of households collecting fuelwood from forests decreased considerably, from 35% in 1978-79 to 17% in 1992-93, while that collecting from own farms increased to almost half of the total number of rural households. This decline in fuelwood collection from forests was mainly due, though, to the policy of the Indian government banning felling of trees from forests.
+Table 3.21: Extent of Agricultural and Forest Lands in the RWEDP Member Countries
+Total Land Area, sq km.
+Share of Agricultural Lands, %
+Share of Forest Lands, %
+Bangladesh
+Bhutan
+Cambodia
+China
+9.6 million
+India
+3.05 million
+Indonesia
+1.93 million
+n.a.
+Lao PDR
+Malaysia
+n.a.
+Maldives
+n.a.
+n.a.
+Myanmar
+Nepal
+Pakistan
+Philippines
+Sri Lanka
+Thailand
+Vietnam
+Source: CEERD Database; FAO (1993)
+Pakistan. The HESS survey shows that 40% of sampled households in Pakistan collect fuelwood from private lands and another 32%, from own lands. Only 13% are collecting from state forest lands.
+However, these national figures have to be interpreted with caution else one may be misled to think that forests have become an unimportant source of fuelwood. Information at subnational levels should give a more accurate picture. It is shown for Pakistan that more households than the national average are collecting from state forest lands in three of the four provinces of Pakistan, where the extent of forest areas is greater (Table 3.22). In the other province, where forest lands are limited, households naturally go to places where trees are available. Moreover, forest lands account for only less than three percent of Pakistan's total land area, thus limiting the forests' contribution to total fuelwood supply. India, with 17% forest cover, also does not really have large forest area compared to most countries in the region. Thus, fuelwood collection practices are also dictated to a large extent by the availability of trees.
+Table 3.22: Sources of Collected Firewood, Pakistan
+(in percent)
+Punjab
+Sindh
+NWFP
+Baluchistan
+Pakistan
+Own land
+Other private land
+Common land
+State forest land
+Other (waste wood, etc.)
+Total
+Source: Ouerghi and Heaps (1993)
+Philippines. The HESS survey estimated that 85% of both urban and rural fuelwood came from trees outside the forests. For urban areas, only 30% of fuelwood supply came from forest areas.
+The study concluded that at the national level the biomass resource in the Philippines "appears to be sustainable in the foreseeable future" as yield exceeded demand by a factor of three. However, the study has also identified certain areas which showed signs of pressure on the biomass resource and thus needed attention with respect to the ways biomass resources were managed and used.
+What should be stressed here is that forests are still an important source of fuelwood. Fuelwood production and collection practices and trends in woodfuel use will have important implications on the sustainability of forest resources. The converse is also true. The availability of trees in the forests will have significant implications on the sustainability of fuelwood demand and supply if fuelwood continues to be a key energy source for many households.
+<section>9</section>
+Chapter 4:
+The Future Role of Wood Energy
+4.1 Introduction
+The previous chapter shows that fuelwood contributes up to more than 90% of the energy requirements of households in the RWEDP member-countries. This situation is heightened by the fact that households account for more than 50% of these countries total final energy consumption.
+This situation is not expected to change significantly even in the long term as many of these countries, though struggling to advance, are still at the bottom of the development ladder. In other words, woodfuels will in the future continue to be a key household energy source. It can be said safely, however, that with steady economic growth, the contribution of woodfuels (and traditional energy sources for that matter) will follow a downward trend even if slight.
+Yet, several interrelated factors influence the extent of the future role of wood energy. These factors are at the national level (macro factors) and at the level of the specific locality or household (micro factors). The macro factors include economic performance, population growth and rate of urbanization, technological advancement, environment/health concerns, and gender issues. The first three of these factors have been the key determinants of energy demand patterns at the national level. The growing concern about the environment and health impacts associated with energy use has also influenced the choice of fuels or energy sources at the policy level. National energy policy is now oriented towards the use of cleaner fuels or, otherwise, minimizing the negative impacts of using dirty ones. Alongside the concern for the environment, gender issues have taken a prominent place in energy development because women have been found to play a crucial role in households energy
+decision-making, particularly in developing countries where households comprises a huge portion of final energy consumption.
+The macro factors influence household energy consumption patterns at the aggregate level and indirectly. The direct determinants of household energy consumption patterns are found precisely at the level of the households. An examination of household energy consumption surveys shows that energy use and the choice of fuels in the households depend on most or all of the following interrelated variable (Leach and Gowen, 1987):
+Supply variables
+* price and availability (of commercial fuels);
+* less easily defined measures of abundance or scarcity, especially the time and effort: devoted to fuel gathering and fuel use; access to fuels by different groups; seasonal variation in supply; and cultural and socio-economic factors, such as gender differences over decision-making and divisions of labor;
+* the availability of and competition between substitutes for fuel and non-fuel uses of biomass (e.g. animal fodder, constuction materials, timber for sale, small wood for tools, etc. and soil conditioners for fertilizers);
+* fuel preferences (between traditional fuels, and traditional fuels versus modern fuels); and
+* urban, peri-urban or rural location (i.e. settlement size and proximity to large towns or cities).
+Demand variables
+* household income;
+* household size;
+* temperature and precipitation (for space heating and drying needs);
+* cultural factors (diet, cooking and lighting habits, number of meals, feasts and burial rituals); and
+* cost and performance of end-use device.
+These variables had been gathered from a "cross-section" of sample surveys and the analysis attempted to establish the relationships between these variables and household energy consumption at some point in time. Over time for a particular household, these relationships will still be true but some of the identified demand variables would not be a critical determinant of the energy consumption pattern. Temperature, precipitation and cultural factors are not expected really to vary over time, except for the seasonal variations during the year. It is true, however, that these two factors will vary from one place to another. Household size has been observed to be sometimes a more important determinant of household energy consumption than income. This factor has been shown to be responsible for the higher total energy consumption in high income households. In other words, high income has been associated with more family members (more people contributing to household income), thus
+increasing total household consumption. However, this relationship was observed from a cross-section of households. Over time, for a particular household, there will be a limit to the number of family members even if income could still grow. That is, the number of family members cannot always increase with income. Thus, among the demand variables, only household income and cost and performance of end-use devices could vary significantly over time and so influence future wood energy use in households.
+The micro factors are very much interrelated and influenced by the macro factors. For example, the level of household income influences fuel preferences and to some extent depends on the country's level of economic growth (taking into account equity). Technological advancement influence the cost and performance of end-use devices and even the availability and affordability of fuels. Population growth exerts pressure on fuelwood supply and therefore determines to some extent scarcity even if experts agree that there are a host of factors affecting scarcity. Fuel preference is an important variable in urban energy use, given that urban households are offered an array of fuel choices and can in fact afford to choose among competing fuels.
+4.2 Macro factors affecting wood energy consumption
+4.2.1 Economic Performance
+The level and structure of energy demand is affected by economic performance. High energy consumption is associated with higher income. High income countries consume more modern than traditional fuels. In these countries, households take a smaller portion of total energy consumed than transport, industries, and services. In contrast, households take a substantial portion of the total final energy consumed in low income developing countries. These countries, moreover, rely on traditional fuels, of which woodfuels play a more prominent role.
+Wood energy consumption, therefore, is related to economic performance. As shown in Figure 4.1, the contribution of fuelwood to total final energy consumption tends to be higher in the low income countries. This is exemplified by Cambodia, Bhutan, Lao, Myanmar, Nepal, and Vietnam. Corrolarily, the numbers also indicate that dependence on wood energy tends to decrease with higher level of economic development. The economies of Malaysia and Thailand illustrate this point.
+Figure 4.1
+However, there are exceptions because wood energy use also depends on the availability or supply of fuelwood (resource endowment). Pakistan, for example, has a per capita income comparable to Bhutan, but the contribution of fuelwood to total final energy consumption in Pakistan (27%) is less than a third of that in Bhutan (85%). In Pakistan, substantial energy contributions come from the other biomass fuels (animal dung and crop residues). This is partly due to the fact that Pakistan's forests (and agricultural resources) are not as rich compared to those of other countries in the region. Bhutan, for example, has close to 60% forest cover, while Pakistan's is not even 3% (Figure 4.2).
+Figure 4.2
+That fuelwood consumption is substantial in low income countries is also explained by the fact that in these countries households, where most fuelwood go, account for the bulk of total final sectoral energy mix (see Figures 4.3 and 4.4).
+Figure 4.3
+Figure 4.4
+The implication of the above trend on wood energy share to the total final consumption is fairly straigthforward. Even if the share of fuelwood to total household energy consumption remains constant, fuelwood share in the total final energy consumption would decline with improving economic performance as households take a smaller portion of the final sectoral energy mix. But fuelwood share in households remaining constant is unimaginable at the aggregate level because households will shift their preference to modern fuels with higher income. Thus, as income increases, fuelwood share to total household energy consumption will tend to decline and its contribution to total final energy consumption will tend to go down by a larger proportion.
+Yet, these relationships are only true at the aggregate level. The gross measures of economic performance (i.e. GNP per capita, GDP growth rate) are averages and do not reflect properly household income. The picture could change tremendously if income distribution is taken into account. In an earlier section, it was shown that more than 40% of household income go only to the top 20% households, while the bottom 20% households get only less than 10% of income. Data show that during the last 20 years or so, income distribution in the RWEDP member countries has not improved significantly. It has in fact deteriorated in Thailand and Malaysia (Figure 4.5).
+Figure 4.5
+What has this to do with wood energy consumption? Even if in the aggregate, per capita income improves and economies attain high level of growth in output, poor income distribution will exert a downward pressure on improving economic performance. Many people will continue to be poor. In other words, many people will continue to rely on fuelwood and traditional fuels because they just could not afford to shift to modern fuels even if these are available. This also indicates that disaggregate information, for example, household income are needed if more precise assessment of the future role of wood energy is to be made.
+4.2.2 Population Growth and Urbanization
+Increasing energy consumption is associated with population growth. For example, Figure 4.6 shows the population of China increasing from 916 million in 1975 to 1.2 billion in 1994. On the other hand, during this period, per capita energy consumption in China jumped from 342 kgoe to 647 kgoe (Figure 4.7). That is, while China's population was growing by 1.39% per annum, its per capita energy consumption was increasing at an average annual rate of 3.41%.
+Figure 4.6
+Figure 4.7
+Urbanization is basically the growth in urban population, which always tends to be higher than total population growth. The urban areas attract people from the rural areas because of generally better income opportunities and higher standard of living that comes with higher income. In eight RWEDP member countries, urban population is growing at least twice faster than total population (Figure 4.8). Despite this trend, urban population comprises only at most one-third of the total population in these countries (Figure 4.9).
+Figure 4.8
+Figure 4.9
+The urbanization process has important implications on household energy consumption patterns in general and wood energy use in particular. Urban households energy consumption operates in a formal market, in which fuels are commodities that are traded and bought and compete with substitutes. In this situation, price is not the only factor influencing consumer behavior, the decision to buy or choose a particular fuel. Urban households will have strong preference for cleaner, more convenient, and more efficient fuels even if fuelwood remains as the cheapest option.
+In any case, population growth could also mean increased competition for available resources, especially if the supply of these resources is not adequate nor increasing at least proportionately with demand. In most cases, however, the problem is equitable distribution of resources. The poor have always had limited access to resources. Population growth, therefore, would not only mean increased wood energy consumption in absolute terms but also increased pressure on the availability of fuelwood in areas where fuelwood supply is not abundant. But, the tendency to place the entire blame on population growth for fuelwood shortages is not at all correct because, many authorities on the subject agree, there are many other interrelated and complex issues which are not easy to pinpoint causing these shortages.
+Nevertheless, a growing population will contribute to continued reliance on wood energy and other traditional fuels until people can afford to shift to modern fuels. This could be the case for many of the developing countries in Asia which have relatively high forecasted population growth (see Figure 4.10). The relative contribution of fuelwood, however, would decrease if supply, in the aggregate, become scarce which would lead people to turn to other biomass fuels. Localized fuelwood shortage, on the other hand, would increase the cost to people of securing fuelwood by increasing the time and effort for collecting the fuel from other areas or by shifting to available but more expensive commercial fuels.
+Figure 4.10
+4.2.3 Technological Advancement
+A third important determinant of energy demand at the macro level is technological advancement. An indication of this factor is energy intensity. In particular, technological advancement is responsible for the declining energy intensity observed especially in developed countries. Energy intensity, which measures energy consumption per unit value of economic output, tends to decrease over time indicating higher efficiency in energy use, because less energy is needed to produce the same unit value of economic output.
+Technological advancement and decreasing energy intensity are associated with higher income levels. Thus, the trend is readily observed in high income countries which have reached the saturation point in terms of energy consumption. In developing countries, in which energy consumption tends to grow fast because there is just more than enough room for this growth, energy intensity will tend to increase because the change in energy consumption tends to be proportionately higher with higher income.
+Increasing energy intensity is, therefore, observed in the RWEDP member countries (Figure 4.11). This is true even for the more developed countries (compared to the others) of Malaysia and Thailand. However, it can be noticed that the increase in energy intensity in these two countries is much slower than the rest, indicating, most likely, gains in energy efficiency and maybe to some extent technological advancement.
+Figure 4.11
+It is also no coincidence that the shares of fuelwood in total final energy consumption in Malaysia and Thailand are less than 10%, the lowest among the other countries under study. These countries have had better access to the more energy efficient modern fuels and at the same time can afford to use them.
+4.2.4 Environmental/Health Concerns
+Woodfuel consumption has both positive and negative environmental impacts. The positive impact comes from planting more trees in forests (to replace old grown or cut trees) and non-forest lands, particularly plantations dedicated to supply fuelwood. Forest and trees as source of fuel are said to be carbon neutral because the same amount of carbon is emitted during combustion and absorbed by trees while they grow. If growth pattern exceeds use and decay, then trees serve as carbon sink, absorbing more carbon than what is released to the atmosphere. In fact, the presence of plants (in general and including trees) provides the natural balance of carbon dioxide in the environment (ignoring for the moment the carbon emissions from other man-made sources such as industrial and power plants). It is only when this balance is disturbed by man's excessive use of trees that environmental problem arises.
+Aside from this, trees have other ecological benefits. Trees conserve soil, preserve soil nutrients, and safeguards watersheds and biodiversity (FAO, 1995).
+However, woodfuel consumption itself has been shown to have significant negative environmental and health effects. Burning woodfuel causes a number of solid, liquid, and gaseous substances to be emitted into the environment. The gases emitted are a mixture of carbon, nitrogen, and sulphur oxides, and low-molecular organic compounds (e.g. methane, ethane, etc.). Tar aggregates, inorganic particles (ash) and water together form what is generally called smoke. The composition of the emitted substances varies depending on the original chemical composition of the fuel, ambient and combustion temperature, air flow to the fire, mode of burning, and shape of the fire place. Some data show that cooking using firewood in open fire stoves emit 10 to 180 grams of carbon monoxide per kg of firewood (Ellegard and Egneus, 1992). In addition, 7.7 g of particulate matters are emitted. One kg of charcoal used for cooking in metal stoves emit 250-380 g of carbon monoxide, but less (2.4 g)
+particulate matters.
+These pollutants accumulate especially in poorly ventilated households. Prolonged exposure to these substances has been identified as one of the major causes of widespread health problems in some countries, for example, acute respiratory infections in children and chronic lung disease and cancer in women in Nepal (Barnes et al., 1994).
+Woodfuel burning also causes the emission of carbon dioxide which is the principal source of global warming. Moreover, it also emits greenhouses gases called products of incomplete combustion (PIC) which are more powerful sources of global warming. These PICs include methane, carbon monoxide, and the higher hydrocarbons.
+Traditional cookstoves, because of their very low efficiency, may emit more than 10% of their carbon as PIC, whereas improved cookstoves emit mainly carbon dioxide and water (Barnes et al., 1994). This could have important policy implications that eventually impact on the use of woodfuels in particular. First, international sponsors should find more reason for supporting improved cookstoves program. Second, substitution of fuelwood by modern fuels, especially in areas where fuelwood supply is not sustainable should be encouraged. Third, efforts should be made to improve inefficient charcoal kilns and encourage charcoal users to shift to other fuels because charcoal emit substantial quantities of PICs.
+But there is another environmental impact of wood energy use that has already received considerable attention. Fuelwood gathering and use could reach beyond sustainable levels¾ in fact, it has already in certain areas¾ that people, for example, turn to other biomass fuels, the use of which also has associated environmental problems. Fuelwood use is partly responsible for forests depletion in some areas and thus resulting in localized fuelwood shortages. However, sometimes the issue of sustainability does not necessarily imply actual lack of supply. Often, it shows itself in more time spent and greater distance travelled in collecting fuelwood. These issues will be dealt with more details later. But it suffices to say that the problem has reached a global scale¾ it affects many countries and many people¾ and should be addressed at the national policy level.
+In fact, already, many governments have recognized the problem and have done something about it at the highest policy level. In India, for example, fuelwood gathering from forests has been banned since the 1980s, and this was the main reason for the decline in fuelwood supply coming from forests. The Pakistan government has made the national effort of increasing fuelwood supply from small private farms by encouraging farmers to do so. In many developing countries with many people and communities leaving in forest areas, the governments have launched community or social forestry programs that have also the intention of protecting forest resources, though the primary aim is to enhance the livelihood of people in these areas. It is also easy to imagine that these two and many other countries would have in the future strict regulations precisely aimed at reducing forest depletion.
+Two general policy directions can be identified that directly address the environmental and health impacts of woodfuel use¾ fuel switching and use of improved cookstoves. On one hand, government promotes the use of cleaner fuels and improve peoples' access to these fuels. On the other hand, government promotes improved cookstoves to increase efficiency of energy use and at the same time reduce harmful emissions. The second option is attractive in cases in which people have poor access or could not simply afford to shift to the more expensive modern fuels. This is the case of the majority of people dependent on wood energy. In urban areas, the policy focus would be to encourage the use of modern fuels because people would have better opportunities for higher income and thus a choice among the many competing fuels in these areas.
+The extent of influence of these two policy options on fuelwood consumption will depend on how successfully these policies are implemented.
+4.2.5 Gender Issues
+The consideration of the gender dimension started precisely with the understanding of issues associated with household energy consumption which was in turn closely related with wood energy use. This was a result of the unsuccessful implementation of improved cookstoves program that had ignored the important role of women as cook (thus the first user of fuelwood and the cookstove) and as manager of household energy consumption. The recognition of this role marks the beginning of the consideration of women's issues in wood energy (Nathan, 1996).
+Indeed, a number of studies have shown that one of the components of successful improved cookstoves program is the active participation of women in stove design (see for example Barnes et al., 1994). After all women are the primary users of cookstoves and thus the most familiar with the situation in the kitchen. In other words, for the successful diffusion of more efficient stoves women preferences should be taken into account.
+Women (and children) are also the ones primarily involved in fuelwood collection particularly in the poorest rural households. In this case, women's time and labor could partly explain the energy consumption pattern of households. The availability or excess of women labor and time in some developing countries is precisely the reason why energy transition is not happening in these countries (Pacudan, 1997). For example in rural Pakistan, the poorest could afford to switch from biofuels to kerosene, but the shift was not happening because of the availability of unpaid women's labor.
+Several studies also make a connection between agroforestry and social forestry programs and the role of women. For example, a study for Bangladesh cite the important role of women in collecting fuels and planting and cultivating trees as one of the conditions that must be taken into account for the successful implementation of the improvement of homestead agroforestry system in the country (Leuschner, 1987). Borlagdan (1988) describes the integrated social forestry program in Cebu (Philippines) and how women were integrated into the project. It addresses three gender-related issues that should be at the core of social forestry programs or projects anywhere else. The first refers to land security. The stewardship system was thought of as not providing enough security of land tenure to women because the stewardship was awarded to the "head of the family." This stemmed from a lack of understanding of the role of women in forest communities, which is essentially the point of
+the second issue: women as a vital resource. Because the project focused on men, it ignored the valuable contribution of women for the successful implementation of the project such as promotion of upland development technologies. The third issue is precisely related to efficiency of technology promotion. For this to be effective or successful, the project should have a knowledge of the beneficiaries, the main users and implementors of technology. On this women played an active role as well as the men.
+This connection is important because social forestry and agroforestry programs also address sustainability of fuelwood supply in conjunction with other development objectives. Hall (1982) has suggested the better use of forest resources and agroforestry as one of the possible technical solutions to the woodfuel shortage. These points will be taken up in more detail in a later chapter.
+<title>THE ROLE OF WOOD ENERGY IN ASIA</title>
+4.3 Micro factors affecting wood energy consumption
+4.3.1 Household Income
+Perhaps the most important determinant of fuelwood consumption in households is income. Fuelwood consumption tends to decrease in proportion relative to other fuels as household income increases. This is true for urban and rural households, but the decrease in relative fuelwood consumption is more pronounced in urban areas. The data for India illustrate this point (see Figure 4.12). One reason for this pattern is that in urban areas, more commercial fuels are available for households to choose from, and they have more opportunity to choose because of the higher income. Another related reason is that in high income households, cooking, which consume most of the fuelwood supply, decreases in relative importance as household energy needs become more sophisticated. For example, the data for India also show that the share of cooking in household energy end-use decreases from almost 80% in low income households to less than 40% in high income households (see Figure 4.13).
+Moreover, on average, 85% of household fuelwood supply in India go to cooking. As a consequence, firewood consumption is expected to decrease in high income households.
+Figure 4.12
+Figure 4.13
+Nevertheless, income is not the only determinant of fuelwood consumption in households. These other factors include affordability and availability of fuels, scarcity of fuelwood supply, fuel preferences, and cost and performance of end-use equipment. The impacts of all these factors also depend to a large extent on urban/rural location.
+4.3.2 Affordability and Availability
+Traditional fuels are perceived to be the least-cost alternative fuel in both the rural and urban areas even though they are one of the most expensive in terms of useful energy output (see, for example, Figure 4.14 with data for Pakistan). In many cases, traditional fuels are the only ones available in the rural areas, because of their limited access to commercial fuels. In urban areas, the issue of affordability is compounded by the presence of commercial fuels (or available fuel alternatives). Though fuelwood maybe still be apparently the least-cost alternative in urban areas, the presence of commercial fuels opens households to choose among other fuel alternatives.
+Figure 4.14
+The presence of competing fuels partly explains the tendency of the price of urban fuelwood to decline in real terms. Data available for Pakistan show that the price of fuelwood in many of the country's major urban areas increased by only less than 2% in real terms during the period 1957-1991 (see Table 4.1). The only exception was Peshawar City where fuelwood price increased by an average of 4% per annum during this period. However, in the first ten years and last few years of this period, prices of fuelwood were actually declining in most cities, even in Peshawar. The 2% average increase can be attributed mostly to the abnormally high price increases during 1967-77 when these averaged more than 4%.
+Table 4.1: Growth in Retail Prices of Firewood in Major Cities of Pakistan
+(in %)
+City
+Karachi
+Lahore
+Sialkot
+Rawalpindi
+Peshawar
+Quetta
+Islamabad
+Average
+Source: Hoiser (1993)
+4.3.3 Fuel Preferences
+In urban areas, fuel preferences become an important determinant of fuelwood use because households are offered a variety of fuels that differ in price, efficiency and convenience of use, accessibility and availability. Women, who are one most exposed to household fuels, know well that the modern commercial fuels are a lot cleaner than fuelwood. It is very easy to notice the irritating smoke coming from burning firewood, for example, compared to the tolerable fumes released by kerosene and LPG stoves. Urban households generally have higher income than rural households, and the higher income is the reason why urban households prefer cleaner and more efficient and convenient fuels. The lifestyles that come along with higher living standards are also biased towards the more convenient modern fuels. Households in urban areas normally do not want to spend a lot of time in cooking (this is the reason why many high income households in Thailand do not even own cookstoves and simply
+buy cooked food from stalls).
+4.3.4 Cost and Performance of End-Use Equipment
+It is very difficult to separate the type of fuel and the end-use equipment used by households as the choice of the former dictates the latter. In most cases, a decision to use a particular fuel is first made; then the choice of an end-use equipment follows. However, the decision to use a particular fuel is also sometimes influenced by the cost and performance of the associated end-use device. A particular household will not immediately shift to modern fuel if this entails buying an equipment which may be beyond the household budget. A balance will probably be made between cost and efficiency as more efficient stoves tend to cost more but their efficiency could be as high as five times that of a conventional or traditional equipment (see Table 4.2).
+Table 4.2: Cost of Cooking Fuel Use in Urban Areas, Philippines, 1990
+Cooking Fuel Costs (pesos/unit)
+Cooking Fuel Costs
+(pesos/utilized MJ)
+Annualized Stove Cost
+(pesos)
+Total Cooking Cost
+(Pesos/Utilized MJ)
+Fuel
+Unit
+Energy Content
+(MJ)
+Stove Efficiency
+Financial
+Economic
+Financial
+Financial
+Economic
+Fianncial
+Economic
+Fuelwood
+kg
+Charcoal
+kg
+Kerosene
+liter
+LPG
+kg
+Electricity
+kWh
+Source: UNDP (1992)
+In any case, given a particular fuel and equipment, fuel consumption is obviously affected by the efficiency of the end-use equipment. A more efficient equipment will consume less fuel than a less efficient one for the same energy output. Table 4.3 shows the efficiency of various end-use equipment according to the type of fuel.
+Moreover, as the choice of fuel is affected by household income so is the choice of end-use equipment. In rural Thailand, for example, half of the households in the very low income class own fuelwood stoves (see Table 4.4). This proportion falls to 15% in the high income households. It is interesting to note in the case of Thailand, that as income increases, the number of households not owning any stove also increases. This implies that households at the higher income bracket prefer to buy than cook their food.
+Table 4.3: Efficiency of Various Cooking Equipment
+Equipment Type
+Laboratory Tests, %
+Field Tests, %
+Firewood
+Open fire, clay pots
+Open fire, aluminum pots
+Ground oven
+Mud/clay stoves
+Brick stoves
+Portable metal stoves
+Charcoal
+Mud/clay stoves
+Metal stoves
+Kerosene
+Single wick
+Multiple wick
+Pressure stove
+LPG
+Butane
+Electricity
+Single element
+Kettle/Jug pot
+Source: DENR (Philippines,1989)
+Table 4.4: Ownership of Cooking Stoves by Households in Thailand, 1986
+(in %)
+Income class
+Type of stove
+Bangkok
+Rural
+Very low
+Fuelwood
+Charcoal
+LPG
+No Stove
+Low
+Fuelwood
+Charcoal
+LPG
+No Stove
+Medium
+Fuelwood
+Charcoal
+LPG
+No Stove
+High
+Fuelwood
+Charcoal
+LPG
+No Stove
+Source: UN (1989)
+4.3.5 Scarcity of Fuelwood Supply
+The impact of dwindling fuelwood supply on fuelwood consumption depends very much on the responses or adaptations people have on this situation. Fuelwood scarcity will have more impact on the rural households which are highly dependent on this fuel. Scarcity of fuelwood supply, for example, will force them to using other traditional fuels (animal dung and crop residues) or, if the scarcity is localized, to collecting fuelwood at greater cost (in terms of time spent and distance covered). Leach and Gowen (1987) identify the following stages of adaptations by rural households:
+* Households begin to use lower quality but more accessible woodfuels.
+* Households start to economize on fuel.
+* Households begin to use crop residues and animal wastes.
+* Households reduce their living standards and diet in conditions of acute scarcity.
+* Households begin to purchase biomass or modern fuels substitutes to freely collected fuelwood.
+All of these adaptations would reduce household consumption of fuelwood but the extent or magnitude of the impact would vary with the response. For example, it should be expected that the impact would be greatest if households begin to collect crop residues or animal dung instead, or purchase modern fuel substitutes. The impact would be different if households just economize on fuelwood use or shift to lower quality fuelwood.
+The impact of scarcity on urban households dependent on fuelwood would be different. First, the impact would not be as much as that in rural households which spend a larger proportion of income on energy use. Secondly, urban household energy consumption depends to a large extent on price, income, and the presence of substitutes. In particular, the effects of these three factors on the choice of fuel are more important in urban households which have better access to modern fuel substitutes. In India, for example, fuelwood competes with LPG and kerosene, but more households prefer LPG than kerosene for cooking. In Cambodia, charcoal is the next best alternative fuel after fuelwood for urban households. For Pakistan's urban households, the presence of natural gas makes it the next most popular fuel after fuelwood. Lastly, most urban households in the Philippines prefer to use electricity, but LPG and kerosene are also used by many households.
+<title>THE ROLE OF WOOD ENERGY IN ASIA</title>
+<section>1</section>
+4.4 Wood energy outlook
+4.4.1 Description of the Scenarios
+Given that there are several interrelated factors, at the macro and micro levels, influencing demand for woodfuels, making a wood energy outlook is an arduous and complicated task. Moreover, the extent at which these factors influence wood energy demand is not easily known largely because of lack of adequate and reliable data, this limitation being a characteristic of the traditional energy sector. Furthermore, the presence of micro factors (like household income, scarcity of fuelwood supply, availability of alternative fuels, etc.) indicates that the future role of wood energy would vary from one area to another depending on the behavior of these micro factors over time. Thus, making rash generalizations, at the aggregate level, could be very dangerous. Nevertheless, a qualitative assessment of the influence of these factors on future wood energy use is still possible if it is done to create images of the future role of wood energy. In other words, scenarios on the future
+role of wood energy can be developed based on the evolution of these factors.
+There could be a long list of "alternative futures" with respect to the future role of wood energy, each one making assumptions on one or more variables influencing wood energy demand. This study, however, limits its analysis to three scenarios that represent in very broad terms the three general directions in which future wood energy consumption could go:
+* business-as-usual
+* "green" energy
+* "massive" fossil fuel promotion
+The first is a "do nothing" or business-as-usual (BAU) scenario that excludes any policy intervention either to increase fuelwood supply or to reduce or increase (influence) fuelwood demand. In this scenario future growth in woodfuel consumption would be determined by its past and present rate of growth, the extent of which would vary from country to country depending on economic performance and population growth. In other words, elasticities that measure the responsiveness of fuelwood consumption to economic and population growth could be calculated for each country. This scenario requires making assumptions on future economic and population growth or could use existing baseline projections of these two macro variables. The difficulty, however, with this procedure is that there is no real time series data on fuelwood consumption currently available. FAO has historical data on fuelwood consumption (see Part B), but these are based for the most part on estimates and considers
+only fuelwood coming from forests (that is, excluding fuelwood coming from non-forest lands which could be significant in many countries). Moreover, the combined effect of economic and population growth and urbanization rate on fuelwood consumption should be taken into account. Increased income has the tendency to dampen fuelwood demand because of increased preference for modern fuels. This is indicated in data presented in Part B which shows decreasing share of fuelwood in total energy consumption. This would be especially true in urban and peri-urban areas and other areas which have access to modern fuels. The impact of increased income on fuelwood consumption in rural areas may not be significant in terms of decrease in relative fuelwood consumption, but could be significant in terms of increase in absolute fuelwood consumption. In rural areas, affordability of energy sources is not the only issue that explains why in rural areas more people are collecting than buying
+fuelwood. But, in many cases perhaps, accessibility is the more important determining factor for the composition of the household energy mix. Thus, with increased income and poor accessibility to modern energy sources, people in rural areas will tend to increase their energy consumption by using more of purchased fuelwood. In any case, fuelwood would continue to increase in absolute terms because of population growth, especially if there is no significant improvement in income distribution (as more poor people will be relying on fuelwood).
+The above analysis ignores the pressure created by increased fuelwood demand on fuelwood supply sources, in particular forest resources. The situation would definitely vary from one country to another and from one area to another within a particular country. For example, the Philippine Household Energy Strategy Study (HESS) concludes that biomass resources in the country are being used at a rate that should not be a cause of concern for a long time to come (UNDP-ESMAP, 1992). However, the study points to some provinces that could already be feeling the pressure of increased fuelwood demand. The situation is the opposite in India and Pakistan. India has, in fact, already banned fuelwood collection from forests (Natarajan, 1995). In Pakistan, the government had to encourage farmers to plant trees on their farmlands to sustain the supply of fuelwood (Hosier, 1993). Thus, whether this scenario would be sustainable depends on the current levels of productivity and stock of
+biomass resources in each country. In the long run, however, this scenario would not be sustainable because nothing is done (i) to enhance forest resources which tend to deteriorate with time because of pressures other than fuelwood demand (in particular, land use patterns changes); (ii) nor to improve efficiency of energy use and thus contribute to conservation of fuelwood supply resources.
+The second and third scenarios represent probably the extremes. The second, called the "green" energy (GREEN) scenario, assumes future fuelwood consumption that is higher than what will be projected in the business-as-usual case. This implies increasing fuelwood consumption that is a result not only of growing population but also of some deliberate attempt to promote fuelwood use because of its positive environmental implications. Though fuelwood combustion actually contributes to global warming, this is offset by forests and trees, from where fuelwood is sourced, that serve as carbon sink, making fuelwood combustion carbon neutral. This scenario makes a rather "heroic" assumption about the behavior of energy consumer. In general, consumers that can choose from an available mix of fuels would prefer modern commercial fuels because these are more convenient to use, more accessible, and cleaner in terms of contribution to indoor air pollution. Over time, access to modern fuels
+will have improved and consumers will have improved their capacity to buy these fuels. The green energy scenario, therefore, requires an effort to counter this strong tendency from energy consumers.
+On the other hand, the GREEN scenario could also mean increased fuelwood consumption in the form of wood residues in wood-based industries (e.g. sawmills, plymills, pulp and paper industry). Wood residues can substitute fossil fuels as feedstock to boilers through cogeneration systems. According to the EC-ASEAN COGEN Programme, sawmills and plymills, for example, which are the largest wood-based industries in terms of wood consumption, generate 45-55% of raw materials input as wood wastes. Moreover, it is estimated that the wood-based industry in south-east Asia alone generates about 19 million tonnes of residues annually, which can run 1,000 MW of electrical generating capacity (Menu, 1997). Most of this potential (765 MW) are in Indonesia and Malaysia. However, the use of wood residues to generate electricity in this industry depends first of all on the market for wood-based products. A high demand, obviously, means increased opportunities to realize this potential.
+Furthermore, governments' policy to promote renewable energy sources coupled with attractive incentives to private power investors to go into renewable energy generation will be an important condition for increased reliance on wood residues.
+The GREEN scenario also makes an inherent assumption about availability of and accessibility to fuelwood supply. In effect, it assumes that fuelwood supply will be made sustainable through improved forest management (and fuelwood collection) practices and increased fuelwood output from non-forest lands, thus addressing simultaneously the problems associated with fuelwood collection (e.g. spending too much time in fuelwood collection and collecting from distant sources).
+The second scenario should also address the issue of improving efficiency of energy use. In this case, an aggressive effort to promote, for example, improved cookstoves would be launched by governments. Some authors refer to this as an important transition between using lower quality fuels (like fuelwood) to using higher quality modern fuels (see for example Barnes et al., 1994). The introduction of improved biomass stoves represents an important step in the energy ladder in situations where an actual shift to modern from traditional fuels is not yet possible because of questions of availability of the end-use equipment and fuels as well as their affordability.
+This second scenario, obviously, will have positive implications in promoting sustainable woodfuel demand and enhancing the sustainability of supply of biomass resources. The actual impact in each situation would depend on adhering to "key success factors" in planning and implementing improved cookstoves programs, for example. Barnes et al. (1994) have identified these factors based on a survey of 137 international cookstoves programs and four in depth case studies. The experience of China, which has the largest improved cookstoves program worldwide is particularly enlightening.
+The third or "massive" fossil fuel promotion (FOSSIL) scenario represents the other extreme. In this case, a deliberate attempt is made to switch to modern fuels and to reduce the use of traditional fuels. In principle, however, such an attempt may not be necessary because of the natural tendency of energy consumers to switch to modern fuels when they are able to do so. However, this is not always the case. Pacudan (1997) shows that there are barriers to the use of energy efficient technologies and modern fuels. The case of Sri Lanka is illustrated in which demand for biomass fuels in urban areas remained stable despite the increase in income because of the availability of "free" biomass fuels. In addition, the case of rural Pakistan is cited in which the non-occurrence of the transition to modern fuels, even if it was affordable to do so, is explained by the excess labor of women. Yet, in any case, in order for this scenario to happen, fuel switching policy that intends to
+promote the use of modern fuels should address first the issues of affordability and availability.
+4.4.2 Methodological Framework
+Fuelwood consumption projections will be made based on these three scenarios and using FAO's database for total fuelwood consumption. FAO's database was preferred over those of the UN and AIT because it covers all countries, except Maldives, with a higher degree of consistency than both UN's and AIT's. Using FAO's database also facilitates making regional overview and cross-country comparisons because they are available for almost all countries under study. However, it should be noted that these estimates refer only to fuelwood supply from forest lands. But because the concern is the implications of future wood energy use to the forestry sector, the exercise will still be useful even if in many countries a big share of fuelwood supply comes probably from non-forest lands.
+The BAU scenario assumes no policy intervention to increase fuelwood supply nor to influence fuelwood demand through energy efficiency or conservation or fuel switching policy. It is assumed the fuelwood consumption is determined mainly by expected population and economic growth, the basic demand determinants. As mentioned, however, the impacts of these two variables in fuelwood consumption tend to be in opposite directions. Specifically, economic growth has a restraining effect on fuelwood consumption because of strong tendency to shift to modern or high quality fuels with increased income, while population growth will raise fuelwood consumption in absolute terms, especially in developing countries. In practice, however, it maybe difficult to model the combined effects of these two variables. It could be shown, on the other hand, that population growth is strongly positively correlated with fuelwood consumption. Thus, it will be assumed arbitrarily that the net effect of
+the two variables can be represented by the historical average growth rates of fuelwood consumption. In all of the countries, this is positive indicating the strong effect of population growth. In fact, in all of the scenarios, the effect of population growth will be assumed to persist. That is, in all scenarios, fuelwood consumption will increase in absolute terms as a result of population growth. The level of economic development of the countries being studied, both now and in near future, has not come to a point that an absolute decline in fuelwood consumption is realizable. What is more likely is a gradual shift from the use of traditional fuels. Thus, over time, the projected growth in fuelwood consumption may be allowed to decrease to take into account the effect of income and the availability of and accessibility to modern fuels.
+In this study, the average growth rate of fuelwood consumption for the period 1980-1994 would be used to project it through 2010. As mentioned, the growth rates maybe allowed to decline depending on projected growth in income (GDP), particularly in the period 2005-2010 when, presumably, access to modern fuels would have improved significantly compared to previous periods. The decline would be minimal for countries with lower projected GDP growth rate and would be slightly higher for those with higher projected GDP growth rate. Yet for simplicity, the study will stick to one case using a constant average growth rate to project fuelwood consumption for the period through 2010 (see Table 4.7).
+Projected fuelwood consumption for the GREEN and FOSSIL scenarios will be based on assumptions on the future contributions of wood energy in the total energy mix. These assumptions, in turn, are based on based on past trend. To calculate historical shares of fuelwood consumption to total energy consumption, data on total energy consumption will come from UN database, while fuelwood consumption will still come from the FAO database. Figure 4.15 shows that, in general, the shares are decreasing for all countries in the region, indicating that total energy consumption is normally growing faster than fuelwood consumption and that a gradual shift to alternative fuels is happening.
+Figure 4.15:
+Share of Fuelwood in Total Energy Consumption, 1980-1994 (%)
+Table 4.5 shows the assumed fuelwood contributions in the total energy mix for the years 2000, 2005, and 2010 for the two scenarios. These figures are not arbitrarily chosen. They were set taking into account historical performance, of course, but also taking into consideration the individual energy and economic profile of the countries. For example, for Cambodia where fuelwood already accounts for 90% of total energy consumption, future fuelwood contributions have been maintained at current proportion because it is not reasonable to expect that this share will go up in the future even if a strong effort is exerted to promote fuelwood consumption. Moreover, it maybe said that the green energy scenario should at least maintain current contribution of fuelwood.
+Assumptions have to be made also on the total energy consumption for the period through 2010 before the projected fuelwood consumption is derived for this period. These figures are calculated using the annual average growth of total energy consumption in 1980-1994 and assuming that these growth rates will persist throughout the projection period. The calculated growth rates and projected total energy consumption are shown in Table 4.6.
+Table 4.5: Basic Assumptions for the Three Scenarios
+Countries
+Percent Share of Fuelwood to Total Energy
+BAU
+(% growth rate of total fuelwood)
+GREEN
+(% share of fuelwood to total energy)
+FOSSIL
+(% share of fuelwood to total energy)
+Bangladesh
+Bhutan
+India
+Nepal
+Pakistan
+Sri Lanka
+Cambodia
+Indonesia
+Laos
+Malaysia
+Myanmar
+Philippines
+Thailand
+Vietnam
+China
+Table 4.6: Projected Total Energy Consumption (PJ)
+(% growth rates)
+Asia 
+South Asia 
+Bangladesh 
+Bhutan 
+India 
+Maldives 
+n.a.
+Nepal 
+Pakistan 
+Sri Lanka 
+Southeast Asia
+Cambodia 
+Indonesia 
+Laos 
+Malaysia 
+Myanmar 
+Philipiines 
+Thailand 
+Vietnam 
+China 
+Given the assumed future contributions of fuelwood to total energy consumption and projected values for the latter, fuelwood consumption for 2000, 2005, and 2010 can be calculated.
+4.4.3 Analysis of Results
+Scenarios should be internally consistent. Initial results, therefore, were checked for consistency. Given the projected total energy consumption, the share of fuelwood in the BAU scenario was calculated to provide the check. It should be between the shares assumed for the GREEN and FOSSIL scenarios. Needless to say, it should not be more than 100% (that is, fuelwood consumption could not exceed projected total energy consumption). This implies that the assumed growth rates used in projecting fuelwood consumption in the BAU scenario should be consistent with the projected total energy consumption.
+Inconsistencies were noted for five countries¾ Bhutan, Cambodia, Laos, Thailand, and Vietnam. For Laos, the assumed fuelwood consumption growth rate had resulted in a value that exceeded projected total energy consumption. Obviously, this is unacceptable, so the assumed growth rate was reduced. In the case of Thailand, the calculated growth rate had given fuelwood consumption values in the BAU scenario that were lower than those under the FOSSIL scenario. The growth rate was, therefore, raised to increase projected fuelwood consumption. For the other three countries, the assumed fuelwood consumption growth rates had resulted in values that exceeded those calculated for the GREEN scenario. So the assumed growth rates were adjusted until the criterion was met. Otherwise, it would not be necessary to promote fuelwood to increase its usage at the level expected for the GREEN scenario. Table 4.7 compares the adjusted and initial fuelwood consumption growth rates for these five
+countries.
+Table 4.7: Adjusted Fuelwood Consumption Growth Rates in the BAU Scenario
+Countries
+Calculated growth rates (%)
+Adjusted growth rates (%)
+Bhutan
+Cambodia
+Laos
+Thailand
+Vietnam
+Figures 4.16 to 4.19 summarize the results for the three scenarios, according to subregions, after these adjustments were made. (Detailed results are shown in Appendix 2.) What is immediately noticeable in these figures is the tremendous increase in fuelwood consumption in GREEN scenario. In that scenario, fuelwood consumption in Asia is projected to jump from 8,304 PJ in 1994 to more than 28,000 PJ in 2010, or at an annual average rate of 8% per annum. In contrast, fuelwood consumption in the FOSSIL scenario will increase barely 1% per annum, to 9,708 PJ in 2010. In the BAU scenario, fuelwood consumption will grow on average by 2.1% per annum, to about 11,600 PJ in 2010.
+Figure 4.16
+Figure 4.17
+Figure 4.18
+Figure 4.19
+The GREEN scenario is a "big" departure from the BAU scenario because the former attempts to reverse current trends of decreasing relative importance of fuelwood consumption in the total energy mix. The GREEN scenario is probably very unlikely from this point of view, and the projected fuelwood consumption would really represent an extreme case. However, from the point of view of policy, in particular, one that intends to promote the use of wood energy because of benefits to the environment, the GREEN scenario reflects the fact that this policy should really be very strong in order to be effective.
+On the other hand, the "slight" departure of the FOSSIL scenario from the BAU scenario implies that the demand for wood energy would still be driven primarily, on the macro level, by population and income. Efforts that intend to encourage modern energy sources (derived from fossil fuels) should first address the issue of availability and affordability before they can be successful.
+These projections were also compared with those of FAO (Global Forest Products Outlook 1994-2010) and RWEDP (Koopmans, 1997) as a further check for validity of results. These two other studies cover Asia-pacific countries, including RWEDP member countries. However, they include only one scenario that is comparable to the BAU scenario in the present study. In general, as shown in Figures 4.20-4.23, the RWEDP study gives the highest projections, while FAO, the lowest. The BAU projections, therefore, lie between these two other projections. (See also Appendix 3.) For example, FAO and RWEDP project that by 2010 total fuelwood consumption in Southeast Asia would reach 3,371 and 4,185 PJ, respectively. BAU places this figure at 3,867 PJ.
+In addition, it can be observed that towards the end of the projection period the difference between BAU's and FAO's projections tends to become bigger, while the difference becomes smaller between BAU's and RWEDP's projections through 2010. For example, for all countries in 2010, BAU overshoots FAO by 1,661 PJ, while the difference between BAU and RWEDP is only almost half as much, or 864 PJ.
+Figure 4.20
+Figure 4.21
+Figure 4.22
+Figure 4.23
+Obviously, there are exceptions to these two general trends. Figure 4.21 shows that in 2010 BAU's is slightly in excess (85 PJ) of RWEDP's projection, primarily because of India and Bangladesh. It is also shown in Appendix 3 that RWEDP, in fact, gives the lowest projection for Indonesia all throughout the projection period. In Figure 4.23, while the difference between RWEDP's and BAU's projections decreases, it is still in the order of 700 PJ in 2010. Moreover, the difference is increasing for Thailand, reaching 1006 PJ in 2010.
+In any case, except for these countries, the three studies--FAO, RWEDP, and AIT--give very close approximations of future fuelwood consumption. In most cases, as shown in Table 4.8, the differences do not go beyond 5 Mm^3.
+Table 4.8: Differences Between Fuelwood Consumption Projections
+AIT-BAU vs. FAO (PJ)
+RWEDP vs. AIT-BAU (PJ)
+Asia Total
+South Asia^1
+Bangladesh
+Bhutan
+India
+Maldives
+Nepal
+Pakistan
+Sri Lanka
+South East Asia^2
+Cambodia
+Indonesia
+Laos
+Malaysia
+Myanmar
+Philippines
+Thailand
+Vietnam
+China
+1 Excluding Bhutan
+2 Excluding Laos
+Total traditional energy consumption was also projected under the same three scenarios following the same methodology and using data from UN database (see Figures 4.24-27). Detailed results are shown in Appendix 4.
+Figure 4.24
+Figure 4.25
+Figure 4.26
+Figure 4.27
+<section>2</section>
+Chapter 5:
+Implications for the Forestry Sector,
+Conclusions and Recommendations
+5.1 Introduction
+Wood energy has been traditionally linked with the forestry sector not only because forests supply a substantial proportion of woodfuels consumed, and thus an important product of the forestry sector, but also because wood energy has been one of the main concerns of forestry departments both at the national and international level. For example, wood energy is one of the five priority concerns of the international Tropical Forest Action Programme (TFAP) which was launched in 1985 "to address the most urgent aspects of tropical deforestation (FAO, 1995)." The TFAP has proposed national programmes to review, assess, and monitor wood energy activities in relation to cultural, social, agricultural, land use, employment generation, and environmental issues. At the national level, wood energy concerns are, in fact, solely in the hands of forestry departments in most cases. National energy planning agencies tend to concentrate on conventional and commercial energy sources because of
+the "complexities" associated with handling wood energy in particular and biomass energy in general, not to mention the lack of reliable and historical data, a strong bias of the traditional energy planning process.
+Notwithstanding, wood energy and the forest sector have been and will always be related in two equally important ways. On one hand, forests are an important source of fuelwood supply. On the other hand, woodfuel production and consumption impact on forest resource conservation. The scenarios developed in the preceding section will have important implications on these two relationships.
+5.2 Fuelwood supply from forests
+Forests and other wooded lands comprise 31.4%, equivalent to 552.8 million hectares, of the combined land areas of the countries under study (except Cambodia and Maldives) (FAO, 1997). Figure 5.1 shows that forests and other wooded lands make up a huge portion of the total land area in Bhutan, Indonesia, Laos (which is more than 90% covered by forests), Malaysia, Myanmar, Sri Lanka, and Vietnam. To some extent, forests still thrive in Nepal and the Philippines. In Pakistan, forests account for less than 5% of total land area.
+It is known for a fact that forests are an important source of fuelwood. However, information on actual forests contribution to fuelwood supply are hardly available. Recent studies, on the other hand, have mentioned that non-forests lands have become a more important source of fuelwood in many cases. Information are available, though, only for India, Pakistan, and the Philippines as presented in Chapter 3. Nevertheless, data from FAO show that fuelwood consumption still represents a very significant or high proportion of total removals from forests. Ironically, this is true, more than in the other countries under study, for India and Pakistan where more than 90% of total forest removals are estimated to be accounted for by fuelwood consumption.
+Figure 5.1
+Figure 5.2 (referring to Table A.1.2 of Appendix 1) shows that, on average, between 77% and 79% of total forest removals in the region are indeed accounted for by fuelwood consumption during the period 1980-1994. The countries in South Asia have the highest proportion, averaging 92% during the same period. Except for Bhutan, the shares in the individual countries in the sub-region have been steady indicating that forests have been a "steady" source of fuelwood supply in these countries (Figure 5.3). The same can be said of China which had around 70% of its total forest removals being accounted for by fuelwood consumption (Figure 5.2).
+Figure 5.2
+A different trend can be observed in Southeast Asia, where fuelwood consumption as a percentage of total forest removals was between 72% and 76% in 1980-1994. The figure would have been higher if not for Malaysia which had less than 20% of forest removals going to fuelwood consumption (Figure 5.4). Close to 90% of the forest removals in Cambodia, Laos, and Thailand have met the fuelwood requirements in these countries. However, unlike in South Asia, the proportion of fuelwood consumption to total forest removals in Southeast Asia has seen diverse behaviour over the 1980-1994 period. For example in Laos, fuelwood consumption as a percentage of total forest removals went down to 86% in 1994 from 93% in 1980. In contrast, Laos neighbor country, Thailand, experienced an increase, from 85% in 1980 to 93% in 1994. A similar trend is more or less exhibited by Myanmar. These trends indicate at least two things. Firstly, in this sub-region, trees from forests have had other important
+applications other than energy use (particularly in Malaysia and Indonesia). This probably explains also the trend in Laos, that is trees have found applications other than simply providing energy to households. Secondly, the increasing trend exhibited in Thailand and Myanmar meant that fuelwood consumption has grown faster than forest removals, indicating an increase in the growth of fuelwood demand relative to that of supply. It is easy to conclude that there has been an increase in the pressure to fuelwood supply in these areas, but this is very difficult to verify at this point.
+Figure 5.3
+Figure 5.4
+5.3 Implications of the scenarios
+A precise assessment of the implications of projected fuelwood consumption on the forest resources base is only possible given a corresponding assessment of the future state of the forest resource base itself. This is typical of any supply-demand balancing. However, the assessment of forest resources is beyond the scope of this study. The subject itself requires specialized methodology and technical information and could very well be the subject of a separate study done at the national level.
+At this point, however, a very general analysis of the implications of the three scenarios on fuelwood supply from forest can be made. This would depend on how much of the trees removed from forests today are used as fuelwood. Obviously, the FOSSIL scenario would exert the least pressure on the forest resource base because fuelwood is gradually substituted by fossil-based fuels (despite an assumed massive campaign to promote the latter). However, South Asian countries, which already consume most of the trees removed from forests as fuelwood, could still feel this pressure. This is true also for some countries in Southeast Asia (notably Thailand) which have high proportion of fuelwood in total forest removals.
+With projected fuelwood consumption growing 8% on average annually and reaching as high as 11% for Malaysia and 10% for China, the GREEN scenario, on the other hand, clearly requires more trees than what is currently produced. The growth rate for South Asian countries is very close to the average and would most likely require more trees from non-forest lands as already most of forest output are consumed as fuelwood. Even Bhutan, whose expected fuelwood consumption under this scenario would grow only less than 2%, would suffer from inadequate fuelwood supply from forests because already 95% of total forest removals are fuelwood. In contrast, even though Malaysia's fuelwood consumption under the GREEN scenario represents the maximum growth, there is a lot of room for such growth. At present only 20% of forest removals in Malaysia are fuelwood and thus, the country could afford to increase its fuelwood consumption at that rate. This is also possible even if in Malaysia most
+wood from forests continue to be produced for commercial purposes. Fuelwood supply could come in the form of residues produced from this wood-based industries.
+The BAU scenario is a middle course. The pressure exerted on the forest resource base should not be as great as in the GREEN scenario, but one could not assume that current production from forests would be able to meet the 2% average annual fuelwood consumption estimated for the BAU scenario. Total forest removals between 1980 and 1994 average slightly less than this (1.94%), while fuelwood supply averages 80% of total forest removals during this period. Assuming these rates are maintained through 2010 and fuelwood supply are available, the estimated fuelwood supply under these conditions could barely match the projected fuelwood consumption under the BAU scenario (see Table 5.1). Of course, these are rough calculations, but they show possible negative implications on the forest resource base of a do-nothing attitude towards fuelwood supply.
+5.4 Impact of rural and urban fuelwood consumption
+In 13 of the RWEDP member countries, FAO (1993) records the rate of deforestation to be in the order of 3.76 million ha per year between 1981 and 1990. The rate is fastest in Southeast Asia, especially Indonesia (Figure 5.5).
+There is now no reason to believe that deforestation is primarily caused by fuelwood consumption, even though this could still be the prevailing mentality in some sectors. It has been shown that the main causes of trees and forests depletion are (i) clearances for arable and grazing land due to population growth; (ii) migration and resettlement schemes; (iii) "slash and burn" farming with rapid rotation cycles due to population pressures; (iv) overgrazing of young trees and supportive grasslands; (v) uncontrolled forest fires; and (vi) commercial logging for timber (Leach and Gowen, 1987). However, the same study also notes that demand for woodfuels "may play a major part in deforestation" in two cases:
+* when tree loss has gone a long way and the local rural population must cut fuel from few remaining trees, and
+* where the demand of urban markets for woodfuels are sufficiently large and/or concentrated in particular areas.
+Table 5.1: Projected Fuelwood Supply vs. Projected Fuelwood Consumption (BAU Scenario)
+Projected Fuelwood Supply \1
+Projected Fuelwood Consumption
+Asia Total
+South Asia
+Bangladesh
+Bhutan
+India
+Maldives
+Nepal
+Pakistan
+Sri Lanka
+South East Asia
+Cambodia
+Indonesia
+Laos
+Malaysia
+Myanmar
+Philippines
+Thailand
+Vietnam
+China
+Notes: \1 This was calculated based on the 1994 share of fuelwood consumption to and 1980-1994 growth rate of total forest removals.
+Figure 5.5
+In general, fuelwood consumption exerts pressure on the resource base if it is growing at a rate higher than the productivity of the resources. However, the differing characteristics of rural and urban fuelwood consumption have important and distinct implications on the sustainability of fuelwood resources. In most cases, the difference between rural and urban fuelwood consumption is the difference between collected and purchased fuelwood. In rural areas, more fuelwood is collected than purchased and the opposite is true in urban areas. Fuelwood consumption in rural areas, therefore, is dependent on access to resources. When there is scarcity of fuelwood supply in rural areas, people respond in a number of ways. For one, people could opt to shift to other biomass fuels (of lower quality than fuelwood) especially if these are available in substantial quantities. Secondly, people would spend more time and travel greater distances to collect fuelwood. But this is an
+unattractive option and would be avoided if possible. On the other hand, this could be the only response to scarcity if other fuels are not available or, even if they are available, affordable. Moreover, this type of response will have the greatest impact of fuelwood supply sustainability. A third type of response could be increasing fuelwood supply by planting trees whether in forest or non-forest lands. However, this type of response is by the question of land ownership and the need to invest in such an activity. Most rural poor would have limited tenurial rights on lands. Even if land ownership is not an issue, people would have to have cash to buy seeds, for example, and would have to wait for sometime before they can harvest and collect fuelwood. In the meantime they would have to meet their daily requirement for fuelwood.
+The situation will not be similar in urban areas where most fuelwood consumed are purchased or are part of a commodity market system, whether formal or informal. The impact of urban fuelwood demand would depend on the existence of a distribution infratructure or network that brings fuelwood supply from rural areas to urban areas (Leach and Gowen, 1987). Rural areas that are relatively isolated will not feel as much pressure from increased fuelwood demand in urban areas as those that are linked to urban areas through well defined distribution network. In the latter case, the increased demand in urban areas would result in a higher depletion rate because rural fuelwood suppliers and traders will have more incentive to cut trees, to the extent of going to sources of fuelwood other than those they normally go. It is therefore clear the rural fuelwood gatherers would collect fuelwood not only for own consumption but more importantly as a source of income. Thus, the impact of
+increased pressure from urban fuelwood demand threatens not only fuelwood supply but also the source of income of rural fuelwood gatherers, producers, and traders.
+5.5 Enhancing the sustainability of woodfuel supply
+The fuelwood supply sustainability problem has led to a number of responses which can be categorized into supply- and demand-side measures or interventions. The supply-side measures are implemented independently or integrated with social forestry or agroforestry projects. The objective of independent projects would be to increase fuelwood supply from existing tree plantations or developing new ones for the same purpose. The same objective could be one of the components of social forestry or agroforestry projects, but the overall goals of such types of projects would be oriented towards their social benefits through forest resource management, that is, improving the livelihood of forest communities through better management of forest resources.
+The sustainability problem have been also addressed indirectly through demand-side measures, that is, by promoting energy efficiency and conservation. In particular, in the case of fuelwood, efforts have focused on the design and dissemination of improved cookstoves. Although past efforts have failed in many developing countries because, among other reasons, the low income condition of target beneficiaries have inhibited them from investing in improved cookstoves, there is greater motivation now and in the future to continue with the program because the pressure on the biomass resource base is higher and increasing (Barnes et al., 1994).
+The scenarios developed in Chapter 4 call precisely for these actions or interventions if a sustainable wood energy future is desired. This is true even in the case of the FOSSIL scenario which encourages transition from traditional to modern fuels. However, the issue is important in the BAU scenario and crucial in the GREEN scenario. Specifically, both BAU and GREEN scenarios assume that fuelwood supply from agricultural lands will have increased thus reducing the pressure on forest lands. The increased supply from non-forest lands also addresses the social costs associated with fuelwood collection because it reduces the distance that have to be travelled by fuelwood gatherer, most of them women and children.
+5.6 Conclusions and recommendations
+This study provided an overview of three available wood energy databases for Asia and, based on the information presented in these databases, analyzed the past, present, and future role of wood energy in the region. Although available information derived from these databases provide strong indications about the present and future role of wood energy, a gap still persist in terms of having complete, timely, consistent, and reliable wood energy data. An analysis of the strengths and weaknesses of the three databases leads to the following recommendations:
+1. The wood energy data provided in FAO forest products yearbook are estimated based on population growth rates. It is well known, however, that population growth rate is not the only driving factor for wood energy consumption and eventually the wood energy supply. Hence, a better estimation procedure should identify other important variables that determine wood energy demand and proceed to establish a strong relationship between these driving variables and wood energy demand. The choice of variables and even the functional form to describe this relationship could vary from one country to another.
+2. The present situation of wood energy database is very poor at least in the case of Asian countries. Whatever data exits in various data bases, are mostly inconsistent and incomparable because of differences in classification, definitions, terminology and measuring units. International or regional organizations (e.g., World Bank, UN, FAO, RWEDP, IEA, AIT, AEEMTRC etc.) are currently putting their efforts on the collection and maintenance of these wood energy data on individual basis. However, until and unless there is cooperation among these organizations, the disparities among the various databases (although they collect a good volume of data) will persist and the problem of selecting the best databases will remain as it is. The initiative recently taken by FAO to harmonize the classification and definitions of wood energy terms and unification of measuring units can be considered as the first step in this direction. It will be more reasonable to have consistent and
+reliable data, collected through a joint effort of various organizations rather than to have an inconsistent and overlapping data collected through individual efforts.
+3. National organizations, too, are expected to play an active role in this cooperative undertaking as they remain the immediate source of wood energy data for these international organizations. But more important, national organizations should take an active role in collecting consistent, timely, and reliable wood energy data because the information derived from these data should be their basis in designing and implementing wood energy programs. More often than not, the wood energy sector is neglected at the national level because of lack of information to serve as a basis for wood energy decisions. In most cases also, national organizations recognize this but are either not willing to commit themselves to this effort or simply lack the resources to do it. In this regard, international organizations can either provide the push or the necessary technical and financial support, or both.
+A concerted effort towards this direction is important because wood energy is here to stay. Many people in the region will continue to depend on wood energy whether to fuel their daily energy needs or as a source of income. Even if rising national income and urbanization drive the shift towards using modern fuels, the fact is conventional energy sources (oil, gas, and coal) are depletable resources. In the long term, people will have to rely increasingly on renewable energy sources, of which wood is one alternative. Moreover, on the demand side, it will still take some time before income is equitably distributed among all people and the necessary infrastructure is established to make modern fuels available in all places. And when that time comes, people will still have to choose among available fuels based on their preferences, and it is expected that woodfuels can be a competitive alternative in some sectors. In the meantime, it should be one of the major concerns of
+national and international organizations dedicated to solving the problems associated with energy use to make sure that the supply of this resource remain sustainable.
+<section>3</section>
+List of references
+1. Barnes, Douglas F. et al. What Makes People Cook with Improved Biomass Stoves? A Comparative International Review of Stove Programs. World Bank, Washington, D.C., 1994.
+2. Bhatia, R. K., "Traditional Energy Sources Data" in Codoni, Rene et al. Integrated Energy Planning: A Manual, Vol I, Energy Data, Energy Demand, Kuala Lumpur: Asian and Pacific Development Centre (APDC), 1985.
+3. Borlagdan, Salve B. et al. "The Cebu Integrated Social Forestry Project." in Gender Issues in Rural Development, 1988.
+4. Cao Quoc Hung, A Sectoral Energy Demand Analysis and Long-Term Energy Demand Forecast for the S.R. Vietnam, AIT, 1993.
+5. Ceylon Electricity Board (CEB). Sri Lanka Energy Balance, 1992.
+6. Department of Energy Development and Promotion (DEDP). Thailand Energy Situation, Various issues 1985 to 1994.
+7. Department of Energy. Philippine Energy Plan. DOE, 1996.
+8. Down Sally, "Household Energy Consumption in West Sumatra Implication for Policy Makers",. Energy, Vol. 8, No. 11, pp 821-833.
+9. Ellegard, Anders and Egneus, Hans. Health Effects of Charcoal and Woodfuel Use in Low-Income Households in Lusaka, Zambia. SEI, Stockholm, 1992.
+10. Energy Department, Ministry of Industry, Mines and Energy (MIME), Cambodian Statistics: Sources and Methodology of Estimates, Draft Report, Phnom Penh, 1996.
+11. FAO. FAO Forest Products Yearbook. FAO, Rome, 1993.
+12. FAO. FAO Forest Products Yearbook. FAO, Rome, 1996.
+13. FAO. Forest Products Yearbook. FAO, Rome, 1994.
+14. FAO. Forest Resources Assessment 1990: Tropical Countries. FAO, Rome, 1993.
+15. FAO. Forests, Fuels and The Future. FAO, Rome, 1995.
+16. FAO/RWEDP, Wood Energy for Rural Industries in Thailand, 1986.
+17. FAO-RWEDP. Review of Wood Energy Data in RWEDP Member Countries. FAO, Bangkok, 1997.
+18. General Statistical Office (Vietnam), Statistical Yearbook 1995, GSO, 1996.
+19. Hall, D. O. et al. Biomass for Energy in the Developing Countries: Current Role, Potential Problems, and Prospects. Pergamon Press, Oxford, 1982.
+20. Hosier, Richard H. Forest Energy in Pakistan: The Evidence for Sustainability. HESS. ESMAP-UNDP, 1993.
+21. IEA. Energy Balances and Statistics of Non-OECD Countries 1993-1994. IEA, Paris, 1996.
+22. Leach, Gerald and Gowen, Marcia. Household Energy Handbook: An Interim Guide and Reference Manual. WB, 1987.
+23. Lefevre, T., Timilsina, G.R., and Todoc, J. Wood Energy Today, an unpublished manuscript, CEERD/AIT, Bangkok, 1997.
+24. Leuschner, William A. and Khaleque, Kibriaul. "Homestead Agroforestry in Bangladesh." in Agroforestry Systems 5, 139-151, 1987.
+25. Ministry of Agriculture, Department of Forestry, Master Plan for Forestry Development, Wood Energy Sectoral Analysis, FAO/RWEDP, Field Document No. 32, 1991.
+26. Ministry of Forestry, Tropical Forestry Action Programme: Vietnam, Fuelwood and Energy Sectoral Review, FAO/ RWEDP Field document No. 33, 1992.
+27. Ministry of Land and Forest Development, Wood Demand and Market Study, Annex V, Forestry Master Plan for Sri Lanka, 1995.
+28. Ministry of National Planning and Economic Development, The Financial, Economic and Social Conditions for 1994-95, 1995.
+29. Ministry of Planning, Human Resources and Environment (MPHRE), Statistical Yearbook of Maldives 1996.
+30. Natarajan, I. "Trends in Firewood Consumption in Rural India." Paper presented at Study Tour in Wood Energy Planning, India, FAO/RWEDP, 1995.
+31. Nathan, D. "Gender Issues in Wood Energy." Paper presented at Second Regional Training in Wood Energy Planning, FAO/RWEDP, 1995.
+32. Ouerghi, Azedine and Heaps, Charles. Household Energy Demand: Consumption Patterns. HESS. ESMAP-UNDP, July 1993 (a).
+33. Ouerghi, Azedine. Woodfuel Use in Pakistan: Sustainability of Supply and Socio-Economic and Environmental Implications. HESS. ESMAP-UNDP, February 1993.
+34. Pacudan, Romeo B. "Exit from Lock-in to Energy Efficient Technologies: Household Cooking Stoves and Gender." Paper presented at the 4th SERD (School of Environment, Resources and Development) Seminar on Gender and Technology, 19 March 1997, AIT.
+35. R.H.Zaki, Analysis of Energy Demand and Household Energy Demand Forecasting: A Case of Bangladesh, Master's Thesis, Asian Institute of Technology (AIT), ET-94-20, 1994.
+36. Ramani, K. V., Islam, M. N. and Reddy, A. K. N., Rural Energy Planning: A Government-Enabled Market-Based Approach, APDC, Kuala Lumpur, 1995.
+37. Ramani, K. V., Islam, M. N. and Reddy, A. K. N., Rural Energy System in the Asia-Pacific: A Survey of their Status, Planning and Management, APDC, Kuala Lumpur, 1993.
+38. Siddiqui, K. M. and Amjad, Mohammad. Marketing of Woodfuels in Peshawar City (Pakistan): A Case Study. RWEDP Field Document No. 38. Bangkok: FAO, 1993.
+39. Sompongse Chantavorapap, Thailand, in Ramani, K.V., M.N. Islam and A.K.N. Reddy (eds.), Rural Energy Systems In the Asia-Pacific: A Survey of their Status, Planning and Management, Asian and Pacific Development Development Centre (APDC), Kuala Lumpur, 1993.
+40. State Statistical Bureau, Chinese Statistical Yearbook 1995, China Statistical Publishing House, Beijing, 1995.
+41. TERI, Tata Energy Data Directory and Year Book, 1995/96, Bombay, 1995.
+42. UN. Energy Statistics Yearbook 1983-1994. UN, New York, various years.
+43. UNDP. Philippines: Defining an Energy Strategy for the Household Sector. UNDP, 1992.
+44. UNDP. Sectoral Energy Demand in Myanmar, UNDP, 1992.
+45. UNDP. Sectoral Energy Demand in Myanmar. UNDP, 1992.
+46. UNDP. Sectoral Energy Demand in Thailand, UNDP, 1989.
+47. United Nations. Energy Statistics: Definitions, Units of Measure and Conversion Factors.UN, New York, 1987.
+48. van den Broek, R. "Wood Energy Today for Tomorrow: A study for Europe/OECD," an unpublished manuscript, Utrecht University, The Netherlands, 1997.
+49. Water and Energy Commission Secretariat (WECS), Energy Sector Synopsis Report, 1992/93, Perspective Energy Plan Supporting Document No.1, Kathmandu, 1994.
+50. WECS. Energy Conservation and Demand Management: An Untapped Resources, Perspective Energy Plan Supporting Document No.6, Kathmandu, 1995.
+51. World Bank. Social Indicators of Development. WB, 1996.
+<section>4</section>
+APPENDICES
+Appendix 1
+Overview of databases in similar formats
+(Note: The contents of this Appendix is in separated Excel files)
+Tables A.1.1. to A.1.8.
+Table A.1.1.
+Table A.1.2.
+Table A.1.3.
+Table A.1.4.
+Table A.1.6.
+Table A.1.7.
+Table A.1.8. Total fuelwood consumption from FAO forest products yearbook; (1000 m3)
+Total wood energy consumption as a percentage of total removals from FAO forests product yearbook; [%]
+Total fuelwood consumption from FAO forest products yearbook; (PJ)
+Share of fuelwood in total energy consumption from FAO forest products yearbook; (%)
+Share of fuelwood in total biomass energy from FAO forest products yearbook; (%)
+Consumption of wood energy in various sectors from FAO forest products yearbook; (1000 m3)1
+Consumption of wood energy in various sectors from FAO forest products yearbook; (PJ)
+Tables A.2.1. to A.2.8.
+Table A.2.1.
+Table A.2.2.
+Table A.2.3.
+Table A.2.4.
+Table A.2.5.
+Table A.2.6.
+Table A.2.7.
+Table A.2.8. Total fuelwood consumption from UN Energy Statistics yearbook; (1000 m3)
+Total wood energy consumption as a percentage of total removals from UN energy statistical yearbook; [%]
+Total fuelwood consumption from UN energy statistics yearbook; (PJ)
+Share of fuelwood in total energy consumption from UN energy statistics yearbook; (%)
+Share of biomass energy in total energy consumption from UN energy statistics yearbook; (%)
+Share of fuelwood in total biomass energy consumption from UN energy statistics yearbook; (%)
+Consumption of wood energy in various sectors from UN energy statistics; (000 m3)
+Consumption of wood energy in various sectors from UN energy statistics; (PJ)
+Tables A.3.1. to A.3.8.
+Table A.3.1.
+Table A.3.2.
+Table A.3.3.
+Table A.3.4.
+Table A.3.5.
+Table A.3.6.
+Table A.3.7.
+Table A.3.8. Total fuelwood consumption from CEERD/AIT energy-environment database; (1000 m3)
+Total wood energy consumption as a percentage of total removals from CEERD/AIT energy-environment database; [%]
+Total fuelwood consumption from CEERD/AIT energy- environment database; (PJ)
+Share of traditional energy in total energy consumption from CEERD/AIT energy-environment database; (%)
+Share of fuelwood in total traditional energy consumption from CEERD/AIT energy-environment database; (%)
+Share of fuelwood in total energy consumption from CEERD/AIT energy-environment database; (%)
+Consumption of wood energy in various sectors CEERD/AIT energy-environment database;
+(' 000 m3)
+Consumption of wood energy in various sectors CEERD/AIT energy-environment database; (PJ)
+Appendix 2
+Projected Fuelwood Consumption
+(Note: The contents of this Appendix is in separated Excel files)
+Tables 2a and 2b
+Appendix 3
+Comparison of Projected Total Fuelwood Consumption (PJ)
+(Note: The contents of this Appendix is in separated Excel files)
+Tables 3a and 3b
+Appendix 4
+Projected Traditional Energy Consumption
+(Note: The contents of this Appendix is in separated Excel files)
+Tables 4a and 4b

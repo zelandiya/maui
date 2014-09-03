@@ -1,0 +1,58 @@
+<title>Satellite imagery to assist forest management</title>
+<section>1</section>
+Contents
+The decision-makers series: for whom and for what?
+This series, produced by the FAO Environment and Natural Resources Service. is intended for such decision-makers as heads and division directors of national and international organizations and administrations, as well as for project managers, planners and policy-makers of development institutions. Its aim is to present new possibilities of using remote sensing and geographic information systems techniques to aid planning for and management of renewable natural resources in agriculture, forestry and fisheries. This brochure is specifically intended for decision-makers concerned with the use and management of forest resources.
+Monitoring the changing forest situation
+The use and management of forest resources need to be based on the mapping and inventory of the forestry environment. In addition to these static data, the changing state of the forest, as a result of natural or human-induced causes (felling, clearing, fire, reforestation, decline. regeneration, etc.), also needs to be monitored. Remote sensing and geographic information systems (GIS) provide for the continuous monitoring of forest developments by detecting changes and for the integration of the results into existing databases.
+What is remote sensing?
+Remote sensing covers all techniques related to the analysis and use of data from satellites. such as Meteosat, NOAA-AVHRR, Landsat, SPOT and ERS-SAR, and from aerial photographs. The main purpose of remote sensing is to map and monitor the earth's resources. This brochure is based on the use of satellite data and geographic information systems.
+What is GIS?
+The term "geographic information system" is currently applied to computerized information storage. processing and retrieval systems that have hardware and software specifically designed to cope with geographically referenced spatial data and corresponding attribute information. Spatial data are commonly in the form of maps depicting topography, water availability, soil types, forests and grasslands, climate, geology, population, landownership, administrative boundaries, infrastructure (highways, railways, electricity or communications systems), etc. The capability of combining different maps in a single operation. known as "overlaying", is a key GIS function.
+SPOT multispectral image 1991
+Map of changes in Maâmora Forest (1989-1991) integrated with existing baseline data
+High-resolution satellite imagery
+The operational availability of high-resolution satellite imagery, namely Landsat Thematic Mapper, SPOT, Soyouz and ERS-SAR, opens up new possibilities for investigating and monitoring forest resources. Compared with information acquired by traditional methods. these data offer a number of advantages:
+o Satellite imagery can cover vast expanses of land (thousands to tens of thousands of km² on one image). It can be acquired regularly over the same area and recorded in different wavelengths, thus tracking the state of forest resources.
+o Satellite data can be acquired without encountering administrative restrictions.
+Case study in morocco: Monitoring and management of Maâmora national forest
+Maâmora National Forest. covering about 150000 ha, lies along the Atlantic coast to the northwest of Rabat. It is mainly made up of a native species (cork oak) and certain introduced species (eucalyptus. pine, acacia). The forest is divided into five cantons, 33 groups and 460 forest plots. Its management plan has just been revised and its cartographic documents digitized (plot plans, types of stand). A study was conducted on the changing state of Maâmora Forest, using remote sensing techniques and GIS, to supplement the static data and improve its management. The changing forest situation (felling. reforestation) was mapped by applying the differences method and by supervised classification of the SPOT multispectral images of 1989 and 1991. The results of this multidate study and existing data (plot plan, topography, etc.) were collated and fed into a GIS.
+Remote sensing and GIS: Decision-making aids
+The multidate study of Maâmora Forest from SPOT images and additional data (existing documents, ground surveys) provided forest managers and developers with:
+o The characterization and description of the physical environment of Maâmora Forest through detailed analysis by photo-interpretation of the SPOT panchromatic and multispectral images, outlining their contributions and limitations as regards the forestry environment (types of stand, infrastructures);
+o A cartographic representation of forest change at a scale of 1/50000 and a corresponding statistical inventory in terms of felling and reforestation during a two-year interval. This mapping helps track management progress and spotlights illicit felling;
+o The development and structuring of a database from the mapped changes and available conventional data, in the form of a GIS. This facilitates the regular monitoring and continuous management of the forest.
+Changes in Maâmora Forest from 1989 to 1991
+SPOT image 1989
+SPOT image 1991
+Image difference produced by subtraction of SPOT images 1989 and 1991 (C: felling, F: forest, A: non-forest)
+Map of forest felling obtained by classification of image difference (C: felling, F: forest, NF: non-forest)
+Evaluation and recommendations
+Costs and delivery times
+Costs (US$/km²)
+Time (months)
+Acquisition of satellite data
+Image processing and interpretation
+Ground survey
+GIS and databases
+Map preparation
+Total
+The evaluation of costs and delivery times is based on the overall implementation of the study through a combination of national expertise and minimal international assistance. The cost can be seen to be relatively high. However, total cost and delivery time will then almost halve at operational mode. for the following reasons:
+o acquisition of images for one date instead of two;
+o less image processing and groundwork;
+o with the completed digitization of existing documents, application of the GIS will be limited to analysis and updating of the database.
+A cost-effective technique
+The multidate use of satellite imagery has provided access to synoptic and up-to-date information for the mapping. illustration and modelling of natural and human-induced events, such as regular felling. illicit felling. forest fires, reforestation and regeneration. This technique helps decision-making for the enhanced management and development of forest resources. The building of a database provides for the statistical and spatial analysis of data for the improved planning of future actions.
+Recommendations
+The methodology developed has led to the implementation of a GIS-based forest monitoring system that will be entirely operational once all the conventional data have been digitized and integrated (plot plan. topographic map, map of types of stand, management operations). The database can be updated on a regular basis (two to three years for example) depending on the scale and frequency of change in the forestry environment. As Maâmora is a representative Mediterranean forest, this methodology can be used in other countries of the Mediterranean basin to support forest management, subject to the availability of reliable databases and the necessary expertise.
+This project was carried out by the Royal Centre of Spatial Remote Sensing and the Ministry of Agriculture and Agricultural Development of Morocco (MAMVA/AEFCS).
+The Remote Sensing for Decision-Makers Series can be obtained from:
+Environment and Natural Resources Service,
+Sustainable Development Department,
+FAO, Viale delle Terme di Caracalla, 00100 Rome, Italy.
+Tel.: (0039-6) 570-55583; tax: (0039-6) 570-55731;
+e-mail: Carlo.Travaglia@fao.org
+A list of the issues available in this series is reported on the Internet:
+http://www.fao.org/waicent/faoinfo/sustdev/Welcome_.htm
+The designations employed and the presentation of material in this brochure do not imply the expression of any opinion whatsoever on the part of the Food and Agriculture Organization of the United Nations concerning the legal status of any country. territory. city or area or of its authority, or concerning the delimitation of its frontiers or boundaries
+Contents

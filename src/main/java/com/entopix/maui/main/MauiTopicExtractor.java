@@ -2,7 +2,7 @@ package com.entopix.maui.main;
 
 /*
  *    MauiTopicExtractor.java
- *    Copyright (C) 2001-2009 Eibe Frank, Olena Medelyan
+ *    Copyright (C) 2001-2014 Eibe Frank, Alyona Medelyan
  *
  *    This program is free software; you can redistribute it and/or modify
  *    it under the terms of the GNU General Public License as published by

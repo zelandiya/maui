@@ -5,7 +5,7 @@ package com.entopix.maui.stemmers;
  * the Stemmer implemented in C i found here:
  * http://members.unine.ch/jacques.savoy/clef/index.html
  *
- * @author Olena Medelyan
+ * @author Alyona Medelyan (medelyan@gmail.com)
  */
 public class SpanishStemmer extends Stemmer {
 

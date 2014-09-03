@@ -3,7 +3,7 @@ package com.entopix.maui.stemmers;
 /**
  * If selected in the stemmer option in KEA no stemming is applied.
  *
- * @author olena
+ * @author Alyona Medelyan (medelyan@gmail.com)
  *
  */
 public class NoStemmer extends Stemmer {

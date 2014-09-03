@@ -3,7 +3,7 @@ package com.entopix.maui.stemmers;
 /**
  * A basic stemmer that only performs the first step of the 
  * PorterStemmer algorithm: removing of the plural endings.
- * @author olena
+ * @author Alyona Medelyan (medelyan@gmail.com)
  *
  */
 

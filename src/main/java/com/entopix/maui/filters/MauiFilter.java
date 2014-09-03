@@ -2,7 +2,7 @@ package com.entopix.maui.filters;
 
 /*
  *    MauiTopicExtractor.java
- *    Copyright (C) 2001-2009 Eibe Frank, Olena Medelyan
+ *    Copyright (C) 2001-2014 Eibe Frank, Alyona Medelyan
  *
  *    This program is free software; you can redistribute it and/or modify
  *    it under the terms of the GNU General Public License as published by
@@ -65,7 +65,7 @@ import weka.classifiers.meta.Bagging;
  * sets per document are available. If the input document doesn't come with
  * author-assigned topics, the class values for that document will be missing.
  *
- * @author Eibe Frank (eibe@cs.waikato.ac.nz), Olena Medelyan (olena@cs.waikato.ac.nz)
+ * @author Eibe Frank (eibe@cs.waikato.ac.nz), zelandiya (medelyan@gmail.com)
  * @version 2.0
  */
 public class MauiFilter extends Filter {

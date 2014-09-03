@@ -31,7 +31,7 @@ import org.slf4j.LoggerFactory;
  * vocabulary_name.use (with "ID_NON-DESCR \t ID_DESCRIPTOR" per line)
  * vocabulary_name.rel (with "ID \t RELATED_ID1 RELATED_ID2 ... " per line)
  *
- * @author Olena Medelyan
+ * @author Alyona Medelyan (medelyan@gmail.com)
  */
 public class Vocabulary {
 

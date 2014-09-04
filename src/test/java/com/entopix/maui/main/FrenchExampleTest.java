@@ -59,7 +59,7 @@ public class FrenchExampleTest {
 		modelBuilder.setFrequencyFeatures(false);
 		modelBuilder.setPositionsFeatures(true);
 		modelBuilder.setLengthFeature(true);
-		modelBuilder.setNodeDegreeFeature(true);
+		modelBuilder.setThesaurusFeatures(true);
 		
 		// Run model builder
 		MauiFilter filter = modelBuilder.buildModel(DataLoader.loadTestDocuments(trainDir));

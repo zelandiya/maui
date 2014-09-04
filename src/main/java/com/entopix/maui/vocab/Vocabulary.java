@@ -730,4 +730,9 @@ public class Vocabulary {
             super(message);
         }
     }
+
+	public double getGenerality(String id) {
+		// TODO: insert generality method using SPARQL query
+		return 0.0;
+	}
 }

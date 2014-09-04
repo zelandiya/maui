@@ -47,6 +47,7 @@ public class Evaluator {
 				precisionStatistics[i] = 0.0;	
 				recallStatistics[i] = 0.0;
 			}
+			i++;
 		}
 
 		if (correctStatistics.length != 0) {

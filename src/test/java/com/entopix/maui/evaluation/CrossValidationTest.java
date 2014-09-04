@@ -13,6 +13,7 @@ import com.entopix.maui.filters.MauiFilter;
 import com.entopix.maui.filters.MauiFilter.MauiFilterException;
 import com.entopix.maui.main.MauiModelBuilder;
 import com.entopix.maui.main.MauiTopicExtractor;
+import com.entopix.maui.stemmers.PorterStemmer;
 import com.entopix.maui.stemmers.SremovalStemmer;
 import com.entopix.maui.stemmers.Stemmer;
 import com.entopix.maui.stopwords.Stopwords;
@@ -32,14 +33,18 @@ public class CrossValidationTest {
 		// Input data
 		String vocabularyPath = "/Users/zelandiya/Documents/Data/Entopix/AGROVOC"; //"src/test/resources/data/vocabularies";
 		String vocabularyName = "agrovoc_en"; // "agrovoc_sample";
-		String datasetPath = "/Users/zelandiya/Documents/Data/Entopix/fao780"; //"src/test/resources/data/term_assignment/train";
+//		String datasetPath = "/Users/zelandiya/Documents/Data/Entopix/fao780"; //"src/test/resources/data/term_assignment/train";
+//		
+//		String vocabularyPath = "src/test/resources/data/vocabularies";
+//		String vocabularyName = "agrovoc_sample";
+		String datasetPath = "src/test/resources/data/term_assignment/train";
 		
 		// Number of validation folds
 		// If fold equals the number of documents in the dataset,
 		// then it's a Leave-One-Out
 		int fold = 10;
 		
-		Stemmer stemmer = new SremovalStemmer();
+		Stemmer stemmer = new PorterStemmer();
 	    String language = "en";
 	    String encoding = "UTF-8";
 		Stopwords stopwords = StopwordsFactory.makeStopwords(language);
@@ -73,7 +78,9 @@ public class CrossValidationTest {
 		modelBuilder.setFrequencyFeatures(true);
 		modelBuilder.setPositionsFeatures(true);
 		modelBuilder.setLengthFeature(true);
-		modelBuilder.setNodeDegreeFeature(true);
+		modelBuilder.setThesaurusFeatures(true);
+		modelBuilder.setWikipediaFeatures(false);
+		
 		modelBuilder.setVocabulary(vocabulary);
 		modelBuilder.setVocabularyName(vocabularyName);
 		modelBuilder.modelName = "test";
@@ -110,7 +117,6 @@ public class CrossValidationTest {
 			
 			topicExtractor.setModel(mauiFilter);
 			List<MauiTopics> topics = topicExtractor.extractTopics(test);
-			topicExtractor.printTopics(topics);
 			double[] PRF = Evaluator.evaluateTopics(topics);
 			precision[run - 1] = PRF[0];
 			recall[run - 1] = PRF[1];

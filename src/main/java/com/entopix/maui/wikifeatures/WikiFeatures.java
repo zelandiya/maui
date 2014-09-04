@@ -1,33 +1,75 @@
 package com.entopix.maui.wikifeatures;
-import java.io.BufferedInputStream;
-import java.io.BufferedOutputStream;
 import java.io.BufferedReader;
-import java.io.File;
 import java.io.FileInputStream;
 import java.io.FileNotFoundException;
-import java.io.FileOutputStream;
 import java.io.IOException;
 import java.io.InputStream;
 import java.io.InputStreamReader;
+import java.io.Serializable;
 import java.util.HashMap;
-import java.util.zip.GZIPOutputStream;
 import java.util.zip.GZIPInputStream;
 
-import com.esotericsoftware.kryo.Kryo;
-import com.esotericsoftware.kryo.io.Output;
-import com.esotericsoftware.kryo.io.Input;
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
 
 
-public class WikiFeatures {
+public class WikiFeatures implements Serializable {
 
+	private static final long serialVersionUID = 1L;
+	
+	private static final Logger log = LoggerFactory.getLogger(WikiFeatures.class);
+	
 	public HashMap<String,WikiStringFeatures> features;
 	
+	public int getWikipediaGenerality(String inputString) {
+		if (features.containsKey(inputString)) {
+			return features.get(inputString).generality;
+		} else {
+			String capitalizedFirst = capitalizeFirst(inputString);
+			if (features.containsKey(capitalizedFirst)) {
+				return features.get(capitalizedFirst).generality;
+			}
+		}
+		return -1;
+	}
+	
+	public int getInversedWikipediaFrequency(String inputString) {
+		if (features.containsKey(inputString)) {
+			return features.get(inputString).number_in_links;
+		} else {
+			String capitalizedFirst = capitalizeFirst(inputString);
+			if (features.containsKey(capitalizedFirst)) {
+				return features.get(capitalizedFirst).number_in_links;
+			}
+		}
+		return -1;
+	}
+	
+	public double getWikipediaKeyphraseness(String inputString) {
+		// TODO: Should work on lower case also
+		if (features.containsKey(inputString)) {
+			return features.get(inputString).keyphrasness;
+		} else {
+			String capitalizedFirst = capitalizeFirst(inputString);
+			if (features.containsKey(capitalizedFirst)) {
+				return features.get(capitalizedFirst).keyphrasness;
+			}
+		}
+		return 0.0;
+	}
+ 	
+	private String capitalizeFirst(String inputString) {
+		char first = inputString.charAt(0);
+		return Character.toUpperCase(first) + inputString.substring(1);
+	}
+
 	public void load_csv(String filename, boolean gzipped ) {
 		BufferedReader br = null;
 		String line = "";
 		features = new HashMap<String,WikiStringFeatures>();
 		try
 		{
+			log.info("Loading the data required for Wikipedia Features...");
 			InputStream r = new FileInputStream(filename);
 			if( gzipped )
 				r = new GZIPInputStream( r );
@@ -51,13 +93,15 @@ public class WikiFeatures {
 				}
 				this.features.put(link_name,features);
 			}
+			
+			log.info("...completed!");
 		}
 		catch (FileNotFoundException e) 
 		{
-			e.printStackTrace();
+			log.error("File " + filename + " could not be found!");
 		} catch (IOException e) 
 		{
-			e.printStackTrace();
+			log.error("Error reading " + filename + "!");
 		} 
 		catch (NumberFormatException e) 
 		{
@@ -69,46 +113,9 @@ public class WikiFeatures {
 					br.close();
 				} 
 				catch (IOException e) {
-					e.printStackTrace();
+					log.error("Error closing " + filename + "!");
 				}
 			}
 		}
 	}
-	
-	public void load_serialized(String filename) {
-		try {
-			Kryo kryo = new Kryo();
-		    kryo.register(HashMap.class);
-		    kryo.register(WikiStringFeatures.class);
-		    File file = new File(filename);
-			Input input = new Input(
-					new GZIPInputStream(
-					new BufferedInputStream(
-					new FileInputStream(file))));
-		    kryo.readObject(input, HashMap.class);
-		    input.close();
-		} catch(IOException i) {
-			System.err.println("Error writing index into " + filename);
-			i.printStackTrace();
-		}
-	}
-
-	public void save_serialized(String filename) {
-		try {
-			Kryo kryo = new Kryo();
-		    kryo.register(HashMap.class);
-		    kryo.register(WikiStringFeatures.class);
-		    File file = new File(filename);
-			Output output = new Output(
-					new GZIPOutputStream(
-					new BufferedOutputStream(
-					new FileOutputStream(file))));
-		    kryo.writeObject(output, features);
-		    output.close();
-		} catch(IOException i) {
-			System.err.println("Error writing index into " + filename);
-			i.printStackTrace();
-		}
-	}
-
 }

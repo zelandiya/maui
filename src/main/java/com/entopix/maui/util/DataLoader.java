@@ -40,7 +40,7 @@ public class DataLoader {
 		
 		File datasetDir = new File(datasetPath);
 		if (!datasetDir.exists()) {
-			log.error("Directory " + datasetPath + " not found!");
+			log.error("Directory " + datasetDir.getAbsolutePath() + " not found!");
 			throw new RuntimeException();
 		}
 

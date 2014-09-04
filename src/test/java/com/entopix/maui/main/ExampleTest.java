@@ -70,7 +70,7 @@ public class ExampleTest {
 		modelBuilder.setFrequencyFeatures(true);
 		modelBuilder.setPositionsFeatures(true);
 		modelBuilder.setLengthFeature(true);
-		modelBuilder.setNodeDegreeFeature(true);
+		modelBuilder.setThesaurusFeatures(true);
 	}
 
 	/**

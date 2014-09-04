@@ -21,9 +21,9 @@ public class WikiFeaturesTest {
 		log.info("Reading in Took "+(endTime-startTime)+"ms");
 		
 		log.info("Auckland:");
-		log.info("\tgenerality: " + features.features.get("Auckland").generality);
-		log.info("\tkeyphraseness: " + features.features.get("Auckland").keyphrasness);
-		log.info("\tnumber of inlinks: " + features.features.get("Auckland").number_in_links);
+		log.info("\tgenerality: " + features.getWikipediaGenerality("auckland"));
+		log.info("\tkeyphraseness: " + features.getWikipediaKeyphraseness("auckland"));
+		log.info("\tnumber of inlinks: " + features.getInversedWikipediaFrequency("auckland"));
 		log.info("New Zealand");
 		log.info("\tgenerality: " + features.features.get("New Zealand").generality);
 		log.info("\tkeyphraseness: " + features.features.get("New Zealand").keyphrasness);

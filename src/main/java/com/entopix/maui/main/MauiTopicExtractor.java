@@ -155,7 +155,7 @@ public class MauiTopicExtractor implements OptionHandler {
 	 * Debugging mode?
 	 */
 	public boolean debugMode = false;
-	
+
 	/**
 	 * Cut off threshold for the topic probability.
 	 * Minimum probability of a topic as returned by the classifier
@@ -322,13 +322,13 @@ public class MauiTopicExtractor implements OptionHandler {
 		debugMode = Utils.getFlag('d', options);
 		this.buildGlobalDictionary = Utils.getFlag('b', options);
 		this.additionalInfo = Utils.getFlag('a', options);
-		
+
 
 		String cutOffProbability = Utils.getOption('c', options);
 		if (cutOffProbability.length() > 0) {
 			this.cutOffTopicProbability = Double.parseDouble(cutOffProbability);
 		}
-		
+
 		Utils.checkForRemainingOptions(options);
 	}
 
@@ -381,14 +381,14 @@ public class MauiTopicExtractor implements OptionHandler {
 		}
 		return options;
 	}
-	
-	 public void setVocabulary(Vocabulary vocabulary) {
-	    	this.vocabulary = vocabulary;
-	    }
-	 
-	 public void setTopicProbability(double prob) {
-		 this.cutOffTopicProbability = prob;
-	 }
+
+	public void setVocabulary(Vocabulary vocabulary) {
+		this.vocabulary = vocabulary;
+	}
+
+	public void setTopicProbability(double prob) {
+		this.cutOffTopicProbability = prob;
+	}
 
 	/**
 	 * Returns an enumeration describing the available options.
@@ -487,7 +487,7 @@ public class MauiTopicExtractor implements OptionHandler {
 	public List<MauiTopics> extractTopics(List<MauiDocument> documents) throws MauiFilterException {
 
 		List<MauiTopics> allDocumentTopics = new ArrayList<MauiTopics>();
-		
+
 		// Weka data structures
 		FastVector atts = new FastVector(3);
 		atts.addElement(new Attribute("filename", (FastVector) null));
@@ -521,17 +521,16 @@ public class MauiTopicExtractor implements OptionHandler {
 			mauiFilter.input(data.instance(0));
 
 			data = data.stringFreeStructure();
-			if (debugMode) {
-				log.info("-- Processing document: " + document.getFileName());
-			}
+			log.info("-- Processing document: " + document.getFileName());
 			
+
 			Instance[] topRankedInstances = new Instance[topicsPerDocument];
 			Instance inst;
 
 			MauiTopics documentTopics = new MauiTopics(document.getFilePath());
-			
+
 			documentTopics.setPossibleCorrect(document.getTopicsString().split("\n").length);
-			
+
 			int index = 0;
 			double probability;
 			Topic topic;
@@ -540,7 +539,7 @@ public class MauiTopicExtractor implements OptionHandler {
 			if (debugMode) {
 				log.debug("-- Keyphrases and feature values:");
 			}
-			
+
 			// Iterating over all extracted topic instances
 			while ((inst = mauiFilter.output()) != null) {
 				probability = inst.value(mauiFilter.getProbabilityIndex());
@@ -550,9 +549,8 @@ public class MauiTopicExtractor implements OptionHandler {
 						title = topRankedInstances[index].
 								stringValue(mauiFilter.getOutputFormIndex());
 						id = "1"; // topRankedInstances[index].
-								//stringValue(mauiFilter.getOutputFormIndex() + 1); // TODO: Check
+						//stringValue(mauiFilter.getOutputFormIndex() + 1); // TODO: Check
 						topic = new Topic(title,  id,  probability);
-						log.info(title + "\t" + probability);
 						
 						if ((int) topRankedInstances[index].
 								value(topRankedInstances[index].numAttributes() - 1) == 1) {
@@ -560,19 +558,19 @@ public class MauiTopicExtractor implements OptionHandler {
 						} else {
 							topic.setCorrectness(false);
 						}
-						
+
 						documentTopics.addTopic(topic);
-						if (debugMode) {
-							log.debug("Topic " + title + " " + id + " " + probability);
-						}
+						log.info("Topic " + title + " " + id + " " + probability + " > " + topic.isCorrect());
 						
 						index++;
 					}
 				}
 			}
+			
+			
 			allDocumentTopics.add(documentTopics);
 		}
-		
+
 		mauiFilter.batchFinished();
 		return allDocumentTopics;
 	}
@@ -610,13 +608,12 @@ public class MauiTopicExtractor implements OptionHandler {
 		}
 
 	}
-	
+
 	public void printTopics(List<MauiTopics> allDocumentsTopics) {
 		FileOutputStream out = null;
 		PrintWriter printer = null;
-		
+
 		for (MauiTopics documentTopics : allDocumentsTopics) { 
-			log.info("Topics for document " + documentTopics.getFilePath());
 			try {
 				out = new FileOutputStream(documentTopics.getFilePath().replace(".txt", ".maui"));
 				if (!documentEncoding.equals("default")) {
@@ -624,15 +621,14 @@ public class MauiTopicExtractor implements OptionHandler {
 				} else {
 					printer = new PrintWriter(out);
 				}
-				
+
 				for (Topic topic : documentTopics.getTopics()) {
-						log.info("Topic " + topic.getTitle() + " " + topic.getProbability());
-						printer.print(topic.getTitle());
-						if (additionalInfo) {
-							printer.print("\t");
-							printer.print(topic.getProbability());
-						}
-						printer.println();
+					printer.print(topic.getTitle());
+					if (additionalInfo) {
+						printer.print("\t");
+						printer.print(topic.getProbability());
+					}
+					printer.println();
 				}
 				printer.close();
 				out.close();
@@ -643,7 +639,7 @@ public class MauiTopicExtractor implements OptionHandler {
 			}
 		}	
 	}
-	
+
 	public void setModel(MauiFilter mauiFilter) {
 		this.mauiFilter = mauiFilter;
 	}
@@ -678,7 +674,7 @@ public class MauiTopicExtractor implements OptionHandler {
 			List<MauiTopics> topics = topicExtractor.extractTopics(documents);
 			topicExtractor.printTopics(topics);
 			Evaluator.evaluateTopics(topics);
-			
+
 
 		} catch (Exception e) {
 
@@ -695,5 +691,5 @@ public class MauiTopicExtractor implements OptionHandler {
 		}
 	}
 
-	
+
 }

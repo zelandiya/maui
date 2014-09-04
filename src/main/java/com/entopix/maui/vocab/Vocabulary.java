@@ -88,10 +88,9 @@ public class Vocabulary {
 	 * @throws IOException
 	 * @throws VocabularyException 
 	 * */
-	public void initializeVocabulary(String vocabularyName, String vocabularyFormat, String vocabularyDirectory, boolean serialize)
+	public void initializeVocabulary(String vocabularyName, String vocabularyFormat, String vocabularyDirectory)
 			throws IOException, VocabularyException {
 
-		this.serialize = serialize;
 		this.vocabularyDirectory = vocabularyDirectory;
 		this.vocabularyName = vocabularyName;
 
@@ -196,7 +195,7 @@ public class Vocabulary {
 	 */
 	public void initializeFromModel(Model model) {
 		
-		vocabStore = VocabularyStoreFactory.CreateVocabStore(vocabularyDirectory, vocabularyName, serialize);
+		vocabStore = VocabularyStoreFactory.CreateVocabStore(vocabularyDirectory, vocabularyName, stemmer, serialize);
 		
 		// we already have a de-serialized vocabStore
 		if (vocabStore.isInitialized()) {
@@ -212,8 +211,6 @@ public class Vocabulary {
 		RDFNode value;
 		Relation rel;
 		
-		HashMap<String, ArrayList<String>> children = new HashMap<String, ArrayList<String>>();
-
 		// to create IDs for non-descriptors!
 		int count = 0;
 		// Iterating over all statements in the SKOS file
@@ -342,7 +339,7 @@ public class Vocabulary {
 		vocabStore.finishedInitialized();
 
 		if (serialize) {
-			VocabularyStoreFactory.SerializeNewVocabStore( vocabularyDirectory, vocabularyName, vocabStore);
+			VocabularyStoreFactory.SerializeNewVocabStore( vocabularyDirectory, vocabularyName, vocabStore, stemmer);
 		}
 	}
 
@@ -356,7 +353,7 @@ public class Vocabulary {
 	public void initializeFromSKOSFile(File skosFile) throws IOException {
 		
 		if (serialize) {
-			vocabStore = VocabularyStoreFactory.CreateVocabStore(vocabularyDirectory, vocabularyName, serialize);
+			vocabStore = VocabularyStoreFactory.CreateVocabStore(vocabularyDirectory, vocabularyName, stemmer, serialize);
 			
 			// we already have a de-serialized vocabStore
 			if (vocabStore.isInitialized()) {
@@ -389,7 +386,7 @@ public class Vocabulary {
 	 */
 	public void initializeFromTXTFiles(File enFile, File useFile, File relFile) throws IOException {
 
-		vocabStore = VocabularyStoreFactory.CreateVocabStore(vocabularyDirectory, vocabularyName, serialize);
+		vocabStore = VocabularyStoreFactory.CreateVocabStore(vocabularyDirectory, vocabularyName, stemmer, serialize);
 		
 		// we already have a de-serialized vocabStore
 		if (vocabStore.isInitialized()) {
@@ -404,7 +401,7 @@ public class Vocabulary {
 		vocabStore.finishedInitialized();
 
 		if (serialize) {
-			VocabularyStoreFactory.SerializeNewVocabStore( vocabularyDirectory, vocabularyName, vocabStore );
+			VocabularyStoreFactory.SerializeNewVocabStore( vocabularyDirectory, vocabularyName, vocabStore, stemmer);
 		}
 	}
 

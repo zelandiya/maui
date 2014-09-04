@@ -76,7 +76,7 @@ public class VocabularyStore_Original extends VocabularyStore implements Externa
     }
 
     public void addRelationship(String id_string, String name, Vocabulary.Relation rel){
-   //     relationIndex.put(id_string+"-"+ name, rel);
+        // relationIndex.put(id_string+"-"+ name, rel);
     }
 
     public int getNumTerms() {

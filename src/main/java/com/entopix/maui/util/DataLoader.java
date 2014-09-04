@@ -24,7 +24,7 @@ public class DataLoader {
      * @throws Exception 
      */
     public static void loadVocabulary(Vocabulary vocabulary, String vocabularyDirectory, String vocabularyName) throws Exception {
-       vocabulary.initializeVocabulary(vocabularyName, "skos", vocabularyDirectory, true);
+       vocabulary.initializeVocabulary(vocabularyName, "skos", vocabularyDirectory);
     }
     
     

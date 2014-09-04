@@ -53,6 +53,7 @@ public class CrossValidationTest {
 	    vocabulary.setStemmer(stemmer);
 		vocabulary.setLanguage(language);
     	vocabulary.setStopwords(stopwords);
+    	vocabulary.setSerialize(false);
     	try {
 			DataLoader.loadVocabulary(vocabulary, vocabularyPath, vocabularyName);
 		} catch (Exception e) {

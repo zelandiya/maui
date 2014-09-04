@@ -12,6 +12,8 @@ import java.io.ObjectOutputStream;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
+import com.entopix.maui.stemmers.Stemmer;
+
 /**
  *
  * @author nathanholmberg
@@ -29,14 +31,14 @@ public class VocabularyStoreFactory {
             preferredClassType = preffered_type;
     }
 
-    private static String filenameForVocabulary(String vocabularyDirectory, String vocabularyName) {
-        return vocabularyDirectory + "/" + vocabularyName + "_" + preferredClassType.getName() + ".serialized";
+    private static String filenameForVocabulary(String vocabularyDirectory, String vocabularyName, Stemmer stemmer) {
+        return vocabularyDirectory + "/" + vocabularyName + "_" + preferredClassType.getName() + "_" + stemmer.getClass().getSimpleName() + ".serialized";
     }
 
-    public static VocabularyStore CreateVocabStore(String vocabularyDirectory, String vocabularyName, boolean serialize) {
+    public static VocabularyStore CreateVocabStore(String vocabularyDirectory, String vocabularyName, Stemmer stemmer, boolean serialize) {
         VocabularyStore vocab_store = null;
         if (serialize) {
-	        String filename = filenameForVocabulary(vocabularyDirectory, vocabularyName);
+	        String filename = filenameForVocabulary(vocabularyDirectory, vocabularyName, stemmer);
         	log.info("Deserializing vocabulary from " + filename);
 	        try {
 	            FileInputStream fis = new FileInputStream(filename);
@@ -63,12 +65,12 @@ public class VocabularyStoreFactory {
         return vocab_store;
     }
 
-    public static void SerializeNewVocabStore(String vocabularyDirectory, String vocabularyName, VocabularyStore vocabStore) {
+    public static void SerializeNewVocabStore(String vocabularyDirectory, String vocabularyName, VocabularyStore vocabStore, Stemmer stemmer) {
         if (!vocabStore.getWantsSerialization()) {
             return;
         }
         log.info("Serializing loaded vocabulary");
-        String filename = filenameForVocabulary(vocabularyDirectory, vocabularyName);
+        String filename = filenameForVocabulary(vocabularyDirectory, vocabularyName, stemmer);
         try {
             FileOutputStream fos = new FileOutputStream(filename);
             ObjectOutputStream out = new ObjectOutputStream(fos);

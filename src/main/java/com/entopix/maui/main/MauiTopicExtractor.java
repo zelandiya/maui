@@ -463,7 +463,9 @@ public class MauiTopicExtractor implements OptionHandler {
 
 			vocabulary.setDebug(debugMode);
 			vocabulary.setLanguage(documentLanguage);
-			vocabulary.initializeVocabulary(vocabularyName, vocabularyFormat, vocabularyDirectory, true);
+			// make serialize global var
+			vocabulary.setSerialize(true);
+			vocabulary.initializeVocabulary(vocabularyName, vocabularyFormat, vocabularyDirectory);
 
 		} catch (Exception e) {
 			log.error("Failed to load thesaurus!", e);

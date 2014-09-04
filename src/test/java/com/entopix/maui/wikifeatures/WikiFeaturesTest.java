@@ -1,5 +1,6 @@
 package com.entopix.maui.wikifeatures;
 
+import org.junit.Ignore;
 import org.junit.Test;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
@@ -9,7 +10,8 @@ public class WikiFeaturesTest {
 	
 	private static final Logger log = LoggerFactory.getLogger(WikiFeaturesTest.class);
 	
-	@Test
+	@Test 
+	@Ignore
 	public void wikiFeaturesTest()
 	{
 		WikiFeatures features = new WikiFeatures();

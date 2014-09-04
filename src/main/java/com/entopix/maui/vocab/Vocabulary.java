@@ -8,7 +8,6 @@ import java.io.InputStream;
 import java.io.InputStreamReader;
 import java.util.Arrays;
 import java.util.ArrayList;
-import java.util.HashMap;
 import java.util.zip.GZIPInputStream;
 
 import com.entopix.maui.stemmers.Stemmer;
@@ -51,7 +50,7 @@ public class Vocabulary {
 		kRelationNumRelations
 	};
 
-	
+
 	private VocabularyStore vocabStore;
 	private String vocabularyName;
 	private String vocabularyDirectory;
@@ -103,9 +102,9 @@ public class Vocabulary {
 				throw new IOException("File " + skosFile.getAbsolutePath() + " not found!");
 			}
 			initializeFromSKOSFile(skosFile);
-			
+
 		} else if (vocabularyFormat.equals("text")) {
-			
+
 			/** Location of the vocabulary's *.en file
 			 * containing all terms of the vocabularies and their ids.*/
 			File enFile = new File(vocabularyDirectory + "/" + vocabularyName + ".en");
@@ -121,7 +120,7 @@ public class Vocabulary {
 				throw new IOException("File " + useFile.getAbsolutePath()
 						+ " does not exist.");
 			}
-			
+
 			/** Location of the vocabulary's *.rel file
 			 * containing semantically related terms for each descriptor in the vocabulary.*/
 			File relFile = new File(vocabularyDirectory + "/" + vocabularyName + ".rel");
@@ -135,10 +134,10 @@ public class Vocabulary {
 			throw new VocabularyException(vocabularyFormat
 					+ "is an unsupported vocabulary format! Use skos or text");
 		}
-		
+
 	}
-	
-	
+
+
 	/** Initializes vocabulary from an RDF Model object
 	 *  
 	 * @param vocabularyName The name of the vocabulary file (before extension).
@@ -153,8 +152,8 @@ public class Vocabulary {
 			throw new VocabularyException("Model can't be null!");
 		}
 	}
-	
-	
+
+
 
 	public void setLanguage(String language) {
 		this.language = language;
@@ -183,20 +182,20 @@ public class Vocabulary {
 	public void setVocabularyStore(VocabularyStore store) {
 		vocabStore = store;
 	}
-	
+
 	public void setSerialize(boolean serialize) {
 		this.serialize = serialize;
 	}
-	
-	
+
+
 
 	/**
 	 * Loading RDF Model into a VocabularyStore structure for fast access.
 	 */
 	public void initializeFromModel(Model model) {
-		
+
 		vocabStore = VocabularyStoreFactory.CreateVocabStore(vocabularyDirectory, vocabularyName, stemmer, serialize);
-		
+
 		// we already have a de-serialized vocabStore
 		if (vocabStore.isInitialized()) {
 			return;
@@ -210,7 +209,7 @@ public class Vocabulary {
 		Property property;
 		RDFNode value;
 		Relation rel;
-		
+
 		// to create IDs for non-descriptors!
 		int count = 0;
 		// Iterating over all statements in the SKOS file
@@ -222,8 +221,8 @@ public class Vocabulary {
 			// id of the concept (Resource), e.g. "c_4828"
 			concept = stmt.getSubject();
 			String id_string = concept.getURI();
-			
-			
+
+
 			// relation or Property of the concept, e.g. "narrower"
 			property = stmt.getPredicate();
 			String relation = property.getLocalName();
@@ -294,20 +293,20 @@ public class Vocabulary {
 
 				// adds directly related term
 				vocabStore.addRelatedTerm(id_string, name);
-				
-//				if (rel == Relation.kRelationNarrower) {
-//					if (!children.containsKey(id_string)) {
-//						children.put(id_string, new ArrayList<String>());
-//					}
-//					if (!children.get(id_string).contains(name))
-//						children.get(id_string).add(name);
-//				} else if (rel == Relation.kRelationBroader) {
-//					if (!children.containsKey(name)) {
-//						children.put(name, new ArrayList<String>());
-//					}
-//					if (!children.get(name).contains(id_string))
-//						children.get(name).add(id_string);
-//				}
+
+				//				if (rel == Relation.kRelationNarrower) {
+				//					if (!children.containsKey(id_string)) {
+				//						children.put(id_string, new ArrayList<String>());
+				//					}
+				//					if (!children.get(id_string).contains(name))
+				//						children.get(id_string).add(name);
+				//				} else if (rel == Relation.kRelationBroader) {
+				//					if (!children.containsKey(name)) {
+				//						children.put(name, new ArrayList<String>());
+				//					}
+				//					if (!children.get(name).contains(id_string))
+				//						children.get(name).add(id_string);
+				//				}
 
 				vocabStore.addRelationship(id_string, name, rel);
 				if (rel == Relation.kRelationRelated) {
@@ -315,19 +314,19 @@ public class Vocabulary {
 				}
 			}
 		}
-		
-//		// adds indirectly related terms
-//		for (String id_string : children.keySet()) {
-//			for (String child1 : children.get(id_string)) {
-//				for (String child2 : children.get(id_string)) {
-//					if (!child1.equals(child2)) {
-//						// adds sibling as related term
-//						vocabStore.addRelatedTerm(child2, child1);
-//						vocabStore.addRelatedTerm(child1, child2);
-//					}
-//				}
-//			}	
-//		}
+
+		//		// adds indirectly related terms
+		//		for (String id_string : children.keySet()) {
+		//			for (String child1 : children.get(id_string)) {
+		//				for (String child2 : children.get(id_string)) {
+		//					if (!child1.equals(child2)) {
+		//						// adds sibling as related term
+		//						vocabStore.addRelatedTerm(child2, child1);
+		//						vocabStore.addRelatedTerm(child1, child2);
+		//					}
+		//				}
+		//			}	
+		//		}
 
 		if (debugMode) {
 			log.info("--- Statistics about the vocabulary: ");
@@ -343,7 +342,7 @@ public class Vocabulary {
 		}
 	}
 
-	
+
 
 	/**
 	 * Loads the Model from the SKOS file first, then initializes it.
@@ -351,10 +350,10 @@ public class Vocabulary {
 	 *
 	 */
 	public void initializeFromSKOSFile(File skosFile) throws IOException {
-		
+
 		if (serialize) {
 			vocabStore = VocabularyStoreFactory.CreateVocabStore(vocabularyDirectory, vocabularyName, stemmer, serialize);
-			
+
 			// we already have a de-serialized vocabStore
 			if (vocabStore.isInitialized()) {
 				return;
@@ -367,7 +366,7 @@ public class Vocabulary {
 			initializeFromModel(model);
 		}
 	}
-	
+
 	private Model readModelFromFile(File skosFile) throws IOException {
 		log.info("--- Loading RDF model from the SKOS file...");
 		Model model = ModelFactory.createDefaultModel();
@@ -376,7 +375,7 @@ public class Vocabulary {
 		return model;
 	}
 
-	
+
 
 	/**
 	 * Loading data from text files into a Vocabulary Store object for fast access.
@@ -387,17 +386,17 @@ public class Vocabulary {
 	public void initializeFromTXTFiles(File enFile, File useFile, File relFile) throws IOException {
 
 		vocabStore = VocabularyStoreFactory.CreateVocabStore(vocabularyDirectory, vocabularyName, stemmer, serialize);
-		
+
 		// we already have a de-serialized vocabStore
 		if (vocabStore.isInitialized()) {
 			return;
 		}
-		
+
 		log.info("--- Loading Vocabulary from text files...");
 		buildTEXT(enFile);
 		buildUSE(useFile);
 		buildREL(relFile);
-	
+
 		vocabStore.finishedInitialized();
 
 		if (serialize) {
@@ -615,7 +614,7 @@ public class Vocabulary {
 	 * which are stemmed and sorted into alphabetical order.
 	 */
 	public String normalizePhrase(String phrase) {
-	
+
 		String orig = phrase;
 		if (orig.endsWith("-") || orig.endsWith(".")) {
 			return orig;
@@ -716,17 +715,17 @@ public class Vocabulary {
 	public void setVocabularyName(String vocabularyName) {
 		this.vocabularyName = vocabularyName;	
 	}
-	
+
 	public class VocabularyException extends Exception {
-        /**
+		/**
 		 * 
 		 */
 		private static final long serialVersionUID = 1L;
 
 		public VocabularyException(String message) {
-            super(message);
-        }
-    }
+			super(message);
+		}
+	}
 
 	public double getGenerality(String id) {
 		// TODO: insert generality method using SPARQL query

@@ -872,15 +872,13 @@ public class MauiFilter extends Filter {
 			}
 		}
 
-		if (useThesaurusFeatures) {
+		if (useThesaurusFeatures && vocabulary != null) {
 			int nodeDegree = 0;
-			if (vocabulary != null) {
-				ArrayList<String> relatedTerms = vocabulary.getRelated(id);
-				if (relatedTerms != null) {
-					for (String relatedTerm : relatedTerms) {
-						if (candidates.get(relatedTerm) != null) {
-							nodeDegree++;
-						}
+			ArrayList<String> relatedTerms = vocabulary.getRelated(id);
+			if (relatedTerms != null) {
+				for (String relatedTerm : relatedTerms) {
+					if (candidates.get(relatedTerm) != null) {
+						nodeDegree++;
 					}
 				}
 			}
@@ -888,8 +886,8 @@ public class MauiFilter extends Filter {
 				//	log.info(candidate + " has node degree " + nodeDegree);
 			}
 			newInst[nodeDegreeIndex] = (double) nodeDegree;
-
 			newInst[generalityIndex] = vocabulary.getGenerality(id);
+			
 		}
 
 		if (useWikipediaFeatures) {

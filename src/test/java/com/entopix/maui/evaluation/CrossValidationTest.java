@@ -14,7 +14,6 @@ import com.entopix.maui.filters.MauiFilter.MauiFilterException;
 import com.entopix.maui.main.MauiModelBuilder;
 import com.entopix.maui.main.MauiTopicExtractor;
 import com.entopix.maui.stemmers.PorterStemmer;
-import com.entopix.maui.stemmers.SremovalStemmer;
 import com.entopix.maui.stemmers.Stemmer;
 import com.entopix.maui.stopwords.Stopwords;
 import com.entopix.maui.stopwords.StopwordsFactory;
@@ -37,7 +36,7 @@ public class CrossValidationTest {
 //		
 //		String vocabularyPath = "src/test/resources/data/vocabularies";
 //		String vocabularyName = "agrovoc_sample";
-		String datasetPath = "src/test/resources/data/term_assignment/train";
+		String datasetPath = "/Users/zelandiya/Documents/Data/Entopix/fao_test"; //"src/test/resources/data/term_assignment/train";
 		
 		// Number of validation folds
 		// If fold equals the number of documents in the dataset,

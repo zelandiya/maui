@@ -89,7 +89,7 @@ public class ExampleTest {
 		String testDir = "src/test/resources/data/automatic_tagging/test";
 
 		// name of the file to save the model
-		String modelName = "test";
+		String modelName = "test_tagging_model";
 
 		// Settings for the model builder
 		modelBuilder.inputDirectoryName = trainDir;
@@ -137,7 +137,7 @@ public class ExampleTest {
 		String format = "skos";
 
 		// name of the file to save the model
-		String modelName = "test";
+		String modelName = "test_assignment_model";
 
 		// Settings for the model builder
 		modelBuilder.inputDirectoryName = trainDir;

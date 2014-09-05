@@ -1,13 +1,15 @@
 package com.entopix.maui.util;
 
+import java.io.BufferedInputStream;
 import java.io.File;
+import java.io.FileInputStream;
 import java.io.IOException;
+import java.io.ObjectInputStream;
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
 
-import com.entopix.maui.vocab.Vocabulary;
-
+import com.entopix.maui.filters.MauiFilter;
 import org.apache.commons.io.FileUtils;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
@@ -16,16 +18,40 @@ public class DataLoader {
 
 	private static final Logger log = LoggerFactory.getLogger(DataLoader.class);
 
-	/**
-	 * Loads a vocabulary from a given directory
-	 *
-	 * @param vocabularyDirectory
-	 * @param vocabularyName
-	 * @return Vocabulary
-	 * @throws Exception 
-	 */
-	public static void loadVocabulary(Vocabulary vocabulary, String vocabularyDirectory, String vocabularyName) throws Exception {
-		vocabulary.initializeVocabulary(vocabularyName, "skos", vocabularyDirectory);
+	
+    /**
+     * Loads model from a file path
+     * @param modelPath
+     * @return
+     * @throws ClassNotFoundException 
+     */
+    public static MauiFilter loadModel(String modelPath) {
+		BufferedInputStream inStream = null;
+		MauiFilter model = null;
+		try {
+			inStream = new BufferedInputStream(
+					new FileInputStream(modelPath));
+			ObjectInputStream in = new ObjectInputStream(inStream);
+			model = (MauiFilter) in.readObject();
+			in.close();
+			inStream.close();
+			
+		} catch (IOException e) {
+			log.error("Error while loading extraction model from " + modelPath + "!\n", e);
+			throw new RuntimeException();
+		} catch (ClassNotFoundException e) {
+			log.error("Mismatch of the class in " + modelPath + "!\n", e);
+			throw new RuntimeException();
+		} finally {
+			try {
+				inStream.close();
+			} catch (IOException e1) {
+				log.error("Error while loading extraction model from " + modelPath + "!\n", e1);
+				throw new RuntimeException();
+			}
+		}
+		return model;
+	
 	}
 
 

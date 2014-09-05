@@ -1,10 +1,7 @@
 package com.entopix.maui.main;
 
-import java.io.BufferedInputStream;
 import java.io.File;
-import java.io.FileInputStream;
 import java.io.IOException;
-import java.io.ObjectInputStream;
 import java.util.ArrayList;
 import java.util.List;
 
@@ -48,14 +45,12 @@ public final class MauiWrapper {
     private MauiFilter extractionModel = null;
     private Vocabulary vocabulary = null;
     
-    private final String slash = File.separator;
-    
     /**
      * Constructor to initialize MauiWrapper with default
      * stemmer, stopwords and language
      */
-    public MauiWrapper() { 
-    	this(null, null, null);
+    public MauiWrapper(String modelName, String vocabularyName, String vocabularyFormat) { 
+    	this(modelName, vocabularyName, vocabularyFormat, null, null, null);
     }
     
     /**
@@ -66,7 +61,7 @@ public final class MauiWrapper {
      * @param stemmer
      * @param language
      */
-    public MauiWrapper(Stopwords stopwords, Stemmer stemmer, String language) {
+    public MauiWrapper(String modelName, String vocabularyName, String vocabularyFormat, Stopwords stopwords, Stemmer stemmer, String language) {
     	this.vocabulary = new Vocabulary();
     	if (stemmer != null)
     		vocabulary.setStemmer(stemmer);
@@ -82,6 +77,10 @@ public final class MauiWrapper {
             vocabulary.setStopwords(stopwords);
         else
         	vocabulary.setStopwords(this.stopwords);
+    	
+    	vocabulary.initializeVocabulary(vocabularyName, vocabularyFormat);
+		
+    	this.extractionModel = DataLoader.loadModel(modelName);
     }
     
     /**
@@ -97,76 +96,9 @@ public final class MauiWrapper {
         this.extractionModel = model;
     }
     
-    /**
-     * Initializes model from a file in the data directory
-     * 
-     * @param dataDirectory should have a subdirectory "models"
-     * @param modelName - name of the model
-     * @throws ClassNotFoundException 
-     * @throws IOException 
-     */
-    public void loadModelFromDirectory(String dataDirectory, String modelName) throws Exception {
-    	String modelPath = dataDirectory + slash + "data"  + slash + "models" + slash + modelName;
-        loadModelFromFile(modelPath);
-    }
     
-    /**
-     * Loads model from a file path
-     * @param modelPath
-     * @return
-     * @throws ClassNotFoundException 
-     */
-    public void loadModelFromFile(String modelPath) throws IOException, ClassNotFoundException {
-		MauiFilter model = null;
-		BufferedInputStream inStream = new BufferedInputStream(
-				new FileInputStream(modelPath));
-		ObjectInputStream in = new ObjectInputStream(inStream);
-		model = (MauiFilter) in.readObject();
-		in.close();
-		inStream.close();
-		this.extractionModel = model;
-	}
-    
-    /**
-     * Initializes vocabulary from directory
-     * 
-     * @param dataDirectory should have a subdirectory "vocabularies"
-     * @param vocabularyName - name of the rdf vocabulary
-     * @throws ClassNotFoundException 
-     * @throws IOException 
-     */
-    public void loadVocabularyFromDirectory(String dataDirectory, String vocabularyName) throws Exception {      
-        String vocabularyDirectory = dataDirectory + slash + "data" + slash + "vocabularies" + slash;
-        DataLoader.loadVocabulary(vocabulary, vocabularyDirectory, vocabularyName);
-    }
-      
-    /**
-     * Loads vocabulary from a file path.
-     * When a vocabulary is loaded, Maui checks first if a serialized version
-     * of the vocabulary store exists in the same directory.
-    	* Hence, it's important to know what is the directory name
-    	* and what is the vocabulary name.
-    	* This method parses them out from the vocabulary path first
-     * @param vocabPath
-     * @return
-     * @throws Exception 
-     */
-    public void loadVocabularyFromFile(String vocabPath) throws Exception {
-    	
-    	int nameStart = vocabPath.lastIndexOf("/");
-		if (nameStart == -1)
-			nameStart = 0;
-		int nameEnd = vocabPath.indexOf(".", nameStart + 1);
-		if (vocabPath.endsWith("serialized"))
-			nameEnd = vocabPath.indexOf("_maui");
-		
-		String vocabularyName = vocabPath.substring(nameStart + 1, nameEnd);
-		String vocabularyDir = "";
-		if (nameStart != 0) 
-			vocabularyDir = vocabPath.substring(0, nameStart);
 
-		DataLoader.loadVocabulary(vocabulary, vocabularyDir, vocabularyName);
-	}
+    
 
     /**
      * Assigns the vocabulary to model
@@ -222,8 +154,8 @@ public final class MauiWrapper {
 
         double[] newInst = new double[3];
 
-        newInst[0] = (double) data.attribute(0).addStringValue("inputFile");
-        newInst[1] = (double) data.attribute(1).addStringValue(text);
+        newInst[0] = data.attribute(0).addStringValue("inputFile");
+        newInst[1] = data.attribute(1).addStringValue(text);
         newInst[2] = Instance.missingValue();
         data.add(new Instance(1.0, newInst));
 
@@ -306,8 +238,8 @@ public final class MauiWrapper {
 
         double[] newInst = new double[3];
 
-        newInst[0] = (double) data.attribute(0).addStringValue("inputFile");
-        newInst[1] = (double) data.attribute(1).addStringValue(text);
+        newInst[0] = data.attribute(0).addStringValue("inputFile");
+        newInst[1] = data.attribute(1).addStringValue(text);
         newInst[2] = Instance.missingValue();
         data.add(new Instance(1.0, newInst));
 

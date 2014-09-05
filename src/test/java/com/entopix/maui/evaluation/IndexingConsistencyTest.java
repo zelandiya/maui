@@ -43,13 +43,8 @@ public class IndexingConsistencyTest {
 		vocabulary.setLanguage(language);
 		vocabulary.setStopwords(stopwords);
 		vocabulary.setSerialize(true);
-		try {
-			DataLoader.loadVocabulary(vocabulary, vocabularyPath, vocabularyName);
-		} catch (Exception e) {
-			log.error("Error while loading vocabulary from " + vocabularyPath);
-			log.error(e.getMessage());
-			throw new RuntimeException();
-		}
+		vocabulary.initializeVocabulary(vocabularyPath, vocabularyName);
+    	
 
 		MauiTopicExtractor topicExtractor = new MauiTopicExtractor();
 		MauiModelBuilder modelBuilder = new MauiModelBuilder();

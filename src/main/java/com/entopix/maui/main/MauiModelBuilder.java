@@ -61,17 +61,17 @@ import weka.core.Utils;
  * Valid options are:
  * <p>
  *
- * -l "directory name"<br>
- * Specifies name of directory.<p>
+ * -l "documents directory"<br>
+ * Specifies name of directory with documents to analyze.<p>
  *
- * -m "model name"<br>
- * Specifies name of model.<p>
+ * -m "model path"<br>
+ * Specifies path to the model file.<p>
+ *
+ * -v "vocabulary path"<br>
+ * Specifies path to the vocabulary file.<p>
  *
  * -e "encoding"<br>
  * Specifies encoding.<p>
- *
- * -v "vocabulary name" <br>
- * Specifies vocabulary name (e.g. agrovoc or none)
  * .<p>
  *
  * -f "vocabulary format" <br>
@@ -104,7 +104,11 @@ import weka.core.Utils;
  * -t "stemmer class "<br>
  * Sets stemmer to use (default: PorterStemmer).
  * <p>
- *
+ * 
+ * -z "use serialization"<br>
+ * If this option is used, the vocabulary is serialized for faster usage
+ * <p>
+ * 
  * @author Eibe Frank (eibe@cs.waikato.ac.nz), Alyona Medelyan
  * (medelyan@gmail.com)
  * @version 1.0
@@ -114,17 +118,17 @@ public class MauiModelBuilder implements OptionHandler {
 	private static final Logger log = LoggerFactory.getLogger(MauiModelBuilder.class);
 
 	/**
-	 * Name of directory
+	 * Path to the directory
 	 */
 	public String inputDirectoryName = null;
 
 	/**
-	 * Name of model
+	 * Path to the model
 	 */
 	public String modelName = null;
 
 	/**
-	 * Vocabulary name
+	 * Path to the vocabulary
 	 */
 	public String vocabularyName = "none";
 
@@ -132,11 +136,6 @@ public class MauiModelBuilder implements OptionHandler {
 	 * Format of the vocabulary {skos,text}
 	 */
 	public String vocabularyFormat = null;
-
-	/**
-	 * Directory where vocabularies are stored *
-	 */
-	public String vocabularyDirectory = "src/test/resources/data/vocabularies";
 
 	/**
 	 * Document language {en,es,de,fr,...}
@@ -147,11 +146,11 @@ public class MauiModelBuilder implements OptionHandler {
 	 * Document encoding
 	 */
 	public String documentEncoding = "default";
-
+	
 	/**
-	 * Debugging mode?
+	 * Serialize vocabulary?
 	 */
-	public boolean debugMode = false;
+	public boolean serialize = false;
 
 	/**
 	 * Maximum length of phrases
@@ -234,20 +233,17 @@ public class MauiModelBuilder implements OptionHandler {
 
 		try {
 
-			if (debugMode) {
-				log.info("--- Loading the vocabulary...");
-			}
+			log.info("--- Loading the vocabulary...");
 			vocabulary = new Vocabulary();
 			vocabulary.setStemmer(stemmer);
 			if (!vocabularyName.equals("lcsh")) {
 				vocabulary.setStopwords(stopwords);
 			}
 
-			vocabulary.setDebug(debugMode);
 			vocabulary.setLanguage(documentLanguage);
 			// make serialize global var
-			vocabulary.setSerialize(true);
-			vocabulary.initializeVocabulary(vocabularyName, vocabularyFormat, vocabularyDirectory);
+			vocabulary.setSerialize(serialize);
+			vocabulary.initializeVocabulary(vocabularyName, vocabularyFormat);
 
 		} catch (Exception e) {
 			log.error("Failed to load thesaurus!", e);
@@ -257,10 +253,6 @@ public class MauiModelBuilder implements OptionHandler {
 
 	public void setVocabulary(Vocabulary vocabulary) {
 		this.vocabulary = vocabulary;
-	}
-
-	public boolean getDebug() {
-		return debugMode;
 	}
 
 	public void setBasicFeatures(boolean useBasicFeatures) {
@@ -426,7 +418,7 @@ public class MauiModelBuilder implements OptionHandler {
 			stemmerString = "maui.stemmers.".concat(stemmerString);
 			this.stemmer = (Stemmer) Class.forName(stemmerString).newInstance();
 		}
-		debugMode = Utils.getFlag('d', options);
+		this.serialize = Utils.getFlag('z', options);
 		Utils.checkForRemainingOptions(options);
 	}
 
@@ -453,10 +445,7 @@ public class MauiModelBuilder implements OptionHandler {
 		options[current++] = "" + (this.documentEncoding);
 		options[current++] = "-i";
 		options[current++] = "" + (this.documentLanguage);
-
-		if (this.debugMode) {
-			options[current++] = "-d";
-		}
+		options[current++] = "-z";
 		options[current++] = "-x";
 		options[current++] = "" + (this.maxPhraseLength);
 		options[current++] = "-y";
@@ -498,8 +487,8 @@ public class MauiModelBuilder implements OptionHandler {
 				"i", 1, "-i <document language>"));
 		newVector.add(new Option("\tSpecifies encoding.", "e", 1,
 				"-e <encoding>"));
-		newVector.add(new Option("\tTurns debugging mode on.", "d", 0,
-				"-d"));
+		newVector.add(new Option("\tTurns serialization on.", "z", 0,
+				"-z"));
 		newVector.add(new Option(
 				"\tSets the maximum phrase length (default: 5).", "x", 1,
 				"-x <length>"));
@@ -540,7 +529,6 @@ public class MauiModelBuilder implements OptionHandler {
 		Instances data = new Instances("keyphrase_training_data", atts, 0);
 
 		mauiFilter = new MauiFilter();
-		mauiFilter.setDebug(debugMode);
 		mauiFilter.setMaxPhraseLength(maxPhraseLength);
 		mauiFilter.setMinPhraseLength(minPhraseLength);
 		mauiFilter.setMinNumOccur(minNumOccur);
@@ -636,22 +624,18 @@ public class MauiModelBuilder implements OptionHandler {
 			modelBuilder.setOptions(ops);
 
 			// Output what options are used
-			if (modelBuilder.getDebug() == true) {
-				log.info("Building model with options: ");
-				String[] optionSettings = modelBuilder.getOptions();
-				String options = "";
-				for (String optionSetting : optionSettings) {
-					options += optionSetting + " ";
-				}
-				log.info(options);
+			log.info("Building model with options: ");
+			String[] optionSettings = modelBuilder.getOptions();
+			String options = "";
+			for (String optionSetting : optionSettings) {
+				options += optionSetting + " ";
 			}
-
+			log.info(options);
+			
 			MauiFilter mauiFilter = modelBuilder.buildModel();
 
-			if (modelBuilder.getDebug() == true) {
-				log.info("Model built. Saving the model...");
-			}
-
+			log.info("Model built. Saving the model...");
+			
 			modelBuilder.saveModel(mauiFilter);
 
 			log.info("Done!");

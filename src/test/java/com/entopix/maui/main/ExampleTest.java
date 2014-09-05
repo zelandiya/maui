@@ -34,9 +34,6 @@ public class ExampleTest {
 	 * @throws Exception 
 	 */
 	private void setGeneralOptions()  {
-	
-		
-		modelBuilder.debugMode = true;
 		
 		/* language specific options
 		Stemmer stemmer = new FrenchStemmer();
@@ -57,7 +54,6 @@ public class ExampleTest {
 		modelBuilder.maxPhraseLength = 5;
 		*/
 		
-		topicExtractor.debugMode = true;
 		topicExtractor.topicsPerDocument = 10; 
 	}
 
@@ -89,7 +85,7 @@ public class ExampleTest {
 		String testDir = "src/test/resources/data/automatic_tagging/test";
 
 		// name of the file to save the model
-		String modelName = "test_tagging_model";
+		String modelName = "src/test/resources/data/models/test_tagging_model";
 
 		// Settings for the model builder
 		modelBuilder.inputDirectoryName = trainDir;
@@ -133,11 +129,11 @@ public class ExampleTest {
 		String testDir = "src/test/resources/data/term_assignment/test";
 
 		// Vocabulary
-		String vocabulary = "agrovoc_sample";
+		String vocabulary = "src/test/resources/data/vocabularies/agrovoc_sample.rdf.gz";
 		String format = "skos";
 
 		// name of the file to save the model
-		String modelName = "test_assignment_model";
+		String modelName = "src/test/resources/data/models/test_assignment_model";
 
 		// Settings for the model builder
 		modelBuilder.inputDirectoryName = trainDir;

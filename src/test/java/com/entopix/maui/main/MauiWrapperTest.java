@@ -27,20 +27,16 @@ public class MauiWrapperTest {
 	public void testMauiWrapper() throws Exception {
 		
 		// Extracting topics with vocabulary:
-        String vocabularyName = "agrovoc_sample";
-        String modelName = "test";
-        String dataDirectory = "src/test/resources/";
+        String vocabularyName = "src/test/resources/data/vocabularies/agrovoc_sample.rdf";
+        String modelName = "src/test/resources/data/models/test";
         String filePath = "src/test/resources/data/term_assignment/test/w7540e.txt";
         
         MauiWrapper mauiWrapper = null;
 		try {
-			// use default stemmer, stopwords and language
-			mauiWrapper = new MauiWrapper();
-			
+			// Use default stemmer, stopwords and language
 			// MauiWrapper also can be initalized with a pre-loaded vocabulary
 			// and a pre-loaded MauiFilter (model) objects
-			mauiWrapper.loadModelFromDirectory(dataDirectory, modelName);
-			mauiWrapper.loadVocabularyFromDirectory(dataDirectory, vocabularyName);
+			mauiWrapper = new MauiWrapper(modelName, vocabularyName, "skos");
 			
 			// the last three items should match what was used in the wrapper constructor
 			// i.e. null if the defaults were used

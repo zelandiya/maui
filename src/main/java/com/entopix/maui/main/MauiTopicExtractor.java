@@ -1,29 +1,8 @@
 package com.entopix.maui.main;
 
-/*
- *    MauiTopicExtractor.java
- *    Copyright (C) 2001-2014 Eibe Frank, Alyona Medelyan
- *
- *    This program is free software; you can redistribute it and/or modify
- *    it under the terms of the GNU General Public License as published by
- *    the Free Software Foundation; either version 2 of the License, or
- *    (at your option) any later version.
- *
- *    This program is distributed in the hope that it will be useful,
- *    but WITHOUT ANY WARRANTY; without even the implied warranty of
- *    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
- *    GNU General Public License for more details.
- *
- *    You should have received a copy of the GNU General Public License
- *    along with this program; if not, write to the Free Software
- *    Foundation, Inc., 675 Mass Ave, Cambridge, MA 02139, USA.
- */
-import java.io.BufferedInputStream;
-import java.io.FileInputStream;
 import java.io.FileNotFoundException;
 import java.io.FileOutputStream;
 import java.io.IOException;
-import java.io.ObjectInputStream;
 import java.io.OutputStreamWriter;
 import java.io.PrintWriter;
 import java.util.ArrayList;
@@ -65,14 +44,14 @@ import weka.core.Utils;
  * Valid options are:
  * <p>
  *
- * -l "directory name"<br>
- * Specifies name of directory.<p>
+ * -l "documents directory"<br>
+ * Specifies name of directory with documents to analyze.<p>
  *
- * -m "model name"<br>
- * Specifies name of model.<p>
+ * -m "model path"<br>
+ * Specifies path to the model file.<p>
  *
- * -v "vocabulary name"<br>
- * Specifies name of vocabulary.<p>
+ * -v "vocabulary path"<br>
+ * Specifies path to the vocabulary file.<p>
  *
  * -f "vocabulary format"<br>
  * Specifies format of vocabulary (text or skos)
@@ -97,15 +76,12 @@ import weka.core.Utils;
  * Sets stemmer to use (default: StopwordsEnglish).
  * <p>
  *
- * -d<br>
- * Turns debugging mode on.<p>
- *
+ * -z "use serialization"<br>
+ * If this option is used, the vocabulary is serialized for faster usage
+ * <p>
+ * 
  * -g<br>
  * Build global dictionaries from the test set.<p>
- *
- * -p<br>
- * Prints plain-text graph description of the topics for visual representation
- * of the results.<p>
  *
  * -a<br>
  * Also write stemmed phrase and score into ".maui" file.<p>
@@ -152,9 +128,9 @@ public class MauiTopicExtractor implements OptionHandler {
 	public String documentEncoding = "default";
 
 	/**
-	 * Debugging mode?
+	 * Serialize vocabulary?
 	 */
-	public boolean debugMode = false;
+	public boolean serialize = false;
 
 	/**
 	 * Cut off threshold for the topic probability.
@@ -173,11 +149,6 @@ public class MauiTopicExtractor implements OptionHandler {
 	 * The number of phrases to extract.
 	 */
 	int topicsPerDocument = 10;
-
-	/**
-	 * Directory where vocabularies are stored *
-	 */
-	public String vocabularyDirectory = "src/test/resources/data/vocabularies";
 
 	/**
 	 * Stemmer to be used
@@ -204,43 +175,51 @@ public class MauiTopicExtractor implements OptionHandler {
 	 */
 	boolean buildGlobalDictionary = false;
 
-	public boolean getDebug() {
-		return debugMode;
-	}
-
 	/**
 	 * Parses a given list of options controlling the behaviour of this object.
 	 * Valid options are:
 	 * <p>
+	 * Valid options are:
+	 * <p>
 	 *
-	 * -l "directory name"<br>
-	 * Specifies name of directory.<p>
+	 * -l "documents directory"<br>
+	 * Specifies name of directory with documents to analyze.<p>
 	 *
-	 * -m "model name"<br>
-	 * Specifies name of model.<p>
+	 * -m "model path"<br>
+	 * Specifies path to the model file.<p>
 	 *
-	 * -v "vocabulary name"<br>
-	 * Specifies vocabulary name.<p>
+	 * -v "vocabulary path"<br>
+	 * Specifies path to the vocabulary file.<p>
 	 *
 	 * -f "vocabulary format"<br>
-	 * Specifies vocabulary format.<p>
+	 * Specifies format of vocabulary (text or skos)
+	 * .<p>
 	 *
 	 * -i "document language" <br>
-	 * Specifies document language.<p>
+	 * Specifies document language (en, es, de, fr)
+	 * .<p>
 	 *
 	 * -e "encoding"<br>
 	 * Specifies encoding.<p>
 	 *
-	 * -n<br>
+	 * -n <br>
 	 * Specifies number of phrases to be output (default: 5)
 	 * .<p>
 	 *
-	 * -d<br>
-	 * Turns debugging mode on.<p>
+	 * -t "name of class implementing stemmer"<br>
+	 * Sets stemmer to use (default: SremovalStemmer).
+	 * <p>
 	 *
-	 * -b<br>
-	 * Builds global dictionaries for computing TFxIDF from the test
-	 * collection.<p>
+	 * -s "name of class implementing stopwords"<br>
+	 * Sets stemmer to use (default: StopwordsEnglish).
+	 * <p>
+	 *
+	 * -z "use serialization"<br>
+	 * If this option is used, the vocabulary is serialized for faster usage
+	 * <p>
+	 *
+	 * -g<br>
+	 * Build global dictionaries from the test set.<p>
 	 *
 	 * -a<br>
 	 * Also write stemmed phrase and score into ".maui" file.<p>
@@ -251,6 +230,7 @@ public class MauiTopicExtractor implements OptionHandler {
 	 * @param options the list of options as an array of strings
 	 * @exception Exception if an option is not supported
 	 */
+	@Override
 	public void setOptions(String[] options) throws Exception {
 
 		String dirName = Utils.getOption('l', options);
@@ -266,7 +246,7 @@ public class MauiTopicExtractor implements OptionHandler {
 			this.modelName = modelName;
 		} else {
 			this.modelName = null;
-			throw new Exception("Name of model required argument.");
+			throw new Exception("Path to the model file is a required argument.");
 		}
 
 		String vocabularyName = Utils.getOption('v', options);
@@ -319,7 +299,7 @@ public class MauiTopicExtractor implements OptionHandler {
 			this.stemmer = (Stemmer) Class.forName(stemmerString).newInstance();
 		}
 
-		debugMode = Utils.getFlag('d', options);
+		this.serialize = Utils.getFlag('z', options);
 		this.buildGlobalDictionary = Utils.getFlag('b', options);
 		this.additionalInfo = Utils.getFlag('a', options);
 
@@ -337,6 +317,7 @@ public class MauiTopicExtractor implements OptionHandler {
 	 *
 	 * @return an array of strings suitable for passing to setOptions
 	 */
+	@Override
 	public String[] getOptions() {
 
 		String[] options = new String[22];
@@ -363,8 +344,8 @@ public class MauiTopicExtractor implements OptionHandler {
 		options[current++] = "-s";
 		options[current++] = "" + (stopwords.getClass().getName());
 
-		if (getDebug()) {
-			options[current++] = "-d";
+		if (this.serialize) {
+			options[current++] = "-z";
 		}
 
 
@@ -395,9 +376,10 @@ public class MauiTopicExtractor implements OptionHandler {
 	 *
 	 * @return an enumeration of all the available options
 	 */
+	@Override
 	public Enumeration<Option> listOptions() {
 
-		Vector<Option> newVector = new Vector<Option>(15);
+		Vector<Option> newVector = new Vector<Option>(13);
 
 		newVector.addElement(new Option(
 				"\tSpecifies name of directory.",
@@ -430,14 +412,11 @@ public class MauiTopicExtractor implements OptionHandler {
 				"\tSet the stopwords class to use (default: EnglishStopwords).",
 				"s", 1, "-s <name of stopwords class>"));
 		newVector.addElement(new Option(
-				"\tTurns debugging mode on.",
-				"d", 0, "-d"));
+				"\tTurns serialization on.",
+				"s", 0, "-s"));
 		newVector.addElement(new Option(
 				"\tBuilds global dictionaries for computing TFIDF from the test collection.",
 				"b", 0, "-b"));
-		newVector.addElement(new Option(
-				"\tPrints graph description into a \".gv\" file, in GraphViz format.",
-				"p", 0, "-p"));
 		newVector.addElement(new Option(
 				"\tAlso write stemmed phrase and score into \".key\" file.",
 				"a", 0, "-a"));
@@ -452,20 +431,15 @@ public class MauiTopicExtractor implements OptionHandler {
 
 		try {
 
-			if (debugMode) {
-				log.info("--- Loading the vocabulary...");
-			}
+			log.info("--- Loading the vocabulary...");
 			vocabulary = new Vocabulary();
 			vocabulary.setStemmer(stemmer);
 			if (!vocabularyName.equals("lcsh")) {
 				vocabulary.setStopwords(stopwords);
 			}
-
-			vocabulary.setDebug(debugMode);
 			vocabulary.setLanguage(documentLanguage);
-			// make serialize global var
-			vocabulary.setSerialize(true);
-			vocabulary.initializeVocabulary(vocabularyName, vocabularyFormat, vocabularyDirectory);
+			vocabulary.setSerialize(serialize);
+			vocabulary.initializeVocabulary(vocabularyName, vocabularyFormat);
 
 		} catch (Exception e) {
 			log.error("Failed to load thesaurus!", e);
@@ -503,11 +477,11 @@ public class MauiTopicExtractor implements OptionHandler {
 
 			double[] newInst = new double[3];
 
-			newInst[0] = (double) data.attribute(0).addStringValue(document.getFileName());
+			newInst[0] = data.attribute(0).addStringValue(document.getFileName());
 
 			// Adding the text of the document to the instance
 			if (document.getTextContent().length() > 0) {
-				newInst[1] = (double) data.attribute(1).addStringValue(document.getTextContent());
+				newInst[1] = data.attribute(1).addStringValue(document.getTextContent());
 			} else {
 				newInst[1] = Instance.missingValue();
 			}
@@ -524,23 +498,21 @@ public class MauiTopicExtractor implements OptionHandler {
 
 			data = data.stringFreeStructure();
 			log.info("-- Processing document: " + document.getFileName());
-			
+
 
 			Instance[] topRankedInstances = new Instance[topicsPerDocument];
-			Instance inst;
-
+			
 			MauiTopics documentTopics = new MauiTopics(document.getFilePath());
 
 			documentTopics.setPossibleCorrect(document.getTopicsString().split("\n").length);
 
+			Instance inst;
 			int index = 0;
 			double probability;
 			Topic topic;
 			String title, id;
 
-			if (debugMode) {
-				log.debug("-- Keyphrases and feature values:");
-			}
+			log.info("-- Keyphrases and feature values:");
 
 			// Iterating over all extracted topic instances
 			while ((inst = mauiFilter.output()) != null) {
@@ -553,7 +525,7 @@ public class MauiTopicExtractor implements OptionHandler {
 						id = "1"; // topRankedInstances[index].
 						//stringValue(mauiFilter.getOutputFormIndex() + 1); // TODO: Check
 						topic = new Topic(title,  id,  probability);
-						
+
 						if ((int) topRankedInstances[index].
 								value(topRankedInstances[index].numAttributes() - 1) == 1) {
 							topic.setCorrectness(true);
@@ -563,13 +535,13 @@ public class MauiTopicExtractor implements OptionHandler {
 
 						documentTopics.addTopic(topic);
 						log.info("Topic " + title + " " + id + " " + probability + " > " + topic.isCorrect());
-						
+
 						index++;
 					}
 				}
 			}
-			
-			
+
+
 			allDocumentTopics.add(documentTopics);
 		}
 
@@ -582,21 +554,16 @@ public class MauiTopicExtractor implements OptionHandler {
 	/**
 	 * Loads the extraction model from the file.
 	 */
-	public void loadModel() throws Exception {
+	public void loadModel() {
 
-		BufferedInputStream inStream
-		= new BufferedInputStream(new FileInputStream(modelName));
-		ObjectInputStream in = new ObjectInputStream(inStream);
-		mauiFilter = (MauiFilter) in.readObject();
+		mauiFilter = DataLoader.loadModel(modelName);
 
 		// If TFxIDF values are to be computed from the test corpus
 		if (buildGlobalDictionary == true) {
-			if (debugMode) {
-				log.info("-- The global dictionaries will be built from this test collection..");
-			}
+			log.info("-- The global dictionaries will be built from this test collection..");
 			mauiFilter.globalDictionary = null;
 		}
-		in.close();
+		
 
 		// initialize vocabulary
 		mauiFilter.setVocabularyName(vocabularyName);
@@ -686,7 +653,7 @@ public class MauiTopicExtractor implements OptionHandler {
 			log.error("\nOptions:\n");
 			Enumeration<Option> en = topicExtractor.listOptions();
 			while (en.hasMoreElements()) {
-				Option option = (Option) en.nextElement();
+				Option option = en.nextElement();
 				log.error(option.synopsis());
 				log.error(option.description());
 			}

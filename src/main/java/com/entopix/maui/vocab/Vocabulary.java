@@ -53,7 +53,7 @@ public class Vocabulary {
 
 	private VocabularyStore vocabStore;
 	private String vocabularyName;
-	private String vocabularyDirectory;
+
 	/** Document language */
 	private String language = "en";
 	/** Document encoding */
@@ -66,40 +66,40 @@ public class Vocabulary {
 	private boolean toLowerCase = true;
 	/** Normalization via alphabetic reordering - default true*/
 	private boolean reorder = true;
-	private boolean debugMode = false;
 	private boolean serialize = false;
 
 
-	/** Initializes vocabulary from a directory
+	/** Initializes vocabulary from a file path
 	 *
-	 * Given the name of the vocabulary and the format, it first checks whether
-	 * the data/vocabularies directory contains the specified files:<br>
-	 * - vocabularyName.rdf if skos format is selected<br>
+	 * Given the file path to the vocabulary and the format, 
+	 * it first checks whether this file exists:<br>
+	 * - vocabularyName.rdf or vocabularyName.rdf.gz if skos format is selected<br>
 	 * - or a set of 3 flat txt files starting with vocabularyName and with extensions<br>
-	 * <li>.en (id term)
+	 * <li>.en (id term) - the path to this file should be supplied as the main parameters
 	 * <li>.use (non-descriptor \t descriptor)
 	 * <li>.rel (id \t related_id1 related_id2 ...)
 	 * If the required files exist, the vocabulary index is built.
 	 *
 	 * @param vocabularyName The name of the vocabulary file (before extension).
 	 * @param vocabularyFormat The format of the vocabulary (skos or text).
-	 * @param vocabularyDirectory The path to directory with the required vocabulary files
 	 * @throws IOException
 	 * @throws VocabularyException 
 	 * */
-	public void initializeVocabulary(String vocabularyName, String vocabularyFormat, String vocabularyDirectory)
-			throws IOException, VocabularyException {
+	public void initializeVocabulary(String vocabularyName, String vocabularyFormat) {
 
-		this.vocabularyDirectory = vocabularyDirectory;
 		this.vocabularyName = vocabularyName;
 
 		if (vocabularyFormat.equals("skos")) {
-			/** Location of the rdf version of the controlled vocabulary
-			 * it needs to be in the SKOS format! */
-			File skosFile = new File(vocabularyDirectory + "/" + vocabularyName + ".rdf.gz");
 
+			if (!vocabularyName.endsWith(".rdf.gz") && !vocabularyName.endsWith("rdf")) {
+				log.error("Error while loading vocabulary from " + vocabularyName);
+				throw new RuntimeException("File " + vocabularyName + " appears to be not in the skos format!");
+			}
+
+			File skosFile = new File(vocabularyName);
 			if (!skosFile.exists()) {
-				throw new IOException("File " + skosFile.getAbsolutePath() + " not found!");
+				log.error("Error while loading vocabulary from " + vocabularyName);
+				throw new RuntimeException(skosFile.getAbsolutePath() + " does not exist!");
 			}
 			initializeFromSKOSFile(skosFile);
 
@@ -107,31 +107,31 @@ public class Vocabulary {
 
 			/** Location of the vocabulary's *.en file
 			 * containing all terms of the vocabularies and their ids.*/
-			File enFile = new File(vocabularyDirectory + "/" + vocabularyName + ".en");
+			File enFile = new File(vocabularyName);
 			if (!enFile.exists()) {
-				throw new IOException("File " + enFile.getAbsolutePath()
-						+ " does not exist.");
+				log.error("Error while loading vocabulary from " + vocabularyName);
+				throw new RuntimeException(enFile.getAbsolutePath() + " does not exist!");
 			}
 
 			/** Location of the vocabulary's *.use file
 			 * containing ids of non-descriptor with the corresponding ids of descriptors.*/
-			File useFile = new File(vocabularyDirectory + "/" + vocabularyName + ".use");
+			File useFile = new File(vocabularyName.replace(".en", ".use"));
 			if (!useFile.exists()) {
-				throw new IOException("File " + useFile.getAbsolutePath()
-						+ " does not exist.");
+				log.error("Error while loading vocabulary from " + vocabularyName);
+				throw new RuntimeException(useFile.getAbsolutePath() + " does not exist!");
 			}
 
 			/** Location of the vocabulary's *.rel file
 			 * containing semantically related terms for each descriptor in the vocabulary.*/
-			File relFile = new File(vocabularyDirectory + "/" + vocabularyName + ".rel");
+			File relFile = new File(vocabularyName.replace(".en", ".rel"));
 			if (!relFile.exists()) {
-				throw new IOException("File " + relFile.getAbsolutePath()
-						+ " does not exist.");
+				log.error("Error while loading vocabulary from " + vocabularyName);
+				throw new RuntimeException(relFile.getAbsolutePath() + " does not exist!");
 			}
 			initializeFromTXTFiles(enFile, useFile, relFile);
 
 		} else {
-			throw new VocabularyException(vocabularyFormat
+			throw new RuntimeException(vocabularyFormat
 					+ "is an unsupported vocabulary format! Use skos or text");
 		}
 
@@ -175,10 +175,6 @@ public class Vocabulary {
 		this.stemmer = stemmer;
 	}
 
-	public void setDebug(boolean debugMode) {
-		this.debugMode = debugMode;
-	}
-
 	public void setVocabularyStore(VocabularyStore store) {
 		vocabStore = store;
 	}
@@ -194,7 +190,7 @@ public class Vocabulary {
 	 */
 	public void initializeFromModel(Model model) {
 
-		vocabStore = VocabularyStoreFactory.CreateVocabStore(vocabularyDirectory, vocabularyName, stemmer, serialize);
+		vocabStore = VocabularyStoreFactory.CreateVocabStore(vocabularyName, stemmer, serialize);
 
 		// we already have a de-serialized vocabStore
 		if (vocabStore.isInitialized()) {
@@ -328,17 +324,15 @@ public class Vocabulary {
 		//			}	
 		//		}
 
-		if (debugMode) {
-			log.info("--- Statistics about the vocabulary: ");
-			log.info("\t" + vocabStore.getNumTerms() + " terms in total");
-			log.info("\t" + vocabStore.getNumNonDescriptors() + " non-descriptive terms");
-			log.info("\t" + vocabStore.getNumRelatedTerms() + " terms have related terms");
-		}
-
+		log.info("--- Statistics about the vocabulary: ");
+		log.info("\t" + vocabStore.getNumTerms() + " terms in total");
+		log.info("\t" + vocabStore.getNumNonDescriptors() + " non-descriptive terms");
+		log.info("\t" + vocabStore.getNumRelatedTerms() + " terms have related terms");
+	
 		vocabStore.finishedInitialized();
 
 		if (serialize) {
-			VocabularyStoreFactory.SerializeNewVocabStore( vocabularyDirectory, vocabularyName, vocabStore, stemmer);
+			VocabularyStoreFactory.SerializeNewVocabStore(vocabularyName, vocabStore, stemmer);
 		}
 	}
 
@@ -349,10 +343,10 @@ public class Vocabulary {
 	 * @throws IOException 
 	 *
 	 */
-	public void initializeFromSKOSFile(File skosFile) throws IOException {
+	public void initializeFromSKOSFile(File skosFile) {
 
 		if (serialize) {
-			vocabStore = VocabularyStoreFactory.CreateVocabStore(vocabularyDirectory, vocabularyName, stemmer, serialize);
+			vocabStore = VocabularyStoreFactory.CreateVocabStore(vocabularyName, stemmer, serialize);
 
 			// we already have a de-serialized vocabStore
 			if (vocabStore.isInitialized()) {
@@ -367,11 +361,22 @@ public class Vocabulary {
 		}
 	}
 
-	private Model readModelFromFile(File skosFile) throws IOException {
+	private Model readModelFromFile(File skosFile) {
 		log.info("--- Loading RDF model from the SKOS file...");
 		Model model = ModelFactory.createDefaultModel();
-		InputStream gzipStream = new GZIPInputStream(new FileInputStream(skosFile));
-		model.read(new InputStreamReader(gzipStream, encoding), "");
+		InputStream stream;
+		try {
+			
+			if (skosFile.getName().endsWith("rdf.gz")) {
+					stream = new GZIPInputStream(new FileInputStream(skosFile));
+			} else {
+				stream = new FileInputStream(skosFile);
+			}
+			model.read(new InputStreamReader(stream, encoding), "");
+		} catch (IOException e) {
+			log.error("Error while loading vocabulary model from " + skosFile.getAbsolutePath() + "!\n", e);
+			throw new RuntimeException();
+		}
 		return model;
 	}
 
@@ -383,9 +388,9 @@ public class Vocabulary {
 	 * @throws IOException 
 	 *
 	 */
-	public void initializeFromTXTFiles(File enFile, File useFile, File relFile) throws IOException {
+	public void initializeFromTXTFiles(File enFile, File useFile, File relFile) {
 
-		vocabStore = VocabularyStoreFactory.CreateVocabStore(vocabularyDirectory, vocabularyName, stemmer, serialize);
+		vocabStore = VocabularyStoreFactory.CreateVocabStore(vocabularyName, stemmer, serialize);
 
 		// we already have a de-serialized vocabStore
 		if (vocabStore.isInitialized()) {
@@ -400,7 +405,7 @@ public class Vocabulary {
 		vocabStore.finishedInitialized();
 
 		if (serialize) {
-			VocabularyStoreFactory.SerializeNewVocabStore( vocabularyDirectory, vocabularyName, vocabStore, stemmer);
+			VocabularyStoreFactory.SerializeNewVocabStore(vocabularyName, vocabStore, stemmer);
 		}
 	}
 
@@ -467,7 +472,7 @@ public class Vocabulary {
 	 * Builds the vocabulary index from the text files.
 	 * @throws IOException 
 	 */
-	public void buildTEXT(File enFile) throws IOException {
+	public void buildTEXT(File enFile) {
 
 		log.info("-- Building the Vocabulary index");
 
@@ -475,63 +480,77 @@ public class Vocabulary {
 		String term;
 		String avterm;
 		String id_string;
-		InputStreamReader is = new InputStreamReader(new FileInputStream(enFile));
-		BufferedReader br = new BufferedReader(is);
-		while ((readline = br.readLine()) != null) {
-			int i = readline.indexOf(' ');
-			term = readline.substring(i + 1);
-
-			avterm = normalizePhrase(term);
-
-			if (avterm.length() >= 1) {
-				id_string = readline.substring(0, i);
-				vocabStore.addDescriptor(id_string, term);
+		try {
+			InputStreamReader is = new InputStreamReader(new FileInputStream(enFile));
+			BufferedReader br = new BufferedReader(is);
+			while ((readline = br.readLine()) != null) {
+				int i = readline.indexOf(' ');
+				term = readline.substring(i + 1);
+	
+				avterm = normalizePhrase(term);
+	
+				if (avterm.length() >= 1) {
+					id_string = readline.substring(0, i);
+					vocabStore.addDescriptor(id_string, term);
+				}
 			}
+			br.close();
+			is.close();
+		} catch (IOException e) {
+			log.error("Error while loading vocabulary from " + enFile.getAbsolutePath() + "!\n", e);
+			throw new RuntimeException();
 		}
-		br.close();
-		is.close();
 	}
 
 	/**
 	 * Builds the vocabulary index with descriptors/non-descriptors relations.
 	 */
-	public void buildUSE(File useFile) throws IOException {
+	public void buildUSE(File useFile) {
 		String readline;
 		String[] entry;
-
-		InputStreamReader is = new InputStreamReader(new FileInputStream(useFile));
-		BufferedReader br = new BufferedReader(is);
-		while ((readline = br.readLine()) != null) {
-			entry = readline.split("\t");
-			//	if more than one descriptors for
-			//	one non-descriptors are used, ignore it!
-			//	probably just related terms (cf. latest edition of Agrovoc)
-			if ((entry[1].indexOf(" ")) == -1) {
-				vocabStore.addNonDescriptor(entry[0], entry[1]);
+		try {
+			InputStreamReader is = new InputStreamReader(new FileInputStream(useFile));
+			BufferedReader br = new BufferedReader(is);
+			while ((readline = br.readLine()) != null) {
+				entry = readline.split("\t");
+				//	if more than one descriptors for
+				//	one non-descriptors are used, ignore it!
+				//	probably just related terms (cf. latest edition of Agrovoc)
+				if ((entry[1].indexOf(" ")) == -1) {
+					vocabStore.addNonDescriptor(entry[0], entry[1]);
+				}
 			}
+			br.close();
+			is.close();
+		} catch (IOException e) {
+			log.error("Error while loading vocabulary from " + useFile.getAbsolutePath() + "!\n", e);
+			throw new RuntimeException();
 		}
-		br.close();
-		is.close();
 	}
 
 	/**
 	 * Builds the vocabulary index with semantically related terms.
 	 */
-	public void buildREL(File relFile) throws IOException {
+	public void buildREL(File relFile) {
 		log.info("-- Building the Vocabulary index with related pairs");
 		String readline;
 		String[] entry;
-		InputStreamReader is = new InputStreamReader(new FileInputStream(relFile));
-		BufferedReader br = new BufferedReader(is);
-		while ((readline = br.readLine()) != null) {
-			entry = readline.split("\t");
-			String[] temp = entry[1].split(" ");
-			for (int i = 0; i < temp.length; i++) {
-				vocabStore.addRelatedTerm(entry[0], temp[i]);
+		try {
+			InputStreamReader is = new InputStreamReader(new FileInputStream(relFile));
+			BufferedReader br = new BufferedReader(is);
+			while ((readline = br.readLine()) != null) {
+				entry = readline.split("\t");
+				String[] temp = entry[1].split(" ");
+				for (int i = 0; i < temp.length; i++) {
+					vocabStore.addRelatedTerm(entry[0], temp[i]);
+				}
 			}
+			br.close();
+			is.close();
+		} catch (IOException e) {
+			log.error("Error while loading vocabulary from " + relFile.getAbsolutePath() + "!\n", e);
+			throw new RuntimeException();
 		}
-		br.close();
-		is.close();
 	}
 
 	/**

@@ -23,7 +23,7 @@ public class FrenchExampleTest {
 		String testDir = "src/test/resources/data/term_assignment/test_fr";
 		
 		// name of the file for storing the model
-		String modelName = "french_model";
+		String modelName = "src/test/resources/data/models/french_model";
 		
 		// language specific settings
 		Stemmer stemmer = new FrenchStemmer();
@@ -32,7 +32,7 @@ public class FrenchExampleTest {
 		String encoding = "UTF-8";
 		
 		// vocabulary to use for term assignment
-		String vocabulary = "agrovoc_fr";
+		String vocabulary = "src/test/resources/data/vocabularies/agrovoc_fr.rdf.gz";
 		String format = "skos";
 		
 		// how many topics per document to extract
@@ -51,7 +51,7 @@ public class FrenchExampleTest {
 		modelBuilder.stopwords = stopwords;
 		modelBuilder.documentLanguage = language;
 		modelBuilder.documentEncoding = encoding;
-		modelBuilder.debugMode = true;
+		modelBuilder.serialize = true;
 		
 		// Which features to use?
 		modelBuilder.setBasicFeatures(true);
@@ -73,9 +73,9 @@ public class FrenchExampleTest {
 		topicExtractor.stemmer = stemmer;
 		topicExtractor.stopwords = stopwords;
 		topicExtractor.documentLanguage = language;
-		topicExtractor.debugMode = true;
 		topicExtractor.topicsPerDocument = numTopicsToExtract; 
 		topicExtractor.cutOffTopicProbability = 0.0;
+		topicExtractor.serialize = true;
 		
 		// Run topic extractor
 		topicExtractor.loadModel();

@@ -1,0 +1,826 @@
+pour for producteurs et Exporters from West Africa l'Ouest les Producers and exportateurs de l'Afrique de
+
+A Guide pratique Practical Manual
+
+REGLEMENTATIONS, REGULATIONS, NORMES & CERTIFICATION STA LEXPORTATION DE PRODUITS POUR NDARDS & CERTIFICATION FOR AGRICULTURAL EXPORT AGRICOLES
+
+This manual has been produced with the financial support of The Technical Centre for Agricultural and Rural Cooperation (CTA), the Government of Germany and the Food and Agriculture Organization of the United Nations (FAO). The manual is partly based on the FAO/RUTA (Unidad Regional de Asistencia Técnica in Spanish) manual `'¿Es la certificación algo para mí? Una guía práctica sobre por qué, cómo y con quién certificar productos para la exportación'' by M. Andersen, C. Pazderka and P. Liu (2003, 32p, ISBN: 9968-866-30-X).
+
+Authors:
+Aïcha L. Coulibaly, Commodities and Trade Division, FAO Pascal Liu, Commodities and Trade Division, FAO
+
+With the collaboration of:
+Cora Dankers, Commodities and Trade Division, FAO Antoine Fayossewo, Techno 3M Services & Farms Ltd
+
+Layout of the manual: Bruno Dumoulin Illustrations : Diop Aly NGuer
+The mention or omission of specific companies, their products or brand names does not imply any endorsement or judgment by the Food and Agriculture Organization of the United Nations. The views expressed in this publication are those of the author(s) and do not necessarily reflect the views of the Food and Agriculture Organization of the United Nations. The designations employed and the presentation of material in this information product do not imply the expression of any opinion whatsoever on the part of the Food and Agriculture Organization of the United Nations concerning the legal or development status of any country, territory, city or area or of its authorities, or concerning the delimitation of its frontiers or boundaries. All rights reserved. Reproduction and dissemination of material in this information product for educational or other noncommercial purposes are authorized without any prior written permission from the copyright holders provided the source is fully acknowledged. Reproduction of material in this information product for resale or other commercial purposes is prohibited without written permission of the copyright holders. Applications for such permissions should be addresses to the Chief, Publishing Management Service, Information Division, FAO. Viale delle Terme di Caracalla, 00100 Rome, Italy or by e-mail to copyright@fao.org
+
+© FAO 2006
+
+i
+
+Why this manual?
+Objectives
+Provide producers and exporters with information on: * the regulations of main import countries * major certification programmes *contacts where more information on import regulations and certification schemes can be found
+any producers may feel that the market for certified agricultural products is very complex and that the opportunities and requirements associated with the certification programmes are not always clear. In addition, producers do not always know if the requirements are compulsory (created as an official law or regulation in the importing country) or voluntary. It is in this framework that this manual has been created. After having read its content, the reader should be able to understand the main voluntary certification schemes, their importance, the differences between them as well as their advantages and limitations. In order to be able to export his/her products any producer or exporter must also conform with the regulations of importing countries. Therefore, the reader will be able to find in this manual information concerning the main import regulations in the United States (US), the European Union (EU) and Japan. However, topics such as farming practices and post-harvest activities are beyond the scope of this manual.
+
+M
+
+This manual comprises two parts: - standards and Import Regulations - main voluntary Certification Schemes It is difficult to provide comprehensive information on import regulations and certification programmes for many reasons such as the changing nature of regulations in import countries and the diversity of products and their characteristics. Therefore, numerous Internet addresses have been provided where additional information can be obtained when necessary. You will find at the end of the manual a blank page that will enable you to update or add the Internet links gathered during your search. We hope this manual responds to your needs.
+
+ii
+
+ESCR
+An important part of the mandate of the Commodities and Trade Division (ESC) of FAO is to identify the problems affecting commodity trade and propose solutions to address them, preferably through international action. ESCR (the Raw Materials, Tropical and Horticultural Products Service) became involved in issues regarding social and environmental certification as these continued to arise in the analytical work on trade and economic problems related to bananas and other commodities for which it is responsible. FAO-ESCR has produced several technical studies and information publications on social and environmental certification. These include: a small brochure targeted at wholesale and retail buyers of bananas, explaining the differences between various certification schemes; an extension manual aimed at producer associations and exporters in Central America on voluntary certification programmes and describing the import regulations of main export markets; cost-benefit analyses on certified citrus in Spain and in Costa Rica; and recently, a technical paper on environmental and social standards, certification and labelling for cash crops. FAO has established an Internet portal where relevant studies and links to organizations working to improve social and environmental conditions in agricultural production and trade can be found. http://www.fao.org/es/ESC/en/20953/22218/highlight_44152en.html
+
+The Technical Centre for Agricultural and Rural Cooperation (CTA) was established in 1983
+under the Lomé Convention between the ACP (African, Caribbean and Pacific Group of States) and the European Union Member States. Since 2000, it has operated within the framework of the ACP-EC Cotonou Agreement. CTA's tasks are to develop and provide services that improve access to information for agricultural and rural development, and to strengthen the capacity of ACP countries to produce, acquire, exchange and utilize information in this area. CTA's programmes are designed to: provide a wide range of information products and services and enhance awareness of relevant information sources; promote the integrated use of appropriate communication channels and intensify contacts and information exchange (particularly intra-ACP); and develop ACP capacity to generate and manage agricultural information and to formulate ICM strategies, including those relevant to science and technology. CTA's work incorporates new developments in methodologies and cross-cutting issues such as gender and social capital. CTA, Postbus 380 - 6700 AJ Wageningen - Netherlands -Website: www.cta.int
+
+iii
+
+CONTENTS
+WHY THIS MANUAL? GLOSSARY PART1: TECHNICAL REGULATIONS AND CONTROLS FOR IMPORTING
+1. - Commercial Quality and Labelling Regulations 2. - Food Safety Regulations
+
+i iv
+
+1
+2 4
+
+Maximum Residue Limits of Pesticides Biological Contamination and Product Traceability
+3. ­ Environmental Safety and Phytosanitary Regulations 4. ­ Customs Clearance 5. - Organizations supporting export from West Africa
+
+4 6
+8 10 12
+
+PART2: VOLUNTARY CERTIFICATION
+1. ­ Questions about certification 2. ­ Environmental Certifications
+
+16
+17 19
+
+Organic agriculture ISO 14001 Certification Utz Kapeh
+3. ­ Social Certifications
+
+19 25 28
+31
+
+Fair-Trade SA 8000 Certification
+4. ­ Food Safety and Quality Certifications
+
+31 34
+37
+
+EUREPGAP Ce tification r ISO 22 000 BRC Global Standard
+5. ­ Goals of the six certification schemes 6. ­ Opportunities and constraints of the six certification schemes
+
+37 40 41
+42 43
+
+iv
+
+GLOSSARY
+Bioterrorism Bioterrorism is a new form of terrorism based on pathogen use. This practice comprises the use of bacteria, virus or other toxins against persons, animals or plants. Biological contamination It is the contamination of any material or living matter by pathogens or genetically modified organisms. Fumigation It is a treatment based on the disinfection of products by chemical agents. This type of treatment is also sometimes required to disinfect material used for commodity packaging meant for export. Quarantining Quarantining is the confinement of products that do not comply with the phytosanitary requirements of import countries. This confinement of products aims at avoiding the introduction and the spreading of diseases. Confined products are kept under observation and research or for further inspection, testing and/or treatments. HACCP principles The HACCP system maintains food safety along the food supply chain from farm to consumer table. It consists of analysing possible contamination hazards in order to identify critical control points in the production line of the product and therefore avoiding possible contamination and ensuring food safety. The steps leading to HACCP system implantation are: Assemble the HACCP team Describe product and identify intended use Construct flow diagram and on-site confirmation of flow diagram List all potential hazards associated with each step, conduct a hazard analysis and consider any measures to control identified hazards Determine critical control points Establish critical limits for each critical control point Establish a monitoring system for each critical control point Establish corrective actions Establish verification procedures Establish documentation and record keeping
+
+1
+
+PART 1
+TECHNICAL REGULATIONS AND CONTROLS FOR IMPORTING
+
+T
+
+his
+
+part
+
+describes
+
+important
+
+technical
+
+norms
+
+and
+
+import
+
+requirements of the United States, the European Union and Japan.
+
+To export their products into the international market, producers and exporters must comply with norms and regulations in order to ensure product quality, environmental protection and consumer health. These norms and regulations are different depending on the product and the country of export and import. Some regulations are based on international food standards, while others are developed by individual countries. Non-compliance with these requirements may lead to quarantining or product rejection by import countries.
+
+2
+
+1. COMMERCIAL QUALITY AND LABELLING REGULATIONS
+
+C
+
+onsumers are increasingly concerned about their health, the country of origin and the quality of the products they consume.
+
+Most popular regulations focus on grade, size, weight, and package labelling. Regarding labelling, required information includes: country of origin, product name, variety and quantity. Requirements relating to commercial quality are about variety, colour, expiration date, external damage and shape.
+
+Before allowing the entry of products, require comply grades import that with and countries products minimum conditions.
+
+3 United States
+
+The United States requires that agricultural imports be graded according to the standards of the American Marketing Service of the United States Department of Agriculture (USDA). For more information on product grading and quality requirements
+
+established by the USDA: USDA: www.ams.usda.gov/standards/stanfrfv.htm USDA: www.ams.usda.gov/fv/moab-8e.html FDA: www.cfsan.fda.gov/~dms/lab-ind.html One of the components of the 2002 Farm Bill (the Farm Security and Rural Investment Act of 2002) is the implementation of mandatory country of origin labelling (COOL). For more information on this programme: USDA: http://www.ams.usda.gov/cool/
+
+European Union
+The European Union requires that imported fresh fruits and vegetables meet the European Community marketing standards for quality and labelling. The control is done by an inspection body at the point of import or in the case of some approved "third countries", at the point of export. For more information on the marketing standards of the European Union, consult the United Kingdom Department of Environment, Food and Rural Affairs (DEFRA) website: DEFRA EU Marketing Standards: www.defra.gov.uk/hort/hmi.htm
+
+Japan
+Japan requires that imported products comply with regulations in the Food Sanitation Law, the Japan Agricultural Standards (JAS) Law and the Measurement Law. For more information on standards and import procedures for specific products: Japan External Trade Organization: http://www.jetro.go.jp/en/market/regulations/ Ministry of Agriculture, Forestry and Fisheries: http://www.maff.go.jp/soshiki/syokuhin/hinshitu/e_label/index.htm
+
+4
+
+2.
+
+FOOD SAFETY REGULATIONS
+
+Producers need to ensure the quality and safety of the produce and avoid all potential hazards such as risks from contaminated water.
+
+Maximum Residue Limits of Pesticides
+
+R
+
+egulations on the maximum residue limits (MRLs) of pesticides (herbicides, insecticides, fungicides etc.) are effective both at national and international levels. Producers and exporters must comply with the regulations of their country (when the latter has a regulation on maximum residue limits of pesticides) and the regulations of import countries. They may only use chemicals that are registered for use on a particular crop and must strictly follow the directions indicated in the instructions leaflet or on their containers (boxes and bottles).
+
+For treatments, it is important to meet recommended doses
+
+The following links contain comprehensive information on Food safety regulations at international level (e.g. Codex Standards) and/or national level :
+http://www.ipfsaph.org/En/default.jsp http://www.fao.org/ag/agn/food/food_fruits_en.stm
+
+5 United States
+In the United States, the maximum residue limits for pesticides are established by the Environmental Protection Agency (EPA) and controlled by the Food and Drug Administration (FDA) at the point of import for all agricultural products. For more information on the requirements and the maximum residue limits established by the EPA: US Environmental Protection Agency: www.access.gpo.gov/nara/cfr/waisidx_04/40cfr180_04.html www.epa.gov/pesticides/food/viewtols.htm www.epa.gov/fedrgstr/EPA-PEST/index.html The following website enables users to get maximum residue limits according to crop, pesticide active ingredient or pesticide type and country: www.fas.usda.gov/htp/MRL.htm
+
+European Union
+The European Union continues to lower the maximum limits of pesticide residues permitted in products. For many pesticides there are now common limits that apply to the entire European Union. However, for some pesticides the residue limits vary from country to country. Each country verifies that regulations are met (usually through the ministry of agriculture) at its point of entry. When European Union countries have not set up maximum limits, exporters are required to obtain an import tolerance. For more information about pesticide residue limits in the European Union member countries: http://europa.eu.int/comm/food/plant/protection/pesticides/index_en.htm http://europa.eu.int/comm/food/plant/protection/index_en.htm http://europa.eu.int/scadplus/leg/en/lvb/l21289.htm For appropriate contact points in the member states: http://europa.eu.int/comm/food/plant/protection/evaluation/contact_dec.xls For information about application procedure of an import tolerance: http://www.pesticides.gov.uk/applicant_guide.asp?id=1239
+
+6 Japan
+In Japan, the Ministry of Health, Labour and Welfare and the Environmental Department are responsible for establishing and testing residue limits. These limits are based on the Food Sanitation Law. Information on pesticide residue levels can be found at: http://www.mhlw.go.jp/english/topics/foodsafety/positivelist060228/index.html
+
+Biological Contamination and Product Traceability
+n response to recent problems about food safety (e.g. mad cow disease) and global terrorism, many governments are increasing control over all stages of food production, processing and distribution to protect consumers against the biological contamination of food. Traceability systems are used to identify products, their origin and their location within the supply chain. They also enable efficient recall in case of products' contamination. Furthermore, they help determine the origin of a food safety problem, comply with legal requirements and meet consumer's expectations for the safety and quality of purchased products.
+
+I
+
+To limit contamination risks, it is necessary to monitor each stage of the supply chain.
+A growing number of governments and retailers are now requiring that the HACCP principles together with the application of Good Hygienic Practices (GHPs) and Good Agricultural Practices (GAPs) be used in crop production. http://www.fao.org/ag/agn/food/food_fruits_en.stm http://www.fao.org/ag/agn/food/quality_haccp_en.stm
+
+7 United States
+The Government of the United States has adopted the Bioterrorism Act, which requires that all exporters register with the Food and Drug Administration (FDA) and give notice prior to product arrival in the United States. For more information about the United States Bioterrorism Act: Food and Drug Administration: www.cfsan.fda.gov/~dms/ffsbtac5.html www.access.fda.gov/ The USA COOL programme will have impacts on traceability requirements of the United States towards its supplier countries. General information on this programme can be found at: USDA: www.ams.usda.gov/cool/
+
+European Union
+The European Union regulations on traceability entered into force in January 2005. In order to comply with these rules, it is important that European Union importers identify the origin of products. As a consequence, the latter could require exporters to comply with traceability requirements even if "Exporters in trading partner countries are not legally required to fulfil the traceability requirement imposed within the EU. General information on traceability can be found at: http://europa.eu.int/comm/food/food/foodlaw/guidance/guidance_rev_7_en.pdf http://europa.eu.int/comm/food/food/foodlaw/traceability/index_en.htm http://europa.eu.int/scadplus/leg/en/lvb/132041.htm For detailed explanations on this regulation you can consult the Pesticide Initiative Programme of COLEACP: http://www.coleacp.org/, Email: pip@coleacp.org For explanations on the foodstuff hygiene requirements, please consult: http://europa.eu.int/comm/food/food/biosafety/hygienelegislation/guidance_doc_8522004_en.pdf
+
+Japan
+At the time of preparing the manual, no traceability requirements for exporters existed in Japan.
+
+8
+
+3. ENVIRONMENTAL SAFETY AND PHYTOSANITARY REGULATIONS
+roducers must comply with phytosanitary regulations to prevent the entry and spread of plant diseases and pests into new areas. The major importing countries around the world implement pest risk analysis systems in order to determine the risk level of an imported product and inspect products on arrival to ensure that the level of risk is not exceeded.
+
+P
+
+It is necessary to apply for phytosanitary certificates for regulated products such as plants, seeds, fruits and vegetables, and cut flowers. For detailed information on phytosanitary certificate content: https://www.ippc.int/IPP/En/default.jsp (under phytosanitary regulations' section)
+
+9
+
+United States In the United States, inspectors from the Animal and Plant
+Health Inspection Service (an agency of United States Department of Agriculture) must examine and approve all shipments before they can be cleared for customs. If signs of pests or disease are found, the produce may be either fumigated (or treated in another manner), returned to the country of origin or destroyed. For further information on the plant quarantine system of the United States: USDA: www.aphis.usda.gov/ppq/permits
+
+European Union
+
+To export to the European Union, producers and exporters must comply with the plant health regulations of the European Union. Regulations are enforced at the point of entry. For more information on the plant health regulations in Europe, contact the
+
+International Phytosanitary Portal at: https://www.ippc.int/IPP/En/nppo.jsp or for the Consolidated text on the phytosanitary requirements of the EC (Council Directive 2000/29/EC plus amendments) go to: http://europa.eu.int/eur-lex/en/consleg/pdf/2000/en_2000L0029_do_001.pdf
+
+Japan
+
+The Japanese Government requires supplier countries to comply with the Plant Protection Law, the Plant Health Law and the Food Sanitation Law. These regulations are enforced by the Plant Protection Division of the Ministry of Agriculture, Forestry and
+
+Fisheries (MAFF). More information on Japanese phytosanitary regulations or Japanese quarantine system can be found at: Plant Protection Station: www.pps.go.jp/english/ Japan External Trade Organization: http://www.jetro.go.jp/en/market/regulations/pdf/plant2003apr-e.pdf
+
+10
+
+4. CUSTOMS CLEARANCE
+inal authorization for product entry depends on the customs officials in the country of import. To clear customs, the exporter must fill out the necessary forms (commercial, shipping) and pay all fees (duties, taxes). Since processing these forms can be time-consuming, some countries now offer pre-clearance programmes to save time. This means that products can be cleared for customs in the country of origin by officials who can guarantee that product regulations were followed.
+
+F
+
+Non compliance with one of these norms or regulations of import countries may cause product rejection.
+
+11
+
+United States
+
+Customs officials can only authorize the entrance of products into the United States after inspections by APHIS and the FDA at the point of entry. Exporters must also pay the necessary duties there, as determined by quantity, value, description and country of origin. To speed up the processing time at the border,
+
+exporters can complete certain customs procedures before departure. For example, through APHIS International Services it is now possible for some countries to get pre-clearance on import documents like phytosanitary certificates. For more details about the available pre-clearance arrangements in the United States: www.aphis.usda.gov/ppq/preclearance/ Exporters can also use an Automated Commercial System developed by the US Customs to process documents electronically. For more information: www.cbp.gov/xp/cgov/import/operations_support/automated_systems/ams/
+
+European Union
+
+Procedures for customs clearance in the European Union vary according to countries. However, many of these countries have electronic customs systems and other programmes that speed up clearance time. For specific information about customs procedures
+
+and tariff rates (by country): Taxation and Customs Union
+http://europa.eu.int/comm/taxation_customs/common/about/welcome/index_en.htm
+
+Centre for the Promotion of Imports from Developing Countries (CBI): www.cbi.nl
+
+Japan
+
+Prior to arrival of the products, exporters must notify the quarantine station at the point of entry through an electronic system operated by the Ministry of Health and Welfare. To further reduce the time spent at customs, a sample of the
+
+product can be brought to an official lab in Japan or in the exporting country and the results submitted for pre-clearance. Consumption tax and duties are paid before final clearance is given. For further information about import procedures: www.mhlw.go.jp/english/topics/importedfoods/index.html
+
+12
+
+5. ORGANIZATIONS SUPPORTING EXPORT FROM WEST AFRICA
+
+national organizations located in each of the West African countries that work to help producers comply with these regulations.
+
+P
+
+roducers and exporters need to familiarize themselves with a large variety of technical norms and import regulations which can at first seem complicated. However, there are a number of international and
+
+Various organizations may help you find the right information
+Don't hesitate to contact international or local organizations! They can provide you with additional information or relevant training.
+
+At International Level
+COLEACP, Pesticide Initiative Programme (PIP) and Harmonized Framework for Codes of Practice: www.coleacp.org EU on-line Export Help Desk for developing countries: http://export-help.cec.eu.int/ Guidelines to facilitate trade: http://europa.eu.int/comm/food/fvo/pdf/guide_thirdcountries_en.pdf International Trade Center: http://www.intracen.org/menus/itc.htm Market Access Database: http://mkaccdb.eu.int
+
+13
+
+National Organizations
+
+Benin
+
+- Association de développement des produits d'exportations (ADEX); Tel.: (229) 31 78 21, Email: adex@intnet.bj - Centre béninois du commerce extérieur, Tel.: (229) 301320/301397; Email: cbce@bow.intnet.bj, www.cbce.africa-web.org/ (FR)
+
+- Fédération des groupements d'intérêts économiques de l'atlantique, Tel.: (229) 315726, Email: sylvieamoussou@yahoo.fr
+
+Burkina Faso
+
+- Association professionnelle des exportateurs de fruits et légumes du Burkina (APEFEL), Tel.: (226) 300210/311338 - Ministère du commerce, de l'artisanat et de la promotion de l'entreprise; Tel.: (226) 324828; Email: mcia@cenatrin.bf - Union nationale de groupements et sociétés coopératives de
+
+production fruitière et maraîchère du Burkina Faso, Tel.: (226) 20975234; Email: ufmb@fasonet.bf
+
+Côte d'Ivoire
+
+- Association pour la promotion des produits d'exportation de Côte d'Ivoire (APEXCI), Tel.: (225) 20315700; Email: apexci@aviso.ci - Association pour la promotion des produits d'exportation agricoles non­traditionnelles de Côte d'Ivoire (PROMEXA), Tel.: (225) 20210561/62; Email: info@promexa.ci - Organisation centrale des producteurs/exportateurs d'ananas &
+
+bananes de CI, Tel.: (225) 20/25251872; Email: ocab.a@aviso.ci (exportation: mangue, ananas) - Société d'étude et de développement de la culture bananière, Tel.: (225) 20209300; Email: scb@scb.ci
+
+14 Gambia
+- Department of State of Trade, Industry and Employment Tel.: (220) 228868, Email: dostie@qanet.gm Web: www.gambia.gm/Introduction/introduction.html
+
+Ghana
+
+- Federation of Associations of Ghanaian Exporters (FAGE); Tel.: (233) 21232554; Email: fage@ighmail.com; web: www.ghana-exporter.org -Ghana Association of Vegetable Exporters (GAVEX), Email: tacks@africaonline.com
+
+- Ghana Export Promotion Council (GEPC); Tel: (233)-21228813/228830, Email: gepc@ghana.com; web: www.exportghana.org -Horticulturist Association of Ghana (HAG), Email: hag@africaonline.com - Ministry of Trade and Industry; Tel.: (233-21) 663188, Email: mismoti@africaonline.com.gh; web: www.moti-ghana.com -Papaya and Mango Producers and Exporters Association of Ghana (PAMPEAG), Email: pampeag@yahoo.co.uk -Plant Protection and Regulatory Services Directorate, Tel.: (233) 21302638; Email: spsghana@africaonline.com.gh or uqadams@hotmail.com -Vegetable Growers and Exporters Association of Ghana (VEPEAG), Email: vepeag@yahoo.com, Web: www.ghana-exporter.org/vepeag/DEFAULT2.HTM
+
+Guinea
+
+- Projet cadre de promotion des exportations agricoles (PCPEA); Tel.: (224) 411461; Email: pcpea@mirinet.net.gn
+
+Liberia
+- Ministry of Commerce and Industry, Tel.: (231) 226283
+
+Mali
+
+- Ministère de l'industrie et du commerce; Tel.: (223) 2214928; Email: dnae@datatech.toolnet.org - Trade Mali, Tel.: (223) 2291750; Email: info@trademali.com
+
+15 Niger
+- Centre nigérien du commerce extérieur, Tel.: (227) 732288 - Ministère du commerce de l'industrie et de la promotion du secteur privé Tel.: (227) 735867, Email: nicom@intnet.ne.
+
+Nigeria
+- Chamber of Commerce, Industry, Mines and Agriculture of Port Harcourt, Tel.: (234-84) 330394 - International Trade Center of Lagos, Tel.: (234-1) 2635276, Email: wtcn@linkserve.com - Nigeria Export Promotion Council (NEPC), Tel.: (234-9) 5230932; web: www.nepc.gov.ng
+
+Senegal
+
+- Centre international du commerce extérieur du Sénégal (CICES), Tel: (221) 8275266; Email: cices@cices.sn - Chambre de commerce, d'industrie et d'agriculture de Dakar (CCIA); Tel.: (221) 8237189; Email: cciad@Telecomplus.sn - Fondation trade point Sénégal, Tel.: (221) 8397373,
+
+Email: tpdakar@tpsnet.org; web: www.tpsnet.org (FR) - Organisation nationale des producteurs/exportateurs de fruits et légumes du Sénégal (ONAPES), Tel.: (221) 8227853/7854; Email: onapes@infocom.sn
+
+Sierra Leone
+
+-Ministry of Trade and Industry Tel.: (232-22) 222706/ 222640 -Sierra Leone Export Development and Investment Corporation (SLEDIC), Tel.: (232-22)229216/227604
+
+Togo
+- Chambre de commerce, d'agriculture et de l'industrie du Togo, Tel: (228) 212 068/217 065, Fax : (228) 214 730 - Ministère du commerce, de l'industrie et de l'artisanat, Tel.: (228) 2212971/2212025, Fax: (228) 2210572
+
+16
+
+PART 2
+VOLUNTARY CERTIFICATION
+The first part of this manual described important technical norms and import regulations of the United States, the European Union and Japan. They are compulsory for exporters or producers who want to sell their products into these markets. he second part of the manual deals with voluntary private
+
+T
+found.
+
+certification. The objective of this part is to provide producers and exporters with general information on some of the major voluntary agricultural certification programmes, available in
+
+private
+
+Western Africa, including contacts where more information can be
+
+17
+
+1. QUESTIONS ABOUT CERTIFICATION
+What is voluntary certification?
+certificate is a written guarantee by an independent certification agency that the production process or the product complies with certain standards established by different private organizations or countries. These standards can focus on environmental issues (such as soil conservation, water protection, pesticide use, or waste management), or social issues (such as producer income, worker rights, occupational health and safety) or on other aspects of production like food safety.
+
+A
+
+Why do these programmes exist?
+ertification brings opportunities to producers such as market access, protection of local resources, improvement of workers' health and living conditions of rural communities. It may also ensure consumer health. Consumers are increasingly aware of the social and environmental problems associated with the production and trade of the food they consume.
+
+C
+
+In response to these concerns, different types of certification programmes have been developed by private organizations or governments in order to solve these problems.
+
+18
+
+Why certify?
+
+helpful to promote the product in the market. Certification can also help improve market access, and in some cases, result in higher producer prices. Certification is mainly used when the producer and the consumer are not in direct contact, in the international market where for instance the consumer cannot easily verify that the product was produced in the manner described by the producer.
+Producers can choose among many
+
+C
+
+ertification is used to demonstrate that a product has been produced in a certain way or has certain characteristics. It can help differentiate the product from other products, which can be
+
+different types of certification. Decisions to obtain certification as well as the type of certification chosen are important decisions that influence farm management, investments However, programme and since has marketing every different strategies. certification objectives,
+
+requirements differ.
+
+Cost?
+he cost of meeting a standard and getting certified depends on the kind of changes the producer will have to make on his/her farm and on the type of certification program chosen. In general, the cost of certification depends on the time spent doing the farm inspection (farm audit) and on the travel expenses of the inspector (s).
+
+T
+
+19
+
+2. ENVIRONMENTAL CERTIFICATIONS
+
+ORGANIC AGRICULTURE
+rganic agriculture is based on the rejection of synthetic chemicals or genetically modified inputs. It promotes sustainable traditional farming practices that maintain soil fertility such as fallow. In organic farming, soil fertilisation requires organic substance (animal or vegetable origin) and small quantities of minerals.
+
+O
+
+In West Africa, organic farming is expanding notably for crops such as cotton, bananas, mangoes, pineapples, shea butter, papayas, cashew nuts and avocadoes.
+
+Main requirements?
+
+T
+
+here are specific requirements for most organically certified crops as well as livestock, fish farming, bee keeping, forestry and the harvesting of wild products. Organic standards require that there is a conversion period (or time that a farm has to use organic production methods before it can be certified, usually 2-3 years).
+
+20
+
+Some organic farming criteria
+Crop production requirements apply to:
+selection of seeds and plant
+
+Animal production requirements apply to:
+animal health feeding and breeding transport and slaughter procedures
+
+materials
+maintenance of soil fertility and
+
+the recycling of organic materials prohibition of genetically modified inputs diversity of crops on farm processing, packaging and traceability of products use of organic fertilizers and compounds for the control of pests, diseases and weeds
+
+How to get certified?
+
+S
+
+tandards for organic farming have mainly been developed by private certification bodies but a number of countries also have national organic standards and regulations. In West African countries there are no national regulations. However, there are private initiatives (Agrinat, Agrecol-Afrique) that promote organic farming. The European Union, the United States and Japan all have national regulations on the labelling of organic products and if producers want to export their products to these countries, they must meet these regulations.
+
+The choice of a certification agency is very important. The certification agency chosen by the producer must be officially recognized in the country where the product is to be sold. National certification agencies are often less expensive than international agencies but they may not be as well known in some foreign markets. The conversion period of 2-3 years is often costly for the producer because the produce must be sold at conventional prices even though organic methods are used which may result in higher production costs and lower yields, at least initially.
+To reduce costs, a group of producers can join together and create their own internal control system in order to improve production and fulfil organic standard requirements. To do this, it is important that the producers trust and work well together, as they will largely depend on each other.
+
+21
+
+Opportunities and constraints?
+rganic agriculture may represent an interesting opportunity for many producers in West Africa especially for those who presently do not use a lot of agrochemical products. Once the farm is certified, selling organic products might improve the quality of life and income of producers. Producers shift to organic agriculture for a variety of reasons. Some feel that the use of agrochemicals is bad for their health and the environment, while other producers are attracted by the generally higher prices and the rapidly growing market for many organic products in recent years. Converting to organic agriculture may be easier or more profitable for producers depending on whether:
+
+O
+
+They use organic fertilizers and other permitted inputs or whether they use agrochemical products intensively. They own the land. They have access to labour (as organic production often demands more labour).
+
+In West Africa, organic products are usually sold in farmers' markets. The local demand for these products is low but it is growing. Europe, especially France and Switzerland, remains the main market for organic products from West Africa. Organic agriculture is mostly practised by small producers but the price premium and the importance of the European market may encourage large producers to use this type of practice. Competition coming mostly from countries from Latin America and the risk that the organic market becomes oversupplied may both decrease the price premium. However, this decrease might lead more and more consumers to prefer organic products to conventional products.
+
+22
+
+More information on Organic Agriculture International sites
+- FAO: http://www.fao.org/organicag/default.htm - GTZ; Tel.: (49) 6196 79 1466 ; Email: Marion.Buley@gtz.de - International Federation of Organic Agriculture Movements - IFOAM; Tel.: (49) 228 926 0-10; Web: www.ifoam.org
+
+NGOs in West Africa
+Benin
+- Organisation béninoise pour la promotion de l'agriculture biologique (OBEPAB); web: www.obepab.bj (FR); Email: obepab@intnet.bj - Réseau de développement d'Agriculture Durable (REDAD); Tel.: (229) 362491; Email: rtokannou@yahoo.fr
+
+23 Burkina Faso
+
+- Agri Bio Conseil; address: BP 2545. Bobo Dioulasso, Burkina Faso - Association pour la recherche et la formation en agro écologie (ARFA); Tel.: (226) 770670 or 770275; Email: arfa@fasonet.bf - Centre écologique Albert Schweitzer du Burkina Faso (CAES);
+
+Tel.: (226) 50343008; web: http://www.ceas-ong.net/burkina1.html (FR)
+
+Ghana
+
+- Ghana Organic Agriculture Network (GOAN); Tel.: (233) 5120954; Email: goan@wwwplus.com - Ideal Providence Farms; Email: ginakoomson@yahoo.co.uk
+
+- Kumasi Institute of Tropical Agricultura (KITA); Tel.: (233) 2081 7 64; Web: www.kita-ghana.org; Email: director@kita-ghana.org
+
+Mali
+- Groupe de recherches et d'applications techniques (GRAT) Groupe Tel.: (223) 2224341 - Helvetas Mali, Tel.: (223)2217998/2210964/2210965, Web: www.helvetas-mali.org/index.html (FR), Email: helvetas@afribone.net.ml
+
+- AGRECOL; Tel.: (221) 9514206; web: www.agrecol-afrique.sn (FR); Email: agrecol@sentoo.sn; - Agriculteurs Naturalistes (AGRINAT), Tel.: (221) 9514202; Email: agrinat@enda.sn - Association Sénégalaise pour la promotion de l'agriculture biologique (ASPAB); Tel. : (221) 9512026 - Protection naturelle des cultures-environnement développement (PRONAT); Tel.: (221) 8225565; web: www.enda.sn/pronat/(FR); Email: pronat@enda.sn;
+
+Senegal
+
+- ANCE/Togo; Tel.: (228) 9080742 ou 9483549; web: www.ancetogo.globalink.org(FR); Email: ebeh@globolink.org - Association pour la protection de l'environnement et le bien-être social (APEBES); Tel.: (228) 4410280 - Centre de recherche action pour l'environnement et le développement intégré (CREDI); Tel.: (228) 2253760 - CREDA (Consultation-recherche-éducation en environnement pour un développement durable en Afrique); Tel: (228) 2221732
+
+Togo
+
+24
+
+Organic certifiers in West Africa
+- ECOCERT Ouaga; Tel.: (33) 50360993/70244114; Web: www.ecocert.com; Burkina Faso - Bio Inspecta; Tel.: (41) 628656300; Web: www.bio-inspecta.ch/fr/home.html; Email: admin@bio-inspecta.ch; Switzerland - Naturland; Tel.: (49) 898980820; Web: www.naturland.de/englisch/frame_defs/framedef.html ; Email: Naturland@naturland.de; Germany - Soil Association, Tel.: (44) 1173145000, web: http://www.soilassociation.org/web/sa/saweb.nsf/home/index.html; Email: info@soilassociation.org; United Kingdom
+
+Marketing
+- COLEACP; Tel.: (33) 1 41800210; www.coleacp.org; coleacp@coleacp.org - Organic Trade Services; Tel.: (44) 7974103109; Web: www.organicts.com; Email: info@organicTS.com; United Kingdom - USDA FAS; Web: www.fas.usda.gov/agx/organics/index.htm, Email: angela.thomas@fsa.usda.gov; United States
+
+Research Centres
+- FIBL; Tel: (41) 628657272; Email: info.suisse@fibl.org ; Web: www.fibl.org/english/index.php , Switzerland - Organic Research; Web: www.organic-research.com, United Kingdom - National Sustainable Agriculture Information Service ; Web : www.attra.org, United States
+
+For those who would like to know more about organically certified producers or processors, further information can be found at: http://www.coleacp.org/ under the PIP (Pesticide Initiative Programme) section.
+
+25
+
+ISO 14001 CERTIFICATION
+
+I
+
+SO 14001 is designed to help the implementation of environmental management systems for organizations in both the private and public sectors. It was created by the International Organization for Standardization (ISO) which is an international network of national standard institutes working along with governments, industry and consumer representatives. While there are a number of other ISO standards that can be used as environmental management tools, only ISO 14001 can be used for certification. The group of ISO standards, which contains various international harmonized voluntary standards, is widely applied across all industrial sectors.
+
+Main requirements?
+The ISO 14001 standard requires that the enterprise develops an environmental management system that includes: environmental objectives and goals, policies and procedures for reaching these goals, definition of responsibilities, staff training activities, documentation and a system to review any changes made. The ISO 14001 standard describes the management process that the company must follow and requires that the company respect the national environmental regulations. However, it does not set specific performance levels or require that particular performance targets be met.
+
+T
+
+How to get certified?
+
+The ISO 14001 certification is granted by either governmental or private certification agencies under their own responsibility. In some parts of the world, national authorities accredit certification agencies to do the ISO certification. In most cases, the producer must pay a consultant to help with the preparation process and to make the environmental management plan.
+
+26
+
+Opportunities and constraints?
+he ISO 14001 is well known in the The products from an industrial sector. The certification ISO14001 certified farm aims to reduce the impact on the cannot be ISO labelled and environment with a management system there is no price premium. that can also create internal benefits by Since a growing number of improving environmental performance (for companies are becoming ISO example by reducing the use of raw certified, the standard may no materials and energy or by improving longer be a determining factor waste management). A main limitation of for market advantage but ISO 14001 is that there are no could lead to other internal performance requirements. This means benefits within the company that an enterprise with very high environmental targets and one with low targets may both be certified. Therefore, the effect largely depends on the commitment of the individual company. Also the ISO logo cannot be used on products. However it is possible either to use your organization's own logo and adapt it by including that your company is certified ISO 14001, to develop a new logo that embeds information about your ISO 14001 certification or to use your certification body's logo.
+
+T
+
+More information on ISO 14001 International
+International Organization for Standardization : www.iso.org
+
+In West Africa
+Benin
+- Centre béninois de normalisation et de gestion de la qualité (CEBENOR); Tel.: (229) 309359; Email: cebenor@intnet.bj - SGS ; Tel. : (229) 21300709; www.sgs.com
+
+Burkina Faso
+- Direction de la normalisation et de la promotion de la qualité (FASONORM), Tel.: (226) 50311300; fasonorm@onac.bf - SGS; Tel.: (226) 50315042/43 ou (226) 20971471 Email: sgs.burkina.faso.lo@sgs.com; www.sgs.com
+
+27 Côte d'Ivoire
+- Côte d'Ivoire Normalisation (CODINORM); Tel.: (225) 20215512; Email: codinorm@africaonline.co.ci - SGS, Tel.: (225) 21752200; www.sgs.com
+
+Ghana
+- Ghana Standards Board (GSB); Tel.: (233) 21501495; Email: gsbnep@ghanastandards.org - SGS; Tel.: (233) 21764708/709/773997/773994, web: www.gh.sgs.com; Email: sgs.ghana@sgs.com
+
+Guinea
+- Institut National de la normalisation et de la métrologie (INM) Tel.: (224) 412816; Email: inm@soTelgui.net.gn - SGS; Tel.: (224) 454790/454791; conakrySA.GN@sgs.com
+
+Mali
+- Direction nationale des industries (MLIDNI) Tel.: (223) 2220663; Email: dni@afribone.net.ml
+
+Niger
+- Direction de la normalisation de la qualité et de la métrologie (DNQM); Tel.: (227) 736950; Email: dnqm2002@yahoo.fr
+
+Nigeria
+- Standards Organisation of Nigeria (SON);Tel.: (234) 1 2708247; info@sononline-ng.org; web: www.sononline-ng.org - SGS; Tel.: (234) 1 2625347 - 50, 2620735-37; web: www.ng.sgs.com; Email: sgs.nigeria@sgs.com
+
+Senegal
+- Association sénégalaise de normalisation Tel: (221) 8276401; Email : asnor@sentoo.sn - SGS; Email: sgs.senegal@sgs.com
+
+28 Togo
+
+- Conseil supérieur de normalisation (CSN)
+Tel.: (228) 2200750; Email: togonormes@yahoo.fr
+
+UTZ KAPEH
+
+U
+
+tz Kapeh is a certification programme that enables coffee producers to grow coffee in a sustainable way. This program was founded in 1997 by Guatemalan coffee producers and the Dutch coffee roaster, Ahold Coffee Company. The code of conduct is benchmarked against the EurepGap code. Criteria from ILO (International Labour Organization) conventions have also been added.
+
+Main requirements?
+he main objectives of Utz Kapeh are to enable consumers and buyers to answer two questions, namely: Where does the coffee come from? and How was it produced? To reach these goals, a web-based traceability system has been created and producers must meet the Chain of Custody requirements such as separating Utz Kapeh certified coffee from non-Utz Kapeh coffee and keeping records of direct suppliers and buyers. A code of conduct has also been developed and comprises Good Agricultural & Business Practices, environmental and social criteria some of which are summarized in the following table.
+
+T
+
+29
+
+Some criteria of Utz Kapeh Certification
+Good Agricultural and Business Practices' Criteria
+workers trained properly implementation of accident and emergency procedures implementation of hygiene rules and practices traceability system annual internal inspections
+
+Environmental Criteria
+reduce and prevent soil erosion comply with maximum residue limits minimize water and environmental pollution optimize use of sustainable energy sources protect water sources avoid deforestation of primary forests
+
+Social Criteria
+workers are protected by national laws and ILO conventions regarding age, working hours, pensions, working conditions, collective bargaining and safety workers receive protective clothing for the use of chemicals access to health care for the workers and their families access to education for children
+
+How to get certified?
+tz Kapeh certification can be applied by any coffee producer or group of coffee producers. Interested farmers have to go through a self-assessment process to compare their current situation to the Utz Kapeh Code of Conduct. Once they are ready to get certified, they must be inspected by the certification bodies approved by Utz Kapeh in order to see how they comply with Utz Kapeh requirements. If they successfully pass the inspection they will be able to get the Utz Kapeh certificate. The certified producers or groups of producers must be inspected on an annual basis.
+
+U
+
+Opportunities and constraints?
+
+U
+
+tz Kapeh certification enables coffee farmers to produce a value added coffee as products are differentiated and bear the Utz Kapeh logo. They can therefore benefit from a price premium. Another advantage is that they don't have to pay any fees as the Utz Kapeh administration fee is covered by buyers. The main constraint is that Utz Kapeh certification requires the necessary administration and financial capacity to be able to comply with criteria such as traceability. Another constraint is that there is only one product that can be certified namely coffee. However, Utz Kapeh is working on the possibility to include more products.
+
+30
+
+More information on Utz Kapeh certification
+www.utzkapeh.org/index.php?pageID=101&switchlanguage=EN
+
+Utz Kapeh certifiers in Africa
+Ethiopia
+- BCS Öko-Garantie GmbH, www.bcs-oeko.de Tel.: (251) 1 762649, Email: ethio-bcs@ethionet.et
+
+Kenya
+- Africert www.africert.co.ke, Tel.: (254) 20 828857, Email: rnyagah@siwftkenya.com - SGS, Tel.: (254) 20 2733690/2733699, Email: kioko_ndolo@sgs.com
+
+Tanzania
+- IMO (Institute for Market Ecology) www.imo.ch Tel.: (255) 748618490 (Mobile), Email: imo-tanzania@maneno.net
+
+Uganda
+- IMO (Institute for Market Ecology) www.imo.ch Tel: (256-0) 41 285513/77413270, Email: m.audibert@bushnet.net
+
+For those who would like to contact Utz Kapeh certified producers: http://www.utzkapeh.org/index.php?pageID=141&switchlanguage=EN
+
+31
+
+3. SOCIAL CERTIFICATIONS
+FAIR-TRADE
+
+F
+
+air-trade is based on the fair remuneration of producers. Buyers that commit to fair-trade must pay a minimum price to producers as well as a premium called fair-trade premium. This premium should enable producers to support themselves and to invest in community development. In return, producers that commit to fair-trade must comply with labour rights, environmental and social requirements. Standard setting and certification are under the control of the Fairtrade Labelling Organizations International (FLO). This organization is the worldwide umbrella organization of 20 national non-governmental organizations in Europe, America, Asia and Oceania.
+
+In West Africa, fair-trade certified products are mostly cocoa, mango and other tropical fruits.
+
+32
+
+Main requirements?
+
+T
+
+o obtain certification, producer associations must function in a democratic manner. There are also rules on how the fair-trade premium has to be spent and requirements for the protection of the environment. For plantations, there are a number of requirements related to labour rights: workers' treatment, freedom of association and collective bargaining, workers' housing and sanitation; workers' health and safety; and no child or forced labour. In addition, the producer must comply with the environmental and social laws in the producing country and demonstrate continual improvement in annual inspections (audits).
+
+How to get certified?
+
+F
+
+air-trade certification can be applied for by a group of producers in a cooperative, a farmer association or by large farms with an organized labour force. Local auditors inspect the farm and the certification agency Flo-Cert Ltd decides whether or not to certify the producer association. Once certified, there is a regular inspection once a year to check that the producers are meeting the fair-trade requirements and to examine how the producers used the fair-trade premium. Traders who use the FLO certification mark on their packages currently pay a license fee. Producers have to pay fees which are based on the costs of the inspection.
+
+33
+
+Opportunities and constraints?
+
+A
+
+producer association or a plantation can benefit from fair-trade certification since certified products normally receive higher and more stable prices. The price paid to producers is determined by production costs. It takes into consideration any additional costs that might arise from meeting the fair-trade requirements, such as providing living wages for workers. In general, the fair-trade premium is meant to provide some resources to the community to improve the living conditions of its members.
+
+A key constraint in the fair-trade system is that a group of producers can only get certified if FLO finds that there is a market for their fair-trade labelled products. In order to enter the fair-trade system, a necessary first step is to ask FLO and fair-trade importers for information regarding market opportunities for their products. Another constraint is that when a producer association or a plantation has been certified there is no guarantee that the whole production will be sold and marketed as `'fair-trade''.
+
+More information on fair-trade
+- FLO International, Bonn, Germany; Tel.: (49) 228 24930; Email : info@fairtrade.net; web: www.fairtrade.net - FLO Branch office in France webmaster@maxhavelaarfrance.org; web: www.maxhavelaarfrance.org (FR) - FLO Certification Unit, Bonn/Germany; Email: info@flo-cert.net
+
+34
+
+SA 8000 CERTIFICATION
+
+A8000 is a voluntary private workplace certification that has been developed by the non governmental organization Some of the very large firms Social Accountability International exporting banana, pineapple, (SAI) with the aim to create better tobacco, wine, canned fruits and working conditions. The SA8000 processed coffee are SA8000 standard is based on international certified. workplace norms including those related to social justice, worker rights and working conditions.
+
+S
+
+Main requirements?
+he SA8000 certification sets minimum standards for working conditions to ensure: a safe and healthy working environment, freedom of association and collective bargaining and an enterprise strategy for managing social workplace issues. Also there are rules for working hours, wages, prevention of discrimination and the use of children or forced labour.
+
+T
+E
+
+How to get certified?
+enterprises that operate production facilities can apply for SA8000 certification by one of the certification agencies approved by SAI. After the initial inspection and once the workplace is certified, the company is monitored to ensure continued compliance with the standards. The producing company usually pays the certification fee which includes the audit and corrective or preventative action costs. The SA8000 certification mark is not used on product labels but the company may use it in promotional activities. There is no specific price premium or market for SA8000 certified products.
+
+35
+
+Opportunities and constraints?
+he SA8000 certification is one of the most detailed workplace standards for international labour rights. It primarily benefits larger agro-industrial enterprises that can use it in their corporate public relations. The SA8000 standard can help to improve productivity and quality and can also help to recruit and retain workers. Although more common in other industries, the SA8000 standard has been taken up slowly by the agricultural industry because it is difficult to implement in seasonal production.
+
+T
+
+More information on SA8000
+SAI, Tel.: (1) 212 6841414; Email: info@sa-intl.org; web: www.sa-intl.org, United States
+
+36
+
+SA 8000 certifiers in West Africa
+Benin
+- SGS www.sgs.com; Tel. : (229) 21 300709
+
+Burkina Faso
+- SGS www.sgs.com; Tel.: (226) 50315042/43 ou (226) 20971471, Email: sgs.burkina.faso.lo@sgs.com
+
+Côte d'Ivoire
+- SGS www.sgs.com; Tel.: (225) 21752200
+
+Ghana
+
+- DNV www.dnv.com ; Tel.: (233) 22215912 - SGS www.sgs.com; Tel.: (233) 21764708/709/773997/773994, web: www.gh.sgs.com; Email: sgs.ghana@sgs.com
+
+Guinea
+- SGS www.sgs.com; Tel.: (224) 454790/454791; Email: conakrySA.GN@sgs.com
+
+Nigeria
+- BVQI www.bvqi.com ; Tel.: (234) 1 2692615 - SGS www.sgs.com; Tel.: (234) 1 2625347-50, 2620735-37; web: www.ng.sgs.com; Email: sgs.nigeria@sgs.com
+
+Senegal
+- SGS www.sgs.com; Email: sgs.senegal@sgs.com
+
+For those who would like to know more about SA8000 certified organizations:
+http://www.saintl.org/index.cfm?fuseaction=document.showDocumentByID&nodeID =1&DocumentID=60
+
+37
+
+4. FOOD SAFETY AND QUALITY CERTIFICATIONS
+EUREPGAP CERTIFICATION
+UREPGAP is a voluntary private certification system created by the Euro-Retailer Produce Working Group (EUREP). The group is made up of 31 members1 that operate in Western Europe. EUREPGAP aims to increase consumers' confidence in food safety by developing "good agricultural practices" (GAP) which must be adopted by producers. It also aims to harmonize buyers' requirements for food hygiene and for maximum residue limits for pesticides. Unlike the other certification programmes, the focus of EUREPGAP is not on environmental or social issues but rather on food safety and traceability. However, the EUREPGAP standard also includes some requirements on the use of pesticides, workers safety and compliance with national labour regulations. Among all the EUREPGAP standards, the one on fruits and vegetables is the most advanced2. It should be borne in mind that EUREPGAP has not been established by the European Union.
+
+E
+
+1
+
+1 The EUREPGAP retail members are: in the United Kingdom: Asda, Marks & Spencer, Wm Morrison Produce Ltd, Sainsbury's, Somerfield, Tesco and Waitrose; in the Netherlands: Ahold, Albert Heijn, Laurus, Superunie, CBL, Schuitema and Trade Service Netherlands; in Sweden: Coop; in Switzerland: Coop and Migros; in Belgium: Delhaize and DRC/Belgium Retail Association; in Germany: McDonald's, EDEKA Fruchtontor, Globus SB Warenhaus Holding, tegut...Gutberlet Stiftung & Co and METRO; in Norway:Coop; in Albania: Eroski; in Finland: Kesko, in Ireland: Musgraves Supervalu Centra, Super Quinn; in Austria: Spar; and in France: Monoprix.
+
+2
+
+EurepGap protocols have also been developed for livestock (mostly pig production) and combined crops
+
+(e.g. grain)
+
+38
+
+Main requirements?
+
+T
+
+he EUREPGAP standard requires that producers establish a complete control and monitoring system.
+
+Products can then be registered and traced back to the specific farm unit where they were grown. EUREP rules are relatively flexible about field practices such as soil fumigation and fertilizer usage. There are strict regulations about pesticide storage and pesticide residue limits. In addition, it is important to document and justify how the product was produced, so detailed records must be kept about farm practices.
+
+How to get certified?
+rivate certification agencies approved by the EUREP Secretariat (FoodPLUS) can certify against EUREPGAP. Both individual producers and groups of producers can apply for certification, the cost of which depends on the certification agency chosen and the time spent on the inspection. In addition to the certification fee, the producer must also pay an annual fee to FoodPLUS to maintain the certification.
+
+P
+
+Opportunities and constraints?
+
+T
+
+o get the EUREPGAP certification, the producer needs a complete administrative system to keep track of all farm activities. For a company largely involved in exports, this system could make it easier to fulfil and meet other regulations and certifications.
+
+The EUREPGAP certified producer may also have an Some EUREP members advantage when selling products to one of the EUREP members. In the future, some of these supermarkets will probably require that their suppliers have the EUREPGAP certification. Most of the 31 retail-members operate in the United Kingdom, the Netherlands and in Germany. In France, Norway, Finland there is one member but there are no Eurep members in countries like Spain, Italy and Denmark.
+
+39 Most certified producers are large-scale farmers who have the necessary administrative and financial capacity. There is no special price premium or product label associated with EUREPGAP, as it is a minimum standard focused on business-to-business relations.
+
+More information on EUREPGAP
+EUREPGAP; Tel.: 49 (0) 221 5799325; Email: info@foodplus.org; web www.eurep.org
+
+EUREPGAP certifiers in West Africa
+Benin
+- SGS www.sgs.com; Tel.: (229) 21 300709
+
+Burkina Faso
+- SGS www.sgs.com; Tel.: (226) 50315042/43 or (226) 20971471, Email: sgs.burkina.faso.lo@sgs.com
+
+Côte d'Ivoire
+-Integra; www.integra-bvba.be/; Tel.: (32) 3 2873760, Email: gerrit.de.weerdt@integra-bvba.be - SGS www.sgs.com; Tel.: (225) 217522 00
+
+Ghana
+- SGS www.sgs.com; Tel. : (233) 21 764 708/709/773 997/773 994, web: www.gh.sgs.com; Email: sgs.ghana@sgs.com
+
+Guinea
+
+- SGS www.sgs.com; Tel.: (224) 454790/454791; Email: conakrySA.GN@sgs.com
+
+40 Mali
+- Integra; www.blik.be/Frans/f-frame.html; Tel.: (32) 3 287 3760, Email: gerrit.de.weerdt@integra-bvba.be
+
+Nigeria
+- SGS www.sgs.com; Tel.: (234) 1 2625347-50, 2620735-37; web: www.ng.sgs.com; Email: sgs.nigeria@sgs.com
+
+ISO 22000
+he ISO 22000 standard has been developed to facilitate the setting up of food safety management systems. It incorporates the HACCP principles as well as traceability measures. ISO 22000 has been elaborated by the International Organization for Standardization (ISO) along with the Codex Alimentarius Commission, the Confederation of the Food and Drink Industries of the European Union (CIAA), the International Hotel and Restaurant Association (IH&RA), the CIES Global Food Safety Initiative (GFSI) and the World Food Safety Organization (WFSO). Therefore, ISO 22000 harmonizes the requirements of national food safety management systems on a worldwide basis. Any stakeholder of the food chain (crop producers, feed producers, food producers, processors, wholesalers, retailers) can apply this standard. ISO 22000 can be used independently or in combination with other management system standards. The ISO logo cannot be used on products.
+For further information on ISO 22000 Standards: www.iso.org
+
+T
+
+41
+
+BRC GLOBAL STANDARD
+he BRC standard is a private voluntary standard developed by the British Retail Consortium (BRC). The standard has been set up in order to protect consumers' health and to enable British retailers to comply with the United Kingdom Food Safety Act. Therefore, BRC standard can be considered as a tool that provides retailers with a common basis for the audit of their suppliers of food products. The use of this standard requires the adoption and implementation of HACCP principles, the setting up of a documented and effective quality management system as well as the control of working environment, products, processes and personnel. It can be applied by any food supplier company.
+
+T
+
+The application of the BRC Standard requires certification by a third party. Certified products are differentiated in the market as they carry the BRC logo.
+For further information on the BRC Standard and certified organizations, please consult the following links:
+
+http://www.brc.org.uk/standards/
+
+42
+
+5. GOALS OF THE SIX CERTIFICATION SCHEMES
+
+CERTIFICATION
+
+CONCERNED ORGANIZATIONS
+
+GOALS
+
+Organic
+
+Small, medium and large producers
+
+To maximize farm resources and to protect the environment and human health
+
+ISO 14001
+
+Large agro-industries including food processing
+
+To implement an environmental management plan To grow coffee in a sustainable way while also complying with environment and labour laws To improve market access and trading conditions for small producers To improve working conditions and safety in the workplace To improve food safety and traceability of the products
+
+Utz Kapeh
+
+Small, medium and large producers or groups of producers
+
+Fair-trade
+
+Small producers in associations and plantations with an organized labour force
+
+SA8000
+
+A limited number of plantations and agro-industries
+
+EUREPGAP
+
+A limited number of medium and large agro-industries and producer groups organized by exporters
+
+43
+
+6. OPPORTUNITIES AND CONSTRAINTS OF THE SIX CERTIFICATION SCHEMES
+CERTIFICATION Organic MAIN OPPORTUNITIES
+- Producer often receives a better price - Market is growing - Large variety of products can be certified
+
+MAIN CONSTRAINTS
+- Usually 2-3 year conversion period - Technical difficulties of not using agrochemicals
+
+ISO 14001
+
+- May help improve efficiency and reduce environmental impact - A well known industrial standard
+
+- No particular price premium is paid - Certification costs may be high - May not give market advantage -Administrative and financial burden can be high -Only coffee can be certified - Only a limited number of producers are certified (depends on market opportunities) - Once certified there is no guaranteed sale - No particular price premium is paid - Certification costs may be high - Difficult to implement in seasonal production - High administrative burden - No particular price premium is paid - Certification costs may be high
+
+Utz Kapeh
+
+- Producer benefits from premium - Producer does not pay administrative fees - Producer receives a better price - Longer term and more stable trade relationship
+
+Fair-trade
+
+SA8000
+
+- Tool for corporate public relations - May improve efficiency and reduce labour turnover and absenteeism
+
+EUREPGAP
+
+- Improves access to the EUREP supermarket chains in Western Europe - May help the producer adapt to other traceability regulations
+
+45 For many producers, the market for certified agricultural products is very complex and the advantages and requirements associated with the certification programme are not always clear. In addition, producers do not always know the difference between the compulsory or voluntary nature of standards applied to export products. Therefore, this manual has been designed in order to clarify voluntary certification. After having read its content, the reader should be able to understand the main voluntary certification schemes, the importance of these schemes, the difference between these programmes as well as their advantages and constraints. The manual also provides information on the main import regulations in the United States, the European Union and Japan. This information is hoped to facilitate the export of certified products into these markets.
+
+TC/D/A0587E/1/7.06/1200
+

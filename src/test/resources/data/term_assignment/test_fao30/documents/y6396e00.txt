@@ -1,0 +1,893 @@
+The designations employed and the presentation of material in this information product do not imply the expression of any opinion whatsoever on the part of the Food and Agriculture Organization of the United Nations or of the World Health Organization concerning the legal or development status of any country, territory, city or area or of its authorities, or concerning the delimitation of its frontiers or boundaries.
+
+ISBN 92-5-105321-9
+
+All rights reserved. Reproduction and dissemination of material in this information product for educational or other non-commercial purposes are authorized without any prior written permission from the copyright holders provided the source is fully acknowledged. Reproduction of material in this information product for resale or other commercial purposes is prohibited without written permission of the copyright holders. Applications for such permission should be addressed to the Chief, Publishing Management Service, Information Division, FAO, Viale delle Terme di Caracalla, 00100 Rome, Italy or by e-mail to copyright@fao.org
+
+© FAO AND WHO 2005
+
+Codex Alimentarius
+
+Food Import & Export
+
+PREFACE THE CODEX ALIMENTARIUS COMMISSION AND THE FAO/WHO FOOD STANDARDS PROGRAMME The Codex Alimentarius Commission implements the Joint FAO/WHO Food Standards Programme, the purpose of which is to protect the health of consumers and to ensure fair practices in the food trade. The Codex Alimentarius (Latin, meaning Food Law or Code) is a collection of internationally adopted food standards presented in a uniform manner. It also includes provisions of an advisory nature in the form of codes of practice, guidelines and other recommended measures to assist in achieving the purposes of the Codex Alimentarius. The Commission has expressed the view that codes of practice might provide useful checklists of requirements for national food control or enforcement authorities. The publication of the Codex Alimentarius is intended to guide and promote the elaboration and establishment of definitions and requirements for foods, to assist in their harmonization and, in doing so, to facilitate international trade. COMBINED TEXTS ON FOOD IMPORT AND EXPORT INSPECTION CERTIFICATION SYSTEMS ­ SECOND EDITION
+AND
+
+Following the FAO/WHO Conference on Food Standards, Chemicals in Food and Food Trade in March 1991, the Codex Alimentarius Commission undertook the development of guidance documents for governments and other interested parties on Food Import and Export Inspection and Certification Systems. A series of texts developed over the period 1993 to 1999 was presented in the first edition of this booklet in 2000. This second edition includes additional texts adopted by the Codex Alimentarius Commission up to 2004. Further information on these texts, or any other aspect of the Codex Alimentarius Commission, may be obtained from: The Secretary, Codex Alimentarius Commission, Joint FAO/WHO Food Standards Programme, Viale delle Terme di Caracalla, 00100, Rome Italy fax: +(39) 06 57054593 email: Codex@fao.org http://www.codexalimentarius.net
+
+Codex Alimentarius
+
+Food Import & Export
+
+Contents Preface ........................................................................................................... Contents ...................................................................................................... 2 Principles for Food Import and Export Inspection and Certification (CAC/GL 20-1995) ..................................................................................... 3 Guidelines for Food Import Control Systems (CAC/GL 47-2003).............. 7 Guidelines for the Design, Operation, Assessment and Accreditation of Food Import and Export Inspection and Certification Systems (CAC/GL 26-1997) ................................................. 20 Guidelines for the Development of Equivalence Agreements Regarding Food Import and Export Inspection and Certification Systems (CAC/GL 34-1999) ........................................... 35 Guidelines on the Judgement of Equivalence of Sanitary Measures Associated with Food Inspection and Certification Systems (CAC/GL 53-2003) .................................................................................... 45 Guidelines for Generic Official Certificate Formats and the Production and Issuance of Certificates (CAC/GL 38-2001) .............. 55 Principles and Guidelines for the Exchange of Information in Food Safety Emergency Situations (CAC/GL 19-1995, Rev. 1-2004) .............................................................. 62 Guidelines for the Exchange of Information Between Countries on Rejections of Imported Food (CAC/GL 25-1997) ...................................... 71
+
+CAC/GL 20-1995
+
+Page 3 of 76
+
+PRINCIPLES FOR FOOD IMPORT AND EXPORT INSPECTION AND CERTIFICATION CAC/GL 20-1995 SECTION 1 - INTRODUCTION 1. Official and officially recognized inspection and certification systems are fundamentally important and very widely used means of food control; the following principles apply to such systems. The confidence of consumers in the quality (including safety) of their food supply depends in part on their perception as to the effectiveness of food control measures. A substantial part of the worldwide trade in food, for example in meat and meat products, depends upon the use of inspection and certification systems. However, inspection and certification requirements may significantly impede international trade in foodstuffs. Consequently it is desirable that the design and application of these systems should reflect appropriate principles. 2. Inspection of food may occur at any stage in the production and distribution process. For some foods, inspection oversight of harvesting, processing, storage, transport, and other handling of product may be the most appropriate means of ensuring food safety. According to the methods of preservation used, it may be necessary to maintain inspection oversight on a continuous basis up to the time of retail sale. Inspection systems may be focused on the foodstuffs themselves, on the procedures and facilities employed in the production and distribution chain, on the substance and materials which can be incorporated into or contaminate foodstuffs. 3. Inspection should be carried out at the most appropriate stages (e.g. control of refrigeration at every stage of the cold chain). For some requirements, eg those pertaining to product description, it may be possible to limit inspection to the distribution process and prior to final sale. 4. In both design and use, food inspection and certification systems should be governed by a number of principles which will ensure an optimal outcome consistent with consumer protection and facilitation of trade. SECTION 2 - DEFINITIONS Audit is a systematic and functionally independent examination to determine whether activities and related results comply with planned objectives.
+1
+
+1
+
+The Principles for Food Import and Export Inspection and Certification were adopted by the Codex Alimentarius Commission at its 21st Session, 1995 and have been sent to all Member Nations and Associate Members of FAO and WHO. They have been sent to all Member Nations and Associate Members of the FAO and WHO as an advisory text, and it is for individual governments to decide what use they wish to make of them.
+
+CAC/GL 20-1995
+
+Page 4 of 76
+
+Certification is the procedure by which official certification bodies or officially recognized certification bodies provide written or equivalent assurance that foods or food control systems conform to requirements. Certification of food may be, as appropriate, based on a range of inspection activities which may include continuous on-line inspection, auditing of quality assurance systems, and examination of finished products. Inspection is the examination of food or systems for control of food, raw materials, processing, and distribution including in-process and finished product testing, in order to verify that they conform to requirements. Official inspection systems and official certification systems are systems administered by a government agency having jurisdiction empowered to perform a regulatory or enforcement function or both. Officially recognized inspection systems and officially recognized certification systems are systems which have been formally approved or recognized by a government agency having jurisdiction. Requirements are the criteria set down by the competent authorities relating to trade in foodstuffs covering the protection of public health, the protection of consumers and conditions of fair trading. Risk assessment is the evaluation of the likelihood and severity of adverse effects on public health arising, for example, from the presence in foodstuffs of additives, contaminants, residues, toxins or disease-causing organisms. SECTION 3 - PRINCIPLES 5. Food inspection and certification systems should be used wherever appropriate to ensure that foods, and their production systems, meet requirements in order to protect consumers against food-borne hazards and deceptive marketing practices and to facilitate trade on the basis of accurate product description. Fitness for purpose 6. Inspection and certification systems should be fully effective in achieving their designated objectives having regard to the determination of the acceptable level of protection which is required. Risk assessment 7. Inspection systems to ensure food safety should be designed and operated on the basis of objective risk assessment appropriate to the circumstances. Preferably the risk assessment methodology employed should be consistent with internationally accepted approaches. Risk assessment should be based on current available scientific evidence.
+
+CAC/GL 20-1995
+
+Page 5 of 76
+
+8. Inspection systems should be applied to particular commodities and processing methods in proportion to the assessed risks. In undertaking a risk assessment or in applying the principles of equivalence, importing countries should give due consideration to statements by exporting countries on a national or area basis of freedom from food-related disease. Non-discrimination 9. Countries should ensure that they avoid arbitrary or unjustifiable distinctions in the level of risk deemed to be appropriate in different circumstances so as to avoid discrimination or a disguised restriction on trade. Efficiency 10. Inspection and certification systems should have adequate means to perform their task. In the choice of inspection and certification systems, there should be regard to costs to consumers and to the costs in money and time to the affected food industry and government consulting with interested bodies as appropriate. Such systems should be no more restrictive of trade than is necessary in order to achieve the required level of protection. Harmonization 11. Member countries should use Codex standards, recommendations and guidelines (or those of other international organizations whose membership is open to all countries) whenever appropriate as elements of their inspection and certification systems. Countries should participate actively in the work of the Codex Alimentarius Commission and other relevant international bodies to promote and facilitate the development, adoption and review of Codex norms. Equivalence 12. Countries should recognise that different inspection/certification systems may be capable of meeting the same objective, and are therefore equivalent. The obligation to demonstrate equivalence rests with the exporting country. Transparency 13. While respecting legitimate concerns to preserve confidentiality, the principles and operations of food inspection and certification systems should be open to scrutiny by consumers and their representative organizations, and other interested parties.
+
+CAC/GL 20-1995
+
+Page 6 of 76
+
+14. Importing countries should provide information on existing requirements and proposed changes to requirements should be published and, except in the case of serious and immediate danger, an adequate time period permitted for comment. The views of exporting countries, and particularly those received from developing countries, should be taken into account in taking a final decision. A reasonable period should be allowed before a new requirement takes effect in order to permit exporting countries, and in particular developing countries, to make necessary changes to methods of production and control measures. 15. Importing countries should make available to the exporting countries, upon request, timely advice as to the basis of the decision they have taken regarding the compliance of foods with their relevant requirements. 16. Upon request by the competent authorities of the importing countries, the exporting countries should provide access to view and assess the actual working of their relevant inspection and certification systems. Special and differential treatment 17. In the design and application of food inspection and certification systems, importing countries should take into account of the capabilities of developing countries to provide the necessary safeguards. Control and inspection procedures 18. Importing countries should complete without undue delay any procedures necessary to assess compliance with requirements. Information requirements and any fees imposed by importing countries should be limited to what is reasonable and necessary. Certification validity 19. Countries that certify exports of food and those importing countries which rely on export certificates should take measures to assure the validity of certification. Validation measures by exporting countries may include achieving confidence that official or officially recognised inspections systems have verified that the product or process referred to in the certificate conforms with requirements. Measures by importing countries may include point of entry inspection systems, audit of exporting inspection systems, and ensuring that certificates themselves are authentic and accurate.
+
+CAC/GL 47-2003
+
+Page 7 of 76
+
+GUIDELINES FOR FOOD IMPORT CONTROL SYSTEMS CAC/GL 47-2003 SECTION 1 -SCOPE 1. This document provides a framework for the development and operation of an import control system to protect consumers and facilitate fair practices in food trade while ensuring unjustified technical barriers to trade are not introduced. The Guideline is consistent with the Codex Principles for Food Import and Export Inspection and Certification 1 and provides specific information about imported food control that is an adjunct to the Guidelines for the Design, Operation, Assessment and Accreditation of Food Import and Export Inspection and Certification Systems2. SECTION 2 ­ DEFINITIONS 3 Appropriate Level of Protection (ALOP) is the level of protection deemed appropriate by the country establishing a sanitary measure to protect human life or health within its territory. (This concept may otherwise be referred to as the "acceptable level of risk".) Audit* is a systematic and functionally independent examination to determine whether activities and related results comply with planned objectives. Certification* is the procedure by which official certification bodies and officially recognized bodies provide written or equivalent assurance that foods or food control systems conform to requirements. Certification of food may be, as appropriate, based on a range of inspection activities which may include continuous on-line inspection, auditing of quality assurance systems, and examination of finished products. Inspection* is the examination of food or systems for control of food, raw materials, processing and distribution, including in-process and finished product testing, in order to verify that they conform to requirements. Legislation* includes acts, regulations, requirements or procedures, issued by public authorities, related to foods and covering the protection of public health, the protection of consumers and conditions of fair trading.
+
+1 2
+
+3
+
+Principles for Food Import and Export Inspection and Certification (CAC/GL 20-1995) Guidelines for the Design, Operation, Assessment and Accreditation of Food Import and Export Inspection and Certification Systems (CAC/GL 26-1997). Definitions drawn from the Guidelines for the Design, Operation, Assessment and Accreditation of Food Import and Export Inspection and Certification Systems (CAC/GL 26-1997) are marked with *. Definitions drawn from Codex Alimentarius Commission, Procedural Manual (14th edition) are marked with **.
+
+CAC/GL 47-2003
+
+Page 8 of 76
+
+Official accreditation* is the procedure by which a government agency having jurisdiction formally recognizes the competence of an inspection and/or certification body to provide inspection and certification services. Official inspection systems and official certification systems* are systems administered by a government agency having jurisdiction empowered to perform a regulatory or enforcement function or both. Officially recognized inspection systems and officially recognized certification systems* are systems which have been formally approved or recognized by a government agency having jurisdiction. Requirements* are the criteria set down by the competent authorities relating to trade in foodstuffs covering the protection of public health, the protection of consumers and conditions of fair trading. Risk assessment** A scientifically based process consisting of the following steps (i) hazard identification, (ii) hazard characterisation, (iii) exposure assessment, and (iv) risk characterisation. Risk analysis** A process consisting of three components: risk assessment, risk management and risk communication. SECTION 3 - GENERAL CHARACTERISTICS OF FOOD IMPORT CONTROL SYSTEMS 2. Food import control systems should have the following main characteristics: requirements for imported food that are consistent with requirements for domestic foods; clearly defined responsibilities for the competent authority or authorities; clearly defined and transparent legislation and operating procedures; precedence to the protection of consumers; provision of the importing country for recognition of the food control system applied by an exporting country's competent authority; uniform nationwide implementation; implementation that ensures the levels of protection achieved are consistent with those for domestic food.
+
+CAC/GL 47-2003
+
+Page 9 of 76
+
+REQUIREMENTS FOR IMPORTED FOOD THAT ARE CONSISTENT WITH REQUIREMENTS FOR DOMESTIC FOODS 3. Requirements are commonly expressed as end-point standards with specific limits and complementary sampling regimes. These requirements may consist of standards, provisions for sampling, process controls, conditions of production, transport, storage, or a combination of these. 4. The extent and stringency of requirements applied in specific circumstances should be proportionate to risk, noting that risk may vary from one source to another because of factors such as specific and/or similar situations in the region of origin, technology employed, compliance history, etc. and/or examination of relevant attributes of a sample of products at import. 5. As far as possible, requirements should be applied equally to domestically produced and imported food. Where domestic requirements include process controls such as good manufacturing practices, compliance may be determined or equivalence confirmed by auditing the relevant inspection and certification systems and, as appropriate, the facilities and procedures in the exporting country4. CLEARLY DEFINED RESPONSIBILITIES AUTHORITY OR AUTHORITIES OF COMPETENT
+
+6. The competent authority(ies) involved in any of the imported food inspection functions at the point or points of entry, during storage and distribution and/or at point of sale, should have clearly defined responsibilities and authority. Multiple inspection and duplicative testing for the same analyte(s) on the same consignment should be avoided to the extent possible. 7. Some countries, for example those that are part of a regional economic grouping, may rely on import controls implemented by another country. In such cases, the functions, responsibilities, and operating procedures undertaken by the country which conducts the imported food control should be clearly defined and accessible to authorities in the country or countries of final destination with the aim of delivering an efficient and transparent import control system. 8. Where the competent authorities of an importing country use third party providers as officially recognised inspection bodies and/or officially recognized certification bodies to implement controls, such arrangements should be conducted in the manner discussed in CAC/GL 26-1997, Section 8, Official Accreditation. The functions that can be conducted by such providers may include: sampling of target consignments;
+4
+
+Guidelines for the Design, Operation, Assessment and Accreditation of Food Import and Export Inspection and Certification Systems (CAC/GL 26-1997), para. 54.
+
+CAC/GL 47-2003
+
+Page 10 of 76
+
+analysis of samples; compliance evaluation of relevant parts or all of a quality assurance system that may be operated by importers in order to comply with official requirements. CLEARLY DEFINED AND OPERATING PROCEDURES TRANSPARENT LEGISLATION AND
+
+9. The object of legislation is to provide the basis and the authority for operating a food import control system. The legal framework allows for the establishment of the competent authority(ies) and the processes and procedures required to verify the conformity of imported products against requirements. 10. Legislation should provide the competent authority with the ability to: appoint authorised officers; require prior notification of the importation of a consignment of a foodstuff; require documentation; inspect, including the authority to enter premises within the importing country, physically examine the food and its packaging; collect samples and initiate analytical testing; inspection of documentation provided by an exporting country authority, exporter or importer; and verification of product identity against documentary attestations; apply risk-based sampling plans, taking into consideration the compliance history of the particular food, the validity of accompanying certification, and other relevant information; charge fees for the inspection of consignments and sample analysis; recognize accredited or accredit laboratories; accept; reject; detain; destroy; order to destroy; order reconditioning, processing, or re-export; return to country of export; designate as non-food use; recall consignments following importation; retain control over consignments in transit during intra-national transport or during storage prior to import clearance; and, implement administrative and/or judicial measures when the specific requirements are not satisfied.
+
+CAC/GL 47-2003
+
+Page 11 of 76
+
+11. In addition, the legislation may make provisions for: licensing or registration of importers; recognition of verification systems used by importers; an appeal mechanism against official actions; assessing the control system of the exporting country; and certification and/or inspection arrangements with competent authorities of exporting countries. PRECEDENCE TO THE PROTECTION OF CONSUMERS 12. In the design and operation of food import control systems, precedence should be given to protecting the health of consumers and ensuring fair practices in food trade over economic or other trade considerations. PROVISION OF THE IMPORTING COUNTRY FOR RECOGNITION OF THE FOOD CONTROL SYSTEM APPLIED BY AN EXPORTING COUNTRY'S COMPETENT AUTHORITY 13. Food import control systems should include provisions for recognition as appropriate of the food control system applied by an exporting country's competent authority. Importing countries can recognise the food safety controls of an exporting country in a number of ways that facilitate the entry of goods, including the use of memoranda of understanding, mutual recognition agreements and equivalence agreements and unilateral recognition. Such recognition should, as appropriate, include controls applied during the production, manufacture, importation, processing, storage, and transportation of the food products, and verification of the export food control system applied. UNIFORM NATION-WIDE IMPLEMENTATION 14. Uniformity of operational procedures is particularly important. Programmes and training manuals should be developed and implemented to assure uniform application at all points of entry and by all inspection staff. IMPLEMENTATION THAT ENSURES THE LEVELS OF PROTECTION ACHIEVED ARE CONSISTENT WITH THOSE FOR DOMESTIC FOOD 15. As an importing country has no direct jurisdiction over process controls applied to food manufactured in another country, there may be a variation in approach to the compliance monitoring of domestic and imported food. Such differences in approach are justifiable provided they are necessary to ensure that the level of protection achieved is consistent with that of domestically produced food.
+
+CAC/GL 47-2003
+
+Page 12 of 76
+
+SECTION 4 - IMPLEMENTATION OF THE CONTROL SYSTEM 16. Operational procedures should be developed and implemented to minimize undue delay at the point or points of entry without jeopardizing effectiveness of controls to meet requirements. Implementation should take into account the factors listed in this section and the possibility of recognizing guarantees at origin that includes implementation of controls in the exporting countries. POINT OF CONTROL 17. Control of imported food by the importing country can be conducted at one or more points including the points of : origin, where agreed upon with the exporting country; entry to the country of destination; further processing; transport and distribution; storage; and, sale, (retail or wholesale). 18. The importing country can recognize controls implemented by the exporting country. The application of controls by the exporting country, during production, manufacture and subsequent transit should be encouraged, with the aim of identifying and correcting problems when and where they occur, and preferably before costly recalls of food already in distribution are required. 19. Pre-shipment clearance is a possible mechanism for ensuring compliance with requirements of, for example, valuable bulk packed products that if opened and sampled upon entry, would be seriously compromised, or for products that require rapid clearance to maintain safety and quality. 20. If the inspection system encompasses pre-shipment clearance then the authority to conduct the clearance should be determined and procedures defined. The importing country's competent authority may choose to conduct preshipment clearance from an exporting country's official certification system or from officially recognised third party certification bodies working to defined criteria. The pre-shipment clearance should be based on the results of the documentary check on the consignments.
+
+CAC/GL 47-2003
+
+Page 13 of 76
+
+INFORMATION ABOUT FOOD TO BE IMPORTED 5 21. The efficacy of the control system in applying efficient targeted control measures depends upon information about consignments entering the jurisdiction. Details of consignments that may be obtained include: date and point of entry; mode of transport; comprehensive description of the commodity (including for example product description, amount, means of preservation, country of origin and/or of dispatch, identifying marks such as lot identifier or seal identification numbers etc); exporter's and importer's name and address; manufacturer and/or registration number; destination; and, other information. FREQUENCY OF INSPECTION AND TESTING OF IMPORTED FOOD 22. The nature and frequency of inspection, sampling and testing of imported foods should be based on the risk to human health and safety presented by the product, its origin and the history of conformance to requirements and other relevant information. Control should be designed to account for factors such as: the risk to human health posed by the product or its packaging; the likelihood of non-compliance with requirements; the target consumer group; the extent and nature of any further processing of the product; food inspection and certification system in the exporting country and existence of any equivalence, mutual recognition agreements or other trade agreements; and, history of conformity of producers, processors, manufacturers, exporters, importers and distributors. producer, including establishment
+
+5
+
+Generic Official Certificate Formats and the Production and Issuance of Certificates (CAC/GL 38-2001)
+
+CAC/GL 47-2003
+
+Page 14 of 76
+
+23. Physical checks of imported product, preferably using statistically based sampling plans, should represent valid methods for the verification of compliance with requirements by the product as established by the importing country, or in the case of importing a product for the purposes of re-exportation, verification should be made on the requirements of the country of final destination and said requirements should be specified in the certificate of reexportation. Inspection procedures should be developed to include defined sampling frequencies or inspection intensities, including for re-exported product. 24. Sampling frequency of products supplied from a source for which there is no or known poor compliance history may be set at a higher rate than for products with a good compliance history provided this is shown through transparent and objective criteria. The sampling process enables a compliance history to be created. Similarly, food from suppliers or imported by parties with a known poor compliance history should be sampled at higher intensity. In these cases, every consignment may need to be physically inspected, until a defined number of consecutive consignments meets requirements. Alternatively the inspection procedures can be developed to automatically detain product from suppliers with a known poor compliance history and the importer may be required to prove the fitness of each consignment through use of a laboratory (including official laboratory) recognized, accredited and/or listed by the competent authority until a satisfactory compliance rate is achieved. SAMPLING AND ANALYSIS 25. The inspection system should be based on Codex sampling plans for the particular commodity/contaminant combination where available. In the absence of Codex sampling plans, reference should be made to internationally accepted or scientifically based sampling plans. 26. Internationally validated standard methods of analysis or methods validated through international protocols should be used where available. Analysis should be conducted in official or officially accredited laboratories. DECISIONS 27. Decision criteria (without prejudice to the application of customs procedures) should be developed that determine whether consignments are given: acceptance; entry if cleared upon inspection or verification of conformance; release of non-conforming product after re-conditioning and/or corrective measures have been taken;
+
+CAC/GL 47-2003
+
+Page 15 of 76
+
+rejection notice, with redirecting product for uses other than human consumption; rejection notice, with re-exportation option or return to country of export option at exporter expense; rejection notice with destruction order. 28. Results of inspection and, if required, laboratory analysis, should be carefully interpreted in making decisions relating to acceptance or rejection of a consignment. The inspection system should include decision-making rules for situations where results are borderline, or sampling indicates that only some lots within the consignment comply with requirements. Procedures may include further testing and examination of previous compliance history. 29. The system should include formal means to communicate decisions regarding clearance and status of consignments. 6 There should be an appeal mechanism and/or opportunity for review of official decisions on consignments.7 When food is rejected because it fails to meet national standards of the importing country but conforms to international standards, the option of withdrawing the rejected consignment should be considered. DEALING WITH EMERGENCY SITUATIONS 30. The responsible authority should have procedures that can respond appropriately to emergency situations. This will include holding suspect product upon arrival and recall procedures for suspect product already cleared and, if relevant, rapid notification of the problem to international bodies and possible measures to take. 31. If the food control authorities in importing countries detect problems during import control of foodstuffs which they consider to be so serious as to indicate a food control emergency situation, they should inform the exporting country promptly by telecommunication.8
+
+6
+
+7
+
+8
+
+Paragraph 4 of the Guidelines for the Exchange of Information Between Countries on Rejections of Imported Food (CAC/GL 25-1997) should be consulted in this regard. Paragraph 6 of the Guidelines for the Exchange of Information Between Countries on Rejections of Imported Food (CAC/GL 25-1997) should be consulted in this regard. Principles and Guidelines for the Exchange of Information in Food Control Emergency Situations (CAC/GL 19-1995, Rev. 1-2004).
+
+CAC/GL 47-2003
+
+Page 16 of 76
+
+RECOGNITION OF EXPORT CONTROLS 32. Consistent with paragraph 12 of these guidelines, the importing country should establish mechanisms to accept control systems in an exporting country where these systems achieve the same level of protection required by the importing country. In this regard, the importing country should: develop procedures to conduct assessment of the exporting country systems consistent with the Annex of the Guidelines for the Design, Operation, Assessment and Accreditation of Food Import and Export Inspection and Certification Systems (CAC/GL 26-1997); take into account the scope of the arrangement, for example, whether it covers all foods or is restricted to certain commodities or certain manufacturers; develop clearance procedures that achieve its appropriate level of protection if arrangements developed with an exporting country are limited in scope; provide recognition of export controls through, for example, exemption from routine import inspection; conduct verification procedures for example, occasional random sampling and analysis of products upon arrival. (Section 5 and Annex of CAC/GL 26-1997 deal with the provision and verification of systems that provide certification for food in trade); recognize that arrangements need not rely on the presentation of certificates or documentation with individual consignments, when such an approach is acceptable to both parties. 33. The competent authority of the importing country may, develop certification agreements with exporting country official certification bodies or officially recognized certification bodies, with the aim of ensuring requirements are met. Such agreements may be of particular value where, for example, there is limited access to specific facilities such as laboratories and consignment tracking systems.9
+
+9
+
+Guidelines for the Development of Equivalence Agreements Regarding Food Import and Export Inspection and Certification Systems (CAC/GL 34-1999)
+
+CAC/GL 47-2003
+
+Page 17 of 76
+
+INFORMATION EXCHANGE 34. Food import control systems involve information exchange between competent authorities of exporting and importing countries. The information may include: requirements of food control systems; "hard copy" certificates attesting to conformity with requirements of the particular consignment; electronic data or certificates where accepted by the parties involved; details about rejected food consignment, such as destruction, reexportation, processing, re-conditioning or redirection of consignment for uses other than human consumption; list of establishments or facilities that conform to importing country requirements. 35. Any changes to import protocols, including specifications, which may significantly affect trade, should be promptly communicated to trading partners, allowing a reasonable interval between the publication of regulations and their application. OTHER CONSIDERATIONS 36. The competent authority may consider developing alternative arrangements in lieu of routine inspection. This may include agreements where the competent authority assesses the controls that importers implement over suppliers and the procedures that are in place to verify compliance of suppliers. Alternative arrangements may include some sampling of product as an audit, rather than routine inspection. 37. The competent authority may consider developing a system where registration of importers is mandatory. Advantages include the ability to provide the importers and exporters with information about their responsibilities and mechanisms to ensure imported food complies with requirements. 38. If a product registration system exists or is implemented, a clear rationale for such product registration (e.g. specific and documented food safety concerns) should exist. Such product REGISTRATIONS SHOULD TREAT IMPORTED AND DOMESTIC PRODUCT IN THE SAME OR EQUIVALENT MANNER.
+
+CAC/GL 47-2003
+
+Page 18 of 76
+
+DOCUMENTING THE SYSTEM 39. A food import control system should be fully documented, including a description of its scope and operation, responsibilities and actions for staff, in order that all parties involved know precisely what is expected of them. 40. Documentation of a food import control system should include: an organizational chart of the official inspection system, including geographical location and the roles of each level in the hierarchy; job functions as appropriate; operating procedures including methods of sampling, inspection and testing; relevant legislation and requirements that should be met by imported food; important contacts; relevant information about food contamination and food inspection; and, relevant information on staff training. TRAINED INSPECTORATE 41. It is fundamental to have adequate, reliable, well trained and organised inspection staff, with supporting infrastructure, to deliver the food import control system. Training, communication, and supervisory elements should be organised to provide consistent implementation of requirements by the inspectorate throughout the food import control system. 42. Where third parties are officially recognised by the competent authority of the importing country to perform specified inspection work, the qualifications of the inspection staff should be at least the same as inspection staff of the competent authority who may carry out similar tasks. 43. The competent authority of the importing country responsible for conducting assessment of food control systems of exporting countries should engage personnel with appropriate qualifications, experience and training required of personnel assessing domestic food controls.
+
+CAC/GL 47-2003
+
+Page 19 of 76
+
+SYSTEM VERIFICATION 44. Verification should be carried out on the basis of Section 9 of the Guidelines for the Design, Operation, Assessment and Accreditation of Food Import and Export Inspection and Certification Systems (CAC/GL 26-1997) and the food import control system should be independently assessed on a regular basis. SECTION 5 - FURTHER INFORMATION 45. The Food and Agriculture Organization of the United Nations Manual of Food Quality Control. Imported Food Inspection (Food and Nutrition Paper 14/15, 1993) and World Health Organization/Western Pacific Regional Center for the Promotion of Environmental Planning and Applied Science (PEPAS): Manual for the Inspection of Imported Food (1992) contribute valuable information for those engaged in the design and re-design of food import control systems.
+
+CAC/GL 26-1997
+
+Page 20 of 76
+
+GUIDELINES FOR THE DESIGN, OPERATION, ASSESSMENT AND ACCREDITATION OF FOOD IMPORT AND EXPORT INSPECTION AND CERTIFICATION SYSTEMS CAC/GL 26-1997 1 SECTION 1 - OBJECTIVES 1. These guidelines provide a framework for the development of import and export inspection and certification systems consistent with the Principles for Food Import and Export Inspection and Certification. 2 They are intended to assist countries 3 in the application of requirements and the determination of equivalency, thereby protecting consumers and facilitating trade in foodstuffs. 4 2. The document deals with the recognition of equivalence of inspection and/or certification systems and not with standards related to specific food products or their components (e.g., food hygiene, additives and contaminants, labelling and quality requirements). 3. Application by governments of the guidelines presented in this document should help build and maintain the necessary confidence in the inspection and certification system of an exporting country and facilitate fair trade, taking account of the expectations of consumers for an appropriate level of protection. SECTION 2 - DEFINITIONS Audit is a systematic and functionally independent examination to determine whether activities and related results comply with planned objectives. 5
+
+1
+
+2 3
+
+4
+
+5
+
+The Codex Guidelines for the Design, Operation, Assessment and Accreditation of Food Import and Export Inspection and Certification Systems were adopted by the Codex Alimentarius Commission at its 22nd Session, 1997. They have been sent to all Member Nations and Associate Members of the FAO and WHO as an advisory text, and it is for individual governments to decide what use they wish to make of the Guidelines. CAC/GL 20-1995 For the purpose of these guidelines, "countries" includes regional economic integration organizations to which a group of countries have transferred competences as regards food import and export inspection and certification systems and/or the negotiation of equivalency agreements with other countries. The Principles for Food Import and Export Inspection and Certification includes that in the design and application of food inspection and certification systems, importing countries should take into account the capabilities of developing countries to provide the necessary safeguards (Paragraph 18). Consistent with the Principles for Food Import and Export Inspection and Certification (CAC/GL 20-1995).
+
+CAC/GL 26-1997
+
+Page 21 of 76
+
+Certification is the procedure by which official certification bodies and officially recognized bodies provide written or equivalent assurance that foods or food control systems conform to requirements. Certification of food may be, as appropriate, based on a range of inspection activities which may include continuous on-line inspection, auditing of quality assurance systems, and 5 examination of finished products. Equivalence is the capability of different inspection and certification systems to meet the same objectives. Inspection is the examination of food or systems for control of food, raw materials, processing and distribution, including in-process and finished product 5 testing, in order to verify that they conform to requirements. Official accreditation is the procedure by which a government agency having jurisdiction formally recognizes the competence of an inspection and/or certification body to provide inspection and certification services. Official inspection systems and official certification systems are systems administered by a government agency having jurisdiction empowered to 5 perform a regulatory or enforcement function or both. Officially recognized inspection systems and officially recognized certification systems are systems which have been formally approved or recognized by a 5 government agency having jurisdiction. Requirements are the criteria set down by the competent authorities relating to trade in foodstuffs covering the protection of public health, the protection of 5 consumers and conditions of fair trading. Risk analysis is a process consisting of three components: risk assessment, risk management and risk communication. 6 Risk assessment is a scientifically based process consisting of the following steps: (i) hazard identification, (ii) hazard characterization, (iii) exposure 6 assessment and (iv) risk characterization. Risk management is the process of weighing policy alternatives in the light of the results of risk assessment and, if required, selecting and implementing 6 appropriate control options, including regulatory measures. Risk communication is the interactive exchange of information and opinions concerning risk among risk assessors, risk managers, consumers and other 6 interested parties.
+6
+
+Codex Alimentarius Procedural Manual (14th Edition).
+
+CAC/GL 26-1997
+
+Page 22 of 76
+
+SECTION 3 - RISK ANALYSIS 4. Consistent and transparent application of risk analysis will facilitate international trade by increasing confidence in the food safety and in the inspection systems of trading partners. It will also enable inspection resources to be targeted effectively on hazards to public health arising at any stage of the food production and distribution chain. 5. The principles of Hazard Analysis Critical Control Point (HACCP) developed by the Codex Committee on Food Hygiene 7 provide a systematic basis for the identification and control of hazards so as to ensure the safety of food. The use of a HACCP approach by food businesses should be recognized by governments as a fundamental tool for improving the safety of foodstuffs. SECTION 4 - QUALITY ASSURANCE 6. The voluntary utilization of quality assurance by food businesses should also be encouraged in order to achieve greater confidence in the quality of products obtained. If safety and/or quality assurance tools are used by food businesses, the official inspection and certification systems should take them into account in particular through the adaptation of their control methodologies. 7. Governments do, however, retain the fundamental responsibility to ensure by official inspection and certification 8 the conformity of foodstuffs to requirements. 8. The degree to which industry effectively utilizes quality assurance procedures can influence the methods and procedures by which government services verify that requirements have been met, where official authorities consider such procedures to be relevant to their requirements. SECTION 5 ­ EQUIVALENCE 9. The recognition of equivalence of inspection and certification should be facilitated where it can be objectively demonstrated that there is an appropriate system for inspection and certification of food by the exporting country in accordance with these guidelines. 10. that: For the determination of equivalence, governments should recognize
+
+7
+
+8
+
+Hazard Analysis and Critical Control Point (HACCP) System and Guidelines for its Application, Annex to the Recommended International Code of Practice - General Principles of Food Hygiene (CAC/RCP 1 -1969, Rev. 4, 2003). For the purpose of these guidelines, "inspection and certification" means "inspection and/or certification".
+
+CAC/GL 26-1997
+
+Page 23 of 76
+
+-
+
+inspection and certification systems should be organized for the risk involved, considering that the same food commodities produced in different countries may present different hazards; and, control methodologies can be different but achieve equivalent results. For example, environmental sampling and the strict application of good agricultural practices, with limited end product testing for verification purposes, may produce a result equivalent to extensive end product testing for the control of agriculture chemical residues in raw products.
+
+-
+
+11. Controls on imported food and domestically produced foods should be designed to achieve the same level of protection. The importing country should avoid the unnecessary repetition of controls where these have been already validly carried out by the exporting country. In these cases a level of control equivalent to domestic controls should have been achieved at the stages prior to import. 12. The exporting country should provide access to enable the inspection and certification systems to be examined and evaluated, on request of the food control authorities of the importing country. Evaluations of inspection and certification systems carried out by the authorities of an importing country should take into account internal programme evaluations already carried out by the competent authority or evaluations performed by independent third-party bodies recognized by the competent authority in the exporting country. 13. Evaluations of inspection and certification systems by an importing country for purposes of establishing equivalence should take account of all relevant information held by the competent authority of the exporting country. Equivalency agreements 14. The application of equivalence principles may be in the form of agreements or letters of understanding established between governments either for inspection and/or certification of production areas, sectors or parts of sectors. Equivalence may also be established through the administration of a comprehensive agreement which would cover inspection and certification of all food commodity forms traded between two or more countries. 15. Agreements on the recognition of equivalence of inspection and certification systems may include provisions concerning: the legislative framework, control programmes and administrative procedures; contact points in inspection and certification services;
+
+CAC/GL 26-1997
+
+Page 24 of 76
+
+-
+
+demonstration by the exporting country of the effectiveness and adequacy of its enforcement and control programmes, including laboratories; where relevant, lists of products or establishments subject to certification or approval, accredited facilities and accredited bodies; mechanisms supporting continued recognition of equivalence, e.g., exchange of information on hazards and monitoring and surveillance.
+
+-
+
+-
+
+16. Agreements should include mechanisms to provide for periodic review and updating and include procedural mechanisms for resolving differences arising within the framework of the agreement. SECTION 6 - INSPECTION INFRASTRUCTURE AND CERTIFICATION SYSTEM
+
+17. Countries should identify the main objectives to be addressed through import and export inspection and certification systems. 18. Countries should have in place the legislative framework, controls, procedures, facilities, equipment, laboratories, transportation, communications, personnel and training to support the objectives of the inspection and certification programme. 19. Where different authorities in the same country have jurisdiction over different parts of the food chain, conflicting requirements must be avoided to prevent legal and commercial problems and obstacles to trade. For example, while provincial or state laws may exist there should be a competent authority at the national level capable of ensuring uniform application. However, an importing country authority may recognize a sub-national competent authority for purposes of inspection or certification where this arrangement is acceptable to the national authorities concerned. Legislative framework 20. For the purposes of this section, legislation includes acts, regulations, requirements or procedures, issued by public authorities, related to foodstuffs and covering the protection of public health, the protection of consumers and conditions of fair trading. 21. The effectiveness of controls related to foodstuffs depends on the quality and completeness of legislation for foods. Legislation should provide authority to carry out controls at all stages of production, manufacture, importation, processing, storage, transportation, distribution and trade.
+
+CAC/GL 26-1997
+
+Page 25 of 76
+
+22. Legislation may also include provisions as appropriate for the registration of establishments or listing of certified processing plants, establishment approval, licensing or registration of traders, equipment design approval, penalties in the event of non-compliance, coding requirements and charging of fees. 23. The national competent authority in the exporting or importing country should have the ability to enforce and take action based on adequate legislation. It should take all necessary steps to insure the integrity, impartiality and independence of official inspection systems and officially recognized inspection systems and to ensure that the inspection programme contained in national legislation is delivered to a prescribed standard. Control programmes and operations 24. Control programmes help to ensure that inspection actions relate to objectives, since the results of these programmes can be assessed against the objectives set for the inspection and certification system. Inspection services should draw up control programmes based on precise objectives and appropriate risk analysis. In the absence of detailed scientific research, control programmes should be based on requirements developed from current knowledge and practice. Every effort should be made to apply risk analysis based on internationally-accepted methodology, where available. 25. In particular, countries should require or encourage the use of a HACCP approach by food establishments. Official inspectors should be trained in the assessment of the application of HACCP principles. Where programmes include the drawing and analysis of samples, adequate sampling and appropriately validated analytical methods should be established to ensure that the results are representative and reliable in relation to the specific objectives. 26. The elements of a control programme should include, as appropriate: inspection; sampling and analysis; checks on hygiene, including personal cleanliness and clothing; examination of written and other records; examination of the results of any verification systems operated by the establishment; audit of establishments by the national competent authority; national audit and verification of the control programme.
+
+CAC/GL 26-1997
+
+Page 26 of 76
+
+27. Administrative procedures should be in place to ensure that controls by the inspection system are carried out: 28. regularly in proportion to risk; where non-compliance is suspected; in a co-ordinated manner between different authorities, if several exist.
+
+Controls should cover, as appropriate: establishments, installations, means of transport, equipment and material; raw materials, ingredients, technological aids and other products used for the preparation and production of foodstuffs; semi-finished and finished products; materials and objects intended to come into contact with foodstuffs; cleaning and maintenance products and processes, and pesticides; processes used for the manufacture or processing of foodstuffs; the application and integrity of health, grading and certification marks; preserving methods; labelling integrity and claims.
+
+-
+
+29. The elements of the control programme should be formally documented including methods and techniques. Decision criteria and action 30. The controls programme should be targeted at the most appropriate stages and operations, depending on the specific objectives. Control procedures should not compromise the quality or safety of foods, particularly in the case of perishable products. 31. The frequency and intensity of controls by inspection systems should be designed so as to take account of risk and the reliability of controls already carried out by those handling the products including producers, manufacturers, importers, exporters, and distributors.
+
+CAC/GL 26-1997
+
+Page 27 of 76
+
+32. Physical checks applying to import should be based on risks associated with the importation. Countries should avoid systematic physical checks on imports except in justified cases such as products associated with a high level of risk; a suspicion of non-conformity for a particular product; or a history of nonconformity for the product, processor, importer or country. 33. When physical checks are to be undertaken, sampling plans for imported products should take into account the level of risk, the presentation and type of commodity to be sampled, the reliability of controls of the exporting country and of those responsible for handling the product in the importing country. 34. Where an imported product is found not to be in conformity, the resulting measures should take into account the following criteria to ensure that any action is proportionate to the degree of public health risk, potential fraud or deception of consumers: repeated non-conformity in the same product or in the same category of products; history of non-conformity of those responsible for handling the products; reliability of checks made by the country of origin.
+
+35. The specific measures applied may be cumulative if necessary and may include: In respect of the product not in conformity -- requirement for the importer to restore conformity (e.g. where problems relate to labelling for consumer information and have no effect on inspection or health); rejection of consignments or lots, in whole or in part; in the case of potentially serious health risk, destruction of the product;
+
+-
+
+In respect of future imports -- control programmes implemented by the importer or exporter to ensure problems do not re-occur; increased intensity of checks on categories of products identified as being not in conformity and/or the undertakings concerned; request for information and cooperation on the product or the category of products found not to be in conformity by the responsible authorities in the country of origin (increased checks at origin including controls as indicated in paragraphs 27-28);
+
+CAC/GL 26-1997
+
+Page 28 of 76
+
+-
+
+on-site visits; in the most serious or persistent cases, imports from establishments or countries may be suspended.
+
+36. Where possible, and upon request, the importer or their representative should be given access by the relevant food control authority of the importing country to a rejected or detained consignment and in the latter case, the opportunity to contribute any relevant information to assist the control authorities of the importing country to make their final decision. 37. Where product is rejected, information should be exchanged in accordance with the Codex Guidelines for the Exchange of Information between Countries on Rejections of Imported Food. 9 Facilities, equipment, transportation and communications 38. Inspection staff should have access to adequate facilities and equipment to undertake inspection procedures and methodologies. 39. Reliable transportation and communication systems are essential to ensure delivery of inspection and certification services when and where they are needed and for the transmission of samples to laboratories. 40. Communications facilities should be provided to ensure adequate compliance action and to address potential recalls. Consideration should be given to developing electronic information exchange systems, in particular to facilitate trade, protect consumer health, and to combat fraud. Laboratories 41. Inspection services should utilize laboratories that are evaluated and/or accredited under officially recognized programmes to ensure that adequate quality controls are in place to provide for the reliability of test results. Validated analytical methods should be used wherever available. 42. Inspection systems' laboratories should apply the principles of internationally accepted quality assurance techniques to ensure the reliability of analytical results. 10
+
+9 10
+
+CAC/GL 25-1997 Guidelines for the Assessment of the Competence of Testing Laboratories Involved in the Import and Export Control of Foods (CAC/GL 27-1997).
+
+CAC/GL 26-1997
+
+Page 29 of 76
+
+Personnel 43. Official inspection services should have, or have access to, a sufficient number of qualified personnel as appropriate in areas such as: food science and technology, chemistry, biochemistry, microbiology, veterinary science, human medicine, epidemiology, agronomic engineering, quality assurance, audit and law. Personnel should be capable and appropriately trained in the operation of food inspection and control systems. They should have a status which ensures their impartiality and have no direct commercial interest in the products or establishments being inspected or certified. SECTION 7 - CERTIFICATION SYSTEMS 44. An effective certification system depends on the existence of an effective inspection system as described above in Section 6. 45. Demand for certification should be justified by risk to health or risk of fraud or deception. Alternatives to certification should be considered wherever possible, in particular where the inspection system and requirements of an exporting country are assessed as being equivalent to those of the importing country. Bilateral or multilateral agreements, such as mutual recognition agreements or pre-certification agreements, may provide for dispensing with certification and/or the issuance of certificates which were previously required in certain cases. 46. Certification should provide assurance of the conformity of a product or batch of products, or that a food inspection system conforms to specified requirements, and will be based, as appropriate, on: regular checks by the inspection service; analytical results; evaluation of quality assurance procedures linked to compliance with specified requirements; any inspections specifically required for the issuance of a certificate.
+
+47. Competent authorities should take all necessary steps to ensure the integrity, impartiality and independence of official certification systems and officially-recognized certification systems. They should ensure that personnel empowered to validate certificates are appropriately trained and fully aware, if necessary from notes of guidance, of the significance of the contents of each certificate which they complete.
+
+CAC/GL 26-1997
+
+Page 30 of 76
+
+48. Certification procedures should include procedures to ensure the authenticity and validity of certificates at all the relevant stages and to prevent fraudulent certification. In particular, personnel: should not certify matters without their personal knowledge or which cannot be ascertained by them; should not sign blank or incomplete certificates, or certificates for products which have not been produced under appropriate control programmes. Where a certificate is signed on the basis of another supporting document, the person signing the certificate should be in possession of that document; should have no direct commercial interest in the products being certified.
+
+-
+
+SECTION 8 - OFFICIAL ACCREDITATION 49. Countries may officially accredit inspection or certification bodies to provide services on behalf of official agencies. 50. To be officially accredited, an inspection or certification body must be assessed against objective criteria and must comply at least with the standards set out in these guidelines, particularly in relation to the competence, independence and impartiality of personnel. 51. The performance of officially accredited inspection or certification bodies should be regularly assessed by the competent authority. Procedures should be initiated to correct deficiencies and, as appropriate, enable withdrawal of official accreditation. SECTION 9 - ASSESSMENT AND VERIFICATION OF INSPECTION AND CERTIFICATION SYSTEMS 52. A national system should be subject to audit separate from routine inspection. Inspection and certification services should be encouraged to carry out self-evaluation or have their effectiveness evaluated by third parties. 53. Self-assessment or third-party audits should be carried out periodically at various levels of the inspection and certification system, using internationallyrecognized assessment and verification procedures. The inspection services of a country may undertake self-assessment for such purposes as assuring the adequacy of consumer protection and other matters of national interest, improving internal efficiency or facilitating exports.
+
+CAC/GL 26-1997
+
+Page 31 of 76
+
+54. A prospective importing country may undertake a review with the agreement of the exporting country of the inspection and certification systems of an exporting country as part of its risk analysis process, with a view to determining requirements for imports from that country. Periodic assessment reviews may be appropriate following the commencement of trade. 55. For the purpose of assisting an exporting country to demonstrate that its inspection or certification systems is equivalent, the importing country should make readily available adequate information on its system and its performance. 56. Exporting countries should be able to demonstrate adequate resources, functional capabilities and legislative support in addition to effective administration, independence in the exercise of their official function and, where relevant, performance history. 57. Guidelines on procedures for conducting an assessment and verification of the systems of an exporting country by an importing country are in the Annex. SECTION 10 ­ TRANSPARENCY 58. Consistent with the principles on transparency contained in the 2 Principles for Food Import and Export Inspection and Certification, and in order to promote consumer confidence in the safety and quality of their food, governments should ensure that the operations of their inspection and certification systems are as transparent as possible, while respecting any legitimate constraints of professional and commercial confidentiality and avoiding the creation of new barriers to trade by giving a misleading impression of the quality or safety of imported products in comparison with domestic products.
+
+CAC/GL 26-1997
+
+Page 32 of 76
+
+ANNEX GUIDELINES ON PROCEDURES FOR CONDUCTING AN ASSESSMENT AND VERIFICATION BY AN IMPORTING COUNTRY OF INSPECTION AND CERTIFICATION SYSTEMS OF AN EXPORTING COUNTRY 1. INTRODUCTION
+
+1.1 Assessment and verification should concentrate primarily on effectiveness of the inspection and certification system in operation in the exporting country rather than on specific commodities or establishments. 1.2 Assessment and verification may be conducted by officials of the importing country. The subject of assessment and verification may be an exporting country's inspection and certification infrastructure, or a specific inspection and certification regime applied to a single producer or group of producers. 2. PREPARATION
+
+2.1 Those responsible for conducting the audit should prepare a plan that covers the following points: the subject, depth and scope of the audit and the standards or requirements against which the subject will be assessed; the date and place of the audit, along with a timetable up to and including the issue of the final report; the identity of the auditors including, if a team approach is used, the leader; the language(s) in which the audit will be conducted and the report issued; a schedule of meetings with officials and visits to establishments, as appropriate; confidentiality requirements.
+
+2.2 This plan should be reviewed in advance with representatives of the country and, if necessary, the organization(s) being audited. 2.3 Where different authorities of an importing country have jurisdiction over different aspects of food control in the importing country, such authorities should coordinate their conduct of an audit in order to avoid any duplication of visits in the assessment of the exporting countries' inspection and certification infrastructure.
+
+CAC/GL 26-1997
+
+Page 33 of 76
+
+3.
+
+OPENING MEETING
+
+An opening meeting should be held with representatives of the exporting country, including officials responsible for the inspection and certification programmes. At this meeting the auditor will be responsible for reviewing the audit plan and confirming that adequate resources, documentation, and any other necessary facilities are available for conducting the audit. 4. EXAMINATION
+
+This may comprise both the examination of documentary material and an onsite verification. 4.1 Document review
+
+The document review may consist of a preliminary review of the national food inspection and certification system, with emphasis on the implementation of elements of the system of inspection and certification for commodity(ies) of interest. Based upon this preliminary review, the auditors may examine inspection and certification files relevant to these commodities. 4.2 On-site verification
+
+4.2.1 The decision to proceed to this step should not be automatic but should be based upon a variety of factors such as risk assessment of the food commodity(ies), history of conformity with requirements by the industry sector or exporting country, volume of product produced and imported or exported, changes within a country's infrastructure, changes to the food inspection and certification systems, and training (theoretical and practical) of inspectors. 4.2.2 On-site verification may involve visits to manufacturing facilities and food handling or storage areas to check on compliance with the information contained in the documentary material referred to in 4.1. 4.3 Follow-up audit
+
+Where a follow-up audit is being conducted in order to verify the correction of deficiencies, it may be sufficient to examine only those points which have been found to require correction. 5. WORKING DOCUMENTS
+
+5.1 Forms for reporting assessment findings and conclusions should be standardized as much as possible in order to make the approach to audit, reporting and assessment more uniform and efficient. The working documents also include any checklists of elements to evaluate. Such checklists may cover: legislation and policy;
+
+CAC/GL 26-1997
+
+Page 34 of 76
+
+6.
+
+establishment structure and working procedures; the adequacy of inspection and sampling coverage and inspection standards; sampling plans and results; certification criteria; compliance action and procedures; reporting and complaint procedures; training of inspectors.
+
+CLOSING MEETING
+
+A closing meeting should be held with representatives of the exporting country, including officials responsible for the inspection and certification programmes. At this meeting the auditor will be responsible for presenting the findings of the audit as well as, where appropriate, an analysis of conformity. The information should be presented in a clear, concise manner so that the conclusions of the audit are clearly understood. If possible, an action plan for correction of any deficiencies should be agreed. 7. REPORT
+
+The draft report of the audit should be forwarded to the appropriate authorities in both countries as soon as possible. It should include a report of the audit findings with supporting evidence for each conclusion, along with any details of significance discussed during the closing meeting. The final report should incorporate the comments by the appropriate authorities of the exporting country. 8. FREQUENCY OF AUDITING
+
+The potential importing country shall decide the frequency of auditing in agreement with the exporting country. Factors to be taken into account include the findings of previous audits and the existence and effectiveness of self-audit systems or third party audit of the exporting country's control systems.
+
+CAC/GL 34-1999
+
+Page 35 of 76
+
+GUIDELINES FOR THE DEVELOPMENT OF EQUIVALENCE AGREEMENTS REGARDING FOOD IMPORT AND EXPORT INSPECTION AND CERTIFICATION SYSTEMS CAC/GL 34 ­1999 SECTION 1 ­ SCOPE 1. This document provides practical guidance for governments desiring to enter into bilateral or multilateral equivalence agreements concerning food import and export inspection and certification systems. Such agreements may be binding instruments taking the form of "international agreements" under the Vienna Convention on the Law of Treaties, or they may be other less formal arrangements such as memoranda of understanding. SECTION 2 ­ DEFINITIONS Audit is a systematic and functionally independent examination to determine 2 whether activities and related results comply with planned objectives. Certification is the procedure by which official certification bodies and officially recognized bodies provide written or equivalent assurance that foods or food control systems conform to requirements. Certification of food may be, as appropriate, based on a range of inspection activities which may include continuous on-line inspection, auditing of quality assurance systems, and 2 examination of finished products. Certification system means official and officially recognized certification systems. Equivalence is the capability of different inspection and certification systems to 3 meet the same objectives. Inspection is the examination of food or systems for control of food, raw materials, processing and distribution, including in-process and finished product 2 testing, in order to verify that they conform to requirements. Inspection system means official and officially recognized inspection systems.
+1
+
+1
+
+2
+
+3
+
+The Codex Guidelines for the Development of Equivalence Agreements Regarding Food Import and Export Inspection and Certification Systems were adopted by the Codex Alimentarius at its 23rd Session, 1999. They have been sent to all Member Nations and Associate Members of FAO and WHO as an advisory text, and it is for individual governments to decide what use they wish to make of the Guidelines. Codex Alimentarius: Principles for Food Import and Export Inspection and Certification (CAC/GL 20-1995). Codex Alimentarius: Guidelines for the Design, Operation, Assessment and Accreditation of Food Import and Export Inspection and Certification Systems (CAC/GL 26-1997).
+
+CAC/GL 34-1999
+
+Page 36 of 76
+
+Official inspection systems and official certification systems are systems administered by a government agency having jurisdiction empowered to 2 perform a regulatory or enforcement function or both. Officially recognized inspection systems and officially recognized certification systems are systems which have been formally approved or recognized by a 2 government agency having jurisdiction. Requirements are the criteria set down by the competent authorities relating to trade in foodstuffs covering the protection of public health, the protection of 2 consumers and conditions of fair trading. SECTION 3 - PURPOSE OF AGREEMENTS 2. Countries 4 may wish to enter into agreements concerning food import and export inspection and certification systems to: (a) (b) (c) provide an enhanced means of assuring that exported products conform to importing country requirements; eliminate duplication of activities and use collective resources more efficiently and effectively; provide a mechanism for the cooperative exchange of expertise, assistance and information to help assure and enhance conformity with requirements.
+5
+
+3. Equivalence agreements are not generally intended as a condition for trade but rather as a means for ensuring that importing country requirements are met with minimal trade impediments. For example, such agreements may result in reducing the importing country's rate of physical checks or sampling to test against standards or to avoid additional certification in the country of origin. SECTION 4 ­ SCOPE AND TYPES OF AGREEMENTS 4. The guidelines herein are intended to cover both bilateral and multilateral agreements. Such agreements may cover trade in one or both directions between trading partners.
+
+4
+
+5
+
+For the purpose of these guidelines, "country" includes regional economic integration organizations to which a group of countries have transferred competencies as regards food import and export inspection and certification systems and/or the negotiation of equivalence agreements with other countries. See Section 1 - Scope. Although this guideline refers to "countries" and "agreements," in many cases competent authorities will enter into agreements or other arrangements.
+
+CAC/GL 34-1999
+
+Page 37 of 76
+
+5. As agreed by the parties, an equivalence agreement covering control and certification systems may relate to any aspect of food safety or other relevant requirement for food. Such agreements may be limited to specific areas of trade or specific products. Such agreements may be entered into where equivalence has been established in respect of some or all requirements. 6. Equivalence agreements may include provisions for certificates or other forms of certification of particular traded products or may provide for 6 dispensing with certificates and other forms of certification. SECTION 5 - CONSIDERATIONS BEFORE ENTERING INTO BILATERAL OR MULTILATERAL DISCUSSIONS 7. The importing country considers and determines whether the exporting country's measures meet the importing country's requirements. Any decision must, however, be made on the basis of objective criteria. 8. In general, significant resources are needed to develop agreements. Exporting and importing countries may therefore need to establish priorities for consultations leading to development of agreements in recognition of the limited resources available to conduct the necessary assessments. Such priorities should not conflict with World Trade Organization (WTO) rights and obligations. 9. Countries may wish to consider some or all of the following issues in setting priorities: (a) (b) whether priority should be given to certain product categories because of the public health risks they pose; whether there is significant trade between the exporting and importing countries for the product(s) that will be the subject of an agreement, and whether an agreement between the two countries would facilitate trade; whether the exporting country appears to have sufficient infrastructure and resources to maintain an appropriate control system; whether the exporting country's products have a low rate of noncompliance with importing country requirements; whether the exporting country recognizes and abides by the Codex Code of Ethics in International Trade in Food; whether significant resources would be conserved as a result of the agreement.
+
+(c)
+
+(d) (e) (f)
+
+6
+
+See paragraph 45 in CAC/GL 26-1997.
+
+CAC/GL 34-1999
+
+Page 38 of 76
+
+10. A country entering into discussions towards an equivalence agreement should be prepared to facilitate assessment and verification activities both 7 before and after conclusion of the agreement. 11. Countries that are not yet ready to enter into equivalence agreements may wish to work jointly toward the development of such agreements. Amongst other things, information exchange, joint training, technical cooperation, and the development of infrastructure and food control systems can serve as building blocks towards the later development of agreements. An importing developed country should consider providing technical assistance to exporting developing countries to establish systems that enable food exports to meet importing country requirements and facilitate the development of equivalence agreements. SECTION 6 - INITIATING EQUIVALENCE AGREEMENT DISCUSSIONS TOWARD AN
+
+12. The country initiating discussion towards an equivalence agreement should identify: (a) (b) (c) (d) the type of equivalence agreement proposed; the product(s) to be covered; the competent authority or authorities for each product; and the scope of requirements to be addressed by the agreement (e.g., health and safety, quality assurance systems, labelling, consumer fraud, etc.).
+
+13. A country which receives such an approach should respond in a timely manner. 14. In the event that the recipient of such an approach has difficulty in responding positively to the approach it should provide a statement of reasons and any relevant recommendations to facilitate the future development of equivalence agreements. 15. Both parties should verify that legal authority exists to discuss and enter into such an agreement.
+
+7
+
+See CAC/GL 26-1997 for guidelines on the conduct of such assessment and verification activities.
+
+CAC/GL 34-1999
+
+Page 39 of 76
+
+SECTION 7 - CONSULTATIVE PROCESS FOR EQUIVALENCE AGREEMENTS 16. As a first step in the consultative process, the importing country should make readily available the texts of its relevant control measures and identify the objectives of these measures. For food safety control measures, the importing country should identify the health risk(s) addressed by each measure. Where certain health hazards, such as foodborne pathogens, are known to exist in the exporting country and not in the importing country, these hazards and the measures to address them should be identified. 17. The exporting country should provide information that demonstrates that its own safety control system achieves the importing country's objectives and/or level of protection, as appropriate: Equivalence agreements for food safety (sanitary) control measures are entered into after an importing country determines that an exporting country's control measures, even if different from those of the importing country, achieve the importing country's appropriate level of health protection. Equivalence agreements for other relevant requirements for food are entered into after an importing country determines that the exporting country's control measures, even if different than those of the importing country, meet the importing country's objectives.
+
+-
+
+18. The development of equivalence agreements is facilitated by the use of Codex standards, recommendations and guidelines by both parties. 19. To facilitate the consultative process, information should be exchanged, as appropriate, on: (a) legislative framework, including the texts of all relevant legislation, which provides the legal basis for the uniform and consistent application of the food control system that is the 8 subject of the agreement; control programs and operations, including the texts of all the exporting country's pertinent measures that would be the subject of the agreement, as well as other materials that relate to control 9 programs and operations; decision criteria and action;
+10
+
+(b)
+
+(c)
+
+8 9 10
+
+See paragraphs 20-23 in CAC/GL 26-1997. See paragraphs 24-29 in CAC/GL 26-1997. See paragraphs 30-37 in CAC/GL 26-1997.
+
+CAC/GL 34-1999
+
+Page 40 of 76
+
+(d) (e)
+
+facilities, equipment, transportation and communications as well 11 as basic sanitation and water quality; laboratories, including information on the evaluation and/or accreditation of laboratories, and evidence that they apply 12 internationally accepted quality assurance techniques; details of the exporting country's systems for assuring competent 13 and qualified inspection through appropriate training, certification, and authorization of inspection personnel; and the number and distribution of inspectors; details of the exporting country's procedures for audit of national systems, including assurance of the integrity and lack of conflict14 of-interest of inspection personnel; details of the structure and operation of any rapid alert systems in the exporting country.
+
+(f)
+
+(g)
+
+(h)
+
+20. Countries may wish to prepare side-by-side tables to organize the abovementioned information and identify differences between the countries' control systems. 21. The importing and exporting countries should identify a process for jointly considering differences in measures/requirements. 22. Representatives of the importing country should have the opportunity to satisfy themselves that the exporting country's control systems operate as outlined. This can be accomplished by appropriate assessment and verification of processes as described in Section 9 and the related Annex of the Guidelines for the Design, Operation, Assessment and Accreditation of Food Import and Export Inspection and Certification Systems. 23. Participants in the agreement should establish procedures to: (a) (b) periodically audit and verify that equivalence continues to exist after conclusion of an equivalence agreement; and resolve any problems identified during audit and verification.
+
+24. A problem resolution procedure should be developed including provision for the importing country to re-examine products to verify that the exporting country has corrected its deficiencies.
+
+11 12 13 14
+
+See paragraphs 38-40 in CAC/GL 26-1997. See paragraphs 41-42 in CAC/GL 26-1997. See paragraph 43 in CAC/GL 26-1997. See paragraphs 47 and 52-57 in CAC/GL 26-1997.
+
+CAC/GL 34-1999
+
+Page 41 of 76
+
+25. The participants in the agreement should discuss and decide whether the equivalence agreement should include provisions for the use, in addition to or in lieu of certificates, of a list of establishments which have been shown to be in compliance with the exporting country's equivalent control measures. The importing country can use this list of establishments to monitor imported shipments. The exporting country would be responsible for providing the list, and updates when appropriate, to the importing country. The importing country retains the right to refuse imports from an establishment and to arrange with the exporting country the removal of an establishment from the list, providing reasons for its action. 26. Participants in the agreement should agree to procedures for information 15 exchange in the event of a food emergency control situation. 27. Participants in the agreement should agree to procedures to follow in the case of food shipments that are found not to comply with the terms of the equivalence agreement. 28. Participants in the agreement should agree to procedures for terminating the agreement, in case either party is not satisfied that the terms of the agreement are being met. 29. To enhance public confidence in the agreement while respecting legitimate concerns to retain confidentiality, the relevant competent authorities of the particular countries should provide the public -including consumers, industry, and other interested parties - an opportunity to comment at an appropriate time on the proposed content of the agreement. 16 SECTION 8 - PILOT STUDIES 30. Before entering into an agreement, the competent authorities in the importing and exporting countries may agree to the conduct of a trial or pilot study. 31. The pilot study draft agreement and protocol may include, but are not limited to, provisions in relation to: (a) (b) (c) (d)
+15
+
+description and time frame of the trial program; roles and capabilities of involved government and officially recognized private organizations; procedures for inspection and certification; audit procedures and frequency;
+
+16
+
+See Codex Principles and Guidelines for the Exchange of Information in Food Control Emergency Situations (CAC/GL 19-1995, Rev. 1-2004). See paragraph 58 in CAC/GL 26-1997.
+
+CAC/GL 34-1999
+
+Page 42 of 76
+
+(e)
+
+description of training or information needs.
+
+SECTION 9 - DRAFTING THE AGREEMENT 32. Information which may be included as appropriate in an agreement is listed in Appendix A. SECTION 10 - IMPLEMENTING THE AGREEMENT 33. A notice announcing the agreement, or the text of the agreement itself, should be published by all the signatory governments. The text of the agreement should be made available to the public of each country in that country's official language(s). 34. After the agreement comes into effect, each party should promptly notify the other party or parties of any proposed new or revised measures that pertain to the agreement.
+
+CAC/GL 34-1999
+
+Page 43 of 76
+
+APPENDIX A CONTENTS OF EQUIVALENCE AGREEMENTS The following information may be included, as appropriate, in equivalence agreements. (a) (b) (c) (d) (e) (f) (g) (h) Title: The name given to the agreement may vary, depending on the preferences and legal requirements of the parties to the agreement. Parties: The name of the parties to the bilateral or multilateral agreement. Purpose: A brief statement of the specific purpose of the agreement. Scope: Identification of the products and measures that are the subject of the agreement. Note exceptions where necessary. Definitions: Definitions of terms in the agreement, as needed. Where possible, definitions in WTO and Codex documents should be used. Substantive obligations: A comprehensive description of each participant's obligations and specific responsibilities. Competent authorities: The title of each competent authority that will be responsible for the implementation of the agreement. Equivalence finding: A statement of the control systems or parts of systems that have been found to be equivalent by the importing party(ies) to the agreement. Assessment and verification provisions: A description of the methods to verify compliance with the provisions of the agreement, including audit procedures and/or provisions for participants to utilize officially recognized third parties (including competent authorities in countries that are not signatories to the officially recognized agreement). The plans for continuing verification should be clearly described. Criteria for certification: When certificates are part of agreements to meet requirements, a list of the criteria, by attribute, that should be used by the competent authorities of the exporting and importing countries to determine if the product meets the importing country's standards. Sample collection: A listing of references and sample procedures that the importing and/or exporting country will use for testing and/or certification.
+
+(i)
+
+(j)
+
+(k)
+
+CAC/GL 34-1999
+
+Page 44 of 76
+
+(l)
+
+Analytical and other methodology: A listing of the methods and equivalence procedures that the participating competent authorities will use to determine the compliance of product(s) covered by the agreement. Administrative procedures: Procedures and guidance for the practical implementation and application of the agreement. Information exchange and cooperation: A listing of the types of sharing of expertise, providing assistance, and exchanging information that will help assure the quality and safety of the product(s) covered by the agreement. Transparency: Description of the types of information that should be exchanged on a routine basis, including but not limited to revised laws and standards, analytical findings, and inspection results. Notification: A description of the situations and procedures that should be followed when reporting significant changes in factors affecting the safety of traded products; situations where there is an identified risk of serious health effects related to traded products; and steps being taken to resolve such situations. Dispute settlement: A description of the consultative procedures, joint committee, and/or other mechanisms that should be employed by the participants to resolve disputes under the agreement. Such procedures and mechanisms should not limit the rights or obligations of the parties under the World Trade Organization (WTO) Agreements. Liaison officials: For each participating competent authority, at least one liaison official should be identified by title/position, address, telephone number, fax number and e-mail address. (It is not necessary to include the name of a specific individual.) Entry into force: The date on which the provisions of the agreement enter into force. Review, modification and termination: The methods for the review, modification and termination of the agreement. Signatures: Signatures, title, and names of officials representing the competent authority that are participants in the agreement and the date(s) of signature.
+
+(m) (n)
+
+(o)
+
+(p)
+
+(q)
+
+(r)
+
+(s) (t) (u)
+
+CAC/GL 53-2003
+
+Page 45 of 76
+
+GUIDELINES ON THE JUDGEMENT OF EQUIVALENCE OF SANITARY MEASURES ASSOCIATED WITH FOOD INSPECTION AND CERTIFICATION SYSTEMS1 CAC/GL 53-2003 SECTION 1 ­ PREAMBLE 1. It is often the case that importing and exporting countries operate different food inspection and certification systems. The reasons for such differences include differences in prevalence of particular food safety hazards, national choice about management of food safety risks and differences in the historical development of food control systems. 2. In such circumstances, and in order to facilitate trade while protecting the health of consumers, an exporting and an importing country may work together to consider the effectiveness of sanitary measures of the exporting country in achieving the appropriate level of sanitary protection of the importing country, consistent with the principle of equivalence as provided for in the World Trade Organization Agreement on the Application of Sanitary and Phytosanitary Measures (WTO SPS Agreement).2 3. Application of the principle of equivalence has mutual benefits for both exporting and importing countries. While protecting the health of consumers, it serves to facilitate trade, and minimize the costs of regulation to governments, industry, producers, and consumers by allowing the exporting country to employ the most convenient means in its circumstances to achieve the appropriate level of protection of the importing country.3 4. Importing countries should avoid the application of unnecessary measures when they have already been carried out by the exporting country. Importing countries may be able to reduce the frequency and extent of verification measures following a judgment of equivalence of measures applied in the exporting country.
+
+1
+
+2
+
+3
+
+These guidelines should be read in conjunction with other relevant Codex texts, including in particular the Guidelines for the Development of Equivalence Agreements Regarding Food Import and Export Inspection and Certification Systems ­ CAC/GL 34-1999. Consistent with the definition of equivalence in Section 3, measures that are equivalent (i.e., are different from the measures used by the importing country but nonetheless achieve the importing country's appropriate level of protection) should be distinguished from measures that are the same as the measures of the importing country. The benefits to an exporting country of application of the principle of equivalence would be offset or negated if a request for an equivalence determination were, by itself, used as a pretext for the disruption of established trade. Such action by an importing country would be contrary to the principles of international trade.
+
+CAC/GL 53-2003
+
+Page 46 of 76
+
+SECTION 2 ­ SCOPE 5. This document provides guidelines on the judgement of the equivalence of sanitary measures associated with food inspection and certification systems. For the purpose of determining equivalence, these measures can be broadly characterized as infrastructure; programme design, implementation and monitoring; and/or specific requirements (refer paragraph 13). SECTION 3 ­ DEFINITIONS 6. The definitions presented in this document are derived from and consistent with those of the Codex Alimentarius Commission and the WTO SPS Agreement. Sanitary measure: Any measure applied to protect human life or health within the territory of the country from risks arising from additives, contaminants, toxins or disease-causing organisms in food or feedstuffs, or from risks arising from diseases carried by foods which are animals, plants or products thereof or from risks arising from any other hazards in foods. Note: Sanitary measures include all relevant laws, decrees, regulations, requirements and procedures including, inter alia, end product criteria; processes and production methods; testing, inspection, certification and approval procedures; provisions on relevant statistical methods, sampling procedures and methods of risk assessment; and packaging and labelling requirements directly related to food safety. Hazard: A biological, chemical or physical agent in, or condition of, food with the potential to cause an adverse health effect.4 Risk: A function of the probability of an adverse health effect and the severity of that effect, consequential to a hazard(s) in food.4 Risk Assessment: A scientifically-based process consisting of the following steps: (i) hazard identification; (ii) hazard characterization; (iii) exposure assessment; and (iv) risk characterisation.4 Appropriate level of sanitary protection (ALOP): The level of protection deemed appropriate by the country establishing a sanitary measure to protect human life or health within its territory. (This concept may otherwise be referred to as the "acceptable level of risk".)
+
+4
+
+Codex Alimentarius Commission: Procedural Manual (14th edition).
+
+CAC/GL 53-2003
+
+Page 47 of 76
+
+Equivalence of sanitary measures: 5 Equivalence is the state wherein sanitary measures applied in an exporting country, though different from the measures applied in an importing country, achieve, as demonstrated by the exporting country, the importing country's appropriate level of sanitary protection. SECTION 4 - GENERAL PRINCIPLES FOR THE DETERMINATION OF EQUIVALENCE 7. Determination of the equivalence of sanitary measures associated with food inspection and certification systems should be based on application of the following principles:
+
+a)
+
+An importing country has the right to set a level of sanitary protection it deems appropriate in relation to the protection of human life and health.6 The ALOP may be expressed in qualitative or quantitative terms. The sanitary measure7 applied in an importing country should in practice achieve the ALOP of the importing country and be applied consistent with article 2.3 of the SPS agreement.8 An importing country should describe how its own sanitary measure achieves its ALOP. An importing country should recognize that sanitary measures different from its own may be capable of achieving its ALOP, and can therefore be found to be equivalent. The sanitary measure that the exporting country proposes as equivalent must be capable of achieving the importing country's ALOP.
+
+b)
+
+c) d)
+
+e)
+
+5
+
+6
+
+7
+
+8
+
+Equivalence is defined in CAC/GL 26-1997 as "the capability of different inspection and certification systems to meet the same objectives". The SPS Agreement sets out the rights and obligations of WTO Members in relation to the determination of an appropriate level of sanitary protection. Where this guideline refers to `measure' in the singular it may also be taken to refer to `measures' or `a set of measures', as appropriate to the circumstances. Equivalent measures may achieve the ALOP of the importing country or, in combination with other measures, they may contribute to the achievement of the importing country's ALOP. In the remainder of this guideline any reference to the former should be taken to include the latter possibility.
+
+CAC/GL 53-2003
+
+Page 48 of 76
+
+f)
+
+An importing country should, upon request by an exporting country, promptly enter into consultations with the aim of determining the equivalence of specified sanitary measures within a reasonable period of time. 9 It is the responsibility of the exporting country to objectively demonstrate that its sanitary measure can achieve the importing country's ALOP. The comparison of countries' sanitary measures should be carried out in an objective manner. Where risk assessment is used in the demonstration of equivalence, countries should strive to achieve consistency in the techniques applied, using internationally accepted methodology where available and taking into account relevant Codex texts. The importing country should take into account any knowledge and past experience it has of the food inspection and certification systems in the exporting country to make the determination as efficiently and quickly as possible. The exporting country should provide access to enable the inspection and certification systems which are the subject of the equivalence determination to be examined and evaluated upon request of the food control authorities of the importing country. All judgments of equivalence should consider the means by which that equivalence will be maintained. Countries should ensure transparency in both the demonstration and judgment of equivalence, consulting all interested parties to the extent practicable and reasonable. The exporting and importing countries should approach an equivalence determination procedure in a cooperative way. An importing country should give positive consideration to a request by an exporting developing country for appropriate technical assistance that would facilitate the successful completion of an equivalency determination.
+
+g)
+
+h) i)
+
+j)
+
+k)
+
+l) m)
+
+n)
+
+9
+
+Guidelines for the Design, Operation, Assessment and Accreditation of Food Import and Export Inspection and Certification Systems - CAC/GL 26- 1997.
+
+CAC/GL 53-2003
+
+Page 49 of 76
+
+SECTION 5 - THE DETERMINATION
+
+CONTEXT
+
+OF
+
+AN
+
+EQUIVALENCE
+
+8. To facilitate judgement of equivalence between countries and promote harmonisation of food safety standards, Codex members should base their sanitary measures on Codex standards and related texts.10 9. An equivalence determination can be sought for any sanitary measure or set of measures relevant to a food product or group of food products. Relevant sanitary measures making up a food control system in the exporting country that are not the subject of an equivalence determination should meet importing country requirements. 10. The extent of the equivalence determination will depend on the prior experience, knowledge, and confidence that the importing country has regarding the food control measures of the exporting country. 11. When an importing country has prior experience, knowledge, and confidence in food control measures relevant to those being evaluated for equivalence and the countries agree that import requirements are being fully met, e.g. where trade experience exists, determination of the equivalence of sanitary measures may be made without further consideration of those other relevant measures making up the food control system. 12. When an importing country does not have prior experience, knowledge, and confidence in food control measures relevant to those being evaluated for equivalence and the countries have not determined that import requirements are being fully met, e.g., where trade in a food product or group of food products is being proposed for the first time, determination of the equivalence of sanitary measures will require further consideration of those other relevant measures making up the food control system. 13. For the purposes of determining equivalence, the sanitary measures associated with a food inspection and certification system can be broadly categorised as: a) infrastructure; including the legislative base (e.g., food and enforcement law), and administrative systems (e.g., organization of national and regional authorities, enforcement systems, etc.);
+
+10
+
+Article 3 of the WTO SPS Agreement states, inter alia, that WTO Members may introduce or maintain sanitary measures which result in a higher level of sanitary protection than would be achieved based on Codex standards, if there is a scientific justification, or as a consequence of the member's chosen level of protection. Such measures must be based on a risk assessment appropriate to the circumstances.
+
+CAC/GL 53-2003
+
+Page 50 of 76
+
+b)
+
+programme design, implementation and monitoring; including documentation of systems, monitoring, performance, decision criteria and action, laboratory capability, transportation infrastructure and provisions for certification and audit; and/or specific requirements; including requirements applicable to individual facilities (e.g., premises design), equipment (e.g., design of food contact machinery), processes (e.g., HACCP plans), procedures (e.g., ante- and post-mortem inspection), tests (e.g., laboratory tests for microbiological and chemical hazards) and methods of sampling and inspection.
+
+c)
+
+14. Categorization in this manner is likely to facilitate agreement between countries on the basis for comparison of sanitary measures subject to an equivalence determination (see section 6). Further, allocation of measures to a particular category may assist countries in simplifying the extent of the equivalence determination relative to other sanitary measures making up the food control system. SECTION 6 - OBJECTIVE BASIS OF COMPARISON 15. Since the sanitary measures applied by an importing country have the purpose of achieving its ALOP, an exporting country may demonstrate achievement of the importing country's ALOP by demonstrating that the measures it proposes as equivalent have the same effect, relative to the achievement of the importing country's ALOP, as the corresponding sanitary measures applied by the importing country by using an objective basis of comparison. 16. The importing country should, at the request of the exporting country, specify as precisely as possible an objective basis for comparison of the sanitary measures proposed by the exporting country and its own measures.11 Dialogue between the exporting and importing country will assist in the development of understanding and, desirably, agreement on the objective basis for comparison. Supporting information to be provided by the importing country may include:
+
+11
+
+The objective basis for comparison of sanitary measures categorized as "Infrastructure" is likely to be of a qualitative nature, e.g., the ability of food control legislation to achieve broad food safety goals. The objective basis of comparison of sanitary measures categorized as "Specific Requirements" is likely to be quantitative in nature e.g., a comparison of levels of hazard control achieved by the measure. The objective basis of comparison of sanitary measures categorized as "Programme" is likely to contain a mixture of qualitative and quantitative elements e.g., correct application of principles, and establishment of appropriate critical limits, in HACCP food control systems.
+
+CAC/GL 53-2003
+
+Page 51 of 76
+
+a)
+
+the reason/purpose for the sanitary measure, including identification of the specific risks that the measure is intended to address; the relationship of the sanitary measure to the ALOP, i.e., how the sanitary measure achieves the ALOP; where appropriate, an expression of the level of control of the hazard in a food that is achieved by the sanitary measure; the scientific basis for the sanitary measure under consideration, including risk assessment where appropriate; any additional information that may assist the exporting country in presenting an objective demonstration of equivalence.
+
+b) c) d) e)
+
+SECTION 7 - PROCEDURE FOR THE DETERMINATION OF EQUIVALENCE 17. The importing country should make available details of its sanitary measures to the exporting country on request. The exporting country should review all applicable sanitary measures of the importing country for the food involved and identify those it will meet and those for which it seeks determination of equivalence. The importing and exporting countries should then use an agreed process for exchange of the relevant information to facilitate the determination of equivalence. This information should be limited to that which is necessary for this purpose. 18. The determination of equivalence is facilitated by both exporting and importing countries following a sequence of steps, such as those described below and illustrated in Figure 1. The parties should work through these steps in a cooperative manner with the aim of reaching agreement:
+
+a)
+
+The exporting country identifies the sanitary measure of the importing country for which it wishes to apply a different measure, and requests the reason/purpose for the measure. The importing country provides the reason/purpose for the identified sanitary measure and other relevant information in accordance with section 6. In accordance with section 6 the importing country should specify as precisely as possible an objective basis for comparison of the sanitary measures proposed by the exporting country and its own measures. On the initiative of the exporting country, the importing and exporting countries should enter into a dialogue concerning this objective basis for comparison with a view to reaching agreement.
+
+b)
+
+c)
+
+CAC/GL 53-2003
+
+Page 52 of 76
+
+d)
+
+The exporting country develops a submission using risk assessment or other relevant methodology as appropriate, to demonstrate that the application of the different sanitary measure achieves the ALOP of the importing country, and presents it to the importing country. The importing country reviews the submission and, if adequate, uses the submission to determine whether the exporting country's measure achieves the importing country's ALOP. If the importing country has any concerns with the submission as presented, it should notify them to the exporting country at the earliest opportunity and should detail the reasons for concern. If possible, the importing country should suggest how the concerns might be addressed. The exporting country should respond to such concerns by providing further information, modifying its proposal or taking other action as appropriate. The importing country notifies the exporting country of judgement within a reasonable period of time and provides reasoning for its decision, should the judgement be that sanitary measure is not equivalent, i.e., does not achieve importing country's ALOP. its the the the
+
+e)
+
+f)
+
+g)
+
+h)
+
+i)
+
+An attempt should be made to resolve any differences of opinion over judgement of a submission, either interim or final.
+
+SECTION 8 ­ JUDGEMENT 19. Judgement of equivalence by the importing country should be based on a transparent analytical process that is objective and consistent, and includes consultation with all interested parties to the extent practicable and reasonable. 20. Judgement of the equivalence of sanitary measures should take into account:
+
+a) b) c)
+
+experience, knowledge and confidence of an exporting country's food inspection and certification systems (see section 5); supporting data submitted by the exporting country; analysis of the strength of the relationship between the exporting country's specified sanitary measure, and the achievement of the ALOP of the importing country as reflected in the objective basis for comparison (see section 6);
+
+CAC/GL 53-2003
+
+Page 53 of 76
+
+d) e) f) g) h)
+
+that parameters should be stated in quantitative terms to the extent possible; adequacy of qualitative descriptions where the level of control of hazards in foods is not quantified; consideration of variability and other sources of uncertainty in data; consideration of all expected human health outcomes of the exporting country's identified sanitary measure; those Codex texts relevant to the food safety matters under consideration.
+
+21. Following any judgment of equivalence, exporting and importing countries should promptly advise each other of significant changes in their supporting programmes and infrastructure that may affect the original determination of equivalence.
+
+CAC/GL 53-2003
+
+Page 54 of 76
+
+Figure I: Simplified flow chart for the determination of equivalence (individual steps may be iterated) Exporting country Identify sanitary measure(s) (18.a) Importing country
+
+Request reason/purpose of the sanitary measure(s) (18.a)
+
+Provide reason/purpose of the sanitary measure(s) (18.b)
+
+Objective basis for comparison? (18.c) No dialogue necessary
+
+Dialogue
+
+Develop case for alternative sanitary measure(s) proposed as equivalent (18.d)
+
+Evaluation (18.e) Equivalent? Yes NO List concerns (18.f)
+
+Respond to importing country concerns: Alternative sanitary measure(s); further develop case (18.g)
+
+Evaluation (18.e)
+
+Equivalent?
+
+NO
+
+Importing country supplies reason for denial of equivalence (18.h) Yes
+
+Possible resolution of different opinions on case for equivalence (18.i) Equivalent? Yes NO
+
+CAC/GL 38-2001
+
+Page 55 of 76
+
+GUIDELINES FOR GENERIC OFFICIAL CERTIFICATE FORMATS AND THE PRODUCTION AND ISSUANCE OF CERTIFICATES CAC/GL 38-2001 SECTION 1 - PREAMBLE 1. These guidelines recognize that importing country authorities may, as a condition of clearance of consignments, require importers to present certification issued by, or with the authority of, exporting country authorities. These guidelines do not mandate a need to use such certification or in any way diminish the trade facilitatory role of commercial or other types of certificates, including third party certificates, not issued by, or with the authority of, exporting country authorities. These guidelines are based on the presumption that the commercial parties engaged in international trade in food are responsible for complying with the regulatory requirements of the exporting and importing country. SECTION 2 - SCOPE 2. These guidelines concern the design and use of official and officially recognized certificates that attest to attributes of food presented for international trade. Hereafter, in these Guidelines, the term "certificates" means official and officially recognized certificates. Certificates should be required only where declarations are necessary relating to product safety or suitability for consumption, or to otherwise facilitate fair trade. 3. These guidelines do not deal with matters of animal and plant health unless directly related to food quality or safety. However, it is recognized that, in practice, a single certificate may contain information relevant to several matters. 4. These guidelines are equally applicable to the use of paper or electronic forms of certification. SECTION 3 - OBJECTIVES 5. Certificates should contain essential information relating to food safety and the facilitation of trade. The level of information required should be adequate for the importing country's purpose and not impose unnecessary burdens on the exporting country or exporter, nor should there be a requirement for the disclosure of information that is commercial-in-confidence unless it is of relevance to public health.
+
+CAC/GL 38-2001
+
+Page 56 of 76
+
+SECTION 4 - DEFINITIONS Certificates are those paper or electronic documents, which describe and attest to attributes of consignments of food moving in international trade. Certification is the procedure by which official certification bodies or officially recognized certification bodies provide written or equivalent assurance that foods or food control systems conform to requirements. Certification of food may be, as appropriate, based on a range of inspection activities which may include continuous on-line inspection, auditing of quality assurance systems, and examination of finished products.1 Official certificates are certificates issued by an official certification body of an exporting country, in accordance with the requirements of an importing or exporting country. Officially recognized certificates are certificates issued by an officially recognized certification body of an exporting country, in accordance with the conditions of that recognition and in accordance with the requirements of an importing or exporting country. Certifying bodies are official certification bodies and officially recognized certification bodies2. Certifying officers are employees of certifying bodies authorized to complete and issue certificates. SECTION 5 - PRINCIPLES 6. Certificates should be required only where declarations are necessary to provide information about product safety or suitability for consumption, or to otherwise facilitate fair trade. Multiple or redundant certificates should be avoided to the extent possible. The rationale and requirements for certification should be communicated in a transparent manner and consistently implemented in a non-discriminatory manner. Certificates should be designed and used in a manner that: meets requirements in respect of food safety, suitability for consumption and the facilitation of fair trade in food; simplifies and expedites the certification process; clarifies the responsibility of all parties;
+
+1 2
+
+Principles for Food Import and Export Inspection and Certification (CAC/GL 20-1995). Recognition of certification bodies is addressed under Section 8 ­ Official Accreditation of the Guidelines for the Design, Operation, Assessment and Accreditation of Food Import and Export Inspection and Certification Systems (CAC/GL 26-1997).
+
+CAC/GL 38-2001
+
+Page 57 of 76
+
+satisfies compulsory trade description requirements; provides for accurate identification of the consignment being certified; minimizes the risk of fraud. 7. The government agency having jurisdiction shall take responsibility for any certificate issued by a certifying body. SECTION 6 - CRITERIA STANDARD FORMAT 8. Each certificate should contain a declaration by the official, or officially recognized certification body which relates to the consignment described on that certificate. The certificate should clearly identify the certifying body with letterhead and/or logo. 9. Each certificate should have a unique identification number and be presented in an unambiguous style in a language, or languages, fully understood by the certifying officers and by the receiving authority. A record of unique identification numbers assigned to certificates should be maintained by the competent authority and be able to be related to the distribution of the certificates. 10. Where certificates are produced as a paper document, the original certificate should be uniquely identifiable and be printed with at least one copy for the use of the certifying body and retention by that authority for an appropriate period of time. Further copies may be officially printed copies or photocopies. In all cases the status of the certificate should be clear, for example, marked "original" or "copy", as appropriate. 11. Certificates should be designed so as to minimize the risk of fraud (for example, use of watermark paper, or other security measures for paper certificates; use of secure lines and systems for electronic certificates.) 12. Where certificates are produced in a physical form, they should occupy one sheet of paper or, where more than one page is required, in such a form that any two or more pages are part of an integrated whole and indivisible sheet of paper. Where this is not possible, each individual sheet should be separately initialled by the certifying officer and/or numbered so as to indicate it is a particular page in a finite sequence (for example page 2 of 4 pages) and should contain the unique identification number for that certificate. 13. The certificate should clearly describe the commodity and consignment to which it uniquely relates.
+
+CAC/GL 38-2001
+
+Page 58 of 76
+
+14. Certificates should contain a clear reference to any requirements to which the certified product is required to conform. 15. Certificates should be issued prior to the consignment, to which the certificate relates, leaving the control of the certifying body. Certificates may be issued while consignments are in transit to the country of destination only when appropriate systems of control are agreed by the competent authorities of the importing and exporting countries. 16. The use of electronic means for the issue or transfer of certificates should be accepted where the integrity of the certification system has been assured to the satisfaction of the relevant authorities of both the importing and exporting country. A hard copy form of an electronic certificate should be made available by the issuing authority on request of the importing country's authorities. When electronic certificates are used, the importing country's inspectors should have electronic access to the certification details. DETAILS OF THE CONSIGNMENT (NOTE: These details are not specific to food, as they constitute the normal field of information contained in any Bill of Lading for transport vessels carrying product between countries. The shipping data on the official certification documentation provides a means of verifying details about the product.) 17. The details of the product being certified should be clearly documented on the certificate, which should at least contain the following information: nature of the food; name of product; quantity, in the appropriate units; lot identifier or date coding; identity and, as appropriate, the location of the production establishment; name and contact details of the importer or consignee; name and contact details of the exporter or consignor; country of dispatch; and country of destination. 18. Certificates may also contain information on relevant transport and handling requirements, including appropriate temperature controls.
+
+CAC/GL 38-2001
+
+Page 59 of 76
+
+STATEMENT OF ORIGIN 19. Where, in exceptional cases justified by immediate public health concern, the importing country requires a statement as to the origin of ingredients in a product, the certificate should specify the origin of ingredients sourced outside the exporting country. ATTESTATIONS 20. The particular attestations to be included in a certificate will be determined by the requirements of the importing or exporting country. They should be clearly identified in the text of the certificate. Such attestations may include, but are not limited to: health status as it may affect the safety of the food; product conformity with particular standards, production or processing requirements; the status (e.g. licensing details) of production, processing and/or packaging establishment in the exporting country; and, reference to any associated bilateral/multilateral agreement. RESPONSIBILITIES OF THE CERTIFYING BODY 21. The certifying body should be designated and adequately empowered by national legislation or regulation in a transparent manner to provide the particular attestations required in a certificate or officially recognized certificate. Such designation/ empowerment should be recognized as sufficient by governments, alleviating requirements for further identity or authority. 22. The certifying bodies should ensure that their procedures allow for the issue of the certificate in a timely manner so as to avoid unnecessary disruptions to trade. 23. The certifying bodies should have in place an effective system to prevent, to the extent practicable, the fraudulent use of official and officially recognized certificates. RESPONSIBILITIES OF CERTIFYING OFFICERS 24. Information and guidance notes to facilitate the correct completion of certificates should be available to all certifying officers and to the parties responsible for providing details for inclusion in a certificate. 25. The certifying officers should: be appropriately designated by the certifying body;
+
+CAC/GL 38-2001
+
+Page 60 of 76
+
+have no conflict of interest in the commercial aspects of the consignment and be independent from the commercial parties; be fully conversant with the requirements to which they are attesting; have access to a copy of regulations or requirements that are referred to on the certificate or clear information and guidance notes issued by the competent authority explaining the criteria that the product must meet before being certified; only certify matters which are within their own knowledge (or which have been separately attested to by another competent party); and only certify in respect of the circumstances known at the time of signing the document including conformity with production requirements and any other specified requirements between production and date of certification. PRESENTATION OF ORIGINAL CERTIFICATES 26. The importer or consignee is responsible for ensuring that the product is presented to the importing country's authorities with the original certificate in accordance with the importing country's requirements. In the case of electronic certificates the consignee should supply the importing country authority with sufficient details concerning the consignment to allow the identity of goods to be established against the details contained in the certificate. INSTRUCTIONS FOR COMPLETING PAPER CERTIFICATES 27. Certificates should always be issued and presented, to the exporter or their agent, as the original certificate (i.e., this is an original printed paper form of the original certificate issued once only). 28. A copy of the original certificate (clearly marked as such) should be kept by the certifying body in the exporting country and be provided to the competent authority in the importing country, on request. 29. When signing a certificate, the officer should ensure that: the certificate contains no deletions other than those required by the text of the certificate; any alterations of the certified information are initialled and, as required by the importing country, stamped by the certifying officer using the official stamp of the certifying body;
+
+CAC/GL 38-2001
+
+Page 61 of 76
+
+when the certificate occupies more than one sheet of paper, each individual sheet is separately initialled by the certifying officer and numbered with the respective unique certificate number; the certificate bears his/her signature, his/her name and official position of the certifying officer in clear lettering and, where appropriate, his/her qualifications; the certificate bears the date expressed unambiguously on which the certificate was signed and issued and, where appropriate, the time for which the certificate will remain valid; after signature by the certifying officer, no portion of the certificate is left blank in a manner that would allow it to be amended. INSTRUCTIONS FOR COMPLETING ELECTRONIC CERTIFICATES 30. The exporter or their agent should be notified when an electronic certificate has been authorized for a consignment. 31. Before authorizing an electronic certificate, the certifying officer should ensure that all steps and checks established for the secure operation of the electronic system have been satisfactorily completed. REPLACEMENT CERTIFICATES 32. Where, for any good and sufficient reason (such as loss of or damage to the certificate in transit), a replacement certificate is issued by the certifying officer it must be clearly marked "REPLACEMENT" before being issued. A replacement certificate should reference the number of the original certificate that it supersedes. REVOCATION OF A CERTIFICATE 33. When for good and sufficient reason there is cause to revoke a certificate, the certifying body should revoke the original certificate as soon as possible and notify the exporter or their agent in hard copy or by electronic means of the revocation. The notice should reference the number of the original certificate to which the revocation refers and provide all particulars regarding the consignment and the reason(s) for the revocation. A copy of the revocation should be provided to the appropriate food control authority of the importing country if the export of the consignment has occurred.
+
+CAC/GL 19-1995, Rev.1-2004
+
+Page 62 of 76
+
+PRINCIPLES AND GUIDELINES FOR THE EXCHANGE OF INFORMATION IN FOOD SAFETY EMERGENCY SITUATIONS CAC/GL 19-1995, Rev. 1-2004 SECTION 1 - PREAMBLE 1. When a food safety emergency arises, in order to minimize potential adverse public health effects, it is essential to communicate the nature and extent of the food safety problem to all relevant parties as expeditiously as possible. This must be done in a manner that avoids unwarranted action against other foods from the same or other countries, which are not involved in the emergency situation. The global nature of food trade requires that this communication occur between nations at the appropriate government level. 2. This document provides guidance for use by national governments and regional economic integration organisations for the exchange of information in food safety emergency situations. SECTION 2 - SCOPE 3. These Principles and Guidelines apply to situations where the competent authorities in either the importing and/or exporting countries become aware of a food safety emergency situation, and communication of the information and risks surrounding the emergency situation must be undertaken. 4. The Principles and Guidelines apply to situations where the food safety hazard (e.g., a microbiological, chemical, radiological or physical agent) has been specifically identified. It may also apply to situations where the food safety hazard has not been identified, but relevant scientific information suggests a link between consumption of a food and the appearance of serious health effects. 5. The Principles and Guidelines apply to food safety emergencies associated with imported or exported food or food that may potentially be imported or exported. The Principles and Guidelines may also apply to such emergencies where feeding stuffs for food producing animals are implicated.1 6. The Principles and Guidelines do not apply to routine food rejections where importing country standards have not been met. These situations are covered in the Guidelines for the Exchange of Information between Countries on Rejections of Imported Food (CAC/GL 25-1997).
+
+1
+
+Provisions for emergency situations affecting animal feed are included in the Codex Code of Practice for Good Animal Feeding (CAC/GL 54-2004): Section 4.3.1 "Special conditions applicable to emergency situations"
+
+CAC/GL 19-1995, Rev.1-2004
+
+Page 63 of 76
+
+SECTION 3 - DEFINITION 7. Food Safety Emergency: A situation whether accidental or intentional, that is identified, by a competent authority as constituting a serious and as yet uncontrolled foodborne risk to public health that requires urgent action. SECTION 4 - PRINCIPLES 8. In the event that a food safety emergency is identified, the following principles apply to the exchange of information: a) b) Its nature and extent should, where possible, be clearly and completely described by the relevant competent authorities. The exchange of information on food safety emergencies should be between official contact points designated by the competent authorities. A country detecting a food safety emergency situation, whether it is an importing or an exporting country, should inform all known affected and potentially affected countries without delay. All relevant information should be shared by competent authorities detecting a food safety emergency to enable all affected and potentially affected countries to make informed risk management and/or risk communication decisions. Competent authorities should also provide clear, relevant, factual and timely information to relevant stakeholders to the extent possible. Information flow should be transparent and continue during all phases of the food emergency situation to enable continuous evaluation and development of the emergency response.
+
+c)
+
+d)
+
+e)
+
+f)
+
+SECTION 5 - NATURE OF THE FOOD SAFETY EMERGENCY 9. The nature of the food safety emergency including its scientific basis as it becomes available should be described in a clear, concise and accurate manner. Even in circumstances where the specific food safety hazard has not been precisely identified any clear and substantial association between the consumption of a food and the appearance of serious adverse public health effects should be provided by the competent authority in accordance with the principles outlined in paragraph 8.
+
+CAC/GL 19-1995, Rev.1-2004
+
+Page 64 of 76
+
+10. In cases where the food safety hazard is associated with a specific food or foods, these foods should be identified in as much detail as is available to facilitate the identification and location of the affected foods. In other cases, where a food safety hazard affects many different categories of foods and potentially involves a given geographical area, all affected foods should be identified. SECTION 6 - DESIGNATED OFFICIAL CONTACT POINTS FOR INFORMATION EXCHANGE 11. Each country should designate a primary official contact point for food safety emergency situations, which can act as the national focal point for information exchange in such situations. A list of the primary official contact points for the exchange of information in food safety emergency situations as mentioned in point 8.b is available and an update is distributed to governments on a periodic basis. It is the responsibility of all countries to ensure that they regularly provide updated information on their country primary official contact points to the World Health Organization (WHO) so that the list of contacts can be kept up-to-date. Although the primary official contact point is the first contact, it is understood that in a given food safety emergency national governments may wish to designate a specific contact point for that emergency. 12. The designated contact points for the competent authorities responsible for coordinating the response to the food safety emergency should be clearly identified. Necessary information includes the name of the competent authority and the contact details including name, address, phone numbers, facsimile numbers, and email addresses of the persons or offices that are responsible for managing the emergency situation and who can provide further details about the hazard, the foods concerned, actions taken and other relevant information. A website address should also be provided if this is used to provide up-to-date information. SECTION 7 - INFORMING ALL KNOWN POTENTIALLY AFFECTED COUNTRIES AFFECTED AND
+
+13. Given the global nature of food trade, the impact of a food safety emergency may be widespread. The competent authority of the country where the food safety emergency is identified should, to the best of its ability and in cooperation with other competent authorities, determine all potential recipient countries of the implicated food(s) and all countries from which the potentially contaminated food or its ingredients was imported. All relevant information in relation to the food safety emergency should be provided to the competent authorities of the countries thus identified.
+
+CAC/GL 19-1995, Rev.1-2004
+
+Page 65 of 76
+
+14. Communication should be made by the most expedient means, as early as possible, and with verification of receipt by key parties. Communications by telephone, email, facsimile and if necessary regular mail should all be considered to achieve early communication and to ensure that the message is received by the competent authorities as quickly as possible. 15. It is recognised that the initial information provided may often be incomplete and it is therefore the responsibility of the country identifying the food emergency to ensure that the initial communication is supplemented by further notification(s), as and when more detailed information becomes available. 16. It is recognized that the nature and the extent of the information disclosure to each competent authority will be as determined to be permissible by the disclosing competent authority according to its national law. SECTION 8 - INFORMATION TO BE EXCHANGED 17. Competent authorities should exchange with all known affected and potentially affected countries the following information, as relevant upon identification of a food safety emergency. a. The nature of the food safety emergency including the hazards and risks identified, the methodology used and any assumptions made; Detailed identification of the food or foods concerned including product markings, certificate information; Affected and potentially affected populations group(s); Shipping and related information, e.g. the name and contact information for the exporter, importer, consignee and shippers; Action taken to reduce or eliminate the hazard; Full details of the designated official contact point and the relevant competent authority.
+
+b. c. d. e. f.
+
+18. The communication regarding the nature and extent of a food safety emergency should include relevant scientific substantiation and assessment of risk as they become available, including how international standards have been taken into account.
+
+CAC/GL 19-1995, Rev.1-2004
+
+Page 66 of 76
+
+19. A standard format for the relevant information to be exchanged is recommended for use by both the importing and exporting countries. A model standard format for information exchange in food safety emergency situations is provided in the Annex. Where alternative formats are used, care should be taken to ensure that all the relevant information is included and is clearly presented. SECTION 9 - ROLE OF COMPETENT AUTHORITY 20. Upon identification of a food safety emergency, the competent authority identifying the emergency should promptly communicate with and consult the appropriate competent authority/ies of other affected or potentially affected country/ies. The competent authorities responsible for coordinating the response should update countries receiving the affected food of action taken, as appropriate. The accuracy and veracity of the scientific and other information regarding a food safety emergency should be verified to assist in taking risk assessment, risk management and risk communication decisions. Any misinformation should be promptly corrected by competent authorities. 21. It is also essential that all other relevant parties be kept informed, as appropriate, of the nature and status of the food safety emergency. Competent authorities should therefore provide clear, relevant, factual and timely information to their industry, consumers, other stakeholders and the media on the status of the food safety emergency. SECTION 10 - INFORMATION FLOW 22. Communications between exporting and importing countries should be transparent and continue through all phases of the emergency situation, from initial notification of the food safety problem including, whenever possible, details of any relevant risk assessments that have been used through to notification of the resolution of the problem. This will enable countries to reassess their risk assessment, risk management and risk communication strategies as the situation changes.
+
+CAC/GL 19-1995, Rev.1-2004
+
+Page 67 of 76
+
+SECTION 11 - OTHER CONSIDERATIONS FOR INFORMATION EXCHANGE Level of food distribution 23. In deciding on the appropriate communication measures to apply, the competent authorities should consider the quantity of food that is involved, the extent of its distribution and the level (e.g. wholesale, retail) at which it has been distributed. In some cases, the affected food may not yet have entered the importing country and communication will focus on the importers. However, in other cases the food will have entered and been distributed within the country or transhipped to other countries. The competent authority should take account of whether the food has been, or is likely to have been, distributed at the wholesale, retail or consumer level, and implement risk management and communication measures accordingly, including a notice of recall at one or more of these levels of food distribution. Re-export of food subject to an emergency situation. 24. Food that is refused entry into a country, or in some cases food that is recalled after entry, should be dealt with in accordance with Guidelines for the Exchange of Information between Countries on Rejection of Imported Food (CAC/GL 25-1997) and taking into account the Code of Ethics for International Trade in Foods (CAC/RCP 20-1979, Rev. 1-1985)2 . Food Safety Emergency Plan 25. Importing and exporting countries should develop a food safety emergency plan that would indicate the procedures to be followed in the case of a food safety emergency3. The plan should contain specific provision relating to the exchange of information including keeping their public informed, as appropriate, of food safety emergency. Role of FAO and WHO 26. Although the information exchange components of these guidelines are primarily intended for use between the competent authorities of the importing and exporting countries, copies or summaries of relevant information regarding the emergency should be provided to FAO, WHO or other international organizations on request. In these situations, the FAO and WHO may be able to offer technical advice and assistance to one or more of the affected countries or countries yet to be affected.
+
+2
+
+3
+
+A revision of the Code was under development in the Codex Committee on General Principles at the time this text was developed. e.g. Guidelines for Strengthening National Food Control Systems (FAO/WHO); "Terrorist Threat to Food" (WHO).
+
+CAC/GL 19-1995, Rev.1-2004
+
+Page 68 of 76
+
+Annex STANDARD FORMAT FOR INFORMATION EXCHANGE IN FOOD SAFETY EMERGENCY SITUATIONS The following constitutes the information that should be exchanged between competent authorities of both exporting and importing countries involved in a food safety emergency. A food safety emergency is a situation whether accidental or intentional, that is identified by a competent authority, as constituting a serious and as yet uncontrolled foodborne risk to public health that requires urgent action. 1. Nature of the food safety emergency
+
+The nature of the food safety hazard causing the food safety emergency should be described, and may include the following: biological/microbiological contamination (specify organism or toxin of concern); chemical contamination (e.g. pesticides, chemicals, environmental contaminants); physical contamination (e.g. foreign bodies); radionuclide contamination (specify radionuclide(s) of concern); undeclared allergen (the allergen should be explicitly named); other identified hazards (e.g. inherent chemicals in foods or produced through processing, processing/packaging faults); unknown agent (specify serious adverse health effects associated with consumption of specified foods). drugs, industrial
+
+In each of the above cases the specific food safety hazard and its level or prevalence based on available information and, as appropriate, the sampling and methods of analysis used, and any assumptions made should be notified. 2. Identification of foods concerned
+
+The foods concerned should be described completely. The following information should be provided if available, as appropriate to the product: description and quantity of product(s) including brand, the name(s) of the product listed on the label, grade, preservation method (e.g. chilled or frozen) and shelf life; type and size of package(s);
+
+-
+
+CAC/GL 19-1995, Rev.1-2004
+
+Page 69 of 76
+
+-
+
+lot identification, including lot code, dates of production and processing, and identification of premises where last packed or processed; other identification marks/stamps (e.g. bar codes, UPC codes); name and address of producer, manufacturer, packer, seller, exporter or importer as appropriate; pictorial image; export certificate(s) reference number(s), official name and mark.
+
+-
+
+An indication of the countries to which the product has been exported should also be provided, as soon as it is known, to enable countries to quickly identify whether they are likely to be affected, and to help locate the affected foods. 3. Affected or potentially affected population group(s)
+
+Food safety emergency situations may predominantly affect certain segments of a population, e.g. children, pregnant women, immune compromised persons or the elderly. In such instances, this information should be communicated. The nature and extent of any adverse health effects associated with a food safety emergency should be described, e.g. incubation period, severity, other epidemiological data. 4. Shipping and Related Information
+
+Information on the following should be provided: 5. Exporter name and contact information; Importer name and contact information; Container and shipping details, including port of origin and destination; Consignee(s) and shipper(s) and contact information.
+
+Action taken by exporting or importing country
+
+Information on action taken, such as: measures taken to identify and prevent the sale and export of the food; measures taken to recall food from markets including whether these recalls are voluntary or mandatory; measures taken to prevent further problems;
+
+CAC/GL 19-1995, Rev.1-2004
+
+Page 70 of 76
+
+6.
+
+measures taken to reduce the risk by appropriate physical treatment; methods of diagnosis and treatment of affected persons; measures taken regarding final disposition (e.g. destruction of the food).
+
+Details of the designated official contact point and of the relevant competent authority
+
+Full contact details including: the name of the competent authority, address, telephone, email address and facsimile numbers of persons or offices that can supply further information that may be sought by affected or potentially affected countries to assist in the management of the food safety emergency. A website address should be used where available to provide up-to-date information.
+
+CAC/GL 25-1997
+
+Page 71 of 76
+
+GUIDELINES FOR THE EXCHANGE OF INFORMATION BETWEEN COUNTRIES ON REJECTIONS OF IMPORTED FOOD
+12 CAC/GL 25-1997 ,
+
+SECTION 1 - PREAMBLE 1. The following guidelines provide the basis for structured information exchange on import rejections. The most important information elements to be considered in such guidelines are shown in the Annex and each category is discussed in more detail below. The guidelines are intended to cover all types of food. 2. These guidelines deal only with import rejections caused by failure to comply with importing country requirements. Information exchange in food control emergency situations is dealt with in the Guidelines for the Exchange of Information in Food Control Emergency Situations (CAC/GL 19-1995). 3. The use of these Guidelines for the Exchange of Information on Rejections of Imported Food is intended to assist countries to conform with the Principles for Food Import and Export Inspection and Certification (CAC/GL 20-1995), in particular the transparency provisions contained in paragraph 14 of the Principles. SECTION 2 - GENERAL CONSIDERATIONS 4. When the food control authorities in an importing country reject a consignment of food presented for importation they should always provide information to the importer of the consignment giving the reasons for the rejection. Appropriate information should also be provided to the exporter if the control authorities receive such a request. 5. When the rejection of the consignment arises from: evidence of a serious food safety or public health problem in the exporting country; or evidence of serious misrepresentation or consumer fraud; or
+
+1
+
+2
+
+Governments and organizations interested in receiving a List of Contacts for Food Import Control and Information Exchange in Food Control Emergency Situations should contact the Codex Contact Point for Australia, Australian Quarantine and Inspection Service, GPO Box 858, Canberra, ACT, 2601, AUSTRALIA. Telefax: 61-6-272-3103. The Codex Guidelines for the Exchange of Information Between Countries on Rejections of Imported Food were adopted by the Codex Alimentarius Commission at its 22nd Session, 1997. They have been sent to all Member Nations and Associate Members of the FAO and WHO as an advisory text, and it is for individual governments to decide what use they wish to make of the Guidelines.
+
+CAC/GL 25-1997
+
+Page 72 of 76
+
+-
+
+evidence of a serious failure in the inspection or control system in the exporting country,
+
+the food control authorities in the importing country should notify the food control authorities in the exporting country forthwith (by telecommunication or other similar rapid means of communication) supplying the details set out in the Annex to these Guidelines. 6. Upon receipt of such a communication, the food control authorities in the exporting country should undertake the necessary investigation to determine the cause of any problem that has led to the rejection of the consignment. The food control authority in the exporting country, if requested, should provide the authorities in the importing country with information on the outcome of the necessary investigation, if available. Bilateral discussions should take place as necessary. 7. In other circumstances, for example: where there is evidence of repeated failures of a correctable nature (e.g. labelling errors, mislaying of documents); or where there is evidence of systematic failures in handling, storage or transport subsequent to inspection/certification by the authorities in the exporting countries, the food control authorities in the importing country should also make appropriate notification to the food control authorities in the exporting country, either periodically or upon request. 8. It is also open to an importing country to supply information on rejections to an exporting country even when this is not specified in these guidelines. 9. In some countries information about the results obtained in public food control is freely available, whereas in others legal constraints may prevent or restrict the dissemination to third parties of information on, for example, import rejections. In some cases information cannot be exchanged before a certain time has elapsed. So far as possible countries should minimise restrictions on the disclosure to other countries of information on rejected foods. 10. To enable FAO and WHO to assist exporting countries in their efforts to meet the requirements of importing countries, information on rejections of imported food should be made available to FAO and WHO on request.
+
+CAC/GL 25-1997
+
+Page 73 of 76
+
+SECTION 3 - DETAILED INFORMATION Identification of the food concerned 11. A certain amount of basic information is required in order to be able to identify the consignment or lot of food that has been refused entry when presented for importation. The most important information in this respect is a description of the nature and quantity of the food, any lot identification or other identification stamps, marks or numbers and the name and address of the exporter and/or food producer or manufacturer. Information about importers or sellers is also useful. Where a lot has been certified, the certificate number can provide an important method of identification. Importation details 12. Information about importation or presentation for importation is necessary. The most important elements here are: place and date of entry, and the identity and contact details of the importer. Rejection decision 13. It is important to obtain information about the decision to refuse importation, especially the name of the food control authority which made the decision, when the decision was made and whether the whole or only part of the consignment was refused entry. Reasons for rejection 14. The reason(s) why a consignment of food has been refused entry should be clearly stated and reference should be made to the regulations or standards which have been contravened. 15. Foods may be rejected because they are found to be unacceptable when subjected to an organoleptic examination or because they have technical/physical defects, e.g. leaking cans, broken seals and damaged boxes. In circumstances where physical examination has led to rejection, a clear description of the criteria used should be provided.
+
+CAC/GL 25-1997
+
+Page 74 of 76
+
+16. When the level of a contaminant in a food has been found to be above the maximum permitted level, the contaminant should be specified, together with the level found and the maximum permitted level. In the case of biological contamination or contamination by biological toxins, where no maximum level has been fixed, the identity of the organism or toxin concerned should be given as specifically as possible, and as appropriate, the level of contamination found. Similarly, contraventions of regulations on food additive or compositional standards should be specified. Some countries accept certain foods (e.g. fresh meat) only from specifically approved establishments in the exporting country. If such foods are refused entry because evidence that they come from such an establishment is lacking or incomplete, this should be stated. 17. Where consignments of imported food are rejected on the basis of analysis performed in the importing country, the importing country authority should make available upon request details of the sampling and analytical methods employed and the results obtained. Action taken 18. Information should be supplied about the action taken following the rejection or retention of a consignment of food. This should include information about the fate of the consignment, such as whether it was destroyed or detained for reconditioning. 19. If the rejected food is re-exported, the conditions attached to such reexport should be stated. For example, some countries permit re-export only to the country of origin or to countries which have stated in advance that they are prepared to accept the consignment knowing that it has been refused entry elsewhere. 20. In addition to the exchange of information between the food control authorities of exporting and importing countries it may also be valuable to inform the embassy or other representative body of the exporting country of the situation so that the country concerned can take action to rectify the deficiencies found and thus avoid rejection of future shipments.
+
+CAC/GL 25-1997
+
+Page 75 of 76
+
+ANNEX STANDARD FORMAT FOR EXCHANGE OF INFORMATION BETWEEN COUNTRIES ON REJECTIONS OF IMPORTED FOOD The following information should be provided by countries in relation to rejections of imported food as available and appropriate to the circumstances. Identification of the food concerned Description and quantity of product Type and size of package Lot identification (number, production date, etc.) Container number, bill of loading or similar transportation details Other identification stamps, marks or numbers Certificate number Name and address of manufacturer, producer, seller and/or exporter, establishment number, as appropriate Importation details Port or other point of entry Name and address of importer Date presented for entry Details of rejection decision Whole/part of (specify) consignment rejected Name and address of food control authority making decision to reject Date of decision Name and address of food control authority which can provide more information on reason for rejection Reason(s) for rejection Biological/microbiological contamination Chemical contamination (pesticide or veterinary drug residues, heavy metals, etc.) Radionuclide contamination
+
+CAC/GL 25-1997
+
+Page 76 of 76
+
+Incorrect or misleading labelling Compositional defect Non-conformity with food additive requirements Organoleptic quality unacceptable Technical or physical defects (e.g., packaging damage) Incomplete or incorrect certification Does not come from an approved country, region or establishment Other reasons Note: Where imported food has been rejected on the basis of sampling and/or analysis in the importing country, details should be made available on request as to sampling and analytical methods and test results and the identity of the testing laboratory. Action taken Food destroyed Food held pending reconditioning/rectification of deficiencies in documentation Food held pending final judgement Place where food is held Import granted for use other than human consumption Re-export granted under certain conditions, e.g. to specified informed countries Importer notified Embassy/food control authorities of exporting country notified Authorities in other likely destination countries notified Other
+

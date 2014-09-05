@@ -1,0 +1,900 @@
+The designation employed and the presentation of material in this information product do not imply the expression of any opinion whatsoever on the Food and Agriculture Organization of the United Nations concerning the legal status of any country, territory, city or area or of its authorities, or concerning the delimitation of its frontiers or boundaries.
+
+All rights reserved. Reproduction and dissemination of material in this information product for educational or other non-commercial purposes are authorized without any prior written permission from the copyright holders provided the source is fully acknowledged. Reproduction of material in this information product for resale or other commercial purposes is prohibited without written permission of the copyright holders. Applications for such permission should be addressed to the Chief, Publishing Management Service, Information Division, FAO, Viale delle Terme di Caracalla, 00100 Rome, Italy or by e-mail to copyright@fao.org
+
+© FAO 2005
+
+Contents
+
+iii
+
+Contents
+CONTENTS ACRONYMS CURRENCY EQUIVALENT EXECUTIVE SUMMARY CASE-STUDY BACKGROUND PAPUA NEW GUINEA'S ECONOMY AND AGRICULTURAL SECTOR MACROECONOMIC AND TRADE POLICIES AND THE AGRICULTURAL SECTOR POLICIES AND PROGRAMMES FOR AGRICULTURAL DIVERSIFICATION AND AGRO-ENTERPRISE DEVELOPMENT VANILLA: THE CROP, PRODUCT AND MARKET TYPES OF VANILLA ECOLOGICAL REQUIREMENTS HUSBANDRY REQUIREMENTS AGRICULTURAL LABOUR REQUIREMENTS VANILLA CURING WORLD VANILLA ECONOMY PATTERN OF NATURAL VANILLA PRICES THE RECENT VANILLA PRICE EPISODE SHORT-TO-MEDIUM-TERM PROJECTIONS OF WORLD VANILLA PRICES PNG VANILLA INDUSTRY PNG INDUSTRY IN THE WORLD CONTEXT VANILLA IN THE CONTEXT OF PNG COMMERCIAL AGRICULTURE WHY THE PNG VANILLA PHENOMENON? GOVERNMENT INVOLVEMENT IN THE PNG VANILLA PHENOMENON MARKETING ARRANGEMENTS INFORMATION ENVIRONMENT STOCKTAKING OF THE CURRENT INDUSTRY A SUSTAINABLE PNG VANILLA INDUSTRY FOR THE FUTURE MANAGING SMALLERHOLDER-BASED, HIGH-VALUE NICHE INDUSTRIES POLICIES AND PROGRAMMES TO MITIGATE THE IMPACT OF EXTREME
+PRICE FLUCTUATIONS
+
+iii v vi vii 1 1 5 7 7 8 8 9 9 10 10 12 15 17 17 18 18 20 25 25 28 28 30 33 33 34 35 36 38 39
+
+POLICIES AND PROGRAMMES TO MITIGATE THE IMPACT OF EXTREMEPRICE
+FLUCTUATIONS
+
+INFORMATION ON THE NATURE OF NICHE MARKETS INFORMATION ON QUALITY REQUIREMENTS PROVISION OF RURAL FINANCIAL SERVICES BIBLIOGRAPHY
+
+Acronyms
+
+v
+
+Acronyms
+
+ADB AusAID CEO c.f. CTA DAL f.o.b. GDP IMF LIC LMC IPA MFI MTDS NARI NGO PNG RAP SIB USAID VIP
+
+Asian Development Bank Australian Agency for International Development Chief Executive Officer Cartage and Freight Technical Centre for Agricultural and Rural Cooperation (European Union) Department of Agriculture and Livestock (PNG) Free on Board Gross Domestic Product International Monetary Fund Lower-Income Country Lower-Middle-Income Country Investment Promotion Authority Microfinance Institution Medium-Ter m Development Strategy National Agricultural Research Institute Non-Governmental Organization Papua New Guinea Asia Regional Agribusiness Project (USAID) Spice Industry Board United States Agency for International Development Vanilla International (PNG) Ltd
+
+vi
+
+Currency equivalenrt
+
+Currency equivalent
+
+Currency unit - PNG kina (K) 1975 US$ 1.3103 K 0.7632 1980 1.4903 0.6710 1990 1.0471 0.9550 2003 0.2855 3.5026
+
+K 1.00 = US$ 1.00 =
+
+Executive summary
+
+vii
+
+Executive summary
+
+There are around 50 000 people involved in the Papua New Guinea (PNG) vanilla industry today. Five years ago, no more than a few hundred households were growing vanilla. Such meteoric industry growth is unprecedented in PNG and Pacific island agriculture. The world market for vanilla is a very small niche market. Total world consumption is only around 2 500 tonnes, depending on price and availability. Over the last 20 years, world consumption has oscillated between 1 800 and 3 000 tonnes, with vanilla production varying from 1 200 to 4 000 tonnes. Natural vanilla is in direct competition with synthetic sources of vanillin that cost a fraction of the price of the natural product. World demand and supply for natural vanilla is highly concentrated. The United States accounts for around 60% of world consumption. France and Germany also constitute major markets. Madagascar dominates world supply, with a market share ranging from 60 to 75% over the last 15 years. Over the last few years, PNG has also dramatically emerged as a major supplier, now accounting for around 10% of world supply. The narrow, world vanilla market is characterized by extreme price fluctuations made up of high price peaks and prolonged troughs of relatively low prices. This price pattern is characteristic of the classic 'cobweb' price-formation model. Prices have been particularly sensitive to events in a single country - Madagascar. The recent vanilla price episode has been particularly extreme. A major cyclone in Madagascar in early 2000 triggered a rapid escalation in world vanilla prices. These high prices were then sustained by a combination of: · a civil war (2001-2002) that delayed the rehabilitation of the Madagascar industry; · the launch of "Vanilla Coke", which increased demand; · a second cyclone that again damaged Madagascar's vanilla-growing areas in early 2004; and · speculative demand, which was driving prices above the reality of supply and demand fundamentals. For three years farmers throughout the vanilla-growing world earned unheard of returns and responded accordingly. Far mers worldwide began feverishly planting and rehabilitating vanilla. However, nowhere was the response as great as in PNG. By early 2004, production from these increased plantings was entering a market that had contracted due to extremely high prices. By early July 2004, the inevitable price collapse had begun.
+
+viii
+
+Case Study of the Papua New Guinea Vanilla Industry
+
+In 1998 there were no official exports of vanilla from PNG. In 2003, 101 tonnes were officially exported, with an estimated value of US$ 35 million. This represented about 11% of PNG's agricultural exports in that year, and 10% of world vanilla production. It is possible, depending on the level of Indonesian production in 2004, that PNG could become the second largest producer in the world. PNG has become a major player in the world vanilla market. This is an unprecedented situation for any Pacific island country. Even the relatively large PNG coffee and cocoa industries produce only some 1 percent of global production. The PNG vanilla industry is almost entirely smallholder based. Around 80% of current vanilla production comes from the East Sepik Province. This is a relatively poor coastal province. The vanilla boom dramatically changed this situation, if albeit temporarily. Individuals with a plot of only 100 plants had the potential to earn a large amount of cash. Such levels of returns had hitherto been unheard of in PNG agriculture. The most obvious reason for the PNG vanilla phenomenon was the extremely high prices on offer. The PNG grower price increased 1 300 percent over a two-year period. Similar price increases were on offer to vanilla farmers worldwide. Yet nowhere has the response matched that of the semi-subsistence village farmers of the Sepik. A combination of factors explain the PNG vanilla phenomenon: · Expectations of PNG vanilla farmers, unlike their counterparts in Madagascar or Tonga, were not tempered by the experience of previous low price episodes. · A depreciating exchange rate significantly inflated the prices received by PNG growers in nominal terms. · Agro-ecological conditions in parts of the East Sepik Province proved ideal for vanilla production. This is not true for many areas where vanilla has been planted in PNG. · The foundation of the industry was laid by a visionary nucleus producer, who encouraged smallholders around him to plant. This provided the critical mass upon which a large-scale, smallholder-based industry could quickly develop once the right price incentives existed. This critical mass has been the missing ingredient in other Pacific island vanilla industries. · The planting of vanilla proved very attractive to semi-subsistence farmers. · To plant vanilla, sufficient land could be obtained through traditional land-tenure arrangements. · The very high unit value of vanilla and its non-perishability made it particularly suited to farmers in remote locations. The PNG vanilla boom was reminiscent of the kava price boom that gripped Fiji, Vanuatu and Tonga in 1998 and 1999. The experiences of these two niche products in the Pacific islands have a lot of similarities. The marketing of PNG vanilla is disorderly and largely unregulated. In the short r un, far mers have benefited from the competition created by the large number of exporters. Intense competition helped bid up buying prices. However, many of these traders have little understanding of the product and were willing to purchase inferiorquality vanilla at inflated prices. This has had a negative impact on the quality of PNG vanilla and its overall reputation on the market.
+
+Executive summary
+
+ix
+
+PNG vanilla farmers cure their own beans. The existence of large numbers of curers has helped spread the benefits of the industry widely and has allowed the participation of far mers in the most isolated locations. However, it has seriously mitigated against quality. Most farmers did not have access to information on best practices, and the information that was available was primarily misinformation. At one level, the rapid development of the PNG vanilla industry has been a remarkable success story. It has provided a high-income earning opportunity to a large number of r ural households in some of the most economically depressed and isolated areas of the country. Many commentators saw vanilla as a major new export diversification industry, rivalling the importance of PNG's major export commodities. The reality is that the industry, in its present form, is not sustainable for the following reasons: · substantially lower prices in the future; · overplanting of vanilla; · a large volume of inferior-quality beans; · har vesting of immature beans; · bean theft; · reliance on small-scale curers; · lack of infor mation or misinformation on agro-ecological, agronomic and processing requirements; and · lack of exporter standards. The experience of the vanilla industry shows how beneficial high-value niche commodities can be for semi-subsistence village farmers in remote locations. Vanilla has a high unit value, can be produced on a small area of land without title, requires only labour inputs, provides a high return to effort and, once cured correctly, is nonperishable. A major downside of most high-value niche export products is their price instability. This instability mitigates against the benefits accruing to farmers and to the national economy. Unrealistic expectations during price booms result in a misallocation of household resources. During the price boom, the foreign-exchange leakages are large, with a high consumption of imported goods, including food. Little of the windfall income is saved for future investment and consumption needs. In Pacific island countries, the absence of r ural financial services has contributed to these adverse effects. Far mers become disillusioned when prices fall dramatically from high levels, even if they remain at a reasonable level in absolute terms. Many farmers prematurely depart from the industry, leading to a further waste of resources. These farmers are subsequently not in position to take advantage of the future recovery in price. Policies and supporting programmes need to be directed to assist farmers in better managing their decisions in a highly unstable price environment. The priority areas identified are: · infor mation on the nature of high-value niche product markets; · infor mation on the quality requirements of the market and how to meet these requirements; · Infor mation on the agro-ecological conditions required to successfully grow the crop on a sustainable basis;
+
+x
+
+Case Study of the Papua New Guinea Vanilla Industry
+
+· · ·
+
+empower ment of the industry to establish and enforce quality standards; adoption of far ming systems that minimize risk; and facilitation of r ural financial services that encourage savings and investment in order to take advantage of periodic high prices.
+
+Diversification into high-value export products
+
+1
+
+DIVERSIFICATION INTO HIGH-VALUE EXPORT PRODUCTS: STUDY OF THE PAPUA NEW GUINEA VANILLA INDUSTRY
+Case-study background Papua New Guinea's economy and agricultural sector
+
+CASE
+
+1.
+
+2.
+
+3.
+
+Papua New Guinea (PNG) comprises the eastern half of the world's largest tropical island, plus an archipelago comprising a further 600-odd islands (map). It is by far the largest Pacific island country in terms of size, population and natural resources. The land area of PNG is approximately 463 000 km2 and is classified into islands and lowland and highland regions. Allen (2003) reports about 118 000 km2 as "in use", or cultivated. Natural forests cover 36 million hectares (ha) (70%) of the total land area, and constitute one of the highest forest-land-per-capita ratios in the world (more than 6 ha per capita). PNG has a dual economy, with a large percentage of the population continuing to rely on subsistence production. The monetized sector is concentrated in urban areas, mining enclaves and commodity export industries. This dichotomy is reflected in the social indicators (Table 1). While PNG's level of national income is that of a lower-middle-income country (LMC) country, its social indicators are more typical of a lower-income country (LIC) country.
+
+Table 1: Selected social indicators
+Indicator
+Population Growth Rate
+a
+
+Unit percentage
+
+PNG* 2.4
+
+1975 LIC*
+
+LMC* ...
+
+PNG
+2.6
+
+1985 LIC
+
+LMC 1.6
+
+PNG
+
+1995 LIC
+
+LMC
+1.2
+
+PNG 2.6
+
+2000 LIC
+
+LMC
+
+2. 6
+
+1.0
+
+Illiteracy Rate - adult females - adult males - adults Immunization Rate - DPT - measles Life Expectancy at birth - female - male - total Mortality rate - infant - under 5 years School enrolment - primary - secondary
+
+percentage => 15 years
+
+6 6 .2 47.4 56.2
+
+68.9 45.9 57.4
+
+45.1 24.4 34.8
+
+56.4 39.0 47.3
+
+60.6 38.5 49.5
+
+33.7 16.6 25.0
+
+47.5 32.4 39.7
+
+51.6 31.5 41.5
+
+25.0 11.2 18.1
+
+43.2 29.4 36.1
+
+47.0 28.3 37.6
+
+21.5 9.2 15.3
+
+percentage of children < 12 years
+
+... ...
+
+... ...
+
+... ...
+
+40.0 33.0
+
+21.6 14.8
+
+73.5 76.0
+
+47.0 75.0
+
+63.7 66.0
+
+88.4 89.7
+
+56.0 58.0
+
+56.6 56.6
+
+88.8 89.1
+
+years
+
+49.0 48.0 48.8
+
+51.3 50.2 50.7
+
+64.5 62.4 63.4
+
+53.9 52.4 53.1
+
+56.3 54.5 55.4
+
+69.4 65.3 67.3
+
+57.9 57.1 57.1
+
+59.4 58.4 58.4
+
+70.8 68.5 68.5
+
+59.4 57.8 58.6
+
+60.0 63.0 58.9
+
+71.7 67.0 69.5
+
+per 1,000 live births per 1,000 live births
+
+89.8 ...
+
+125.7 ...
+
+62.8 ...
+
+71.5 92.3
+
+99.4 ...
+
+45.1 ...
+
+66.5 82.4
+
+81.0 117.4
+
+37.5 44.3
+
+56.1 74.7
+
+76.1 114.9
+
+32.6 40.6
+
+percentage gross
+
+5 6 .4 11.7
+
+73.2 20.4
+
+113.9 44.4
+
+65.9 11.5
+
+88.4 34.5
+
+114.7 49.4
+
+80.4 14.0
+
+91.0 40.2
+
+112.0 66.9
+
+84.9 22.3
+
+95.8 42.3
+
+106.4 63.0
+
+Source: World Bank, World Development Indicators as reported in Fallon, J. (2003), The Contribution of Autralian Aid to Papua New Guinea's Development - 1975 - 2000 * PNG (Papua New Guinea); LIC (Low Income Countries); LMC (Low Middle Income Countries)
+a
+
+values are period average
+
+4.
+
+PNG has a population of about 5.5 million. It has one of the highest population growth rates in the world, growing at the rate of 2.7% per annum over the period from 1990 to 2000. As a result of this rapid growth, over 40% of the population is under the age of 15 years. An HIV/AIDS epidemic is now starting to have an impact.
+
+2
+
+Case Study of the Papua New Guinea Vanilla Industry
+
+5.
+
+6.
+
+7.
+
+8.
+
+9.
+
+Around 83% of the population consists of r ural villagers. Some 850 000 rural households largely depend on natural resources for food production and income generation. There is a diverse and complex rural sociology with about 800 distinctive cultures and languages. Most rural people live on land that is owned and transferred under complex systems of customary rights. Far ming systems are highly diverse and adapted to the wide range of agroecological zones. In the highlands the dominant cropping system is based on sweet potato, whereas in the lowlands there is a mixture of other important staples, namely banana, taro, yam, cassava and sago. The differing agro-climatic zones make it possible to produce a wide variety of tropical and temperateclimate crops. Vanilla fits into one of these ecological niches. The agricultural sector is made up of a number of major subsectors, the most important of which are food and industrial tree crops. The food-crop subsector consists primarily of semi-subsistence production for household use and domestic markets. Approximately 150 000 tonnes of rice, 130 000 tonnes of wheat and about 50 000 tonnes of stock-feed ingredients are imported annually. These imports have been falling in recent years in response to a significant depreciation in the value of the PNG kina (K). It was on the basis of these large grain imports that FAO classified PNG as a food-deficit country. The PNG Food Security Policy 2000-2010 concluded that PNG faces a food-security crisis and has made the domestic production of rice the cornerstone of its response (Department of Agriculture and Livestock - DAL (PNG), 2000). The priority now given to rice production appears to be based on a flawed premise that high levels of grain imports are a good indicator of food insecurity. PNG has a favourable overall food-security status, based on the ability of the rural community to grow staples (particularly sweet potato) and to produce export commodities that provide the cash to purchase food (particularly rice). However, low-income urban households face widespread problems of access to food of adequate quality at affordable prices. Agricultural exports are dominated by a few industrial tree crops. The main export commodities are coffee, palm oil, cocoa, copra and coconut oil, r ubber and tea (Table 2). The depreciation of the kina since the early1990s has helped spur some growth in industrial-crop exports and cushioned farmers against falling commodity prices. Tea and sugar are the only wholly plantation crops. About one-third of total oil palm production comes from smallholder outgrowers. For coffee, cocoa and coconuts, around 70 to 80 percent of production now comes from smallholders, up from 50 percent a decade or so ago. The dwindling plantation sector, however, still plays a vital role in processing and maintaining quality.
+
+Table 2: Industrial tree-crop exports (1990-2003)a a
+Vanilla
+Km f.o.b.
+
+Table 2: Industrial tree-crop exports (1990-2003)
+
+1990 1991 1992 1993 1994 1995 1996 1997 1998 1999 2000 2001b 2002b 2003b 1.9 21.2 120.0**
+
+Coffee Tonnes '000 63.3 46.6 53.0 62.8 64.7 55.1 62.3 59.2 83.5 79.3 66.6 51.6 63.1 50.7
+Oil Km f.o.b. 32.7 52.5 64.2 79.2 77.5 142.2 182.4 207.1 271.9 337.9 306.6 290.5 389.9 333.5
+
+Km f.o.b. 103.3 79.5 68.1 100.2 204.8 114.5 190.3 325.9 476.4 417.1 294.8 188.8 276.6 223.9
+
+Cocoa Tonnes '000 33.9 35.8 38.6 37.8 26.0 30.6 41.0 38.6 26.1 29.0 38.0 36.5 34.9 31.8 Km f.o.b. 8.7 5.2 11.8 14.2 14.7 27.4 49.0 47.2 38.8 66.5 59.9 15.5 10.7 4.2
+Oil Km f.o.b. 11.6 12.8 24.2 19.6 20.1 29.7 51.4 51.5 69.7 95.8 65.8 27.3 33.3 50.8
+
+Km f.o.b. 29.9 34.0 34.1 33.1 29.0 47.7 66.2 73.3 81.7 84.6 84.6 110.3 226.3 209.8
+
+Palm Tonnes '000 142.7 199.6 206.1 245.7 230.8 186.6 267.0 274.9 213.0 253.8 336.3 327.6 325.9 253.1
+
+Copra Tonnes '000 55.3 44.0 47.5 41.6 50.3 64.2 99.2 90.3 58.1 63.5 67.2 46.4 15.2 4.9 Km f.o.b. 6.7 5.3 6.6 7.2 4.2 5.4 12.7 10.4 18.9 19.0 20.4 22.0 18.1 14.8 Km f.o.b. 1.7 1.8 1.9 2.6 2.9 4.0 4.1 6.5 7.3 5.0 6.4 6.8 8.8 8.7
+
+Coconut Tonnes '000 50.0 33.2 34.8 45.5 34.7 33.1 49.6 48.6 53.2 50.3 48.0 48.0 28.2 36.5
+
+Total Coconut Km f.o.b. 20.3 18.0 36.0 33.8 34.8 57.1 100.4 98.3 108.5 162.3 125.7 42.8 44.0 55.0 Tea Tonnes '000 5.4 4.7 5.6 6.4 3.4 4.2 9.5 6.5 6.6 8.2 8.5 8.8 5.2 5.0 Rubber Tonnes '000 2.3 2.8 2.7 3.6 3.4 2.7 2.8 4.4 4.9 3.7 3.7 3.6 3.8 3.0
+
+-
+
+Diversification into high-value export products
+
+Source: Bank of Papua New Guinea, quarterly economic bulletin (various issues). a Up to the September quarter. b 2003 data supplied by the manager of the Economics Dept., Bank of Papua New Guinea; 2001 and 2002 sourced from the Investment Promotion Authority.
+
+3
+
+4
+
+Case Study of the Papua New Guinea Vanilla Industry
+
+10. The agricultural gross domestic product (GDP) per capita in 2001 was K 492 (National Agricultural Research Institute - NARI, 2002). This is roughly equivalent to that of Indonesia and Vanuatu, double that of Cambodia, and about half that of r ural Fiji and Tonga1. There is considerable regional income disparity. In 2001 the estimated annual per capita cash income ranged from K 128 in East New Britain Province to K 13 in Sandaun Province (NARI, 2002). According to World Bank data, 41.3% and 16.1% of PNG's rural and urban populations respectively earn less than one United States dollar (US$) per day (ADB, 2004a, p. 11). 11. While most of the social indicators continue to improve, as shown in Table 1, the rate of improvement lags well behind the levels achieved by LMCs. This sug gests that PNG's higher level of per capita income has not been mirrored by an equivalent improvement in the livelihoods of r ural people. 12. Since Independence in 1975, the contribution of agricultural, forestry and fisheries products to GDP declined from a high of 36.7% in 1977 to 23.9% in 1999, but increased to 26% in 2001. The non-renewable resource sector (minerals, cr ude oil) dominates GDP, export earnings and government revenue. Agriculture provided 16% of PNG export income for the three-year period 2001-2003. The combined renewable resource sector (agriculture, forestry, fisheries) generated about a quarter of export income for PNG in 2001-2003; while minerals and crude oil were about 75%.
+Commodity contribution to PNG export earnings 2001-2003
+Forest products 6% Agriculture 16% Marine products 2%
+
+Gold 35%
+
+Copper 16%
+
+Crude oil 25%
+
+Source: Bank of PNG
+
+13. The mining and petroleum sectors now face the prospect of being fully depleted over the next decade. This places an immense challenge on agriculture and other renewable resource sectors to make up the shortfall, including through new diversification industries such as vanilla - the subject of this case study.
+
+1
+
+Available at http://library.uq.edu.au/search/tWorld+Development+Indicators/tworld
+
+Diversification into high-value export products
+
+5
+
+Macroeconomic and trade policies and the agricultural sector
+
+14. The macroeconomic environment has had a profound impact on the livelihoods of PNG's rural people. Some key macroeconomic issues that have had a negative impact are the exchange-rate policy, mining developments and budget deficit financing. These issues will have to be successfully addressed if agriculture is to replace the non-renewable resource sector as the driving force of the economy. 15. PNG maintained a "hard kina" exchange-rate policy until the early 1990s. Under this policy, the exchange rate between the kina and other currencies was deliberately maintained at a high level. The rationale for this policy was to minimize the impact of import inflation in an environment in which formal wage settlements were linked to increases in the cost of living. Throughout much of the period, the kina was held at close to parity with the United States dollar, which appreciated against most other currencies. The net effect was to reduce the international competitiveness of PNG's export and import-replacement industries. The agricultural sector and the rural community suffered as a result of this policy. 16. Since the introduction of a flexible exchange-rate regime in 1993, the kina exchange rate has depreciated substantially against all major currencies. It has now slipped to around one-third of the US$ value. An indication of the effect of this devaluation is the quantity of locally produced fruit and vegetables now being sold in Port Moresby's supermarkets and the decline in the level of rice imports in recent years. The improvement in the competitiveness of domestic produce is helping lift rural incomes.
+Exchange rate, PNG kina vs US dollar, 1975/2003
+(S ource: Bank of PNG) 1.60 1.40 1.20 Exchange rate 1.00 0.80 0.60 0.40 0.20 0.00 1975
+
+1977
+
+1979
+
+1981
+
+1983
+
+1985
+
+1987
+
+1989 Year
+
+1991
+
+1993
+
+1995
+
+1997
+
+1999
+
+2001
+
+2003
+
+17. Since the introduction of the managed float of the kina in 1993, the domestic price for exports has increased significantly. In the case of coffee, the devaluation of the kina has cushioned the effect of a massive drop in the world price for coffee beans. Some 40% of the rural population draws their livelihood from the coffee industry. Without this change in policy, they would have faced a dire situation, as domestic prices had plunged downward with the international prices. Not least of the consequences would have been the increased pressure on highlanders to migrate to urban centres.
+
+6
+
+Case Study of the Papua New Guinea Vanilla Industry
+
+18. The shift in the domestic terms of trade back towards the rural areas, combined with some strengthening of international commodity prices, provides an opportunity to reinvigorate rural areas. It was in this environment that the PNG vanilla industry rapidly evolved. 19. Government expenditure has consistently exceeded government revenue, and often substantially. The PNG Government has come to rely heavily on selling treasury bills to commercial banks as a major source of funds to cover revenue shortfalls. The heavy reliance on these bills to fund budget deficits has had two adverse effects on rural development: · squeezing financial markets and reducing the supply of funds available for other borrowers; and · underpinning the high, real interest rates - over the period 1990-2003, the interest rates paid by the Government on treasury bills rose from around 10% to roughly 20% (in August 1999, the 182-day rate peaked at 28% per annum). 20. Banks and financial intermediaries have little incentive to provide financial ser vices in rural areas. The cost of providing small loans tends to be high and the lending opportunities limited. In contrast, banks are able to earn high returns, with minimal effort, by purchasing treasury bills. 21. A recent situation report on agricultural marketing prepared for the Asian Development Bank (ADB, 2004a) concluded: Significant growth in the agricultural sector could be realized if sizeable investment in agribusiness was forthcoming. Without this investment, the sector will continue to languish, falling well below its potential to provide sustainable livelihoods for rural people. The situation analysis noted that: · commercial banks will not lend unless the loan can be fully secured; · most agribusiness assets have low salvage value and thus are of limited value as security; · commercial banks earn 'super normal' profits investing in high-interest treasury bills, giving little incentive to lend to agriculture; · rates of return from agribusiness investment, when considering the inherent risks, cannot compete with the return from treasury bills; · there is no equity investment or venture capital fund available; and · no institution has filled the vacuum left by the demise of the Rural Development Bank. 22. The rapid expansion of the mining industry through the late 1970s and 1980s provided a major boost to the PNG economy. However, these mining enclaves resulted in a phenomenon known as "Dutch Disease". Competition for resources from the mining and public sectors drove up wages and the price of ser vices, while the higher exchange rate reduced the local currency value of traditional exports. Producers of traditional commodities were caught in a cost/price squeeze, which undercut their financial viability and caused their standard of living to deteriorate. Some parity is now finally being restored with the substantial depreciation in the value of the kina. The relative importance of the sectors is now swinging back in favour of the renewable resources sector as the revenues from the mining sector start to decline.
+
+Diversification into high-value export products
+
+7
+
+Policies and programmes for agricultural diversification and agro-enterprise development
+
+23. The Medium-Term Development Strategy (MTDS) 2003-2007 outlines the Government's agenda for recovery and development in the face of the rapid decline in receipts from the mining sector (Department of National Planning and Rural Development (PNG), 2003). The strategy has three broad objectives: · good governance · export-driven growth · r ural development 24. The overall aim is to reduce poverty and empower people through human resource development. The MTDS specifies that these objectives will be promoted through political stability, law and order and reform of public-sector institutions. The MTDS aims to revitalize and improve productivity in the agricultural, fisheries and forestry sectors and to improve health and education ser vices. 25. In successfully implementing the export-driven growth strategy, the improved export performance of the agricultural sector and its related agroprocessing and value-adding industries is seen as the key driver. 26. The importance of agriculture to the economy and rural livelihoods has long been recognized. Yet the sector has not fulfilled anywhere near its potential. A recent comprehensive review concluded that there are many reasons for this under perfor mance (ADB, 2004a). T hese include the macroeconomic environment, institutional structure, low priority given to funding government ser vices for the sector, poor law and order, lack of r ural finance and adverse international movements in prices. The vanilla industry case study needs to be seen in the context of this environment.
+Vanilla: the crop, product and market
+
+27. The emergence of vanilla as a new agricultural diversification industry coincided with the launching of PNG's export-led development strategy based on agriculture. Within a period of less than five years, PNG has moved from a virtually non-existent producer of vanilla to the world's third largest producer. Such meteoric industry growth is unprecedented in PNG and Pacific island agriculture. It created expectations of a diversification industry rivaling the importance of coffee, cocoa or even oil palm. In 2003 the Investment Promotion Authority of Papua New Guinea (IPA) described this fledgling industry in these words: The export of vanilla is relatively small in terms of its contribution to the earnings of foreign exchange. Yet the prospects appear excellent. The quality of the PNG vanilla is regarded in the world spice industry as one of the highest. Demand is extremely strong and price is accordingly high, in PNG's case, within the range of K 300 to K 400 per kilogram (IPA, 2003).
+
+8
+
+Case Study of the Papua New Guinea Vanilla Industry
+
+Types of vanilla
+
+28. Vanilla is grown for vanillin, which is used as a natural food and beverage flavouring and as an ingredient in perfumes. Vanilla is the only edible fruit of the orchid family (Orchidaceae), the world's largest flowering plant family. 29. There are around 150 varieties of vanilla, though only two types - Bourbon and Tahitian vanilla - are grown commercially. The differences between the two types can be summarized as:
+Bourbon (Vanilla planifolia)
+More vigorous Higher yielding Wider market Higher vanillin content More suitable for extract Needs a longer dry period to induce flowering ­ is suitable to a narrower range of agro-ecological conditions
+Source: Bianchessi, 2004.
+
+Tahitian vanilla (Vanilla tahitensis)
+Less vigorous Lower yielding Narrower market Lower vanillin content Less suitable for extract Needs shorter dry period to induce flowering ­ is suitable to a wider range of agro-ecological conditions
+
+30. Vanilla as a crop originates from MesoAmerican Mexico, with Mexico dominating world production until the late 19th Century. Since then, the focus of development has been in former French island possessions - in particular Comoros, Madagascar, Reunion and Tahiti. Today it is grown by numerous countries located 20 degrees on either side of the equator. Madagascar is the largest producer, and until recently accounted for around 60% of world production.
+Ecological requirements
+
+31. Vanilla is an epiphytic orchid. The aerial roots of epiphytes obtain much of their nutrients from the air and from debris and mosses collected in the trees upon which they grow. Vanilla is successfully grown from sea level to 600 metres (m). The crop thrives in hot, moist, insular climates, with frequent, but not excessive rain. The optimal temperature is 21-32 °C, with an average around 27 °C. Rainfall should be between 1 700 2 500 mm, and evenly distributed. However, two drier months are required (with precipitation considerably lower than evaporation) to check vegetative growth and induce flowering. A distinctly cooler period, with temperatures towards 20 °C will also help induce flowering. The stress requirements to induce flowering in V. planifolia are greater than for V. tahitensis. Thus V. tahitensis tends to be suited to a wider geographic area. Areas with a prolonged dry season are not suitable for vanilla. The crop requires welldrained soils that are preferably deep, fertile and rich in organic matter. The crop is sensitive to wind and can be completely destroyed by a cyclone. 32. These ecological conditions are often found on tropical islands - thus it is no coincidence that island locations have dominated world vanilla production. The crop's ecological requirements significantly limit the locations in which vanilla can be successfully grown or, more particularly, flower. In PNG, extensive planting has been undertaken well beyond these limits.
+
+Diversification into high-value export products
+
+9
+
+Husbandry requirements
+
+33. Vanilla requires support and shade to be grown successfully. It is planted from cuttings once a suitable support tree has been established. A considerable amount of inert compost/mulch (coconut husks, cocoa shells, dry leaves, etc.) is required for healthy root development. As the vanilla vine grows, it is looped around the support tree with the ends placed into the mulch. 34. The first flowering of vanilla usually occurs three years after planting. Flowering is induced by the right weather conditions and by management practices adopted by the farmer (shade management, hanging, pr uning and mulch management). 35. In vanilla's native Mexico, there is a bumble bee that pollinates vanilla flowers. Elsewhere in the world pollination must be done by hand. This demanding labour-intensive operation is undertaken in the early morning before the pollen dries out. 36. The fruits resemble large green beans. They reach their full size in three months, but it takes nine months before the beans fully ripen. When fully mature the beans turn yellow, and this is when they are harvested.
+Agricultural labour requirements
+
+37. Vanilla production is labour intensive and well suited to smallholder households. It is rare to find vanilla being successfully grown on plantations. This is due to a combination of labour requirements and security reasons. Purseglove et al. (1985) note that the Madagascar industry was started by French landowners; by the 1960s it was almost entirely a smallholder crop. They report that in 1973 there were 37 604 active vanilla growers (p. 709). Output varied greatly between growers - with some growing as little as 50 kg of green beans. 38. Bianchessi (2004) lists the labour requirements to maintain, pollinate and harvest vanilla from a 100-plant plot in the Pacific islands (p. 5). This could be expected to produce 100 to 140 kg of green beans.
+Year
+0 1-3 3-12
+
+Operations
+Planting support trees; planting vines; mulching Pruning shade trees; weeding and cleaning; looping; harvesting mulch; mulching Same as years 1-3, plus flower induction (hanging, tipping and sun exposure; flower pollination; bean thinning and harvesting)
+
+Person-day requirements/year
+8-10 20-25 28-30
+
+10
+
+Case Study of the Papua New Guinea Vanilla Industry
+
+Vanilla curing
+
+39. The distinctive flavour and fragrance of vanilla is developed by a slow curing process. Vanilla curing is an enzymatic (not a drying) process that results in the development of glucose and vanillin. Using traditional labour-intensive methods, this process takes a further three-to-six months to complete. The various steps can be listed as:
+Operation
+Harvesting Sorting and grading Water or sun killing In-box starting Sun curing & in-box sweating In-shed curing Sorting and bundling In-box conditioning
+
+Day
+1 1 1 1-2 3-18 18-90 90 90-120
+
+40. Given vanilla's price volatility, the extended time lapse between pollination and finished product creates considerable risk for the curers and marketers of vanilla. In most significant vanilla-producing countries, curing is undertaken by specialist entities and not by farmers. The PNG industry has been an important exception in this respect. 41. In recent years rapid curing techniques have been developed that substantially reduce the time and labour required, without sacrificing quality. By utilizing dehumidifying and air-circulation techniques, the labour-intensive sun-curing/inbox sweating phase is largely eliminated. This has increased the competitive advantage of centralized curing operations.
+World vanilla economy
+
+The demand for natural vanilla 42. The world market for vanilla is a very narrow niche market. Total world consumption is only around 2 500 tonnes, depending on price and availability (over the last 20 years, world consumption has oscillated between 1 800 and 3 000 tonnes). Over the last decade, world vanilla production has varied between 1 200 and 4 000 tonnes. 43. Natural vanilla is in direct competition with synthetic sources of vanillin2 that cost one-hundredth the price of the natural product. Synthetic vanillin can either be a complete substitute for natural vanilla or can supplement it in adulterated vanilla extracts (USAID, Asia Regional Agribusiness Project - RAP, 1995, p. 1). 44. The main market segments for natural vanilla are: · The bulk flavouring market. Vanilla still remains an ingredient in the original Coca-Cola formulation ("Classic Coke"). The more recent "Vanilla Coke" contains a small quantity of natural vanilla essence. It is estimated that
+
+2
+
+Artificial vanillin is produced from eugenol (derived from glove-stem oil) or acid hydrolysis of lignin (wood).
+
+Diversification into high-value export products
+
+11
+
+Coca-Cola uses about 200 tonnes of vanilla annually (Tomkins, 2002). Other bulk uses for vanilla are in the flavouring of ice cream and bakery products. It is in the bulk market that the great competition from synthetic vanillin is faced. · Naturally flavoured ice cream. This has been the major growth area for natural vanilla in recent years. · W hole beans. As a gourmet cooking ingredient. · An ingredient in perfumes. 45. The world market for natural vanilla is highly concentrated, with the United States accounting for around 60% of world consumption (Table 3). Even in that market, natural vanilla accounts for less than 10% of the vanilla flavour market (RAP, p. 3). France and Germany also constitute major markets. In France, natural vanilla comprises about 50% of the vanilla flavour market. Here the gour met whole-bean market is substantial. Prices received in European markets tend to be higher than in the United States, reflecting a greater proportion of whole-bean sales and more demanding quality requirements.
+Table3: World imports of vanilla, 2002
+p
+Importing country United States (US) France Germany United Kingdom (UK) Japan Canada Australia Switzerland Netherlands Austria Norway Italy South Africa Others Total
+Source: Manceau 2003.
+
+,
+kg 1 111 137 323 400 148 300 62 088 59 768 31 767 19 234 9 623 8 100 5 300 4 255 4 431 1 739 1 495 1 790 637 % of world imports 62.1% 18.1% 8.3% 3.5% 3.3% 1.8% 1.1% 0.5% 0.5% 0.3% 0.2% 0.2% 0.1% 0.1% 100%
+
+The supply of natural vanilla 46. The supply of natural vanilla is also highly concentrated (Table 4). Madagascar dominates world supply, with a market share ranging from 60 to 75% over the last 15 years. Other significant producers are Indonesia, Comoros and Uganda. Over the last few years, PNG has also dramatically emerged as a major supplier, now accounting for around 10% of world supply.
+
+12
+
+Case Study of the Papua New Guinea Vanilla Industry
+
+Table 4: Vanilla exporters to main exporting countries (tonnes)
+1988
+Madagascar % of total Indonesia % of total Comoros % of total Uganda % of total India % of total PNG % of total Tonga % of total Mexico % of total Other % of total Total 1 765 60.5% 806 27.6% 161 5.5% 63 2.2% 1 0.0% 0 0.0% 10 0% 3 0.1% 107 3.7% 2 916
+
+1999
+1 743 71.8% 368 15.2% 183 7.5% 41 1.7% 11 0.5% 2 0.1% 10 0% 6 0.2% 62 2.6% 2 426
+
+2000
+1 676 74.2% 285 12.6% 102 4.5% 48 2.1% 44 1.9% 9 0.4% 10 0% 2 0.1% 82 3.6% 2 258
+
+2001
+1 412 62.5% 474 21.0% 203 9.0% 75 3.3% 27 1.2% 13 0.6% 20 1% 9 0.4% 26 1.2% 2 259
+
+2002
+1 182 64.7% 325 17.8% 92 5.0% 70 3.8% 33 1.8% 36 2.0% 25 1% 19 1.0% 44 2.4% 1 826
+
+2003
+
+200 11.1% 30 2%
+
+1 800
+
+Derived from Manceau (2003 and 2003a).
+
+Pattern of natural vanilla prices
+
+47. The narrow world vanilla market is characterized by extreme price fluctuations, usually made up of extreme price peaks and prolonged troughs of relatively low prices. World prices since 1970 are plotted in the figure below. Such price extremes are nothing new for vanilla. Purseglove et al. (1985) report that Bourbon vanilla was marketed at US$1.95/kg (f.o.b. Madagascar) in 1930 and at US$30/kg in 1959 (p. 727). 48. The pattern of world vanilla prices is characteristic of the classic 'cobweb' pricefor mation model. The model derives its name from the plot of prices around the supply and demand curves that have the appearance of a cobweb. This price pattern is the result of: · highly inelastic demand - at least within reasonable price ranges; · large random shifts in supply (or demand) that trigger disproportionate changes in price; and · a large price increase triggers an excessive supply response, which depresses prices for an extended period until another substantial random supply shift trig gers another sharp price increase. The greater the initial price increase, the larger the supply over-reaction and the longer and more depressed the subsequent price trough is likely to be.
+
+Diversification into high-value export products
+
+13
+
+World vanilla prices: 1970-2004*
+USD/ k g
+50 0 45 0 40 0 35 0 30 0 25 0 20 0 15 0 10 0 50 0 1970 1975 1980 1985 1990 1995 2000
+* New York spot price (April). Sources: USDA U.S. Spice Trade Foreign Agriculture Service (1970-88); USDA "Tropical Products: World Markets and Trade (1989-1994)"; Public Ledger (1995-2004).
+
+49. Natural vanilla is a luxury product, which makes up only a small portion of the vanilla flavour market. In the luxury/gourmet ice-cream ingredient and wholebean market, consumers are largely unresponsive to price changes within a reasonable price range. Bulk vanilla consumption is likely to be somewhat more responsive to price changes, particularly if prices rise above a certain threshold. Overall, the demand for natural vanilla is quite inelastic in relation to price, within its narrow market segment. 50. World market prices have been particularly sensitive to events in a single country. Until very recently, Madagascar accounted for some 60 percent of world production and it experiences huge variations in annual production.
+Madagascar vanilla production: 1986-1994*
+
+51. The Malagasy Government has also used its market power to influence prices. Throughout the 1960s and early 1970s, Madagascar operated a vanilla cartel (the Vanilla Alliance or Univanille), which included neighbouring Comoros and Reunion.
+tonnes
+
+2500 2000 1500 1000 500 0
+19 8 6 1 9 87 19 8 8 19 8 9 1 9 90 19 9 1 1 9 92 1 9 93 1 99 4
+
+* Source: RAP p, 9
+
+14
+
+Case Study of the Papua New Guinea Vanilla Industry
+
+52.
+
+53.
+
+54.
+
+55.
+
+Univanille developed a vigorous system of production quotas and price control. A system of cooperative marketing supported by price stabilization funds was also adopted. Throughout much of this period, Madagascar stocks exceeded world vanilla consumption - reaching 3 000 tonnes in 1974 (Purseglove et al., 1985, p. 711). This Indian Ocean island country is located in a region prone to extreme tropical cyclones. The early 1980s and 2000s were periods of severe cyclonic activity in Madagascar's vanilla-growing northeastern region. In April 2000, Cyclone "Hudah" destroyed about 35% of the standing crop and 15% of stocks. Cyclone "Gafilo" followed in February 2004, with almost as much damaging effect. Superimposed on these natural events was a civil war that enveloped the country from 2001 to 2002. As a consequence, world vanilla supply declined sharply, resulting in an unprecedented escalation of vanilla prices. Policy actions of the Malagasy Government in the past have also triggered large shifts in world vanilla supply. In 1949, 600 tonnes of vanilla stocks were burned to counter a threatened price collapse (Purseglove et al., 1985, p. 716). In the mid1980s, in the face of a balance of payments crisis and under its IMF structural adjustment programme, Madagascar was required to release a significant proportion of its accumulated vanilla stocks. An action that coincided with the decision of the Coca-Cola Corporation, the world's largest buyer of natural vanilla, to introduce "New Coke". New Coke used only synthetic vanilla and effectively halved the company's natural vanilla requirements. The world vanilla market faced simultaneously a large outward shift in supply and an inward shift in demand, which triggered a long period of depressed prices. A large and sudden contraction (expansion) in world supply, in the face of inelastic demand, leads to a disproportionately large increase (decrease) in price. This encourages a wave of vanilla planting among existing producers. Extreme price episodes attract new entrants into the industry. High prices prevail for several years, as it takes three years before these new plantings come into production. During a period of extremely high prices there is a slackening in demand, as end-users substitute synthetic for natural vanilla. Another feature of the vanilla market is the marked decline in quality when prices reach high levels. In all produce markets, it is not uncommon for quality to fall when the market is in short supply, with grading standards not so rigorously enforced. However, declining quality is much more pronounced in the case of vanilla. Vanilla's high unit value and easy transportability make it a target for theft during a price boom. In Madagascar vanilla 'rustling' is legendary and has become a major problem for the PNG industry. To counter theft, growers har vest their beans before they are mature. However, with immature beans, it is not possible to produce good quality vanilla3 The overall decline in quality as price increases reduces demand further by shifting the demand curve to the left.
+
+3
+
+It is crucial that the vanilla bean not be harvested until it is yellow on the tip and is beginning to split on the end. It is only then that the minimum 2% vanillin level can be achieved. If picked too green, the bean will lack flavour, develop moulds and eventually rot.
+
+Diversification into high-value export products
+
+15
+
+56. Production from the planting expansion comes on stream at time of slackening demand. A situation of supply shortage is quickly replaced by one of considerable oversupply. Confronted with inelastic demand, the increase in supply leads to a disproportionate fall in prices. 57. The price troughs tend to be much longer than the peaks. The supply and demand adjustments to the new low price regime are slow and take much longer than the adjustments to the previous high price peak. Once a vanilla vine commences flowering, annual production can continue for ten years - provided a minimum level of husbandry is maintained and climatic conditions are suitable. Far mers will pollinate flowers if expected prices are sufficient to warrant the effort required to pollinate, har vest and, if necessary, cure. If prices remain low for an extended period, many farmers will neglect or abandon their vanilla, particularly if they have alternatives. 58. Demand is not perfectly inelastic as prices fall. With a significant fall, buyers return to natural vanilla. Further more, as prices fall, there is likely to be an improvement in vanilla quality, which will push the demand curve to the right. However, during episodes of extremely high prices, there will be a structural change in demand. End-users make long-term adjustments to using less natural vanilla even when prices fall. 59. Overall the adjustment process is asymmetric in nature - adjustments to lower prices take longer than adjustments to price peaks. The more extreme the price peak, the more asymmetric the adjustment process is likely to be.
+The recent vanilla price episode
+
+60. By the beginning of the 1990s, world vanilla prices had again returned to a high level - around US$ 65/kg. The large Madagascar vanilla stockpile had largely been eliminated, and Coca-Cola had abandoned its "New Coke" venture in the United States, increasing the overall demand for natural vanilla. 61. For most of the decade, Madagascar's vanilla-growing area was free of major cyclones. During the first half of the 1990s, other counties significantly expanded vanilla production, particularly Indonesia, whose exports increased from 607 tonnes in 1990 to 900 tonnes 1996 (Bernard, 2003). By the second half of the decade, world vanilla prices had again entered a prolonged trough, bottoming out at below US$ 20/kg in 1998. 62. By the end of the 1990s, the foundations were being laid for the extreme price escalation that greeted the new century. Demand was beginning to outstrip supply, with the increasing interest in natural products driving steady growth. Production in Indonesia had halved due to extreme drought conditions - with exports falling from 729 tonnes in 1998 to 339 tonnes in 1999 (Table 4). Thus, when Madagascar's production was devastated by Cyclone "Hudah" in early 2000, there was a rapid escalation in world vanilla prices. Over the period 1999 to 2003, annual vanilla exports fell from 2 426 tonnes to 1 826 tonnes (Manceau, 2003). 63. By the end of 2000, the world price had reached US$ 200/kg (first grade Madagascar beans, c.f. Europe). Prices remained at around that level until June 2004. The Public Ledger reports prices as high as US$ 600/kg for grade 1
+
+16
+
+Case Study of the Papua New Guinea Vanilla Industry
+
+Madagascar beans in European markets. Extreme prices were sustained by a combination of: · a civil war (2001 - 2002) that delayed the rehabilitation of the Madagascar industry; · launching of "Vanilla Coke", which increased demand; · Cyclone "Gafilo", which severely damaged Madagascar's vanilla-growing areas in early 2004; and · speculative demand, which was driving prices above the reality of supply and demand fundamentals (reminiscent of the kava boom that gripped the South Pacific in 1999).4 64. For three years now, far mers throughout the vanilla-growing world have earned unheard of returns and responded to the same extreme price signals. Far mers in Comoros, Costa Rica, Guatemala, India, Indonesia, Mexico, Uganda and Viet Nam began feverishly planting and rehabilitating vanilla. The response of Indian far mers was typical: "The production of vanilla in the country has increased from 60 tonnes in 2001-02 to 133.62 tonnes in 2003-04," the agriculture ministry said Monday. "Karnataka led with the production of 82.36 tonnes in 2003-04, up from 54.31 tonnes in the previous year, while Kerala, another major producer, witnessed similar growth with a total of 33.44 tonnes, up from 18.56 tonnes in 2002-03" (www.Keralanext.com, 19 July 2004). 65. PNG's Pacific island neighbours also responded to these prices. In Tonga, the traditional Pacific island vanilla powerhouse, curers were paying up to 50 panga/kg (around K 250) for green beans in 20035. There was large scale rehabilitation and expansion of vanilla plantings on Va'vau. Tonga now has the capacity to produce around 150 tonnes of vanilla6. Vanilla also features prominently in the economic rehabilitation plans for the Solomon Islands. However, nowhere in the world did the response match that of PNG. 66. By early 2004 the production from these increased plantings was entering a market that had contracted due to extremely high prices. Rick Brownell, vicepresident, Vanilla Products Virginia Dare, believes that worldwide demand for natural vanilla fell by 35% during the course of 2002 and 2003. Thus by July 2004 the inevitable price drop had begun, with grade 1 Madagascar beans fetching between US$ 50 and US$ 60 on European markets (Public Ledger).
+
+4
+
+The Vanuatu Land-Use Planning Project (1999) described the evolution of the kava boom and bust: Kava had long been recognized as a natural, non-addictive, alternative to benzodiazepines, the synthetic compounds involved in the production of the household-name sedative Valium. It was not until 1997 that this strong interest translated into active commercial demand from the international pharmaceutical industries. This involved traditional markets for kava in Europe (France, Germany and Spain), the rapidly expanding United States market, and the emerging markets of China and India. By July 1998 this demand was being fuelled by speculators and traders who entered the market. However, by year's end this speculative demand was declining and prices started to decline. 5 Ma'u Havea, manager, Friendly Islands Marketing Cooperative, Tonga, personal communication. 6 Ibid.
+
+Diversification into high-value export products
+
+17
+
+Short-to-medium-term projections of world vanilla prices
+
+67. In his presentation to the 2003 International Vanilla Conference, Brownell (2003) summarized the short-to-medium-term scenario for the world vanilla economy as: · déjà vu · refor mulation to lower-cost alternatives · further decline in worldwide demand · bumper crop(s) · plummeting prices · bean supply more secure · flavour quality and profile more secure · continuing consumer desire for natural product ingredients 68. It is difficult to estimate how low world vanilla prices will fall and the duration of the price trough. In the current 'cobweb' episode, the price spike has been higher and thus the investment response in increased production capacity greater. As a result, an even lower and longer downside price can be expected. Empirical studies of industries such as electricity have shown that extreme price spikes induce a much greater investment response in production capacity than a period of moderately high prices (Mount and Chai, 2004). As a result, extreme price peaks result in lower long-term average prices. Such seems to be the experience of the vanilla economy. World vanilla production capacity is now probably well in excess of 3 000 tonnes and increasing. Prices falling below US$ 20/kg can reasonably be expected, with at least three to four years before there is any sustained recovery. 69. The low prices will result in an inevitable 'shake-out' among vanilla growers worldwide. Many growers, with alternative uses for their resources, will leave the industry if returns fall far short of their expectations. In a depressed market, the relative rewards for quality become greater, with grading standards more strictly enforced. With vanilla prices and quality improving, demand will steadily grow and prices will gradually increase, until a major contraction in supply (or expansion in demand) triggers a sharper increase in prices. 70. Future price peaks are likely to be less extreme as Madagascar's market declines. Evidence of this is provided by the market impact of Cyclone "Gafilo", which str uck Madagascar's vanilla-growing areas in February 2004. From all accounts, the damage caused by "Gafilo" approached that of "Hudah". Yet it did little more than delay the inevitable decline in world vanilla prices by a few months, given increased production from other areas and declining demand. Less extreme price peaks may mean higher average vanilla prices in the longer term, which is good news for vanilla farmers.
+PNG vanilla industry
+
+71. There has been astronomical growth in PNG's vanilla exports over the last few years. In five years, the PNG industry has moved from an insignificant producer with no more than a few hundred households involved to an estimated 50 000 people now growing vanilla (CEO, PNG Spice Industry Board, personal communication).
+
+18
+
+Case Study of the Papua New Guinea Vanilla Industry
+
+PNG industry in the world context
+
+72. In 1998 there were no official exports of vanilla from PNG. In 2003 there were 101 tonnes exported according to the returns of the Spice Industry Board (SIB) (Table 5). The f.o.b. value of vanilla exports was K 120 million (approx. US$ 35 million) (manager, Economics Department Bank of PNG, personal communication). PNG now accounts for 10% of world production (Table 4). It is possible, depending on the level of Indonesian production in 2004, that PNG could become the second largest producer in the world. 73. According to official export data, Indonesia represents PNG's largest vanilla market (Table 5). The CEO of SIB estimates that an additional 50 tonnes of vanilla were smuggled into Indonesia through the Indonesian province of Iran Jaya in 2003. Thus a good proportion of PNG vanilla is re-exported as Indonesian vanilla.
+Table 5: Papua New Guinea vanilla exports: 1999-2003 (kg) p p ( g)
+Importing country 1998 1999 2000 2001 2002 2003
+
+Indonesia Australia France USA UK Germany Singapore Hong Kong New Zealand Vanuatu French Polynesia Greece Others Total quantity (tonnes) Total value (K '000) 0 2 9
+
+5 898 4 808 185 330 0 0 0 0 0 0 0 0 0 11.2 1 867
+
+32 069 12 098 11 158 4 592 1 592 965 350 253 280 210 210 120 150 64 21 254 101 120 000
+
+Sources: PNG Spice Industry Board; Papua New Guinea Investment Promotion Authority; Economics Department, Bank of Papua New Guinea.
+
+Vanilla in the context of PNG commercial agriculture
+
+74. In 2003 vanilla exports represented about 11% of ag ricultural exports. Compared with PNG's three major commodity exports (coffee, cocoa and palm oil), vanilla is still a relatively minor export earner (Table 2). However, 2003 earnings from vanilla surpassed those of copra/coconut oil and rubber. There were expectations that vanilla would soon rival the big three commodity industries. In Fiji, similar expectations were held in 1998, i.e. that the booming kava industry would be able to rival the importance of the ailing sugar industry. Unfortunately, by 2000 the kava boom had evaporated. 75. PNG vanilla has become a major player in the world market - albeit in a narrow niche market. This is an unprecedented situation for PNG and Pacific island
+
+Diversification into high-value export products
+
+19
+
+76.
+
+77.
+
+78.
+
+79.
+
+80.
+
+81.
+
+agriculture. Even the relatively large coffee and cocoa industries produce around one percent of global production. The rapidly growing oil palm industry accounts for less than 2% of world palm oil production and less than 3% of exports. The actions of these PNG industries have no impact on international prices. This is no longer true for PNG vanilla. The PNG vanilla industry is almost entirely smallholder based. SIB estimates that there are now some 50 000 people growing vanilla country-wide. It is not uncommon for several members of a household, including children, to be classified as separate vanilla growers. Most of these plantings are of less than 1 000 vines, with many as few as 100 vines. Around 80% of the current vanilla production comes from the East Sepik Province, with production concentrated around the Maprik/Dreikikir/Wosera area (map). East Sepik is a coastal province and is a relatively poor region in ter ms of access to services, income and economic opportunity. In 2001, the PNG Rural Development Handbook ranked the vanilla-growing district of Dreikikir 37th out of PNG's 85 districts in terms of its disadvantage index (Hansen et al., 2001, p. 311). This index includes measures of land potential, agricultural pressure, access to services, income from agriculture, and child malnutrition. In terms of income from agriculture, the district was ranked 2 on a scale of 1 to 5 (1 represents very low income from agriculture and 5 represents very high income). The second main vanilla-producing province to emerge is the West Sepik (Sandaun) Province. Sandaun is on the border with Iran Jaya and is the poorest of the country. The main vanilla growing districts are Aitape/Lumi and Nuku. In 1997 Aitape was the location of a massive tidal wave that claimed over 2 000 lives. The PNG Rural Development Handbook ranked the Aitape-Lumi District as also 37th in terms of the disadvantage index. However, in terms of income from agriculture, the district was ranked 1 (very low). The vanilla boom dramatically changed the economic status of these areas, if albeit temporarily. Even an individual with a plot of only 100 plants (900 m2) had the potential to earn an unheard of amount of cash. One hundred mature healthy vanilla plants have the maximum potential to produce 7 000 green beans (100-140 kg green beans or 20-28 kg cured beans (Bianchessi, 2004 p. 6). Assuming that only 15 kg of cured beans were produced, at the height of the boom this vanilla could have fetched K 11 000. Reports of empty East Sepik schools during the 2003/04 vanilla season are hardly surprising. Such levels of return are without precedence in PNG agriculture. For the East Sepik Province as a whole, over 77 tonnes of cured vanilla beans, worth K 80 million (US$ 25 million), were exported in 2003 (East-West Centre Pacific Islands Report, July 2004). Vanilla has now been extensively planted in all the lowland and island provinces. Some planting has also been reported in highland provinces. Overall, the effect of climate has been overlooked in the development of the industry. Many areas in which vanilla has been planted are much more humid than the vanillaproducing areas of Madagascar, Indonesia and Tonga. These locations are likely to prove unsuitable, particularly for the planifolia variety. V. planifolia is very reluctant to flower in areas that are humid throughout the year. Adrian
+
+20
+
+Case Study of the Papua New Guinea Vanilla Industry
+
+Schuhbeck was senior entomologist at the Lowland Agricultural Experiment Station, Keravat, between August 1996 and March 2002. He reports: "In Keravat, where monthly rainfall in the longer term is never below 150 mm and precipitation always exceeds evaporation, V. planifolia did not flower in all years except one." The exception was the El Niño year of 1997. Under the same conditions, V. tahitiensis was producing flowers every year. This has implications for marketing, because in the majority of areas in PNG, far mers will be restricted to V. tahitiensis due to the rainfall. Most current blocks have a mix of both species. Thus yields in many areas are likely to be substantially overestimated. Longevity is also reduced in both species in ecological situations with prolonged excess soil-water levels. Plants are dying after a few years due to a complex of soil-borne diseases. 82. Plantings in the highlands can be expected to be a complete failure. Schuhbeck notes that the highest altitude with recorded flowering in PNG was 1 000 m and this was only one record. Beyond 600 m flowering is erratic and thin.
+Why the PNG vanilla phenomenon?
+
+83. Menz and Fleming (1989, p. 8) identify five major criteria that can be used to access the value of an export crop to smallholders in geographically dispersed countries such as the South Pacific islands. These are: · adaptability and ease of production, with an absence of any major pests and diseases; · simple, value-adding processing activities, requiring relatively low capital investment and simple technologies; · storability of the processed commodity, and resistance to damage during handling and transportation; · high value-weight ratio; and · sound world market prospects. 84. In varying degrees, all these criteria are met by vanilla. However, Bianchessi (2004, p. 1) notes that while vanilla is not a "difficult" crop, it is a "different" crop from all the plants farmers in the South Pacific region are used to growing. 85. The most obvious reason for the PNG vanilla phenomenon was the extremely high prices on offer. The PNG grower price increased from K 60/kg in 1998 to as high as K 750-800/kg in September 2003. Similar prices were on offer to vanilla farmers worldwide, although nominal prices in PNG were driven up by the depreciating kina. Yet nowhere has the response matched that of the semisubsistence village farmers of the Sepik. The agronomic conditions of the Maprik/Dreikikir/Wosera area of East Sepik, with a distinct dry period to induce flowering, proved ideal for vanilla production. It is reported that flowering has been achieved every year over the last ten years. Many of PNG's new vanilla expansion areas have far less favourable conditions. In other vanillaproducing areas in other countries, it is not uncommon to miss a year of production every few years. This has been the experience in Vanuatu and Fiji. However, excellent agronomic conditions are not unique to PNG's Sepik region. Price and agro-ecological conditions are key factors, but are not sufficient to explain the PNG vanilla phenomenon.
+
+Diversification into high-value export products
+
+21
+
+86. Vanilla usually takes three years to flower. Thus PNG could not have had such a rapid response to these high prices had there not already been a significant industry in place. This foundation was laid by Allan Bird (Bangui Bio Products Ltd) at Maprik. In 1993, Allan Bird returned home from working at the OK Tedi mine as an engineer and started to plant vanilla on a large scale. He encouraged smallholders around him to plant. Cuttings were sourced from abandoned vanilla that had been planted in the Wasara area in the 1960s. This material was mainly of the Tahitian variety and not the preferred Bourbon type. Some 10 000 vanilla vines were in production when the price escalation occurred. The critical role played by the Bangui Bio Products Ltd nucleus development cannot be overestimated. It provided the critical mass upon which a substantial smallholder-based industry could quickly develop once the right price incentives existed. Green-bean theft subsequently forced Allan Bird out of the agricultural side of the industry - however the foundations had already been laid. This critical mass has been the missing ingredient in other Pacific island vanilla industries. 87. The planting of vanilla proved very attractive to the semi-subsistence farmers of the Sepik. These are farmers with a very individualistic approach to incomeearning activities. Household members, including school-age children, were able to embark on their own small vanilla 'projects'. With vanilla, they did not have to obtain access to a significant area of land to obtain a good income. It could all be done within traditional land-tenure arrangements, with no need for formal land titles. By 2000, the level of income derived from these small plots was beyond all expectations. Provided planting material could be obtained, no cash inputs were required by farmers, who had no access to credit facilities. 88. The very high unit value of vanilla and its non-perishability made it particularly attractive to farmers in remote locations. Many vanilla farmers travel by foot or canoe before they reach basic road infrastructure. Two kilograms of vanilla carried in a backpack provided the same income as a tonne of cocoa or coffee. 89. The PNG vanilla boom was reminiscent of the kava price boom that gripped Fiji, Vanuatu and Tonga in 1998 and 1999.7 The experiences of these two niche products in the Pacific islands have a lot of similarities: · Prices received were unprecedented for farmers. · Expansion was fuelled by the involvement of numerous exporters and traders, many of whom were speculators with little knowledge of the product and its market. · Little or no accurate information was supplied on the nature of the market and its requirements, and a considerable amount of misinfor mation circulated.
+
+7
+
+In 1998, there was an explosion in international demand for kava from the pharmaceutical and herbal markets, where it had been identified as a non-addictive alternative to benzodiazepines. In Fiji, for example, the value of kava exports in 1998 reached F$ 36 million (1 867 tonnes), up from F$ 3.4 million (364 tonnes) the previous year. Kava's spectacular performance raised hopes that a diversification crop had been found that might approach the importance of the ailing Fiji sugar crop. However, by early 1999, there was a substantial decline in export prices. Hopes were further dashed in 2001 when Germany placed a ban on kava imports, based on claims that capsules containing kavalactones might cause liver cancer. These claims have subsequently proved to be unfounded, but the market has never recovered from the damage caused.
+
+22
+
+Case Study of the Papua New Guinea Vanilla Industry
+
+·
+
+90.
+
+91.
+
+92.
+
+93.
+
+94.
+
+Expansion was constrained by available labour resources, leading to neglect of food and other cash crops. · Little or no cash inputs were required to grow these crops. · High levels of theft threatened sustainability and undermined quality. · There was little or no government involvement. · There were high levels of wasteful, conspicuous consumption by farmers. · Policy-makers expected that these would become major export diversification industries. Ironically, in 1999 Tongan farmers on Va'vau were pulling out their vanilla vines to plant kava. By 2001, the kava market had collapsed. A similar, very sharp decline in vanilla prices has now begun. In responding to current prices, far mers adapt their future price expectations to past price experiences. The expectations of PNG vanilla farmers, unlike their counterparts in Madagascar or Tonga, were not tempered by the experience of previous low-price episodes. Vanilla was a new crop for these semi-subsistence far mers. Their apparent perception was that this was 'mana from heaven', whose price would be maintained indefinitely. This view was fuelled by the popular media through frequent stories about the new "wonder crop" and "green gold". No information was supplied to farmers on the nature of the vanilla market and its requirements. By February 2004, vanilla prices had fallen back to K 570, with poorer quality vanilla starting to be rejected. At that time, premium quality beans were still able to command prices of K 700/kg from specialist buyers. By mid-July 2004, the buying price for quality vanilla was in the range of K 125-140/kg. The demonstration effect of the financial success of these initial East Sepik growers was unprecedented in Pacific island agriculture. It took Tonga two decades to reach its maximum vanilla exports of 60 tonnes in the early 1980s. Fiji has been growing vanilla for over 30 years and annual exports have yet to exceed half a tonne. The model of an East Sepik vanilla farmer presented in Table 6 shows the returns from half a hectare of vanilla (1 000 vines) at a price of K 700/kg. The average annual return from the half hectare is around K 54 000 received as a lump sum. More importantly, the return for effort is nearly K 500 per day. No other crop, or legal activity, could approach that rate of return. Gross-margin analysis for cocoa - hitherto the main cash crop in the area - showed earnings of around K 10-20 per person-day, depending on the prevailing price. According to the 2001 Rural Development Handbook, there were approximately 50 000 persons living in the Maprik District, of which about 9 000 had come from areas having an average annual income level of K 20 per person. There were no areas in the Maprik District that had average incomes exceeding K 100 per year (Hansen et al., 2001, p. 209). The Aitape-Lumi District of Sandaun was even poorer. Average income for the 38 000 persons living in the district was less than K 20 per year (Hansen et al., 2001, p. 225). Thus there is little wonder that there has been an explosion in vanilla planting throughout the impoverished Sepik provinces and other lowland areas of PNG.
+
+Table 6a: Returns from 1/2 ha of vanilla (1 000 vines) selling at K 700/kg Table 6: Returns from 1/2 ha of vanilla (1 000 vines) selling at K 700/kg
+3
+4 6 600 120 84 000 780 546 000 600 120 84 000 600 120 84 000 7 8 10 0 0
+
+Year
+
+1 400 80 56 000 500 100 70 000 600 120 84 000 600 120 84 000
+
+2
+
+5
+
+9
+
+Total
+
+2 000
+
+2 000
+
+500
+
+500
+
+500
+500
+
+0 Kg green 0 0 Kg cured 0 Sales @ K 700/kg Cash expenditure: Vanilla cuttings @ K 1 each 1 000 Curing equipment (cooking pot, drainer, curing box, therm., water container) Materials for drier (black plastic, cement, iron for ridge cap) Materials for storage (storage containers, wax paper and shrink wrap) Freight Total cash costs (K) 0 1 000 Cash flow (1 000) 0 0 0
+0 84 000 200 3 200 52 800
+
+Diversification into high-value export products
+
+0 70 000
+
+0 84 000
+
+200 3 200 80 800
+
+0 84 000
+
+0 84 000
+
+7 400 538 600
+
+23
+
+24
+
+(storage containers, wax paper and shrink wrap) TFrbile t6b: Returns from 1/2 ha of vanilla (1 000200 a e gh vines) selling at K 700/kg Tablcash costs (K) from 1/2 ha of vanilla (1 000 3 200 selling at K 700/kg e 6: Returns vines) 0 Total 0 0 1 000 0 0 1 3 4 5 6 7 Cash flow Year 52 800 70 000 84 000 84 000 (1 000) 02 0 200 3 200 8 80 800 0 9 84 000
+0 8410 000
+
+Case Study of the Papua New Guinea Vanilla Industry
+
+7 400 Total 538 600
+
+15 12 5 5 3 1
+15 12 5 5 10 3 15 12 5 5 20 6 30 15 12 5 5 20 6 30 15 12 5 5 20 6 30
+
+15 12 5 5 20 6 30
+
+15 12 5 5 20 6 30
+
+15 12 5 5 20 6 30
+
+Labour inputs (person-days) Clearing 10 Cutting fence posts 5 Cutting and planting support trees 6 Planting vines 6 Mulching 10 Weeding 3 Looping Pruning Pollinating Harvesting Security Building curing house Building and rebuilding dryer Curing and drying In-box curing Packing Subtotal 40 50
+
+41 114 53 860 472
+
+15 12 5 5 20 6 30 10 5 35 8 1 152
+5 35 8 2 143
+
+5 35 8 2 143
+
+5 35 8 2 143
+
+5 35 8 2 143
+
+5 35 8 2 143
+
+5 35 8 2 143
+
+145 111 45 45 153 46 210 10 35 245 56 13 1 141
+
+Average annual labour input Average annual gross margin from 1/2 ha Average return per day of effort
+
+Diversification into high-value export products
+
+25
+
+Government involvement in the PNG vanilla phenomenon
+
+95.
+
+The national or provincial governments had virtually no involvement in the development of the vanilla industry. Government-r un agricultural extension ser vices essentially no longer exist in PNG. In some cases, commodity institutions (coffee, cocoa and oil palm) run their own extension services. In the case of vanilla, its extraordinarily rapid growth outstripped any supporting institutional development. 96. The Spice Industry Board predates the vanilla industry. SIB was officially created under the 1989 Spice Industry Act, but did not become operational until 1991. Its mandate covers cardamom, chili, paprika, pimento, tabasco, pepper, ginger, cloves, nutmeg and mace, annatto, tur meric, vanilla, cinnamon, mint, herbs and essential oils. However, PNG's spice exports include only pyrethrum, cardamom, chili and most recently vanilla. SIB first received government funding in 2003 in response to the vanilla boom. Its operating income is earned from vanilla export licensing fees (K 1 000/annum) and export levies. It is also now empowered to collect a levy of K 10 on each kilogram of vanilla exported. Arrangements for collecting these funds are not yet in place. Until the end of 2003, new licenses were issued on application, with no quality standards imposed. 97. The chairman of the Rural Industries Council is highly critical of the lack of government involvement in the industry at the policy and the informational level: The development of vanilla has been driven by very high world market prices. There is still no definite national policy on vanilla. Moreover, apart from an excellent research work on vanilla done by the National Agricultural Research Institute (NARI), the country does not have wellresearched and coordinated information on vanilla quality, world market demands, price movements and general extension information. These issues have to be attended to very quickly because if prices drop, far mers will be very disappointed (Bai, 2003).
+Marketing arrangements
+
+98.
+
+The PNG industry is a disorderly and largely unregulated one. This contrasts with most other major vanilla industries worldwide. At the end of 2003, there were 250 vanilla exporters licensed with SIB. There are likely to be more exporters involved in the illegal trade in vanilla across the border into Iran Jaya Province. According to SIB records, there were only ten exporters that shipped more than 100 kg of vanilla in 2003. Several of these larger companies are representatives of overseas vanilla and spice companies, although the two largest exporters are PNG-based companies. At the beginning of 2004, SIB placed a moratorium on the issuing of any new export licenses. 99. Most East Sepik growers bring their beans to the provincial capital, Wewak, for sale. In 2003 there were 110 licensed exporters located in East Sepik. Buying is also conducted at Maprik by agents, middlemen or by exporters themselves. For security reasons, larger volumes are often purchased on-farm. Some farmers were even flying with their vanilla to the national capital, Port Moresby, on the other side of the country, in search of higher-paying buyers. In 2003 there were 78 licensed exporters in the National Capital District.
+
+26
+
+Case Study of the Papua New Guinea Vanilla Industry
+
+100. Vanilla buying is conducted over a three-month period, starting in February. All vanilla purchases are on a cash-on-delivery basis. Purchasing some 100 tonnes of vanilla from some 5 000 farmers, at prices approaching K 700/kg, presented a huge cash-flow challenge for the marketing system during the boom. The larger companies appeared to be funding this from their own resources. Those linked to overseas spice companies were financed by their overseas parent companies or connections. The small companies found it difficult to generate a timely cash flow and, not surprisingly, many fell by the wayside. The commercial banks str ug gled to have sufficient cash available to service the exporters' accounts. During the peak season, it was not uncommon for banks to close because they had run out of cash. The commercial banks have not been willing to provide working capital for vanilla marketing. Nor have they been willing to accept a significant volume of savings from vanilla farmers. 101. In the short run, far mers have benefited from the competition created by the large number of exporters. The intense competition helped bid up buying prices. However, many of these traders had little understanding of the product and were willing to purchase inferior-quality vanilla at inflated prices. In a report to vanilla workshops in the Solomon Islands, funded by the Australian Agency for International Development (AusAID), Bianchessi (2004a) describes the situation that prevailed in PNG in 2003: Far mers were planting more and more plants, and expecting higher prices without any knowledge of the market requirements for quality and aroma. The situation got worse when a number of incompetent buyers jumped into the market, expecting big profit without any knowledge of the product they were buying, competing with the more competent buyers already established, and offering higher prices with absolutely no quality control. All this has had a negative impact on the quality of PNG vanilla and its overall reputation in the market. 102. Most PNG vanilla farmers cure their own beans, which they sell to middlemen or exporters. In most major vanilla industries, far mers sell green beans to specialized curing businesses. In Tonga, there is legislation that prohibits farmers from doing their own curing and requires them to sell to licensed curing facilities. 103. The existence of large numbers of curers has helped spread the benefits of the industry widely and has allowed for the participation of far mers in the most isolated locations. However, the practice seriously mitigates against quality. Many growers have little understanding of the slow and demanding requirements of successful vanilla curing. They tend to confuse the complex enzymatic fer mentation of vanilla curing with a drying process, with which they are familiar for cocoa and copra. Nor do they have the initial cash available to purchase the basic equipment required for successful curing. 104. Bianchessi (2004, p. 58) lists some common mistakes made by small far mer/curers in the Pacific islands: · har vesting of unripe beans; · har vesting of all beans in the bundle when only one bean is ripe; · curing of too-small a quantity of beans because of lack of proper curing facilities; · not separating V. planifolia and V. tahitensis varieties;
+
+Diversification into high-value export products
+
+27
+
+not "killing" the green beans and starting the enzymatic process; too-fast curing in the sun, with no sweating; no in-shed curing; no understanding of the right moisture content; and ver y high price expectations, without a corresponding high-quality production. 105. The lack of knowledge is hardly surprising, given the very rapid expansion of the industry - with virtually no extension support. During the price boom, the practice of some traders and exporters of paying the same price regardless of quality provided little incentive to learn and adopt correct curing practices. A necessary condition of producing quality vanilla is that the beans must be har vested fully ripe. Beans that are immature when harvested will have low vanillin content and will quickly become mouldy, regardless of how well they have been cured. For buyers with an untrained eye and nose, it is difficult to tell this critical difference once the beans have been cured. 106. Bianchessi (p. 58) lists some of the common mistakes made by many PNG vanilla buyers: · Buyers and exporters are accepting vanilla at any stage of curing. · Buyer's employees are not trained to identify the curing stage of the vanilla they are buying. · Buyer's employees are not trained to identify the beans that were harvested unripe. · Most buyers do not have the proper facilities to finish the curing of vanilla that has been purchased at different phases of curing. · No conditioning is done at the buyers premises. · Too many bundles ready for export contain too wet or too dry vanilla. · Buyers are paying too high a price for the vanilla they are receiving. 107. A few exporters, particularly those targeting the premium European whole-bean market, grade strictly and pay significant price premiums for quality. These exporters began conducting their own farmer training programmes. One company brought in a specialist from Vanuatu to conduct training, produced a curing manual and is developing its own extension service. The results of these efforts in terms of quality have been outstanding and point the way forward for the industry. 108. SIB has been ineffective in exercising control over the issuing of export licenses. Too many licenses have been issued, with no account taken of the capability and perfor mance of the licensee. This lack of control has cost the emerging industry dearly. In early 2004, 10 tonnes of beans shipped to the United States by a major exporter were rejected. This is reported to have adversely affected the price of all vanilla from PNG. SIB had stated that it would cancel the license of the offending exporter (Papua New Guinea Post-Courier, 26 February 2004). However, in the face of political pressure, the license was not cancelled. At the beginning of 2004, a belated moratorium was imposed on the issuing of new licenses.
+
+· · · · ·
+
+28
+
+Case Study of the Papua New Guinea Vanilla Industry
+
+Information environment
+
+109. Overall, growers have operated in an information vacuum in terms of the agroecological, agronomic and processing requirements of the crop. Valid available infor mation has been swamped by misinformation or passed through the "toktok blong road" ("the coconut wireless", or gossip). Adrian Schuhbeck, coordinator of the Rural Development Programme of the German Development Service (DED) in PNG, sums up the information environment in which most growers have operated: There was some good information material produced, like the NARI Infor mation Bulletin "Vanilla" written by Otto Ngere. It has the correct infor mation on curing, shade management and thinning; a model budget; a step by step guide for pollinations in colour photographs as well as pictures of how beans look when fully mature. However, the market was flooded at times with [so many] booklets promoting bad practices that the good stuff just disappeared under a wave of misleading advice. Further on lots of infor mation was not attractive. Nearly nobody wanted to hear that overbearing vines have to be thinned out or beans should only [be] picked when ripe. Curing techniques involving tissue killing with hot water followed by a slow fermentation process were in particular unpopular as they don't go well with the idea of quick money. We often were [told] that people have found their "own Melanesian way" of successfully handling the vanilla industry. The problem for good advice was simply that it was in the short ter m proven wrong, as people were making fists full of money with even the worst quality, so why bother. In the end the people who offered unbiased information (being it private industry or public institutions) were not listened to and did not have the means to simply spread information wide enough (October 2004, personal communication).
+Stocktaking of the current industry
+
+110. At one level, the rapid development of the PNG vanilla industry has been a remarkable success story. It has provided a high-income earning opportunity to a large number of r ural households in some of the most economically depressed and isolated areas of the country. Many commentators saw vanilla as a major new export diversification industry, rivaling the importance of PNG's major export commodities. However, the reality is that the industry, in its present form, is not sustainable for the following reasons: · Substantially lower prices will prevail than those that encouraged the original plantings. · Too much vanilla has been planted: it can't be managed by available labour resources. In search of maximum returns, each member of the household (husband, wife and children) has planted significant quantities of vanilla in his/her own right. There is now insufficient labour to maintain, pollinate, guard, har vest and cure the vanilla. · The large volume of inferior-quality beans: some PNG smallholders are producing quality vanilla that can hold its own on the most discerning of markets. However, much of the vanilla on offer is of inferior quality (low vanillin content, overdried, adulterated and mouldy). Poor quality is the
+
+Diversification into high-value export products
+
+29
+
+result of premature harvesting, incorrect curing methods and grower fraud8. Such vanilla will not be saleable under normal market conditions. · Immature bean harvesting: far mers harvest immature beans in their rush to sell as quickly as possible in order to get a return and avoid theft. They have been encouraged in the practice by exporters that were willing to buy all vanilla on offer regardless of quality. · Bean theft: theft, immature bean harvesting and poor quality are interrelated. Bean theft has become a blight that needs to be addressed if the industry is to have a sustainable future. Tragically, Allan Bird, the "father of the industry", had his entire crop stolen at the beginning of 2004. · Reliance on small-scale curers: the worldwide trend is towards central curing in which only mature beans enter the system and standardized procedures are followed. The entire Tongan crop is centrally cured, utilizing "rapid" curing techniques. This has greatly enhanced labour productivity and improved quality. Tongan vanilla has a reputation for uniformly high quality. Such uniformity is not possible in PNG, where there are almost as many curers as farmers. Any vanilla industry relying on small-scale traditional curing will be at a competitive disadvantage with the return of normal market conditions. · Lack of exporter standards: in their haste to secure supplies, some exporters have been willing to buy all vanilla on offer regardless of quality. Growers thus have had no incentive to produce quality and have been insulated from the requirements of the market. Substandard vanilla was on-sold to the market, often being portrayed as something better than what it was. Such practices are the result of ignorance of market requirements, or greed to reap windfall gains from the peak of the market. A sustainable industry has no place for such exporters or practices. A set of enforceable industry export standards is required. · Lack of information or misinformation on agro-ecological, agronomic and processing requirements of the crop. 111. A crop that offers, overnight, an unprecedented level of cash income brings with it significant social and economic downsides. If all available labour is devoted to this crop, household food production needs and other cash-crop requirements are neglected. Net foreign-exchange benefits are substantially reduced by the high levels of consumption of imported goods, including motor vehicles and food. The vanilla boom was not recognized by farmers as being only a temporary windfall, and thus conspicuous consumption was not constrained. 112. Although large amounts of surplus cash were available, very little of this was saved through the formal banking system. Virtually none of these farmers had bank accounts prior to the vanilla boom. Few have bank accounts today, despite the large amount of cash they had at their disposal. This can largely be explained by the arduous and unrealistic identification requirements of commercial banks
+
+8
+
+A necessary characteristic of high-quality, cured vanilla is that it should have an "oily and greasy" feel and appearance. This can be simulated for a short period by rubbing in baby oil - and for an undiscerning eye this fraud might be difficult to detect. However, within a few weeks of purchase, the vanilla will go to soft rot and become worthless.
+
+30
+
+Case Study of the Papua New Guinea Vanilla Industry
+
+for opening new accounts. In PNG there has been no development of r ural microfinance institutions (MFIs) to fill the vacuum left by commercial banks in r ural areas. Without access to formal savings mechanisms, investment in future sustainable livelihoods has largely not occurred. 113. There have been adverse social consequences in terms of high levels of school tr uancy, alcohol consumption and increased crime. There are also gender issues and adverse impacts on the dynamics of the family. In Wewak, it was observed that it was the men that brought the vanilla for sale and then had large amounts of cash at their disposal.
+A sustainable PNG vanilla industry for the future
+
+114. In its present form, the PNG vanilla industry is unsustainable. A shake-out in PNG has begun, just as it has worldwide. It is happening quicker than might have been expected. Prices in the vicinity of K 70-80/kg for good quality vanilla could provide a reasonable basis for planning: by July 2004, prices had already fallen to K 125-140/kg for grade 1 vanilla. Growers are starting to realize that poor quality is unmarketable (low vanillin content, over-dried, off-flavour and mouldy). For many, a price of K 70-80/kg will be unacceptable, particularly in the light of the unrealistic expectations that have been built up. These growers will choose to abandon the industry. 115. If they have planted in an ecologically suitable area, some growers that have already invested in vanilla will choose to stay. Provided that they produce quality, these growers will still find that vanilla offers a reasonable return compared with the alternatives available. Unfortunately, some will find that they have planted in areas that do not yield regular, annual flowering. 116. Vanilla's high unit value and non-perishability when cured make it particularly attractive to remote locations with poor or non-existent road access. Vanilla fits well into an integrated cropping system, and is particularly compatible with cocoa in the East Sepik Province. Cocoa provides a regular, small cash income throughout most of the year, with vanilla giving a significant annual lump sum. Cocoa, with an appropriate pruning regime, can even be used as a support tree for vanilla. Far mers that cut down cocoa trees in their haste to plant vanilla will likely regret their actions. 117. A sustainable PNG vanilla industry may have an initial production base of some 40 or 50 tonnes. The export value of this industry could vary from K 4 to K 10 million, depending on prevailing prices. This would constitute a minor but significant export industry - of equivalent importance to rubber, but nowhere near as valuable as coffee, oil palm, cocoa or even coconuts. Like rubber, the vanilla industry is well suited to isolated, impoverished areas outside the highlands. In some years the industry could earn a high-income windfall. However, these would be infrequent exceptions rather than the norm. 118. Even at a price of K 70/kg, vanilla still provides a good return to labour and land in suitable growing areas. The model presented in Table 7 shows that half a hectare of vanilla earns nearly K 5 000. The return to effort is K 50 per personday, which is considerably higher than most other cash crops. It will be noted from the model that the security requirements when the price is only K 70/kg are significantly less than when the price is K 700/kg.
+
+Table 7a: Returns from 1/2 hectare of vanilla (1 000 vines) selling at K 70/kg Table 7: Returns from 1/2 hectare of vanilla (1 000 vines) selling at K 70/kg
+1 0 0 780 54 600 0 0 400 80 5 600 500 100 7 000 600 120 8 400 600 120 8 400 600 120 8 400 600 120 8 400 600 120 8 400 2 3 4 5 6 7 8 9 10 Total
+
+Year
+
+2 000
+
+2 000
+
+500 500 500
+
+Kg green 0 Kg cured 0 Sales @ K 70/kg Cash expenditure: Vanilla cuttings @ K 1 each 1 000 Curing equipment (cooking pot, drainer, curing box, therm., water container) Materials for drier (black plastic, cement, iron for ridge cap) Materials for storage (storage containers, wax paper and shrink wrap) Freight Total cash costs (K) 1 000 Cash flow (1 000) 500 0 0 0 0 200 3 200 2 400 0 7 000 0 8 400 0 8 400 200 3 200 5 200 0 8 400 0 8 400 7 400 47 200
+
+Diversification into high-value export products 31
+
+32
+
+Table 7b: Returns from 1/2 hectare of vanilla (1 000 vines) selling at K 70/kg Table 7: Returns from 1/2 hectare of vanilla (1 000 vines) selling at K 70/kg
+1 0 0 780 54 600 0 0 400 80 5 600 500 100 7 000 600 120 8 400 600 120 8 400 600 120 8 400 600 120 8 400 600 120 8 400 2 3 4 5 6 7 8 9 10 Total
+
+Year
+
+Case Study of the Papua New Guinea Vanilla Industry
+
+15 12 5 5 3 1
+
+15 12 5 5 10 3
+
+15 12 5 5 20 6 3
+
+15 12 5 5 20 6 3
+
+15 12 5 5 20 6 3
+
+2 000 15 12 5 500 5 20 500 6 3 15 12 5 5 20 6 3 15 12 5 5 20 6 3
+
+Kg green 0 Labour inputs (person-days) Kg cured 0 Clearing 10 Sales @ K 70/kg Cutting fence posts 5 Cash expenditure: support trees Cutting and planting 6 Vanilla cuttings 1 Planting vines @ K 1 each 6 000 Curing equipment Mulching 10 (cooking water Weeding pot, drainer, curing box, therm.,3 container) Looping Materials for drier Pruning (black plastic, cement, iron for ridge cap) Pollinating Materials for storage Harvesting (storage Security containers, wax paper and shrink wrap) Building curing house Freight Building and rebuilding dryer Total cash costs (K) 1 000 Curing and drying Cash flow (1 000) In-box curing Packing Subtotal 40 0 0 0 0 41 95 4 720 50 50 2 000 15 12 5 500 5 20 500 6 3 10 200 5 3 200 35 2 400 8 1 125 5 0 35 7 000 8 2 116 5 0 35 8 400 8 2 116 5 0 35 8 400 8 2 116 200 5 3 200 35 5 200 8 2 116 5 0 35 8 400 8 2 116 5 0 35 8 400 8 2 116 145 111 45 45 153 46 21 10 35 7 400 245 47 200 56 13 952
+
+Average annual labour input Average annual gross margin from 1/2 ha Average return per day of effort
+
+Diversification into high-value export products
+
+33
+
+119. The inter-related issues of theft and immature harvesting need to be urgently addressed - although to some extent the problem is self-correcting with a substantial fall in prices. An inverse relationship between price and quality can be expected. A move towards central curing will substantially reduce the market for immature beans - no bona fide central curer would be willing to purchase immature beans. 120. Small businesses need to be encouraged to establish central curing facilities. The time is right to promote this concept while there is considerable vanilla money still in the system. Bianchessi (2004, p. 59) suggests that the minimum quantity to handled by a curing centre in a season is 400 kg of green beans (70-80 kg of cured vanilla). A central curing center would need to spend K 2 000-3 000 on basic equipment.9 The larger the curing centre, the better the equipment it can afford to purchase. It is unfortunate that the banking system failed to facilitate saving of the windfall vanilla monies that were available from 2001 to June 2004. 121. Considerable training and technical assistance is required, which could be an appropriate function of SIB. It would also be in the interests of some of the major exporters to provide training. Exporters located in the vanilla-growing regions should be encouraged to establish their own curing operations. SIB could adopt a licensing system for central curers similar to that used by the Cocoa Board for cocoa fermentaries. It could require that all curing to be undertaken in licensed facilities, as is the case in Tonga. 122. A concerted extension programme is needed to give farmers the expertise to meet the quality standards required by the market. It is encouraging to note the extension partnership that is now being forged between Vanilla International (PNG) Ltd (VIP) and the non-governmental organization (NGO) Women in Agriculture ("Didi Meri"). VIP imported 500 copies of the Bianchessi (2004) vanilla production and curing manual and is utilizing Didi Meri to distribute the manual to isolated locations. Such partnerships are seen as the appropriate way to proceed. 123. Industry support efforts need to be concentrated on the more suitable areas (suitable climate, with less alternative opportunities) and on stakeholders with at least a basic understanding of the crop. Adrian Schuhbeck notes that "the industry was not guided in the right direction, economically as well as agroecologically. Maybe there is still the chance to turn the tide".
+Managing smallerholder-based, high-value niche industries
+
+124. The experience of the PNG vanilla industry shows just how beneficial highvalue niche commodities can be for semi-subsistence village farmers in remote locations. Vanilla has a high unit value, can be produced on a small area of land without formal land title, requires only labour inputs, provides a high return to effort and, once cured correctly, is non-perishable. Kava, although requiring
+
+9 The basic equipment required for vanilla curing is: a cooking pot and drainer, thermometer, watch, insulated box, clear plastic sheets and blankets, trays and racks, water bottles, shelves and trays and a ventilated dry room.
+
+34
+
+Case Study of the Papua New Guinea Vanilla Industry
+
+more land, offered similar benefits to traditional village farmers in the remote islands of Vanuatu (McGregor, 1999). Noni (Morinda citrifolia)10 provided similar opportunities for villagers in western Savaii in Samoa. The niche nature of these products means they are best handled by private marketers and poorly suited to commodity boards and government marketing agencies. 125. A major downside of most high-value niche export products is their price instability - vanilla and kava are extreme examples of this. This instability mitigates against the benefits accruing to farmers and to the national economy. 126. Unrealistic expectations during price booms result in a wasteful misallocation of household resources. The consequences are oversupply, neglect of core activities including food production, inadequate attention to quality requirements and extravagant consumption. During the price boom, foreign-exchange leakages are high as farm households consume imported goods, including food. Little of the windfall income is saved for future investment and consumption needs. In Pacific island countries, the absence of r ural financial services has contributed to these adverse effects. 127. Far mers become disillusioned when prices fall dramatically from high levels, even if they remain at a reasonable level in absolute terms. Many farmers prematurely depart from the industry, leading to a further waste of resources as they try to rehabilitate crops and activities hitherto neglected. They are subsequently not in a position to take advantage of the future recovery in price. An example is the behavior of Tongan farmers on Va'vu, where a substantial vanilla industry was established during the 1980s. The kava boom of 1998/99 coincided with a period of relatively low vanilla prices. Many farmers abandoned vanilla, cutting down vines to plant kava. These decisions were fuelled by advice given by government extension officers. Within three years, kava prices had collapsed and vanilla prices had reached unprecedentedly high levels. Far mers responded by returning to planting vanilla on an unparalleled scale. Unfortunately, most of the production from these new plantings will be greeted by low prices, and so this wasteful cycle is likely to continue.
+Policies and programmes to mitigate the impact of extreme price fluctuations
+
+128. The extreme price fluctuations of high-value niche products are a reality over which no individual country has control. In the past, Madagascar, with a large market share, attempted to influence world vanilla prices. In the longer term, this policy proved to be to the detriment of the Madagascar industry and to the market for vanilla. 129. PNG has a long history of operating price-stabilization schemes for three of its major commodities - coffee, cocoa and copra. These PNG commodity boards have had more success than in most countries in stabilizing prices received by growers. Eventually, however, all of these schemes have failed, requiring massive
+
+Noni is found throughout the Pacific islands, where it grows wild. All through the islands, but particularly in Polynesia, it is used as a traditional herbal medicine for a wide range of ills and ailments. In recent years, noni products, particularly juice, have become popular in western countries. A market boom has led to a proliferation of noni enterprises in many Pacific island countries.
+10
+
+Diversification into high-value export products
+
+35
+
+financial transfers from the Government to keep the stabilization funds solvent. Price-stabilization schemes are not seen as an option for products such as vanilla and kava, even if they could be successfully managed. The price fluctuations are just too large and unpredictable. 130. Thus policies and supporting programmes need to be directed towards assisting far mers to manage their decisions better in a highly unstable price environment. Priority areas for attention are: · infor mation on the nature of high-value niche product markets - in particular how and why prices vary to the extent they do; · infor mation on the agro-ecological conditions required to successfully grow the crop on a sustainable basis; · infor mation on the quality re quirements of the market and how to meet these requirements; · empowering industry to establish and enforce quality standards; · encouraging the adoption of far ming systems that minimize risk; and · encouraging the establishment of r ural financial services that encourage savings and investment to take advantage of periodic high prices.
+Information on the nature of niche markets
+
+131. The consequences of lack of infor mation and understanding of how niche commodity markets operate is summed up in an Ugandan editorial on the recent dramatic collapse of the world vanilla market: The story of vanilla would be a funny one was it not that it has caused a lot of pain and even death. World prices of the spice shot through the roof, peaking at around sh 150 000 a kilo last year, compared to the sh 500 being offered for a kilo of coffee! Natural calamity in top producer Madagascar lowered production, leading to this happy state of affairs. But now Madagascar has overcome and is jumping back into the market. In anticipation, market prices have plummeted to a thirtieth of their peak value, probably the most dramatic correction in the history of commodity markets. Far mers, speculators and politicians are screaming blue murder. Welcome to the market! Our lack of infor mation in the third world means we cannot effectively participate in the world economy. Not only are most far mers illiterate but most of the market players even when they have access to information are unable to make use of it to direct their business decisions. The Government must activate structures to gather, analyse and disseminate information about world agricultural trends as a means to cushion farmers from future shocks (The New Vision, 29 July 2004). 132. The Ugandan commentator could just as easily have been talking about vanilla in East Sepic or kava in Pentecost Vanuatu several years earlier. In the Pacific islands, it is not only the farmers that have little or no understanding of how international commodity markets work. Extension officers and government officials that purport to advise farmers are equally ill-informed. Bianchessi (2004a) laments that nobody in PNG "has been warning the new vanilla farmers of the market fluctuations". 133. For PNG spices, SIB is the appropriately placed body to provide market infor mation and analysis. However, such small organizations are unlikely to have
+
+36
+
+Case Study of the Papua New Guinea Vanilla Industry
+
+the in-house specialist capability to provide this service. It is also doubtful that such expertise would be found within the government system. FAO could have a role to play here - by providing market information and analysis to PNG-SIBtype organizations worldwide. 134. High-value niche commodities are usually luxury products that have very demanding quality requirements. For Pacific island farmers, these products are not necessarily difficult crops - but they are different from the crops they usually grow. In the case of vanilla, Bianchessi (2004) notes: The main "differences" that must be understood are: 1. Vanilla is an orchid, with different root exigencies. 2. In some latitudes, vanilla does not flower every year. The farmer must help the plant reach flower induction. 3. Curing vanilla is not a drying process, but a more complex fer mentation. Only the farmer willing to understand these differences will become a successful vanilla farmer.
+Information on quality requirements
+
+135. During extreme price episodes, quality requirements are often neglected, as the recent experience with vanilla has shown. Generally for these products, high quality will always be able to secure a reasonable market. In comparison, a poorquality product will not be saleable in depressed, or even normal, market circumstances. Far mers need to know what the quality requirements of the market are; how to meet these requirements; and to be rewarded for achieving the standards required. For many of PNG's vanilla farmers, none of this was in place during the boom, and they are now paying the consequences. They now face a market for which they do not have a saleable product. Far mers that have the knowledge to cure quality vanilla, implement this knowledge and are rewarded accordingly have a sustainable future in the industry, even at relatively depressed prices. 136. VIP has collaborated with Vanuatu's Venui Vanilla to publish a simple pictorial manual on the growing and curing of vanilla (Bianchessi, 2004). The Madangbased Spice Tech International has also produced a simple curing manual. These companies have backed up the manuals with a strong grading system and supporting price incentives. Far mers linked to these exporters have responded admirably when the correct information has been made available to them. The NARI Lowlands Research Station in East New Britain is also producing simple, high-quality vanilla extension material (Ngere, 2001). Far mers would have benefited greatly from having access to this information several years ago. There still remains a major problem with the distribution of vanilla training material. Bianchessi (2004a) notes that in most areas (and particularly those of greater production) a vast majority of far mers have no access to training materials, and have been farming and curing vanilla with very little or no information, or, even worse, as mentioned earlier, with wrong information passed through the "toktok blong road".
+
+Diversification into high-value export products
+
+37
+
+137. The European Union's Technical Centre for Agricultural and Rural Cooperation (CTA) has become involved in the production of appropriate extension training material for high-value niche products in the Pacific island region. For example, CTA supported the production of a manual for village cut-flower producers in Fiji, which also includes market and marketing information (South Sea Orchids/CTA, 2004). There is room for many more of these initiatives. However, the challenge is to dessiminate these manuals to existing growers and those considering entering the industry. NGOs and private marketers, as well as government extension services, have a critical role to play in this process. Enforceable quality standards 138. PNG's coffee and cocoa industries have benefited from organizational structures that enable the setting of legally enforceable quality standards. In both industries, certain criteria have to be met to obtain an export license - these include having adequate facilities, financing and markets. For the vanilla industry, no such arrangements are in place. Many unqualified people have been trading in vanilla, which has been to the industry's considerable detriment. SIB is belatedly moving to establish and impose quality standards for obtaining and maintaining export licenses. The key issues for regulatory bodies such as SIB are to: · maintain a realistic number of exporters that meet the required standards and deregister those that do not comply; and · ensure that the industry is consulted on setting standards and inspection fees and that inspection standards meet competitive international benchmarks.
+Farming systems that minimize risk
+
+139. The extreme price instability associated with high-value niche commodities does not, in itself, create high vulnerability for farm households. High risk and vulnerability occur when all household resources are devoted to just one commodity. By integrating niche commodities into existing farming systems, the price and production risks can be greatly reduced. The resiliency of Pacific island smallholder agriculture comes through integration of the whole system. Throughout Melanesia, land-use patterns have developed from blending subsistence and cash-crop farming systems. This combination gives the production system much of its flexibility and strength (McGregor, 1999). It provides both food and cash, and exists without much dependence on external inputs or extension services. There is often intercropping of a variety of cultivars. This integration provides for resilience of livelihoods in the face of both natural hazards and market changes. High-value crops such as vanilla, kava and ginger can be integrated into these systems. Menz and Fleming (1989) note that a feature of vanilla cultivation is the ease with which it can be incorporated into the daily routines of members of the semi-subsistence agricultural household. For example, with the adoption of appropriate pruning techniques and spacing, vanilla could use mature cocoa trees for support. In Vanuatu, kava is intercropped with root crops, banana, cocoa and coconut. During the first one or two years, the bananas and root crops are consumed as food, leaving a garden of kava interspaced between cocoa and coconut. When the kava is harvested after three or four years, the coconut and an understory of cocoa remain.
+
+38
+
+Case Study of the Papua New Guinea Vanilla Industry
+
+Provision of rural financial services
+
+140. A characteristic of the price booms associated with high-value niche products is the high level of conspicuous consumption, wasteful expenditure and lack of savings. In part this expenditure pattern is an inevitable response to a high windfall gain - particularly for people who had not previously experienced such a level of disposable cash. However, in the Pacific islands, the problem has been greatly accentuated by the rundown in rural financial services. In PNG, macroeconomic policy, specifically the way public debt is financed, has meant that the commercial banks have little incentive to provide rural financial services. Fundamental policy changes are needed on the level of public debt and its financing. A lot more effort is required by Pacific island governments and donor par tners to facilitate the development of viable and sustainable rural microfinance institutions.
+
+Bibliography
+
+39
+
+Bibliography
+Allen, Br yant. 2003. AusAID roundtable on pro-poor growth in PNG: notes on population, land, accessibility and migration. Canberra, Australian National University. Allen, B.J., Bourke, R.M. & Hanson, L. 2001. Dimensions of PNG village agriculture. In Bourke, R.M., Allen, M.G. & Salisbury, J.G., eds. Food security for Papua New Guinea. Proceedings of the Australian Centre for International Agricultural Research (ACIAR) Conference. PR099. Canberra, ACIAR. Asian Development Bank. 2004 Agricultural markets, marketing and rural enterprise development. Working paper for the Preparing the Agriculture and Rural Development Project (ADB TA4055PNG). Asian Development Bank. 2004a. Interim project report, vol. 1. Preparing the Agriculture and Rural Development Project (ADB TA4055PNG). Bai, Brown. 2003. Performance of major agriculture export commodities and their future prospects. Port Moresby, Rural Industries Council. Ber nard, Francois. 2003. Indonesian vanilla. First International Conference on the Future of the Vanilla Business. New Brunswick, NJ, Rutgers University (available at www.aesop.rutgers.edu/~vanilla2003/PDF). Bianchessi, Piero. 2004. Vanilla: agriculture and curing techniques. A photographic handbook for vanilla farmers. Vanuatu, Venui Vanilla (published with the assistance of the Pacific Islands Trade and Investment Commission). Bianchessi, Piero. 2004a. Report on Solomon Islands vanilla workshops, August 2004 (sponsored by AusAID). Unpublished. Brownell, Rick. 2003. The commercial survival of natural vanilla. First International Conference on the Future of the Vanilla Business. New Brunswick, NJ, Rutgers University (available at www.aesop.rutgers.edu/~vanilla2003/PDF). Depar tment of Agriculture and Livestock (PNG). 2000. Papua New Guinea food security policy 2000-2010. Port Moresby, Papua New Guinea. Department of National Planning and Rural Development (PNG) Depar tment of Agriculture and Livestock (PNG). 2003. Medium-term development strateg y 2003-2007, draft technical paper. Port Moresby, Papua New Guinea. Hansen, L.W., Allen, B.J., Bourke, R.M. & McCartney, T.J. 2001. Papua New Guinea rural development handbook. Canberra, Australian National University. Investment Promotion Authority (IPA) of Papua New Guinea. 2003. I P A website available at www.ipa.gov.pg. Manceau, Michel. 2003. Vanilla exports from producing countries (available at http://www.vanilla-report.com/). Manceau, Michel. 2003a. Vanilla - export/import figures 2002 (available at .http://www.vanilla-report.com/) Manceau, Michel. 2003b. Too little or too much vanilla. PowerPoint presentation to the First International Conference on the Future of the Vanilla Business. New B r u n s w i ck , NJ, Rutg ers University (available at www.aesop.r utgers.edu/~vanilla/PDF and at www.vanilla-report.com). Manceau, Michel. 2003c. A future for natural vanilla? A European perspective. First International Conference on the Future of the Vanilla Business. New Brunswick, NJ, Rutgers University.
+
+40
+
+Case Study of the Papua New Guinea Vanilla Industry
+
+McGregor, Andrew. 1999. Linking market development to farming systems in the Pacific islands. FAO SAPA Publication 1999/2. Apia Samoa, FAO Subregional Office for the Pacific. de Melo, Jaime, Olar reaga, Marcelo & Takacs, Wendy. 2000. Pricing policy under double market power: Madagascar and the international vanilla market. Review of Development Economics, 4(1): 1 20. Menz, Kenneth M. & Fleming, Euan M. 1989. Economic prospects for vanilla in the South Pacific. Canberra, Australian Centre for International Agricultural Research. Mount, Tim & Chai, Xiaobin. 2004. Incentives for new investment in a deregulated market for electricity. Ithaca, NY, Department of Applied Economics and Management, Cornell University. National Agricultural Research Institute (NARI). 2002. NARI research strategy for agriculture and rural development in PNG. Strateg y paper presented at a consultative workshop, Lae, Papua New Guinea, 24-26 July. The New Vision. 2004. Vanilla tribulations, editorial, 29 July 2004 (available at www.newvision.com.ug). Ngere, O. 2001, Vanilla bulletin. NARI Information Bulletin No. 1. Lae, Papua New Guinea, National Agricultural Research Institute, pp. 1-42. Purseglove, J.W., Green, C.L., Brown, D.G. & Robin, S.R.J. 1985. Spices. Vol. 2. Tropical agriculture. London, Longmans. South Sea Orchids/CTA. 2004. Dendrobium orchids, anthuriums, heliconias and ginger. Manuals for smallholder production in Fiji. Suva Fiji. Tomkins, Richard. 2002. Vanilla growers bank on real thing for Coke. Santa Cruz, CA, The Vanilla.COMpany (available at www.vanilla.com/html/awareness.html). United States Agency for International Development, Asia Regional Agribusiness Project. 1995. World market for vanilla. RAP Market Information Bulletin #7. Bethesda, MD. Vanuatu Land-Use Planning Project. 1998. Land-Use Planning Profile: Spices. Port Vila, Land-Use Planning Office. Vanuatu Land-Use Planning Project. 1999. Land-Use Planning Profile: Kava. Port Vila, Land-Use Planning Office.
+

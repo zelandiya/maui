@@ -1,6 +1,8 @@
 package com.entopix.maui.util;
 
+import java.util.HashSet;
 import java.util.List;
+import java.util.Set;
 
 import com.entopix.maui.main.MauiTopicExtractor;
 
@@ -18,7 +20,7 @@ public class Evaluator {
 	public static double[] evaluateTopics(List<MauiTopics> allDocumentsTopics) {
 
 		double[] PRF = null;
-		
+
 		double[] correctStatistics = new double[allDocumentsTopics.size()];
 		double[] precisionStatistics = new double[allDocumentsTopics.size()];
 		double[] recallStatistics = new double[allDocumentsTopics.size()];
@@ -86,9 +88,9 @@ public class Evaluator {
 			if (avgPrecision > 0 && avgRecall > 0) {
 				fMeasure = 2 * avgRecall * avgPrecision / (avgRecall + avgPrecision);
 			}
-			
+
 			PRF = new double[] {avgPrecision, avgRecall, fMeasure};
-			
+
 			log.info("F-Measure: " + Utils.doubleToString(fMeasure * 100, 2));
 
 			log.info("");
@@ -96,4 +98,54 @@ public class Evaluator {
 		return PRF;
 	}
 
+
+	public static void evaluateConsistency(List<IndexerTopics> indexersTopics, List<MauiTopics> allTopics) {
+
+		// compute average consistency across indexers
+		double[] consistencyPeople = new double[indexersTopics.size()];
+		int person = 0;
+
+		for (IndexerTopics indexer : indexersTopics) {
+
+			// compute average consistency across documents
+			double[] consistencyDocs = new double[allTopics.size()];
+			int doc = 0;
+			for (MauiTopics topics : allTopics) {
+
+				String file = topics.getFilePath().substring(topics.getFilePath().lastIndexOf("/") + 1).replace(".txt", ".key");
+				List<Topic> mauiTopics = topics.getTopics();
+
+
+				Set<String> indexerTopics = new HashSet<String>();
+				if (!indexer.getTopics().containsKey(file)) {
+					log.warn("Indexer " + indexer.getName() + " doesn't have a file named " + file);
+					continue;
+				}
+				
+				for (Topic iTopic : indexer.getTopics().get(file)) {
+					indexerTopics.add(iTopic.getTitle());
+				}
+				int correct = 0;
+				for (Topic mTopic : mauiTopics) {
+					if (indexerTopics.contains(mTopic.getTitle().toLowerCase())) {
+						correct++;
+					}
+				}
+				double consistency = 2*correct / (double) (mauiTopics.size() + indexerTopics.size());
+				log.info("Consistency with indexer " + indexer.getName() + " on " + file + " is " + consistency);
+				consistencyDocs[doc] = consistency;
+				doc++;
+			}
+			// average across all docs
+			double avgConsistencyDocs = Utils.mean(consistencyDocs);
+			log.info("Average consistency with indexer " + indexer.getName() + ": " + avgConsistencyDocs);
+
+			consistencyPeople[person] = avgConsistencyDocs;
+			person++;
+		}
+		// average across all people (indexers)
+		double avgConsistencyPeople = Utils.mean(consistencyPeople);
+		log.info("Average consistency overall: " + avgConsistencyPeople);
+
+	}
 }

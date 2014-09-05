@@ -1,0 +1,565 @@
+RAP PUBLICATION 2005/20
+
+SELECTED INDICATORS OF FOOD AND AGRICULTURE DEVELOPMENT IN ASIA-PACIFIC REGION 1994-2004
+
+RAP PUBLICATION 2005/20
+
+SELECTED INDICATORS OF FOOD AND AGRICULTURE DEVELOPMENT IN ASIA-PACIFIC REGION 1994-2004
+
+FOOD AND AGRICULTURE ORGANIZATION OF THE UNITED NATIONS REGIONAL OFFICE FOR ASIA AND THE PACIFIC, BANGKOK OCTOBER 2005
+
+The designations employed and the presentation of material in this publication do not imply the expression of any opinion whatsoever on the part of the Food and Agriculture Organization of the United Nations concerning the legal status of any country, territory, city or area of its authorities, or concerning the delimitation of its territories or boundaries. All rights reserved. Reproduction and dissemination of material in this information product for educational or other non-commercial purposes are authorized without any prior written permission from the copyright holders provided the source is fully acknowledged. Reproduction of material in this information product for sale or other commercial purposes is prohibited without written permission of the copyright holders. A p p l i c a t i o n s for such permission should be addressed to Dr. Frederick Baker, Senior Statistician, FAO Regional Office for Asia and the Pacific, Maliwan Mansion, 39 Phra Atit Road, Bangkok 10200, Thailand or by e-mail to RAP-Publications@fao.org
+
+© FAO, 2005
+
+Map of Asia and the Pacific is used courtesy of The General Libraries, The University of Texas at Austin. The pictures on the cover were taken by P. Johnson. Tables were prepared by the FAO Regional Office for Asia and the Pacific, on the basis of information available as of August 2005. Please note that growth rates take into consideration data that are not printed. Inquiries about the technical contents and comments about the profiles should be addressed to: Senior Statistician FAO Regional Office for Asia and the Pacific Maliwan Mansion, 39 Phra Atit Road Bangkok, 10200 Thailand Tel : (662) 697-4000 Fax : (662) 697-4445 FAO food and agriculture statistics are available on the internet at:
+
+http://www.fao.org
+
+-ii-
+
+FOREWORD
+
+This document is the twenty-second issue of the publication Selected indicators of food and agriculture development in Asia-Pacific region. It presents data on selected items for t h e years 1994­2004, except some tables that provide information for the period 1993­2003. Most tables show two types of information: annual figures for 1994, 2001, 2002, 2003 and 2004 and the exponential growth rate for the period 1994­2004. The indicators are grouped under the following headings: Agricultural land and population, Agricultural inputs, Production indices, Staple food crops, Edible oil crops, Horticultural crops, Fibre crops, Other crops, Livestock, Agricultural trade, Fisheries, Forestry, Nutrition and Other indicators including a table reporting the status of organic farming in the region. A section on country profiles precedes the tables. Countries of the region are shown under two groups: "Developing countries/transition economies" and "Developed countries". For comparison purposes, figures relating to "Rest of world" and "World" are also presented. Data for member countries in the region have been included in this year's publication. Please note that country data for Timor-Leste were reported as provincial data for Indonesia before 2000 and no country data were reported for the Federal States of Micronesia before 1995. Other sources of data are cited. For almost all commodity tables, data are retrieved from the FAO computerized data base, especially FAOSTAT, or from the FAO Yearbooks. Some data items have not been updated during the conversion to the new FAOSTAT. These data are based on information supplied by member countries. The growth rates shown in the present publication have been worked out using the exponential growth method to indicate the overall regional performance and also to highlight intercountry differences. Various units of FAO including the Statistics Division and the Information Systems and Technology Division have cooperated with the FAO Regional Office for Asia and the Pacific in the preparation of this publication, providing computer programs and data bases for the production of tables. This collaboration is duly acknowledged.
+
+He Changchui Assistant Director-General and FAO Regional Representative for Asia and the Pacific
+
+Bangkok, October 2005
+
+-iii-
+
+SYMBOLS USED IN THE TABLES
+
+* F P T MT Ha Kg kg/ha CUM
+
+Unofficial figure FAO estimate Trading partner estimate Trend calculation Data not available Metric ton Hectare Kilogram Kilogram per hectare Cubic meter
+
+In most tables a blank space has the same meaning as the symbol (-) defined above. For crop yields and all sub-regional totals no (F) or (*) symbol is used as these are derived data. To divide decimals from whole numbers, a full stop (.) is used. Please note that Asia-Pacific* refers to countries in the table.
+
+-iv-
+
+CONTENTS Page COUNTRY PROFILES Developing Countries/Transition Economies Southeast Asia . . . . . . . . . . . . . . . South and Southwest Asia . . . . . . . . . Central Asia . . . . . . . . . . . . . . . . . East Asia . . . . . . . . . . . . . . . . . . . Pacific Islands . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3 8 13 16 18 25
+
+Developed Countries . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . Table AGRICULTURAL LAND AND POPULATION 1 2 3 4 Land use . . . . . . . . . . . . . Agricultural land . . . . . . . . . Agricultural population . . . . . Agricultural land and population AGRICULTURAL INPUTS 5 6 7 8 9 Irrigation . . . . . . . . . . . . . . . . . . . . . . . . . . . . Irrigated land as proportion of agricultural land . . . . . . . Mineral fertilizers: consumption . . . . . . . . . . . . . . . Mineral fertilizers: consumption per ha of agricultural land Agricultural tractors . . . . . . . . . . . . . . . . . . . . . . PRODUCTION INDICES 10 11 Agricultural production indices . . . . . . . . . . . . . . . . . . . . . . . Food production indices . . . . . . . . . . . . . . . . . . . . . . . . . . STAPLE FOOD CROPS A. Cereals 12 13 14 15 16 17 18 19 20 21 22 Rice paddy: production . . . Rice paddy: yield . . . . . . Rice paddy: area harvested Wheat: production . . . . . . Wheat: yield . . . . . . . . . Wheat: area harvested . . . Maize: production . . . . . . Maize: yield . . . . . . . . . Maize: area harvested . . . Millet: production . . . . . . Millet: yield . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+29 30 31 32
+
+35 36 37 38 39
+
+43 44
+
+47 48 49 50 51 52 53 54 55 56 57
+
+23 24 25 26
+
+Millet: area harvested . . Cereals: production . . . Cereals: yield . . . . . . Cereals: area harvested B. Roots and Tubers
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+58 59 60 61
+
+27 28 29 30 31 32 33 34 35 36 37 38 39 40 41
+
+Cassava: production . . . . . . . Cassava: yield . . . . . . . . . . . Cassava: area harvested . . . . . Sweet potatoes: production . . . Sweet potatoes: yield . . . . . . . Sweet potatoes: area harvested . Potatoes: production . . . . . . . Potatoes: yield . . . . . . . . . . . Potatoes: area harvested . . . . . Taro: production . . . . . . . . . . Taro: yield . . . . . . . . . . . . . Taro: area harvested . . . . . . . Roots and tubers: production . . Roots and tubers: yield . . . . . . Roots and tubers: area harvested C. Pulses
+
+. . . . . . . . . . . . . . .
+
+. . . . . . . . . . . . . . .
+
+. . . . . . . . . . . . . . .
+
+. . . . . . . . . . . . . . .
+
+. . . . . . . . . . . . . . .
+
+. . . . . . . . . . . . . . .
+
+. . . . . . . . . . . . . . .
+
+. . . . . . . . . . . . . . .
+
+. . . . . . . . . . . . . . .
+
+. . . . . . . . . . . . . . .
+
+. . . . . . . . . . . . . . .
+
+. . . . . . . . . . . . . . .
+
+. . . . . . . . . . . . . . .
+
+. . . . . . . . . . . . . . .
+
+. . . . . . . . . . . . . . .
+
+. . . . . . . . . . . . . . .
+
+. . . . . . . . . . . . . . .
+
+. . . . . . . . . . . . . . .
+
+. . . . . . . . . . . . . . .
+
+. . . . . . . . . . . . . . .
+
+. . . . . . . . . . . . . . .
+
+65 66 67 68 69 70 71 72 73 74 75 76 77 78 79
+
+42 43 44
+
+Pulses: production . . . . . . . . . . . . . . . . . . . . . . . . . . . . . Pulses: yield . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . Pulses: area harvested . . . . . . . . . . . . . . . . . . . . . . . . . . . EDIBLE OIL CROPS
+
+83 84 85
+
+45 46 47 48 49 50 51 52 53
+
+Groundnuts in shell: production . . . Groundnuts in shell: yield. . . . . . . Groundnuts in shell: area harvested . Soybean: production . . . . . . . . . Soybean: yield . . . . . . . . . . . . Soybean: area harvested . . . . . . . Coconut: production. . . . . . . . . . Palm oil: production . . . . . . . . . . Oil crops (oil equivalent): production HORTICULTURE CROPS
+
+. . . . . . . . .
+
+. . . . . . . . .
+
+. . . . . . . . .
+
+. . . . . . . . .
+
+. . . . . . . . .
+
+. . . . . . . . .
+
+. . . . . . . . .
+
+. . . . . . . . .
+
+. . . . . . . . .
+
+. . . . . . . . .
+
+. . . . . . . . .
+
+. . . . . . . . .
+
+. . . . . . . . .
+
+. . . . . . . . .
+
+. . . . . . . . .
+
+. . . . . . . . .
+
+. . . . . . . . .
+
+. . . . . . . . .
+
+. . . . . . . . .
+
+89 90 91 92 93 94 95 96 97
+
+54 55 56 57 58 59 60 61 62 63 64
+
+Fruits total (excluding melon): production . Bananas: production . . . . . . . . . . . . Citrus fruit total: production . . . . . . . . . Mangoes: production . . . . . . . . . . . . Vegetables total (incl. melons): production Cabbages: production. . . . . . . . . . . . Cabbages: yield . . . . . . . . . . . . . . . Cabbages: area harvested . . . . . . . . . Tomatoes: production . . . . . . . . . . . . Tomatoes: yield . . . . . . . . . . . . . . . Tomatoes: area harvested . . . . . . . . .
+
+. . . . . . . . . . .
+
+. . . . . . . . . . .
+
+. . . . . . . . . . .
+
+. . . . . . . . . . .
+
+. . . . . . . . . . .
+
+. . . . . . . . . . .
+
+. . . . . . . . . . .
+
+. . . . . . . . . . .
+
+. . . . . . . . . . .
+
+. . . . . . . . . . .
+
+. . . . . . . . . . .
+
+. . . . . . . . . . .
+
+. . . . . . . . . . .
+
+. . . . . . . . . . .
+
+. . . . . . . . . . .
+
+. . . . . . . . . . .
+
+101 102 103 104 105 106 107 108 109 110 111
+
+65 66 67
+
+Onions (dry): production . . . . . . . . . . . . . . . . . . . . . . . . . . Onions (dry): yield . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . Onions (dry): area harvested . . . . . . . . . . . . . . . . . . . . . . . . FIBRE CROPS
+
+112 113 114
+
+68 69 70 71 72 73 74
+
+Jute and jute-like fibres: production . . . Jute and jute-like fibres: yield . . . . . . Jute and jute-like fibres: area harvested Seed cotton: production . . . . . . . . . Seed cotton: yield . . . . . . . . . . . . . Seed cotton: area harvested . . . . . . . Raw silk: production (including waste) . OTHER CROPS
+
+. . . . . . .
+
+. . . . . . .
+
+. . . . . . .
+
+. . . . . . .
+
+. . . . . . .
+
+. . . . . . .
+
+. . . . . . .
+
+. . . . . . .
+
+. . . . . . .
+
+. . . . . . .
+
+. . . . . . .
+
+. . . . . . .
+
+. . . . . . .
+
+. . . . . . .
+
+. . . . . . .
+
+. . . . . . .
+
+. . . . . . .
+
+117 118 119 120 121 122 123
+
+75 76 77 78 79 80 81 82 83 84 85 86 87 88 89 90
+
+Natural rubber: production . . . . . . Sugar cane: production . . . . . . . . Sugar cane: yield . . . . . . . . . . . Sugar cane: area harvested . . . . . Coffee (green): production . . . . . . Coffee (green): yield . . . . . . . . . Coffee (green): area harvested . . . Tea: production . . . . . . . . . . . . Tea: yield . . . . . . . . . . . . . . . . Tea: area harvested . . . . . . . . . . Cocoa bean: production . . . . . . . Cocoa bean: yield . . . . . . . . . . . Cocoa bean: area harvested . . . . . Chillies and peppers: production . . . Chillies and peppers: yield . . . . . . Chillies and peppers: area harvested LIVESTOCK
+
+. . . . . . . . . . . . . . . .
+
+. . . . . . . . . . . . . . . .
+
+. . . . . . . . . . . . . . . .
+
+. . . . . . . . . . . . . . . .
+
+. . . . . . . . . . . . . . . .
+
+. . . . . . . . . . . . . . . .
+
+. . . . . . . . . . . . . . . .
+
+. . . . . . . . . . . . . . . .
+
+. . . . . . . . . . . . . . . .
+
+. . . . . . . . . . . . . . . .
+
+. . . . . . . . . . . . . . . .
+
+. . . . . . . . . . . . . . . .
+
+. . . . . . . . . . . . . . . .
+
+. . . . . . . . . . . . . . . .
+
+. . . . . . . . . . . . . . . .
+
+. . . . . . . . . . . . . . . .
+
+. . . . . . . . . . . . . . . .
+
+. . . . . . . . . . . . . . . .
+
+. . . . . . . . . . . . . . . .
+
+127 128 129 130 131 132 133 134 135 136 137 138 139 140 141 142
+
+91 92 93 94 95 96 97 98 99 100 101 102 103 104 105 106 107 108 109 110
+
+Livestock production indices: total . . . . Livestock production indices: per caput . Cattle: population . . . . . . . . . . . . . Buffalo: population . . . . . . . . . . . . Pig: population. . . . . . . . . . . . . . . Sheep: population . . . . . . . . . . . . . Goat: population . . . . . . . . . . . . . . Chicken: population . . . . . . . . . . . . Duck: population . . . . . . . . . . . . . Meat total: production . . . . . . . . . . . Beef and veal: production . . . . . . . . Buffalo meat: production . . . . . . . . . Pig meat: production . . . . . . . . . . . Mutton and lamb: production . . . . . . . Goat meat: production . . . . . . . . . . Poultry meat: production . . . . . . . . . Milk total: production . . . . . . . . . . . Cow milk: production . . . . . . . . . . . Buffalo milk: production . . . . . . . . . . Hen eggs: production . . . . . . . . . . .
+
+. . . . . . . . . . . . . . . . . . . .
+
+. . . . . . . . . . . . . . . . . . . .
+
+. . . . . . . . . . . . . . . . . . . .
+
+. . . . . . . . . . . . . . . . . . . .
+
+. . . . . . . . . . . . . . . . . . . .
+
+. . . . . . . . . . . . . . . . . . . .
+
+. . . . . . . . . . . . . . . . . . . .
+
+. . . . . . . . . . . . . . . . . . . .
+
+. . . . . . . . . . . . . . . . . . . .
+
+. . . . . . . . . . . . . . . . . . . .
+
+. . . . . . . . . . . . . . . . . . . .
+
+. . . . . . . . . . . . . . . . . . . .
+
+. . . . . . . . . . . . . . . . . . . .
+
+. . . . . . . . . . . . . . . . . . . .
+
+. . . . . . . . . . . . . . . . . . . .
+
+. . . . . . . . . . . . . . . . . . . .
+
+. . . . . . . . . . . . . . . . . . . .
+
+145 146 147 148 149 150 151 152 153 154 155 156 157 158 159 160 161 162 163 164
+
+AGRICULTURAL TRADE
+111 112 113 114 115 116 117 118 119 120 121 122 123 124 125 126 127 128 129 130 131 132 Agricultural products: imports in value. . . . . . Agricultural products: exports in value. . . . . . Cereals: imports in volume . . . . . . . . . . . . Cereals: exports in volume . . . . . . . . . . . . Rice: imports in volume . . . . . . . . . . . . . . Rice: exports in volume . . . . . . . . . . . . . . Wheat + flour, wheat equiv.: imports in volume . Wheat + flour, wheat equiv.: exports in volume . Palm oil: imports in volume . . . . . . . . . . . . Palm oil: exports in volume . . . . . . . . . . . . Natural rubber: imports in volume . . . . . . . . Natural rubber: exports in volume . . . . . . . . Coffee (green + roast): imports in volume. . . . Coffee (green + roast): exports in volume. . . . Tea: imports in volume . . . . . . . . . . . . . . Tea: exports in volume . . . . . . . . . . . . . . Cotton lint: imports in volume . . . . . . . . . . Cotton lint: exports in volume . . . . . . . . . . Jute: imports in volume . . . . . . . . . . . . . . Jute: exports in volume . . . . . . . . . . . . . . Silk: imports in volume . . . . . . . . . . . . . . Silk: exports in volume . . . . . . . . . . . . . . FISHERIES 133 134 135 136 137 138 Inland capture fisheries: production . . . . . . . . . . . Marine capture fisheries: production. . . . . . . . . . . Total capture fisheries: production . . . . . . . . . . . . Aquaculture: production. . . . . . . . . . . . . . . . . . Fish and fish products: imports and exports in volume Fish and fish products: imports and exports in value . FORESTRY 139 140 141 142 143 144 145 146 147 148 Roundwood: production . . . . . . . Fuelwood and charcoal: production . Industrial roundwood: production . . Sawlogs and veneer logs: production Sawnwood and sleepers: production Wood-based panels: production . . . Wood pulp: production . . . . . . . . Paper and paperboard: production . Forestry products: imports in value . Forestry products: exports in value . NUTRITION 149 150 Per caput dietary energy supply (DES) and minimum dietary energy requirement . . . . . . . . . . . . . . . . . . . Daily per capita energy availability from major food groups: vegetable and animal products. . . . . . . . . . . . . . . . . . . . . . . 211 212 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 199 200 201 202 203 204 205 206 207 208 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 191 192 193 194 195 196 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 167 168 169 170 171 172 173 174 175 176 177 178 179 180 181 182 183 184 185 186 187 188
+
+151 152 153 154 155 156 157 158 159 160 161
+
+Daily per capita energy availability from major food groups: cereals, rootcrops and pulses. . . . . . . . . . . . . . . . . . . . . . . Daily per capita energy availability from major food groups: treenuts, oilcrops, fruits and vegetables. . . . . . . . . . . . . . . . . Daily per capita energy availability from major food groups: sugar and sweeteners, alcoholic beverage, vegetable oil and animal fats . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . Availability from major food groups as percentage of total dietary energy supply: vegetable and animal products . . . . . . . . Availability from major food groups as percentage of total dietary energy supply: cereals, rootcrops and pulses . . . . . . . . . Availability from major food groups as percentage of total dietary energy supply: treenuts, oilcrops, fruits and vegetables . . . Availability from major food groups as percentage of total dietary energy supply: sugar, alcoholic beverage, vegetable oil and animal fats . . . . . . . . . . . . . . . . . . . . . . . Desirable dietary patterns (DDP) . . . . . . . . . . . . . . . . . . . . Percentage of protein and fats from animal sources in total dietary energy supply . . . . . . . . . . . . . . . . . . . . . . . . . . . Yearly per capita availability in kilogrammes from major food groups, 2002 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . Some population indicators affecting nutritional status . . . . . . . .
+
+. . . . . . . . . . .
+
+213 214 215 216 217 218 219 220 221 222 223
+
+OTHER INDICATORSS
+162 163 164 165 166 167 168 Number and area of agricultural holdings . . . . . . . . . . . . . . . . Organic farming in Asia and the Pacific . . . . . . . . . . . . . . . . Population and agricultural labour force . . . . . . . . . . . . . . . . Growth of GDP and agricultural GDP . . . . . . . . . . . . . . . . . . Agriculture's share in GDP, growth rate of value added in agriculture and in industry . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . GNI per caput, its growth, inflation and ODA receipts. . . . . . . . . . Food consumption, food imports and food aid . . . . . . . . . . . . . . . . . . . . 227 228 229 230 231 232 233
+
+Cambodia
+
+Indonesia
+
+Lao PDR
+
+Malaysia
+
+Myanmar
+
+Philippines
+
+Thailand
+
+Timor-Leste
+
+Viet Nam
+
+Bangladesh
+
+Bhutan
+
+India
+
+Maldives
+
+Nepal
+
+Pakistan
+
+Sri Lanka
+
+Kazakhstan
+
+Krygyzstan
+
+Tajikistan
+
+Turkmenistan
+
+Uzbekistan
+
+Country Profiles
+Afghanistan China
+
+DPR Korea
+
+Iran
+
+Mongolia
+
+Republic of Korea
+
+Cook Islands
+
+Fiji Islands
+
+Kiribati
+
+Marshall Islands
+
+Micronesia, Fed. States of
+
+Nauru
+
+Niue
+
+Palau
+
+Papua New Guinea
+
+Samoa
+
+Solomon Islands
+
+Tonga
+
+Tuvalu
+
+Vanuatu
+
+Australia
+
+Japan
+
+New Zealand
+
+DEVELOPING COUNTRIES / TRANSITION ECONOMIES
+(SOUTHEAST ASIA) CAMBODIA Land Use (2002) Population (2003) GDP/GNI (2004) Agricultural Trade (2003) Nutrition (2000­2002) Total area (17 652 000 ha) Arable & perm. crops (21.6%) Total population (14 144 000) Agricultural population (68.9%) Total GDP (US$4 299 million) GNI per capita (US$320) Agricultural GDP (34.5% in 2003) Imports (US$279.7 million) Exports (US$18.6 million) Per caput DES (2 059 kcal/day) Percent of animal products in DES (9.3%)
+
+Cambodia is located on mainland Southeast Asia between Thailand, Viet Nam and Lao PDR. Cambodia has a sea coast on the Gulf of Thailand. Natural resources are abundant in timber, gemstones, some iron ore, manganese and phosphate, and hydroelectric potential from the Mekong River. Agriculture dominates the Cambodian economy, contributing 35.6 percent GDP in 2002 and employing 69 percent of the workforce. The majority of farming households are engaged in rice production. Timber and rubber are important export commodities. Main agricultural products are rice, rubber, corn, meat, vegetables, dairy products, sugar and flour. Agricultural imports have grown at an annual rate of 15.1 percent from 1993 to 2003. Main agricultural imports include cigarettes, refined sugar, beverages, prepared food and milled paddy rice. Over the same period, agricultural exports have declined 0.6 percent annually. Rubber is the major agricultural export followed by paddy rice, cattle and hides and salted cattle. INDONESIA Land Use (2002) Population (2003) GDP/GNI (2004) Agricultural Trade (2003) Nutrition (2000­2002) Total area (181 157 000 ha) Arable & perm. crops (18.6%) Total population (219 883 000) Agricultural population (42.1%) Total GDP (US$208 311 million) GNI per capita (US$1 140) Agricultural GDP (16.6% in 2003) Imports (US$4 405.6 million) Exports (US$6 992.1 million) Per caput DES (2 912 kcal/day) Percent of animal products in DES (4.3%)
+
+Indonesia is the world's largest archipelago and is located between the Indian Ocean and the Pacific Ocean. A large part of its land area is coastal lowlands; larger islands have interior mountains. The country has extensive natural resources, including abundant forest and oceanic resources, fertile land, and rich deposits of petroleum, natural gas, tin, nickel, timber, bauxite, copper, coal, gold and silver. Indonesia has a well-balanced economy in which all major sectors play an important role. Agriculture (including animal husbandry, fishing and forestry) is both an important source of export earnings and formal employment, and the means by which the majority of the Indonesian rural population subsists. About 47 percent of the workforce engages in agriculture. The agricultural sector contributed 17.5 percent of the total GDP in 2002. Main agricultural products are rice, cassava (tapioca), peanuts, rubber, cocoa, coffee, palm oil, copra, poultry, beef, pork and eggs. Agricultural imports have grown at an annual rate of 2.9 percent from 1993 to 2003. Main agricultural imports include cotton lint, wheat, soybeans (including cakes), sugar and rice. Over the same period, agricultural exports have grown at 2.8 percent annually. Palm oil is the major agricultural export followed by rubber, cocoa beans and coconut oil.
+-3-
+
+LAO PDR Land Use (2002) Population (2003) GDP/GNI (2004) Agricultural Trade (2003) Nutrition (2000­2002) Total area (23 080 000 ha) Arable & perm. crops (4.3%) Total population (5 657 000) Agricultural population (76.0%) Total GDP (US$2 036 million) GNI per capita (US$390) Agricultural GDP (48.6% in 2003) Imports (US$102.8 million) Exports (US$14.5 million) Per caput DES (2 285 kcal/day) Percent of animal products in DES (6.9%)
+
+Lao PDR is a mountainous, land-locked, small country heavily dependant economically on Thailand with an inadequate infrastructure and a largely unskilled work force. The most valuable natural resources are forests and rivers which are useful for producing electricity; about 80 percent of the electricity produced is exported to Thailand. Agriculture (including forestry and fishing) is the most important economic sector. Agriculture, mostly subsistence rice farming, employs an estimated 76 percent of the workforce and produces 51 percent of GDP. Rice production dominates agriculture accounting for 78 percent of land under cultivation. Tobacco and coffee are the most important non-rice cash crops. Agricultural imports have grown at an annual rate of 7.1 percent from 1993 to 2003. The main agricultural imports include beverages, tea, sugar and prepared food. Over the same period, agricultural exports have declined 10.5 percent annually. The major agricultural exports are coffee, buffalo and maize.
+
+MALAYSIA Land Use (2002) Population (2003) GDP/GNI (2004) Agricultural Trade (2003) Nutrition (2000­2002) Total area (32 855 000 ha) Arable & perm. crops (23.1%) Total population (24 425 000) Agricultural population (15.7%) Total GDP (US$103 161 million) GNI per capita (US$4 650) Agricultural GDP (9.7% in 2003) Imports (US$4 333.3 million) Exports (US$9 580.6 million) Per caput DES (2 891 kcal/day) Percent of animal products in DES (17.8%)
+
+Malaysia consists of two separate parts divided by the South China Sea: Peninsular Malaysia on the Malay Peninsula; and East Malaysia, the northern part of the Island of Borneo. Both West and East Malaysia feature coastal plains rising to often densely forested hills and mountains. Natural resources are petroleum, liquefied natural gas (LNG), tin and minerals. The main agricultural products are palm oil, rubber, timber, cocoa, rice, tropical fruit, fish and coconut. Malaysia transformed itself from 1971 through the late 1990s from a producer of raw materials into an emerging multi-sector economy via the New Economic Plan (NEP). Manufacturing grew from 13.9 percent of GDP in 1970 to 30.4 percent in 2002, while agriculture and mining, which together had accounted for 42.7 percent of GDP in 1970, dropped to approximately 16 percent in 2002. Agricultural imports have grown at an annual rate of 2.9 percent from 1993 to 2003. Main agricultural imports include cocoa beans, maize, natural rubber, sugar, wheat and soya beans. Over the same period, agricultural exports have increased 1.7 percent annually. Palm oil is the major agricultural export followed by rubber, fatty acids oil, prepared food and cigarettes.
+
+-4-
+
+MYANMAR Land Use (2002) Population (2003) GDP/GNI (2004) Agricultural Trade (2003) Nutrition (2000­2002) Total area (65 755 000 ha) Arable & perm. crops (16.1%) Total population (49 485 000) Agricultural population (69.3%) Total GDP (NA) GNI per capita (NA) Agricultural GDP (57.2% in 2001) Imports (US$332.6 million) Exports (US$202.4 million) Per caput DES (2 879 kcal/day) Percent of animal products in DES (4.7%)
+
+Myanmar has borders on the Andaman Sea and the Bay of Bengal and is located between Bangladesh and Thailand. It has central lowlands ringed by steep, rugged highlands. Natural resources are petroleum, timber, tin, antimony, zinc, copper, tungsten, lead, coal, some marble, limestone, precious stones, natural gas and hydropower. Main agricultural products are rice, pulses, beans, sesame, groundnuts, sugarcane, hardwood, fish, and fish products. According to official data, agriculture (including forestry and fishing) remains by far the biggest sector, accounting for 57.2 percent of current-price GDP in fiscal year 2001/02 (April-March), and employing close to 70 percent of the workforce in 2002. Agricultural imports have decreased at an annual rate of 0.6 percent from 1993 to 2003. Main agricultural imports include palm oil, cigarettes, prepared food, whole milk, tobacco products and beverages. Over the same period, agricultural exports have declined 0.1 percent annually. Dry beans are the major agricultural export followed by sesame seeds, chick peas, paddy rice and maize. PHILIPPINES Land Use (2002) Population (2003) GDP/GNI (2004) Agricultural Trade (2003) Nutrition (2000­2002) Total area (29 817 000 ha) Arable & perm. crops (35.9%) Total population (79 999 000) Agricultural population (37.5%) Total GDP (US$80 574 million) GNI per capita (US$1 170) Agricultural GDP (14.5% in 2003) Imports (US$3 071.2 million) Exports (US$1 865.2 million) Per caput DES (2 375 kcal/day) Percent of animal products in DES (15.1%)
+
+The Philippines is one of the world's largest archipelagos; with more than 7 100 islands, it extends 1 900 km north to south and 1 100 km east to west. The land is mostly mountainous with coastal lowlands. The Philippines has extensive fishing resources (both marine and inland) and large deposits of mineral and energy resources, such as petroleum, nickel, cobalt, silver and gold, and timber. Reflecting its varied resource endowments, physical and human, the economy is diversified. Rice and coconut production continue to dominate the agricultural sector. Other main agricultural commodities include corn, sugarcane, bananas, pineapples and mangoes. About 38 percent of the workforce engages in agriculture. The share of agriculture in total GDP has declined as the sector contributed only about 14.7 percent of the total GDP in 2002. Reflecting this trend, agricultural exports currently account for less than 5 percent of the country's foreign earnings. Agricultural imports have grown at an annual rate of 4.6 percent from 1993 to 2003. Wheat is the main agricultural import, followed by cigarettes, soybeans (including the cake of soya beans) and rice. Over the same period, agricultural exports have grown at 0.4 percent. Coconut oil and bananas are the countries two major agricultural exports. The country also exports other tropical fruits, such as pineapples, both fresh and processed, as well as coconuts, dry whole cow milk and sugar.
+
+-5-
+
+THAILAND Total area (51 089 000 ha) Arable & perm. crops (37.9%) Total population (62 833 000) Agricultural population (46.6%) Total GDP (US$143 163 million) GNI per capita (US$2 540) Agricultural GDP (9.8% in 2003) Imports (US$3 528.4 million) Exports (US$10 355.9 million) Per caput DES (2 453 kcal/day) Percent of animal products in DES (12.0%)
+
+Land Use (2002) Population (2003) GDP/GNI (2004) Agricultural Trade (2003) Nutrition (2000­2002)
+
+Thailand consists of a densely populated central plain; northeastern plateau; mountain range in the west; and a southern isthmus that connects to Malaysia. Natural resources are tin, rubber, natural gas, tungsten, tantalum, timber, lead, fish, gypsum, lignite and fluorite. The Thai economy is export-dependent, with exports accounting for 60 percent of GDP. The agriculture sector accounted for 9.4 percent of GDP in 2002. Approximately 55 percent of Thailand's labor force is employed in agriculture. Rice, the dominant agricultural export crop, is irrigated in the Central Plains and in the basins of northern Thailand, but it is rain-fed elsewhere. Thailand remains the world's largest exporter of rice, and in 2003 sold 7.3 million tonnes (down from 7.7 million tonnes in 2001) worth US$1.9 billion. Other agricultural products are tapioca, rubber, corn, sugarcane, coconuts and soybeans. Other agricultural commodities produced in significant amounts include fish and fishery products. Agricultural imports have grown at an annual rate of 2.6 percent from 1993 to 2003. Cotton lint is the main agricultural import, followed by soybeans (including the cake of soya beans), cattle hides and wheat. Over the same period, agricultural exports have grown at an annual rate of 1.8 percent. Natural rubber and paddy rice are the country's two major agricultural export items. The country also exports chicken meats and canned chicken, and raw and refined sugar. TIMOR-LESTE Land Use (2002) Population (2003) GDP/GNI (2004) Agricultural Trade (2003) Nutrition (2000­2002) Total area (1 487 000 ha) Arable & perm. crops (9.2%) Total population (778 000) Agricultural population (81.2%) Total GDP (US$314 million) GNI per capita (US$550) Agricultural GDP (NA) Imports (US$37.3 million) Exports (US$10.7 million) Per caput DES (2 812 kcal/day) Percent of animal products in DES (11.1%)
+
+Timor­Leste is a small mountainous country that is classified among the poorest countries of the world and the poorest in Southeast Asia. The agricultural sector contributes about 25 percent to GDP. Approximately 40 percent of the population of 864 000 is considered to be below the national poverty line of 1.5 US$ per day. GDP is expected to decline further, reflecting the continued effect of the reduced international presence and the adverse impact of a delayed rainy season on agricultural output. The agricultural economy is dominated by low input/output subsistence agriculture. Important products are maize, cassava, cowpeas, sweet potatoes and rice. Cereal import requirements for the marketing year 2003/04 are estimated at 62 000 tonnes. Household food security is highly heterogeneous across districts and the country, although food insecurity is generally a more pronounced problem in rural upland areas. Main agricultural imports include paddy rice, vegetables and prepared food. Coffee is the major agricultural export followed by copra, spices and coco beans.
+
+-6-
+
+VIET NAM Land Use (2002) Population (2003) GDP/GNI (2004) Agricultural Trade (2003) Nutrition (2000­2002) Total area (32 549 000 ha) Arable & perm. crops (27.3%) Total population (81 377 000) Agricultural population (66.1%) Total GDP (US$39 157 million) GNI per capita (US$550) Agricultural GDP (21.8% in 2003) Imports (US$1 448.8 million) Exports (US$2 231.0 million) Per caput DES (2 533 kcal/day) Percent of animal products in DES (11.3%)
+
+The terrain of Viet Nam varies from mountainous to coastal delta. Natural resources are coal, crude oil, zinc, copper, silver, gold, manganese and iron. Main agricultural products are rice, maize, sweet potato, peanut, soya bean, cotton, coffee and cashews. Measured by employment, Viet Nam is an agrarian society, with around 67 percent of the labour force working in agriculture. Since 1986, when the Sixth Party Congress approved a broad economic reform package called "Doi Moi" (renovation), Viet Nam became one of the fastest growing economies in the world, averaging around 8 percent annual GDP growth from 1990 to 1997. Simultaneously, agricultural production doubled, transforming Viet Nam from a net food importer to one of the world's largest exporters of rice and of commodities such as coffee, tea, rubber, pepper and fisheries products. However, agriculture's share of economic output declined, falling from 42 percent in 1989 to 23.0 percent in 2002 (as production in other sectors of the economy increased). Agricultural imports have grown at an annual rate of 12.6 percent from 1993 to 2003. Main agricultural imports include soya bean cake, cigarettes and wheat. Over the same period, agricultural exports have increased 7.4 percent annually. Paddy rice is the major agricultural export followed by coffee, natural rubber, cashew nuts, pepper and tea.
+
+-7-
+
+(SOUTH AND SOUTHWEST ASIA)
+
+AFGHANISTAN Total area (65 209 000 ha) Arable & perm. crops (12.4%) Total population (23 897 000) Agricultural population (66.0%) Total GDP (US$1.72 billion) GNI per capita (NA) Agricultural GDP (NA) Imports (NA) Exports (NA) Per caput DES (NA) Percent of animal products in DES (15.3%)
+
+Land Use (2002) Population (2003) GDP/GNI (2004) (UNDP est.) Agricultural Trade (2003) Nutrition (2000­2002)
+
+Afghanistan is a country of rugged mountains and arid plains, which become deserts in the southwest. It has a wealth of natural resources, including extensive deposits of natural gas, petroleum, coal, copper, chromites, talc, barites, sulfur, lead, zinc, iron ore, salt, and precious and semiprecious stones. Agricultural production is constrained by an almost total dependence on erratic winter snows and spring rains for water; irrigation is primitive. The main agriculture products are wheat, corn, barley, rice, cotton, fruit, nuts, karakul pelts, wool and mutton. The economy has traditionally been dominated by agriculture, which accounted for 52 percent of the GDP and employed around 66 percent of the workforce in 2002. Relatively little use is made of machines, chemical fertilizers or pesticides. Years of fighting left former cultivated lands uncultivated and yields have almost dropped by 35 percent leading to persistent food shortages and an increase of food imports. Four consecutive recent years of drought brought a food crisis to Afghanistan. Official statistics have been nonexistent since the fall of the government in 1992. One of the largest sectors of the economy is opium poppy cultivation and processing. According to UNDCP, in the 2002 crop year Afghanistan accounted for threequarters of the world's heroine production. BANGLADESH Land Use (2002) Population (2003) GDP/GNI (2004) Agricultural Trade (2003) Nutrition (2000­2002) Total area (13 017 000 ha) Arable & perm. crops (64.8%) Total population (146 736 000) Agricultural population (52.7%) Total GDP (US$51 897 million) GNI per capita (US$440) Agricultural GDP (21.8% in 2003) Imports (US$1 825.8 million) Exports (US$103.1 million) Per caput DES (2 189 kcal/day) Percent of animal products in DES (3.1%)
+
+The land of Bangladesh is mostly flat, although there are some hilly areas in the northeastern and southeastern regions. Much of the land is intersected by the numerous waterways of the Ganges Delta and the Brahmaputra River. The annual flooding of the land provides rich alluvial soils. Natural resources are natural gas, fertile soil and water. Around 75 percent of the planted crop area is devoted to rice crops. Main agriculture products are rice, jute, tea, sugar and wheat. Because of Bangladesh's fertile soil and normally ample water supply, rice can be grown and harvested three times a year in many areas. Bangladesh's predominantly agricultural economy accounted for 22.7 percent of the total GDP in 2002, depending heavily on an erratic monsoonal cycle with periodic flooding and drought. Most Bangladeshis, 54 percent of the total workforce, earn their living from agriculture. Population pressure continues to place a severe burden on productive capacity, creating a food deficit, especially of wheat. Foreign assistance and commercial imports fill the gap. Agricultural imports have grown at an annual rate of 9.9 percent from 1993 to 2003. Main agricultural imports include wheat, paddy rice, cotton lint, palm oil and soya bean oil. Over the same period, agricultural exports have decreased 2.3 percent annually. Jute is the country's major agricultural export followed by fresh vegetables, tea, tobacco leaves and nuts.
+
+-8-
+
+BHUTAN Land Use (2002) Population (2003) GDP/GNI (2004) Agricultural Trade (2003) Nutrition (2000­2002) Total area (4 700 000 ha) Arable & perm. crops (3.5%) Total population (2 257 000) Agricultural population (93.7%) Total GDP (US$645 million) GNI per capita (US$440) Agricultural GDP (33.2% in 2003) Imports (US$22.7 million) Exports (US$13.9 million) Per caput DES (NA) Percent of animal products in DES (NA)
+
+Bhutan, one of the world's smallest and least developed countries, is mostly mountainous with some fertile valleys and savanna; 66 percent of the total land is forest. Natural resources are timber, hydropower, gypsum and calcium carbide. The economy is closely aligned with India through strong trade and monetary links and dependence on India's financial assistance. Although poor in terms of income per head, poverty is less evident than in most countries of similar income levels. The economy of Bhutan is based on agriculture and forestry, providing the main livelihood to almost 94 percent of the workforce and contributing 33.9 percent of GDP in 2002. Bhutan is largely an agrarian society; agriculture consists mainly of subsistence farming and animal husbandry. However, the main growth in the sector is a result of forestry and cash-crop production. Increasing self-sufficiency is a major target of the government. Main agricultural products are rice, corn, root crops, citrus, milk and eggs. Agricultural imports have grown at an annual rate of 1.3 percent from 1993 to 2003. Main agricultural imports include paddy rice, barley beer and mustard seed oil. Over the same period, agricultural exports have increased 0.1 percent annually. Beverages are the country's major agricultural export followed by wheat flour, oranges, apples and potatoes. INDIA Land Use (2002) Population (2003) GDP/GNI (2004) Agricultural Trade (2003) Nutrition (2000­2002) Total area (297 319 000 ha) Arable & perm. crops (57.2%) Total population (1 065 462 000) Agricultural population (52.2%) Total GDP (US$598 966 million) GNI per capita (US$620) Agricultural GDP (22.2% in 2003) Imports (US$4 903.9 million) Exports (US$6 504.4 million) Per caput DES (2 420 kcal/day) Percent of animal products in DES (7.9%)
+
+The terrain of India varies from the Himalayas to flat river valleys. Natural resources are coal, iron ore, manganese, mica, bauxite, chromite, thorium, limestone, barite, titanium ore, diamonds and crude oil. Twothirds of India's labour force works in agriculture which, with forestry and fishing, accounts for around 22.7 percent of GDP. However, the majority of landholdings are farmed at subsistence level, and many farming families live below the poverty line. India has some of the lowest human development indicators in the world, particularly in rural areas. At the other end of the scale, India also has a large number of highly qualified professionals, as well as several internationally established industrial groups. Main agriculture products are wheat, rice, coarse grains, oilseeds, sugar, cotton, jute and tea. With the introduction of high-yield crop varieties and new fertilizing and irrigation techniques, the so-called Green Revolution, India has been self-sufficient in food since the mid-1970s. Agricultural imports have grown at an annual rate of 12.3 percent from 1993 to 2003. Main agricultural imports include palm oil, soya bean oil, cotton lint, cashew nuts and pulses. Over the same period, agricultural exports have increased 4.4 percent annually. Paddy rice is the major agricultural export followed by wheat, cashew nuts and tea.
+
+-9-
+
+IRAN (ISLAMIC REP. OF) Land Use (2002) Population (2003) GDP/GNI (2004) Agricultural Trade (2003) Nutrition (2000­2002) Total area (163 620 000 ha) Arable & perm. crops (10.4%) Total population (68 920 000) Agricultural population (25.0%) Total GDP (US$107 522 million) GNI per capita (US$2 300) Agricultural GDP (11.3% in 2003) Imports (US$2 771.1 million) Exports (US$1 463.5 million) Per caput DES (3 075 kcal/day) Percent of animal products in DES (9.6%)
+
+The terrain of Iran mostly consists of desert and mountains. Natural resources are petroleum, natural gas and some mineral deposits. Main agriculture products are wheat, rice, other grains, sugar beets, fruits, nuts, cotton, dairy products, wool and caviar. Historically an agricultural society, Iran achieved significant industrialization and economic modernization by the 1970s, but the pace of growth slowed dramatically until after the end of the war with Iraq. The oil sector's share of GDP declined from 30-40 percent in the 1970s to 10-20 percent, mainly as a result of war damage to production facilities; oil revenue still provides some 80 percent of export earnings. State investment, large-scale irrigation schemes and wider production of export-based agricultural items such as dates, flowers and pistachios made agriculture Iran's fastest growing sector over much of the 1990s. Production was reduced significantly by severe drought from 1999-2001, leading to heavy losses in livestock and cereal production. After a strong recovery Iran appears within reach of food self-sufficiency. Agriculture remains one of the largest employers, accounting for about 26 percent of all jobs and 12 percent of GDP. Agricultural imports have decreased at an annual rate of 0.5 percent from 1993 to 2003. Soya bean oil is the main agricultural import, followed by maize, paddy rice, cigarettes and wheat. Over the same period, agricultural exports have increased at 2.8 percent annually. Pistachios, raisins, spices and tomato paste are the main agricultural exports. MALDIVES Total area (30 000 ha) Arable & perm. crops (40.0%) Total population (318 000) Agricultural population (24.2%) Total GDP (US$696 million) GNI per capita (US$2 510) Agricultural GDP (NA in 2003) Imports (US$96.0 million) Exports (US$0.0 million) Per caput DES (2 542 kcal/day) Percent of animal products in DES (23.5%)
+
+Land Use (2002) Population (2003) GDP/GNI (2004) Agricultural Trade (2003) Nutrition (2000­2002)
+
+The 1 190 islands of the Maldives are scattered over a vast area of the Indian Ocean (90 000 square kilometres), complicating transport, especially in rough seas, and making service delivery to the unevenly distributed and widely dispersed population living on 198 islands very expensive. Marine resources are the main natural endowment, with economic activities concentrated on fishing and tourism. There are no inland fisheries and no aquaculture in the Maldives. Fishing operations take place in off-shore, coastal and reef waters. Currently fisheries account for 11 percent of GDP, 20 percent of employment and 74 percent of the country's export commodities. A small internal market (many island communities depend on a single source of income (fishing)), scarcity of jobs and very limited agricultural opportunities add to the complexity of development challenges. Agricultural imports have grown at an annual rate of 6.4 percent from 1993 to 2003. Main agricultural imports include cigarettes, dry whole milk, wheat flour and paddy rice. Over the same period, agricultural exports have decreased 10.7 percent annually. Fish meal is the major agricultural export followed by fish oils.
+
+- 10 -
+
+NEPAL Land Use (2002) Population (2003) GDP/GNI (2004) Agricultural Trade (2003) Nutrition (2000­2002) Total area (14 300 000 ha) Arable & perm. crops (23%) Total population (25 164 000) Agricultural population (92.9%) Total GDP (US$5 835 million) GNI per capita (US$260) Agricultural GDP (40.6% in 2003) Imports (US$241.8 million) Exports (US$67.7 million) Per caput DES (2 443 kcal/day) Percent of animal products in DES (6.5%)
+
+Nepal is located between China and India and has eight of the world's ten highest peaks. The mountains, hills and terai comprise 35 percent, 42 percent and 23 percent of the country's land area, respectively. Around 93 percent of the economically active population live in rural areas and depend on subsistence farming. Agriculture accounts for about 40 percent of the total GDP. Timber is one of Nepal's main natural resources, but the area under forest has declined over the past three decades due to overexploitation. The country's other natural resources include quartz, water, hydropower, lignite, copper, cobalt and iron ore. The country's main agricultural production includes grains ­ mostly rice (56 percent of total cereal outputs in 2002/03), corn (21 percent), wheat (18 percent) ­, sugarcane, root crops, milk and water buffalo meat. The country's industrial activity mainly involves the processing of agricultural produce including jute, sugarcane, tobacco and grain. Agricultural imports have grown at an annual rate of 5.4 percent from 1993 to 2003. Main imported agricultural commodities include wool, tobacco and pulses. Over the same period, agricultural exports have grown at 7.3 percent annually. Although Nepal exports spices, lentils and sugar, it suffers from a chronic trade deficit. PAKISTAN Land Use (2002) Population (2003) GDP/GNI (2004) Agricultural Trade (2003) Nutrition (2000­2002) Total area (77 088 000 ha) Arable & perm. crops (28.7%) Total population (153 578 000) Agricultural population (49.4%) Total GDP (US$68 815 million) GNI per capita (US$600) Agricultural GDP (23.3% in 2003) Imports (US$1 769.8 million) Exports (US$1 234.0 million) Per caput DES (2 430 kcal/day) Percent of animal products in DES (18.0%)
+
+Pakistan is located in Southern Asia and is bordered by India in the east, China in the northeast, Afghanistan in the north and northwest, Iran in the southwest and the Arabian Sea to the south. The size of the annual cotton crop, the bulk of it grown in Punjab province, is a crucial barometer of the health of the overall economy since it accounts for 80 percent of export earnings. Natural resources are arable land, natural gas, limited petroleum, substantial hydropower potential, coal and iron ore. Main agriculture products are wheat, cotton, rice, sugarcane and tobacco. In 2002, agriculture accounted for 23.2 percent of GDP and provided employment to 46 percent of the labour force. It supplies most of the country's food, but is also the source of raw materials for major domestic industries, especially for cotton products. Two fundamental problems that trouble the agricultural sector are: an excessive dependence on a cotton crop highly susceptible to adverse weather conditions and pest damage; and the food import bill, which is rising rapidly despite a steady increase in crop, livestock and fruit production. Agricultural imports decreased at an annual rate of 0.9 percent from 1993 to 2003. Main imported agricultural commodities include palm oil, cotton lint, tea and rapeseed. Over the same period, agricultural exports have grown at 2.8 percent annually. Paddy rice is the main export followed by wheat, cotton lint and molasses.
+
+- 11 -
+
+SRI LANKA Total area (6 463 000 ha) Arable & perm. crops (29.6%) Total population (19 065 000) Agricultural population (45.4%) Total GDP (US$18 514 million) GNI per capita (US$1 010) Agricultural GDP (19.0% in 2003) Imports (US$801.1 million) Exports (US$953.5 million) Per caput DES (2 388 kcal/day) Percent of animal products in DES (6.8%)
+
+Land Use (2002) Population (2003) GDP/GNI (2004) Agricultural Trade (2003) Nutrition (2000­2002)
+
+The terrain of Sri Lanka consists of coastal plains in the northern third of the country, with hills and mountains in south-central Sri Lanka which rise as high as 2 133 meters. Natural resources are limestone, graphite, mineral sands, gems and phosphate. Sri Lanka's economy is highly dependent on domestic trade. The main agriculture products are rice, tea, rubber, coconut and spices. The plantation sector produces the three main export crops ­ tea, rubber and coconut ­ of which only tea has the potential for any real increase in output. Sri Lanka is the world's leading tea exporter, and second only to the Philippines in the export of desiccated coconut and natural rubber. Paddy rice dominates the non-plantation agricultural sector and accounts for one-fifth of total agricultural output, rendering it an important determinant of agricultural growth. Although yields have improved continuously, high production costs are a drawback. Agriculture has lost its relative importance to the Sri Lankan economy in recent decades. It accounts for 20.1 percent of GDP and provides employment to 45 percent of the working population. Agricultural imports have grown at an annual rate of 5.1 percent from 1993 to 2003. Main imported agricultural commodities include wheat, dry whole milk, sugar, palm oil and soya bean cake. Over the same period, agricultural exports have grown at 8.4 percent annually. Tea is the main export followed by cinnamon, natural rubber and tobacco leaves.
+
+- 12 -
+

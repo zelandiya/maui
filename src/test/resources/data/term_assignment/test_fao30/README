@@ -1,0 +1,10 @@
+Copyright 2009 - Food and Agriculture Organization of the United Nations
+
+Directory documents contains 30 documents in text format.
+The same documents were indexed by 6 professional indexers with terms from Agrovoc.
+Each indexers' terms are stored in text format, one term per line, in files with the extension *.key, in directory indexers.
+
+When using this data set please cite:
+
+O. Medelyan. 2009. Human-competitive automatic topic indexing. PhD thesis. Department of Computer Science, University of Waikato, New Zealand. 
+O. Medelyan, I. H. Witten, 2008. Domain independent automatic keyphrase indexing with small training sets. Journal of American Society for Information Science and Technology. Vol. 59 (7), pp. 1026-1040. 

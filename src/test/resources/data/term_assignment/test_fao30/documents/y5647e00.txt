@@ -1,0 +1,1627 @@
+Climate Change and the forest sector 
+Possible national and subnational legislation
+
+1. Introduction
+
+Greenhouse gases and forests
+Climate change agreements: origins and status
+Forests under the UNFCCC and the Kyoto Protocol
+Clarifications from COP-6 to COP-9
+Complications for potential national legislation
+
+2. Some national legal responses
+
+United States of America
+European Community
+Costa Rica
+Australia
+Canada
+Dominican Republic
+Peru
+Spain
+New Zealand
+Denmark
+
+3. Legal and institutional issues of forest-based mitigation
+
+Property and transfer issues
+Regulatory command-and-control issues
+Subsidy and tax issues
+Information issues
+Institutions
+
+4. Some concluding observations for legislative drafters
+
+What should be the role of legislation in supporting use of forests in Greenhouse Gas mitigation?
+What expertise might drafters need to succeed in this area?
+
+Bibliography
+
+Legislation cited
+
+Acknowledgements
+
+This publication was prepared by Kenneth L. Rosenbaum, Principal, Sylvan Environmental Consultants (Syenco), Washington, DC, United States, and revised and expanded by Dieter Schoene, FAO Forest Resources Division, and Ali Mekouar, FAO Legal Office. The authors thank the following persons for their contributions: Jon Lindsay of the FAO Legal Office; Laura Kosloff and Mark Trexler of Trexler Climate and Energy Services, Inc.; Susan Casey-Lefkowitz of the National Resources Defense Council; Charles di Leva of the World Bank; Anni Lukács of the World Conservation Union Environmental Law Center; Jennifer Gleason, Marc Allas and Chirmini Kodituwakku, participants in the E-LAW network; Hans Kolshus of FAO’s Investment Centre Division; Heikki Granholm, Programme Officer, United Nations Framework Convention on Climate Change Secretariat; Martina Jung of the Hamburg Institute of International Economics; Rita Neznek of the Society of American Foresters; Mike Murphy of the United States Department of Agriculture - Forest Service; Chris Rolfe of West Coast Environmental Law; Dave Spittlehouse of the British Columbia Ministry of Forests, Canada; and Tony Lempriere of Natural Resources Canada. Members of the FAO Interdepartmental Working Group on Climate Change kindly reviewed initial versions of the paper. The Environmental Law Institute in Washington, DC, provided library and online resources. The Environmental and Biomolecular Systems Department of the Oregon Health and Science University, United States, supplied library access for Mr Rosenbaum. The FAO Legal Office and the FAO Interdepartmental Working Group on Climate Change (Wulf Killmann, Chair) provided financing.
+
+Acronyms
+
+AIJ
+	
+
+Activities implemented jointly
+
+AAU
+	
+
+Assigned amount unit
+
+CAP
+	
+
+Common Agricultural Policy (EC)
+
+CCB
+	
+
+Certificate for forest conservation (Costa Rica)
+
+CDM
+	
+
+Clean Development Mechanism
+
+CER
+	
+
+Certified emission reduction
+
+CERCLA
+	
+
+Comprehensive Environmental Response, Compensation and Liability Act (United States)
+
+CO2
+	
+
+Carbon dioxide
+
+COP
+	
+
+Conference of the Parties (to the UNFCCC)
+
+COP/MOP
+	
+
+First session of the Conference of the Parties serving as the meeting of the Parties to the Kyoto Protocol
+
+CTO
+	
+
+Certifiable Tradable Offset
+
+EC
+	
+
+European Community
+
+ECCP
+	
+
+European Climate Change Programme
+
+ERU
+	
+
+Emission reduction unit
+
+FAO
+	
+
+Food and Agriculture Organization of the United Nations
+
+FONAFIFO
+	
+
+National Fund for Forestry Finance (Costa Rica)
+
+GERT
+	
+
+Greenhouse Gas Emission Reduction Trading (Canada)
+
+GHG
+	
+
+Greenhouse gas
+
+GMO
+	
+
+Genetically modified organisms
+
+GPG-LULUCF
+	
+
+IPCC Good Practice Guidance for Land use, Land-use change and Forestry
+
+INAREF
+	
+
+National Forestry Agency, Dominican Republic
+
+IPCC
+	
+
+Intergovernmental Panel on Climate Change
+
+ISO
+	
+
+International Organization for Standardization
+
+JI
+	
+
+Joint Implementation
+
+lCER
+	
+
+Long-term certified emission reduction
+
+LULUCF
+	
+
+Land Use, Land-Use Change and Forestry
+
+Mt
+	
+
+Megatonne (1 million tonnes)
+
+NGO
+	
+
+Non-governmental organization
+
+OCIC
+	
+
+Office on Joint Implementation (Costa Rica)
+
+ppm
+	
+
+Parts per million
+
+RMU
+	
+
+Removal unit
+
+SBSTA
+	
+
+Subsidiary Body for Scientific and Technical Advice
+
+TAR
+	
+
+Third Assessment Report of the Intergovernmental Panel on Climate Change
+
+tCER
+	
+
+Temporary certified emission reduction
+
+UN
+	
+
+United Nations
+
+UNFCCC
+	
+
+UN Framework Convention on Climate Change
+
+USC
+	
+
+United States Code
+
+Summary
+
+This publication examines the development of international law on climate change and discusses what issues national and subnational legislative bodies may have to consider regarding climate change mitigation and forests.
+
+Climate change presents the world with a daunting problem. Emerging science suggests that humans may be about to cause a major change in world climates. The economic and ecological stakes are high. In an ideal world, mature science would guide policy and legal reform. In the real world, we do not always have the luxury of certainty and the comfort of strictly rational decisions based on scientific insight. Responding to the challenge will require pioneering efforts in science, politics, pollution control, forest land management and law.
+
+As described most recently in the Third Assessment Report of the Intergovernmental Panel on Climate Change (TAR), most scientists think that increased atmospheric levels of greenhouse gases, including carbon dioxide (CO2), contribute to climate change. Furthermore, the TAR sees strong evidence that most of the warming observed over the last 50 years is attributable to human activities. While burning of fossil fuels and deforestation add CO2 and other greenhouse gases to the atmosphere, vegetation and soils can function as net carbon sinks and long-term carbon reservoirs.
+
+Under the United Nations Framework Convention on Climate Change (UNFCCC), the international community is committed to reducing net greenhouse gas emissions. When in force, the Kyoto Protocol to the Convention will give Parties listed in Annex I of the Protocol (mostly developed countries and countries with economies in transition) specific reduction targets. They can meet these targets by reducing emissions or by promoting carbon sinks. The reductions can be accomplished domestically or through cooperative actions involving other Parties to the Convention. The Parties to the Convention have been meeting annually to clarify rules and modalities of climate change mitigation, and recent meetings (particularly Conference of the Parties 6 [COP-6], COP-6bis, COP-7, COP-8 and COP-9) have addressed specific issues concerning the so-called Land Use, Land-Use Change and Forestry (LULUCF) activities.
+
+Although forests may play an important role in the international response to climate change, Parties to the Convention have often reached different conclusions regarding the proper role of forests and appropriate national legislation to foster that role:
+
+      • First, obligations of Parties differ, particularly between Annex I nations and non-Annex I nations. This applies to obligations for emission reductions, but also many other commitments, e.g. reporting.
+
+      • Second, although the Conferences of the Parties have settled many points, some questions remain about the role of harvested wood products and forestry projects in meeting those obligations, notably how to simplify rules and modalities for small-scale afforestation and reforestation projects, and how to trade and deal with carbon credits originating domestically or abroad.
+
+      • Third, the legal issues of climate change mitigation through forests will depend on approaches taken to mitigation and compliance in other sectors. A nation’s method of forest-based mitigation must be compatible with the nation’s overall approach to greenhouse gas control; a nation that chooses to rely on subsidies and indirect regulation to reduce emissions by industry will probably approach the role of forests differently from a nation that relies on direct regulation of emissions or from a nation that chooses to rely on markets.
+
+      • Fourth, the approaches taken will vary depending on national forest policies, institutions, forest ownership structures, ecosystems, laws, needs and other national circumstances.
+
+      • Fifth, the role of national or supranational legislation on compliance (versus international standards set by the Parties) is still unclear. Complicating the issue further, in some cases global and regional standards may diverge. For example, although the Kyoto Protocol allows Parties to fulfil parts of their obligations through purchasing certified emission reductions (CERs) from carbon offset projects under the Clean Development Mechanism (CDM) involving forests, a recent proposal for a European Community Directive (COM[2003] 403) seeks to eliminate credits created from LULUCF activities from recognition in internal emission trading within the European Community.
+
+To date, national legislative activity on the issue of forests and climate change has been limited. Countries have relied more on creative use of existing legislation than creation of new legislation.
+
+There are a few exceptions. Costa Rica has created a Certified Tradable Offset to attract developed nations looking to sponsor mitigation projects. The first project funded under this mechanism has involved forests. The state of New South Wales in Australia has changed its property laws to recognize a separate legal interest in the carbon sequestration potential of forest land. The Dominican Republic has adopted a law that will allow it to create incentives for managing forests for environmental services such as carbon sequestration. New Zealand is actively struggling with the question of ownership of carbon sequestered in that country’s extensive domestic afforestation and reforestation. The list of other jurisdictions that have considered or adopted some sort of forest-related climate laws includes the United States and some of its constituent states, the European Union, the Canadian province of Alberta, Peru, Spain and Denmark.
+
+The full range of forest legislation in response to climate change could include protection, adaptation and mitigation initiatives. Protective measures would attempt to guard existing forests from destruction or degradation through clear-cutting or unsustainable management, or from climate change-related damages. Adaptation initiatives would help forest managers prepare forests for the anticipated additional stresses from a changing climate and the resulting extremes in weather. Mitigation initiatives would sequester more carbon in living forest biomass, soils and wood products as well as reduce the net amount of national greenhouse gas (GHG) emissions by substituting wood energy from sustainably managed forests for fossil fuels, and wood products for energy-intensive materials, such as aluminium or steel. The discussion in this paper covers only mitigation through afforestation, reforestation or forest management.
+
+Many issues could arise in efforts to develop new legislation to foster carbon sequestration in forests. A nation interested in a property-based system may have to address such issues as:
+
+      • Who can claim credit and receive payment for carbon sequestration and can that ownership be transferred?
+
+      • Who is responsible for carbon debits from deforestation, forest harvesting or natural calamities?
+
+      • How will the amount and duration of carbon credits be determined, recorded and verified?
+
+      • How can the government promote orderly sales or other transfers of ownership?
+
+      • How will national law allocate the risk of failure of carbon sequestration projects, complementary to any provisions already contained in the international agreements?
+
+      • Will the law assess liability for damaging a forest’s carbon sequestration potential?
+
+A nation interested in command-and-control approaches to encourage forest sinks could turn to regulating forest use and management directly. For example, it could specify permissible logging techniques, require prompt reforestation of harvested or otherwise denuded areas, or set minimum stocking levels for immature stands and minimum harvest ages for mature stands.
+
+Nations could also promote the use of forests as sinks through subsidies. These may be payments, goods or services given to forest owners to promote management for maximal carbon sequestration - for example, rewarding owners for extending rotations or reforesting with species that fix particularly high amounts of carbon. The subsidies could also be in the form of enhanced government acquisition and management of lands for carbon sequestration, or of partial interests in lands. Governments could also spend money on better enforcement of general forest protection laws or on promoting the tending of young stands for better growth and higher stability.
+
+Finally, governments could try to promote forest carbon sequestration using informational mechanisms. These include informing landowners about management options and advantages through specialized extension services, guiding manufacturers and consumers of forest products on ways to reduce waste, certifying the success of private sequestration efforts, offering help in forest planning to consider GHG impacts and promoting research on forest management for carbon sequestration.
+
+COP-9 finalized the majority of the rules on LULUCF in December 2003. This made the international role of forests in meeting sequestration goals much clearer and should help those Parties that wish to adopt laws on LULUCF activities. The subject of carbon storage in harvested wood products, however, is still under discussion but is unlikely to become a relevant implementation issue before 2012. In spite of uncertainties on when the Kyoto Protocol will enter into force, Parties will have to start responding nationally soon if they hope to meet impending deadlines. For example, national systems for the estimation of removals by sinks must be in place before the end of 2006. Nations should now be tackling the question of whether and how to encourage and integrate the use of forests as carbon sinks into national legal regimes.
+
+        SONYA: ... Mihail Lvovitch plants fresh trees every year.... He tries to prevent the old forests being destroyed. If you listen to him you will agree with him entirely. He says that forests beautify the country, that they teach man to understand what is beautiful and develop a lofty attitude of mind. Forests temper the severity of the climate. In countries where the climate is mild, less energy is wasted on the struggle with nature, and so man is softer and milder. In such countries people are beautiful, supple and sensitive; their language is elegant and their movements are graceful. Art and learning flourish among them, their philosophy is not gloomy, and their attitude to women is full of refined courtesy.
+
+        …
+
+        [MIHAIL LVOVITCH] ASTROV: ... I am ready to let you cut down wood as you need it, but why destroy the forests? ... There are fewer and fewer forests, the rivers are drying up, the wild creatures becoming extinct, the climate is ruined, and every day the earth is growing poorer and more hideous.... Here you are looking at me with irony, and all I say seems to you not serious and - perhaps I really am a crank. But when I walk by the peasants’ woods which I have saved from cutting down, or when I hear the rustling of the young copse planted by my own hands, I realize that the climate is to some extent in my power, and that if in a thousand years man is to be happy I too shall have had some small hand in it.
+
+From Act I of the play Uncle Vanya, by Anton Chekhov (1900),
+as translated from the Russian by Constance Garnett (1923)
+
+
+
+Previous PageTable Of ContentsNext Page
+1. Introduction
+
+Forest managers face two basic concerns linked to human-induced climate change. One is adaptation: Can forest managers reduce the damage to forests from climate change? The other is mitigation: Can forest managers help reduce climate change itself? Forestry harbours this possibility via conservation of forests, via management of forests as carbon sinks to offset greenhouse gases emitted elsewhere, through its capacity to produce renewable, carbon-neutral energy, and through its products, which not only store carbon for appreciable times but can substitute for high-energy materials. This paper addresses mitigation.
+
+It is an appealing proposition to turn harmful emissions of carbon dioxide, the main cause of climate change, via photosynthesis into new forests, thereby replacing some of the 16 million hectares of natural forests that the planet loses annually. Almost three decades after Dyson (1977) published this concept, 188 Parties to the United Nations Framework Convention on Climate Change have painstakingly elaborated rules and guidelines to put his idea into practice through the Kyoto Protocol.
+
+Negotiating the role of forests in mitigating climate change has proved time consuming and contentious. The rules are complicated and procedures costly to the point that they may prevent some countries from using the full range of forestry options to temper climate change. Now countries face the formidable challenge of creating national frameworks to implement the Kyoto Protocol regarding forests, and little time remains until 2008 - the start of the first commitment period. Three main tasks lie ahead.
+
+      • General commitments concern all countries and can be carried out with relative ease. Action includes addressing forests in national adaptation and mitigation programmes, raising awareness, promoting sustainable forest management and conserving and enhancing forest sinks.
+
+      • Monitoring forest carbon stock changes places different burdens on industrialized and developing countries, but challenges both.
+
+      • Transposing the international climate change regime into national laws requires new or revised legislation on forests at the national or subnational level, along with appropriate capacity and institutions to support implementation.
+
+The paper traces the growing international law on climate change and examines what issues may come before national legislatures concerning forests. The first section of the paper offers some basic information on climate change and the international legal response. The second section reviews some early national responses related to forests. The third section considers some of the general legal issues that may emerge regarding forests and climate change mitigation.
+Greenhouse gases and forests
+
+Greenhouse gases (GHGs) play a key role in the Earth’s climate. Energy from the sun that passes through our atmosphere warms the surface of the Earth. Some of that energy radiates back towards space from the surface as infrared light. GHGs absorb or reradiate the infrared light, preventing the energy from travelling out into space, thereby trapping heat. Without GHGs, the planet would be too cold to sustain its current life. Increases in GHG levels could make the planet grow warmer. According to the current understandings of world climate, such warming would also change patterns of precipitation, the frequency and intensity of storms and extreme weather, sea levels and a plethora of related parameters of terrestrial ecology. Human understanding of the global climate system is still imperfect, so it is impossible to predict with precision how the climate will change in particular places. However, most scientists studying the subject predict that warming will significantly and for the most part adversely affect human society (IPCC, 2001).
+
+The concentrations of GHGs, notably of carbon dioxide (CO2), are clearly increasing owing to human activity. Industry now adds about 6.3 gigatonnes of carbon as CO2 to the atmosphere each year, and the destruction of forests contributes at least another gigatonne. The current concentration of CO2 in the atmosphere, 370 parts per million (ppm), is about 35 percent higher than it was in pre-industrial times (280 ppm). Although the total amount of carbon in the atmosphere is enormous (around 750 gigatonnes), anthropogenic activities are clearly causing very significant increases (American Petroleum Institute, 1999).
+
+In nature, GHGs are constantly entering and leaving the atmosphere. The oceans exchange CO2 and other GHGs with the atmosphere and hold CO2 dissolved or precipitated out in sediments. Actively growing trees and other plants capture CO2 from the atmosphere, combine it with water through photosynthesis and create sugars and more stable carbohydrates. They may store a significant part of the carbon absorbed for appreciable lengths of time, from years to millennia. Carbohydrates become the building blocks and energy supply for most of life on Earth. Eventually, when plants and animals die, CO2 returns to the atmosphere. When wood products or other organic materials burn or decompose, they also release CO2.
+
+The effect of GHGs on climate is truly international. The most damaging effects from many other air pollutants are short term and local, causing most harm near where they are released. Therefore, control of these effects is a local or regional concern. In contrast, GHGs cause global changes to climate. No matter where GHG emissions originate, they disperse throughout the atmosphere. To control GHG-induced climate change, we must curb GHG sources and enhance carbon sinks on a global scale.
+
+Justifiably, most attention has focused on fossil fuels and cement as the major source of greenhouse gases. However, forests have also received attention.
+
+Three classes of forest-related activity can affect GHG concentrations. The first is the establishment, enhancement or protection of forest ecosystems. Afforestation and reforestation of non-forested lands can increase, and prevention of deforestation can maintain, the amount of carbon held in forests. These are widely acknowledged as potential means of offsetting or reducing a part of anthropogenic GHG emissions. Their relatively low cost, compared with non-forest offset options, may make them economically attractive (Dayal, 2000). Humans can also vary the way they manage existing forests to increase the carbon storage on site. For example, selective cutting schemes, lengthened rotations, reduced-impact logging, and species choice may achieve a higher average level of sequestered carbon. Simply postponing or eliminating harvesting can sometimes be a short- to medium-term means to keep carbon sequestered (Schulze, Wirth and Heimann, 2000).
+
+The second is the enhanced use of forest products. Using wood in buildings and other long-lived objects effectively sequesters carbon for the life of the object. Substituting essentially carbon-neutral wood for energy-intensive materials such as brick, aluminium or steel may significantly reduce the use of fossil fuels, which of course release carbon dioxide when burned.
+
+The third is sustainable production of wood fuel from forests, which can displace fossil fuels. Although burning of biomass fuels releases CO2, the regrowth of a sustainably managed forest offsets that release. Thus, forest fuels can supply energy virtually without net contribution to GHG levels.
+Climate change agreements: origins and status
+
+The international community has responded to the challenge of climate change with a series of agreements. The United Nations Framework Convention on Climate Change (UNFCCC) was signed at the United Nations Conference on Environment and Development in 1992 and entered into force in March 1994. As of May 2004, 188 nations had ratified or acceded to the Convention (UNFCCC Secretariat, 2004a). The UNFCCC sets goals and objectives and outlines basic mechanisms for the climate change regime, but lacks many specifics, in particular quantified GHG reduction obligations. It calls for annual Conferences of the Parties (COPs) to work out further details of the international response. The first COP met in 1995; the ninth in December 2003 in Milan, Italy.
+
+The Kyoto Protocol was the product of the third COP (COP-3). The Protocol sets specific reduction targets and timetables for reducing net GHG emissions from industrialized nations. It has not yet entered into force. Article 25, paragraph 1 requires that the Protocol be ratified, approved, accepted or acceded to by at least 55 Parties, including developed nations (listed in Annex I of the UNFCCC) responsible for at least 55 percent of 1990 Annex I CO2 emissions. In March 2001, after a change of presidential administrations, the United States president declared that the United States was withdrawing its support for the Kyoto Protocol and that he would not seek to ratify it. The United States was responsible for about 36 percent of 1990 emissions from Annex I Parties. As a practical matter, if the United States continues to withhold support, the Russian Federation must ratify the Protocol or it will not enter into force. As of May 2004, 122 Parties had ratified the Protocol, but they represent only 44.2 percent of 1990 Annex I CO2 emissions (UNFCCC Secretariat, 2004b). In late May 2004, the Russian president stated that the Russian Federation was likely to ratify the Protocol. (For current ratification status, consult the UNFCCC Internet site www.unfccc.int .)
+
+The COPs continue to meet and produce agreements and draft agreements for the first session of the Conference of the Parties serving as the meeting of the Parties to the Kyoto Protocol (COP/MOP 1). The United States has not withdrawn from the UNFCCC and participates in the COPs, attending discussions on the Protocol as an observer. Forest issues have surfaced most prominently in COP-6, COP-6bis, COP-7 and COP-9, dubbed the “forest COP”. Meeting in The Hague, the Netherlands, in November 2000, COP-6 failed to reach agreement, mainly over several issues relevant to Land Use, Land-Use Change and Forestry (LULUCF). The Parties took the issues up again in July 2001 in Bonn, Germany (UNFCCC COP, 2001), in a meeting known as COP-6bis. This meeting produced a draft agreement (the Bonn agreement), which the Parties added to and adopted at COP-7 in Marrakesh, Morocco, in November 2001 as the so-called Marrakesh Accords. The decisions of COP-7 can be found in the four main documents produced at COP-7 (UNFCCC COP, 2002a; 2002b; 2002c; 2002d). The central agreement concerning LULUCF is Decision 11/CP.7 (UNFCCC COP, 2002a, pp. 54-63). This agreement is a recommendation, and the Parties to the Protocol must formally adopt it after the Protocol enters into force. However, like the Protocol itself, the agreement represents a working consensus of the Parties on these issues. The next section of this paper discusses forest-related obligations of the Parties as stated in the UNFCCC and the Kyoto Protocol. The subsequent section looks at some of the questions that the UNFCCC and the Protocol left open, and how COP-6, COP-7 and COP-9 have dealt with them.
+Forests under the UNFCCC and the Kyoto Protocol
+
+Understanding how the climate change agreements may affect forests is a complicated task. First, forests are integral to the global carbon cycle. Almost any reference to sinks or net emissions could have implications for forests. Second, the agreements themselves can be obscure. In the negotiations, consensus has at times been more important than clarity. Where the negotiators encountered controversial issues, they sometimes deferred decisions to later agreements or used ambiguous language. Third, although the later agreements add content to the earlier ones, the documents have no master index or table of cross-references to guide the researcher. As a result, the texts require patient cross-checking and careful scrutiny to understand.
+
+The discussion in this section outlines provisions relevant to forests in the UNFCCC and the Kyoto Protocol. The next section looks at the issues still open after Kyoto and how the Parties addressed them from COP-6 to COP-9. The reader wishing to have a more thorough understanding of the role of forests should investigate the full set of documents, all available on the UNFCCC Internet site (www.unfccc.int). In addition, the documents on the Intergovernmental Panel on Climate Change (IPCC) site (www.ipcc.ch ) address some of the technical issues concerning using, managing and measuring the carbon sink potential of forests.
+General obligations that may touch on forests
+
+The UNFCCC casts a broad net over the issue of climate change. Its Article 1 definitions illustrate that breadth. “Climate system” means “the totality of the atmosphere, hydrosphere, biosphere and geosphere and their interactions”. “Reservoir” means “a component of the climate system where a greenhouse gas or a precursor of a greenhouse gas is stored.” Clearly, forests and wood products are reservoirs. The terms “source” and “sink” also have broad definitions. Sources are processes or activities that contribute GHGs to the atmosphere, and sinks are processes, activities, or mechanisms that remove them. Forests may qualify as either or both depending on whether they are releasing, removing or both releasing and removing GHGs. The term “emissions” is defined without regard to the nature of the source, so that a forest may be a source of emissions just as surely as a factory or a vehicle.
+
+Article 3 of the UNFCCC declares the basic principles of the Convention, and again it paints in broad strokes. Under paragraph 3, it declares that policies and measures to combat climate change should “be comprehensive, cover all relevant sources, sinks and reservoirs of greenhouse gases … and comprise all economic sectors”. Clearly, this language covers forests and forest management.
+
+For most nations looking to adopt implementing legislation, the key provisions of the UNFCCC begin with Article 4, dealing with commitments of the Parties. Article 4 contains two sets of commitments. The first set, in paragraph 1, applies to all Parties. The second set, in the subsequent paragraphs, largely describes commitments of “Annex I” or “Annex II” nations. Annex II of the UNFCCC lists the major nations of Western Europe, plus Australia, Canada, Japan, New Zealand, Turkey and the United States. Annex I lists the Annex II nations plus several European nations that were in transition to a market economy in 1992 when the treaty was written: from the former Union of Socialist Soviet Republics, the Russian Federation, Belarus, Estonia, Latvia, Lithuania and Ukraine; and from Eastern Europe, Bulgaria, Czechoslovakia, Hungary, Poland and Romania.
+
+Under Article 4, paragraph 1 of the UNFCCC, all Parties must:
+
+      • develop and update inventories of emissions and removals of GHGs (these include emissions from deforestation and removals from forest growth and also emissions from the burning or decomposition of forest products);
+
+      • develop programmes to mitigate climate change, including efforts to address emissions and sinks, which would include forests and their soils;
+
+      • promote technologies that lead to lower GHG emissions (this subparagraph of the UNFCCC specifically mentions the forestry sector);
+
+      • promote sustainable management of sinks and reservoirs (again, the UNFCCC specifically mentions forests);
+
+      • prepare to adapt to the impacts of climate change, and develop appropriate plans for areas that might be affected by flooding, drought, or desertification. (Although the UNFCCC does not expressly mention forests, with this requirement, they are a special concern - trees cannot migrate as some animals can; they can be extremely sensitive to changes in temperature, precipitation and evaporation; and their long lives make them vulnerable to changes in climate that occur over the course of decades.)
+
+Obligations of developed country Parties
+
+The UNFCCC drafters reasoned that because the Annex I nations were responsible for most of the increases in atmospheric GHG concentrations, they should bear a greater burden in reducing GHG emissions and increasing sinks. Under Article 4 of the UNFCCC, these nations committed themselves to adopting policies to limit GHG emissions and protect and enhance sinks and reservoirs. Specifically, these policies were originally aimed at returning net emissions to 1990 levels.
+
+Obligations under the Kyoto Protocol are stronger and much more specific. Kyoto Protocol Article 2 directs Annex I nations to protect and enhance sinks and reservoirs; promote sustainable forest management, afforestation and reforestation; and reduce incentives and subsidies that run counter to the objectives of the UNFCCC. Kyoto Protocol Article 3 tightens the UNFCCC’s emissions goal, calling for a reduction of aggregate emissions of the countries listed in Annex B to 5 percent below 1990 levels during a first commitment period. Annex B of the Kyoto Protocol contains a slightly revised list of UNFCCC Annex I nations.1 Each nation in Annex B has a specific net emissions target expressed as a certain percentage of 1990 emissions. For most countries the reduction target lies between 92 and 94 percent, while the Russian Federation and New Zealand committed themselves to a stabilization of emissions, and Australia, Iceland, and Norway are allowed to increase their emissions by a certain percentage above the 1990 level. (Member States of the European Community have agreed to achieve compliance jointly [Council of the European Community Decision of 25 April 2002] and have internally redistributed assigned net emissions under a burden-sharing agreement, which allows increases for some members but reduces permissible emissions of others by more than 20 percent.)
+
+Further, Article 3 of the Kyoto Protocol sets out a time frame for achieving these reductions. The formal commitment period is the five-year span from 2008 through 2012. Parties must show progress towards the goal by 2005.
+
+What role may forests play in meeting these reductions? The Protocol limits which forestry activities count towards fulfilment of treaty obligations. Article 3, paragraph 3 of the Kyoto Protocol states:
+
+        The net changes in greenhouse gas emissions by sources and removals by sinks resulting from direct human-induced land-use changes and forestry activities, limited to afforestation, reforestation and deforestation since 1990, measured as verifiable changes in carbon stocks in each commitment period, shall be used to meet the commitments under this Article of each Party included in Annex I [emphasis added].
+
+Other kinds of forest activity might affect net GHG emissions. One example is forest management. Longer rotations, specific tree species and silvicultural systems, selective harvesting, maintenance of large trees on-site as soil shelter or exclusion of fire and disease might make a forest a larger and more permanent carbon sink. Another example is forest protection. By legal or institutional controls over land use, a government can protect land that would otherwise be likely to be deforested. Article 3, paragraph 4 of the Protocol states:
+
+        The Conference of the Parties [shall decide] how, and which, additional human-induced activities related to changes in greenhouse gas emissions by sources and removals by sinks in the agricultural soils and the land-use change and forestry categories shall be added to, or subtracted from, the assigned amounts for Parties included in Annex I.… Such a decision shall apply in the second and subsequent commitment periods [i.e. after 2012]. A Party may choose to apply such a decision on these additional human-induced activities for its first commitment period [2008 to 2012], provided that these activities have taken place since 1990.
+
+As is discussed below, COP-7 reached a decision that the additional human-induced forest activities under Article 3, paragraph 4 include forest management, cropland management, grazing land management and revegetation (UNFCCC COP, 2002a, p. 59, ¶ 6).
+Flexible mechanisms
+
+Several provisions in the UNFCCC and Kyoto Protocol allow nations to achieve GHG emission reductions or enhancement of sinks cooperatively. As a general matter, the UNFCCC commits the most highly developed nations, listed in Annex II, to give developing countries financial and technical assistance to implement the Convention and deal with the effects of climate change. UNFCCC Article 4, paragraphs 3 through 5, obligates the developed nations to assist developing nations through funding for emissions reductions, funding for adaptation to adverse effects and transfer of environmentally sound technologies.
+
+The UNFCCC offers the possibility that Parties can satisfy some of their own obligations to reduce GHG emissions by helping other Parties reduce emissions. The UNFCCC states that Annex I Parties can return to their 1990 GHG emission levels “individually or jointly” (Article 4, subparagraph 2[b]) and that Parties could implement national climate change mitigation policies jointly (Article 4, subparagraph 2[a]). The European Union has employed this article in setting up its internal burden-sharing system (see EU Council Decision of 25 April 2002 [2002/358/CE]). At the time it was signed, the Parties had some internal disagreements about the role of Joint Implementation (JI). The Convention expressly directed the Conference of the Parties to develop criteria for JI (Article 4, subparagraph 2[d]). The Parties agreed to a pilot phase to test the feasibility of activities implemented jointly (AIJ).
+
+The Kyoto Protocol begins to set up a framework for the transfer of emission permits between Parties, but it leaves some uncertainties. Articles 4, 6, 12 and 17 of the Protocol contemplate flexible mechanisms of compliance. Article 4 deals with the possibility that a group of Annex I Parties or a regional economic integration organization could jointly fulfil their reduction commitment and how such a so-called “bubble” affects the reduction obligations of the Protocol. Article 6 allows Annex I Parties to transfer “emission reduction units” generated through JI projects and allows Parties to authorize “legal entities” to participate in these transfers. Eligible JI projects include all LULUCF activities allowed under Article 3, paragraphs 3 and 4.
+
+Kyoto Protocol Article 12 introduces the Clean Development Mechanism (CDM), originally a part of AIJ. The CDM is an instrument under the authority of the COP and supervised by an Executive Board. CDM projects will typically involve Annex I countries as investors and non-Annex I Parties as hosts, essentially joint ventures between developed and developing countries. However, the trading rules do not explicitly require CDM projects to be financed by developed countries; developing countries can initiate their own projects to create certified emission reductions and then sell them to Annex I Parties (Unilateral CDM). Reductions resulting from these projects, beginning in the year 2000, count towards satisfying an Annex I Party’s obligations to reduce aggregate emissions during the years 2008 to 2012. An “operational entity” accredited by the COP must validate the project before implementation and verify the project’s emission reductions before the Executive Board can issue credits for the emission reductions achieved. CDM projects can be implemented in the energy sector as well as in the LULUCF sector. In the CDM, however, the latter are restricted to afforestation and reforestation projects only. Forest management and conservation, as well as carbon sequestration in agriculture, remain excluded from the CDM for the first commitment period.
+
+Finally, Kyoto Protocol Article 17 directs the COP to define the rules for emissions trading among Annex B Parties.
+Clarifications from COP-6 to COP-9
+
+The UNFCCC and Kyoto Protocol left open some important questions concerning LULUCF activities:
+
+      • Accounting. How should Parties quantify the amount of carbon removed through forest sink activities? How can the Parties measure the effect of these activities reliably? Once the removal is measured, how should Parties keep track of it and report it?
+
+      • Activities. What activities qualify as “direct human-induced land-use change and forestry activities” under Kyoto Protocol Article 3? More specifically, what do the terms “afforestation”, “reforestation” and “deforestation” mean, as used in Article 3, paragraph 3, and what other forestry activities can offset emissions under Article 3, paragraph 4?
+
+      • Limits. Should there be a limit on how much credit a Party can claim for its LULUCF activities? For example, could a Party rely entirely on forest sinks to achieve its emission goals?
+
+      • Cooperation. What rules apply to forestry projects under the flexible mechanisms, including Article 6 on Joint Implementation, Article 12 on Clean Development Mechanism and Article 17 on emissions trading? Are there any limits on the amount of credit that a Party may claim for projects in other countries?
+
+Accounting
+
+How to measure the carbon removed through forest activities is largely a technical matter, although it has policy implications. Human knowledge of the carbon cycle is imperfect, and so policy-makers face uncertainties. How does forest management affect carbon in forest soils? If trees are harvested and the wood is used for fibre, how long will the carbon in the wood remain out of the atmosphere? If we cannot answer questions like these with certainty, how should we grant credit for forestry activities that raise these kinds of question?
+
+COP-6 and COP-7 did not offer complete answers to these questions, but they did provide some basic guiding principles and relevant definitions, and they mapped out a means for filling in missing details. Eight policy principles governing the treatment of LULUCF activities (UNFCCC COP, 2002a, p. 56, ¶ 1) can be found in the COP-7 Decision 11/CP.7 and include the following:
+
+      • “That the treatment of these activities be based on sound science.” This seems to be a straightforward statement. However, it may imply acting conservatively where the science is uncertain.
+
+      • “That consistent methodologies be used over time.” This too would seem to be straightforward. However, the principle is potentially in conflict with the previous principle: What happens if new science shows that old methods have flaws?
+
+      • “That the mere presence of carbon stocks be excluded from accounting.” Storing carbon at constant levels does not affect the climate, but changing the amount of stored carbon makes for a source or a sink and affects the amount of GHG in the atmosphere.
+
+      • “That accounting for [LULUCF] does not imply transfer of commitments to a future commitment period.” The sink effect of forestry activities is usually non-permanent, as far as the individual tree or a single stand of trees is concerned. For example, when land is afforested, the trees sequester carbon in biomass. If the trees or individual stands are then harvested, allowed to die naturally or succumb to a calamity and the land remains treeless, the wood, stumps, roots, litter and accumulated soil organic matter will eventually decay, releasing carbon back into the atmosphere. Only temporary storage was achieved. This principle seems to call for activities that achieve a permanent, or at least indefinite, removal of GHGs. Ongoing, sustainable forest management would qualify, as it maintains growing stock on a site in the long term. But what if an afforestation project does not provide for subsequent sustainable management? As discussed below, Parties have addressed this issue through temporary carbon credits, essentially a form of carbon leasing.
+
+      • “That reversal of any removal … be accounted for at the appropriate point in time.” Again, this principle speaks to the reversible nature of forest sinks and the obligation to immediately offset any releases of carbon previously accounted as a removal. Therefore, Parties decided that upon their expiration, all temporary credits must immediately be replaced by new temporary or permanent credits.
+
+      • “That accounting excludes removals resulting from (i) elevated carbon dioxide concentrations above their pre-industrial level; (ii) indirect nitrogen deposition; and (iii) the dynamic effects of age structure resulting from activities and practices before the reference year.” Parties did not want anyone claiming an unearned benefit from forestry. Elevated carbon dioxide levels enhance tree growth if photosynthesis and tree increment are limited by the natural CO2 concentration of the air. A Party may not claim benefits from this side effect of pollution. Also, Parties may not claim benefits from forest activities that occurred before 1990. As far as afforestation, reforestation and deforestation are concerned, the rules in Article 3, paragraph 3 are clear: activities started before 1990 cannot earn credits during the first commitment period. How to treat management of forests that existed before 1990 is more complicated. In almost all Annex I countries, these forests have an uneven age-class structure with young, rapidly growing stands predominating. It is not management since 1990 that will produce the majority of carbon sequestration occurring during the commitment period in these forests, but simply business-as-usual management and the existing age structure. By restricting the amount of credits that most Annex I countries may earn for “forest management” in forests that existed before 1990 to roughly 15 percent of actual national forest carbon increment, Parties found a practical solution to this vexing problem. Much higher allowances were granted to some countries, e.g. Japan, Canada, and the Russian Federation, for political reasons related to ratification.
+
+On technical matters of carbon measurement and reporting, COP-7 adopted in principle accounting methods set out in the IPCC’s Revised 1996 Guidelines for National Greenhouse Gas Inventories (UNFCCC COP, 2002a, p. 57, ¶ 3, adopting IPCC, 1996). COP-7 also invited the IPCC to elaborate such guidelines for the land use and forestry sector and develop special reports on good practice guidance and uncertainty management, human-induced forest degradation and separation of direct human-induced effects from indirect and natural effects to be submitted for consideration and adoption by COP-9 (UNFCCC COP, 2002a, p. 55, ¶ 3).2 COP-9 only partially adopted the IPCC’s Good Practice Guidance for Land Use, Land-Use Change and Forestry (GPG-LULUCF)3 in December 2003 (UNFCCC COP, 2004a, pp. 31-32, adopting IPCC, 2003, in part). No agreement could be reached on the Kyoto-relevant chapter relating to Article 3, paragraphs 3 and 4, Article 6 (Joint Implementation) and Article 12 (Clean Development Mechanism). COP-10 will reconsider the matter.
+
+COP-7 also adopted a series of definitions and guidelines for Kyoto Protocol Article 3, paragraphs 3 and 4 (UNFCCC COP, 2002a, pp. 58-64). These address both accounting and activity questions (the relevance of the definitions for activity questions is discussed further below).
+
+For accounting purposes, a key definition is that of “forest” (UNFCCC COP, 2002a, p. 58, ¶ 1[a]):
+
+        “Forest” is a minimum area of land of 0.05 to 1.0 hectares with tree crown cover (or equivalent stocking level) of more than 10 to 30 percent with trees with the potential to reach a minimum height of 2 to 5 metres at maturity in situ. A forest may consist either of closed forest formations where trees of various storeys and undergrowth cover a high proportion of the ground or open forest. Young natural stands and all plantations which have yet to reach a crown density of 10 to 30 percent or tree height of 2 to 5 metres are included under forest, as are areas normally forming part of the forest area which are temporarily unstocked as a result of human intervention such as harvesting or natural causes but which are expected to revert to forest…
+
+Where the definition specifies ranges, such as 0.05 to 1.0 hectares, the COP intends each Party to select a figure within the range and then apply it consistently in its accounting. The COP directs each Party to report the figures it selects, but does not specify how a Party should make its selection, apart from requesting a plausible explanation if Parties deviate from parameters for minimum area, crown cover, and height previously chosen for reporting forest area to FAO (see UNFCCC COP, 2002a, p. 61, ¶ 16). For many Parties, the selection will be an administrative matter and will follow existing law or practice. However, Parties could also make their selection directly through legislation. Even Parties making the choice administratively may wish to indicate in legislation which administrator has the authority to make the selection, which formalities should be followed to make it or which standards should guide the administrator’s choice.
+
+The above definitions and principles all appear in a single decision of COP-7, Decision 11/CP7, which focuses on LULUCF. Other COP-7 decisions deal with general matters but also have strong implications for forestry activities, as the procedures and rules applying to forestry must match the general regime of climate change mitigation established for other sectors.
+
+COP-7 Decisions 16/CP.7, 17/CP.7, 18/CP.7 and 19/CP.7 provide common definitions for a set of cooperative implementation terms that may eventually be used generally in accounting and compliance reports (UNFCCC COP, 2002b, p. 8, ¶ 1; p. 26, ¶ 1; p. 52, ¶ 1; p. 57, ¶ 1). These terms include “assigned amount unit” (AAU), “emission reduction unit” (ERU), “certified emission reduction” (CER) and “removal unit” (RMU). AAUs represent the amount of net GHG emissions assigned to the respective Annex I country by its emissions target. CERs and ERUs are offsets resulting from project-based emission reductions. While CERs are created under the CDM (Article 12), ERUs result from Joint Implementation projects (Article 6). RMUs apply to sequestration achieved domestically in Annex I countries.
+
+The Marrakesh Accords identified issues concerning definitions and modalities for including afforestation and reforestation under the CDM to be elaborated by the Subsidiary Body for Scientific and Technological Advice (SBSTA) and considered for adoption by COP-9. One of the issues addressed was non-permanence4 of carbon sequestration in forests, which made it necessary to distinguish between credits generated by energy and forestry projects in the CDM. At COP-9, the Parties decided to account for this non-permanence by creating temporary credits that will have to be replaced if the stored carbon is released back into the atmosphere. Two different types of temporary credits have been created in the Kyoto framework: “temporary CERs” (tCERs) and “long-term CERs” (lCERs).
+
+These can both be used towards meeting Annex I commitments for the commitment period for which they were issued, and cannot be carried over to a subsequent commitment period. Verification of tCERs and lCERs occurs at five-year intervals. While a tCER expires at the end of the commitment period subsequent to the commitment period for which it was issued, an lCER is valid until the end of the project’s crediting period.5 If the carbon remains sequestered until the next verification, the same amount of tCERs can be issued for use in the following commitment period.6 Should the carbon, however, be released back into the atmosphere, the tCERs will have to be replaced by other credits at the end of the first commitment period. Should verification of carbon under the lCER approach show a decrease in carbon stocks since the previous certification report, the Annex I country holding the lCERs will have to replace the CO2 equivalents lost by an equal amount of other credits.7 In case no reverification is carried out, the respective lCERs expire immediately. Factors such as the respective project risks and market expectations will determine which of the two credit types will be preferred by the project participants. The relevant text concerning tCERs and lCERs can be found in UNFCCC SBSTA (2003) p. 5, ¶ 1 and pp. 13-15, ¶¶ 36-50.
+
+The basic unit of measurement for all these terms will be the same, unless modified by later decisions. In each case, the unit “is equal to one metric tonne of carbon dioxide equivalent, calculated using global warming potentials defined by [Decision 2 of COP-3] or as subsequently revised in accordance with Article 5” of the Protocol (UNFCCC COP, 2002b, p. 8, ¶ 1; p. 26, ¶ 1; p. 52, ¶ 1; p. 57, ¶ 1). This uniformity will make it easier to trade and track credits.
+
+Note that the COPs adopted these terms to apply to obligations of Parties. National laws, concerning the rights and obligations of individuals within a nation, may use other terms and units. However, Parties will need to be able to demonstrate compliance using the COP terms and units.
+
+COP-7 Decisions 19/CP.7, 20/CP.7, 21/CP.7 and 22/CP.7 deal with the annual reports and inventories of emissions and sources required under the Protocol. Decision 19/CP.7 requires Parties to submit a report describing some basic choices the Party has made regarding its compliance. These choices include the figures for minimum area, tree crown cover and height for use in defining “forest”; whether the Annex I Party will claim credits for forest management, grazing land management, cropland management and revegetation during the first commitment period (see the discussion of forest management and revegetation under “Activities” below); and whether the Annex I Party will report the net effect of LULUCF activities annually or for the entire five-year (2008-2012) commitment period (UNFCCC COP, 2002b, pp. 58-59, ¶ 8).
+
+Decision 19/CP.7 also requires each Party to establish a national registry to track ERUs, CERs, AAUs and RMUs (UNFCCC COP, 2002b, pp. 61-68, ¶¶ 17-48). As is discussed below in the section on market-related legal and institutional issues, national law could take a variety of approaches to the issue of who may claim to own forest removal credits. For example, the credits could be the property of no one yet claimed by the nation, or they could be private property that anyone could own. Each Party will want to organize its registry to reflect its ownership laws and institutions. The purpose of the registry requirement is to ensure accurate accounting of the various units, and the decision includes several provisions of potential interest to legislative drafters to discourage fraud and error. For example, registries must provide each RMU, CER or ERU with a unique serial number. Registries must coordinate with an international transaction log, which will track trades between Parties. Every Party’s registry must be open to public inspection through an Internet interface.
+
+Decision 22/CP.7 deals with supplementary information that Parties must include in their inventories to demonstrate compliance with the Protocol. Paragraphs 5 through 9 specifically address LULUCF activities (UNFCCC COP, 2002c, pp. 22-24). Most of the reporting requirements tie directly back to the principles and definitions in Decision 11/CP.7. For example, Parties must demonstrate that the claimed reductions resulted directly from human-induced activities. To address concerns about the reversible nature of LULUCF carbon sequestration, Parties must identify the location of lands involved and inventories in subsequent commitment periods must report on emissions and removals from those lands.
+
+COP-7 also adopted some general rules on trading of credits that will apply to all transactions, including those involving forests. These appear in Decisions 15/CP.7 through 18/CP.7, in the second volume of the COP-7 decisions (UNFCCC COP, 2002b). For a discussion of the implication of these rules for forests, see EcoSecurities Ltd (2001).
+Activities
+
+Article 3, paragraph 4 of the Kyoto Protocol directs the COP to decide which LULUCF activities, besides afforestation, reforestation and deforestation, ought to be counted towards the Parties’ net emission reduction commitments. COP-6 took up this issue, as well as the matter of defining afforestation, reforestation and deforestation more clearly. The issue of activities, in particular the issue of crediting for forest management of existing forests since 1990, proved to be highly controversial, and contributed greatly towards COP-6’s failure to reach overall agreement. COP-6bis and COP-7 took up these issues again and finally produced an agreement (for the status of issues at the end of COP-6, see UNFCCC COP, 2000; for more on the politics of these issues, see Vespa, 2002).
+
+The key decision of COP-7 regarding sink activities was that besides afforestation, reforestation and deforestation Parties could claim credit for net removals of GHGs from “forest management”, “cropland management”, “grazing land management” and “revegetation” (UNFCCC COP, 2002a, p. 59, ¶ 6). The principles and definitions that COP-7 adopted help explain what this means.
+
+COP-7 adopted a general environmental protection principle in response to concerns that managing lands for carbon sequestration could lead to short-sighted, unsustainable forest uses, including the destruction of natural forests: “That the implementation of [LULUCF] activities contributes to the conservation of biological diversity and sustainable use of natural resources” (UNFCCC COP, 2002a, p. 56).
+
+COP-7’s definition of “forest management” reflects this principle (UNFCCC COP, 2002a, p. 58). Forest management is:
+
+        a system of practices for stewardship and use of forest land aimed at fulfilling relevant ecological (including biological diversity), economic and social functions of the forest in a sustainable manner…
+
+This definition seems to cover forestry for timber production and also many kinds of management for non-commodity uses. It seems to include protective management of natural forests, but excludes carbon stock changes in truly unmanaged forests from accounting. For the proper understanding of the environmental impact of the forest management activity in the Marrakesh Accords, it is essential to realize that additional management activities, for example, specific projects that enhance carbon sequestration in Annex I domestic forests, are not a prerequisite for obtaining credits. Credits may accumulate from business-as-usual forest management, as long as Parties choose forest management as an activity under Article 3, paragraph 4. On the other hand, countries may establish an internal national regime, where they allocate credit and payments to forest owners commensurate with the carbon sequestered above and beyond business-as-usual management through additional activities, such as lengthening of rotations, species choice or underplanting of existing stands.
+
+COP-7 also adopted definitions of afforestation, reforestation and deforestation (UNFCCC COP, 2002a, p. 58). For the most part, these definitions are broad. Where they exclude some activities, the excluded activities often fall within
+the definition of another term. For example, the definition of “afforestation” is limited to:
+
+        direct human-induced conversion of land that has not been forested for a period of at least 50 years through planting, seeding and/or the human-induced promotion of natural seed sources.
+
+If the land has been forested within the last 50 years, planting or seeding may qualify as “reforestation”, defined as:
+
+        the direct human-induced conversion of non-forested land to forested land through planting, seeding and/or the human-induced promotion of natural seed sources, on land that was forested but that has been converted to non-forested land. For the first commitment period, reforestation activities will be limited to reforestation occurring on those lands that did not contain forest on 31 December 1989.
+
+If the land did contain forest on 31 December 1989, the activity still might fall under the term “forest management”, as defined above. The phrase “human-induced promotion of natural seed sources”, probably meant to cover human-assisted natural succession on non-forest land to forest, may reflect a poor or deliberately ambiguous choice of words. Applied literally, it would exclude natural forest re-establishment through root sprouting or branch layering, common in many species.
+
+COP-7 also decided to allow Parties to claim credit for GHG removal from “revegetation”. Revegetation includes any increase in carbon stocks on sites of 0.05 hectares or greater through human-induced establishment of vegetation. This opens the door for claiming credit for scattered urban tree planting, roadside tree management, and some forms of agroforestry that do not result in “forest”. It would also allow crediting the establishment of shrubs and non-woody vegetative cover, for example, soil amendment through lupines.
+
+The one common requirement of these definitions is that the activity be directly human-induced. Parties may not claim credit for purely natural changes to forest.
+
+As mentioned above, cropland management and grazing land management are also eligible LULUCF activities under Article 3, paragraph 4.
+Limits
+
+At COP-6, Parties debated forest management’s role in meeting emission reduction commitments. Some Parties opposed allowing forest management activities to count towards the initial Kyoto Protocol commitments. They argued that the Protocol drafters assumed that the Parties would meet the commitments largely through emission reductions at the sources. To allow Parties with large forest holdings to meet commitments through forest management would be unfair and only marginally helpful to the purpose of the UNFCCC. The nations with large forest holdings argued strongly that they would have difficulty ratifying the Protocol if the COP excluded forest management.
+
+In the end, COP-6 and COP-7 reached a compromise, allowing forest management to count, but limiting the amount of credit that a Party could claim from forest management during the first commitment period (the years 2008 through 2012) (Vespa, 2002). Debits under Article 3, paragraph 3 can be offset through forest management up to a limit of 9 Mt of carbon per year times five (UNFCCC COP, 2002a, p. 60, ¶ 10). Beyond these 9 megatonnes (Mt) of carbon per year, forest management activities can be accounted for up to certain limits negotiated individually for each Party, which are listed in the Marrakesh Accords (UNFCCC COP, 2002a, p. 60, ¶¶ 10-12 and pp. 63 & 64). As the size of each country’s cap is a product of a political negotiation process, some countries fared better than others. Notably, Canada, Japan and the Russian Federation may include large quantities of sink credits in their GHG emissions accounts, whereas other countries generally received a maximum credit of about 15 percent of the carbon sequestration in the nation’s managed forests, as estimated in the FAO Global Forest Resource Assessment for the year 2000.
+
+Can a Party carry over unused credits from LULUCF removals to subsequent commitment periods? In general, if a Party’s emissions are less than the assigned amount under the Protocol in one commitment period, it can claim credit for that better-than-required performance in a subsequent commitment period (Protocol Article 3, paragraph 13). However, the Protocol language only refers to emissions. COP-7 decided that the language excludes removals. A Party cannot carry over unused offsets from carbon removals8 into subsequent commitment periods (UNFCCC COP, 2002b, p. 61, ¶ 16). Since all the different offsets are fungible, Parties will probably use the non-bankable removal offsets for compliance in the first commitment period and carry over to the next commitment period the bankable offsets. Thus, the restriction on the bankability of removal offsets should not substantially limit the carrying over of offsets.
+Clean Development Mechanism
+
+COP-6bis and COP-7 addressed one key flexible instrument as it specifically applies to forests: acquiring credits under the Clean Development Mechanism (CDM), described in Article 12 of the Kyoto Protocol. When the Protocol was drafted, developing nations saw Article 12 as encouraging developed nations to share modern, efficient industrial technology as a means of gaining credits. However, investments in forestry yield credits more cheaply than investments in industrial technology. Developing countries feared that the CDM could result in large areas of their lands being committed to forest use, slowing rather than speeding their economic development. Worse, the conversion could cause harm if rare non-forest habitats became forests, if diverse natural forests became uniform managed plantations, or if new forest plantations excluded rural populations from traditional land uses.
+
+The agreement drafted at COP-6bis and adopted at COP-7 limits CDM LULUCF projects to afforestation and reforestation. Furthermore, for the first commitment period (the years 2008 through 2012), the credit that a Party can claim from LULUCF projects under the CDM is 1 percent of the Party’s base year (1990) emissions, times five. The “times five” language reflects the five-year length of the commitment period. The Kyoto Protocol calls for Parties to
+reduce their annual emissions 5 percent below 1990 emissions. The COP agreement means that over the five years, one-fifth of the reduction can come from CDM LULUCF projects. Future COPs must decide how to treat CDM LULUCF projects after 2012. (The relevant language on these issues is in UNFCCC COP, 2002a, pp. 60-61, ¶¶ 13-15, echoed in UNFCCC COP, 2002b, p. 22, ¶ 7.)
+
+Overview of rules and modalities relating to LULUCF
+under the Kyoto Protocol
+
+A four-tier system capping system limits the extent to which Parties can account for emissions and removals from LULUCF activities:
+
+            1. If a Party’s activities under Article 3.3 lead to a debit, meaning that afforestation, reforestation and deforestation activities cause more emissions than removals, the Party is allowed to offset the emissions through forest management up to a limit of 9 Mt of carbon per year times five (UNFCCC COP, 2002a, p. 60, ¶ 10).
+
+            2. Beyond these 9 Mt of carbon per year, forest management activities can be accounted for up to an individual cap for each Party that is listed in the Marrakesh Accords (UNFCCC COP, 2002a, p. 63).
+
+            3. Emissions and removals from cropland management, grazing land management and revegetation can be accounted for on a net basis (UNFCCC COP, 2002a, pp. 59-60, ¶ 9).
+
+            4. Under the Clean Development Mechanism, only afforestation and reforestation are eligible. The use of forestry credits generated under the CDM by Annex I Parties is limited to 1 percent of the respective Party’s base year emissions for each year of the commitment period (UNFCCC COP, 2002a, p. 61, ¶ 14).
+
+Although COP-7 produced general definitions of afforestation and reforestation, it requested the SBSTA to recommend “definitions and modalities for including afforestation and reforestation projects under [the CDM] in the first commitment period [2008-2012]” to the COP (UNFCCC COP, 2002a, pp. 5-6, ¶ 2 and 2002b, p. 22, ¶ 10). Issues for the SBSTA to address included definitions, non-permanence, leakage, additionality, uncertainties and socio-economic and environmental impacts, including impacts on biodiversity and natural ecosystems. In decision 19/CP.9 (UNFCCC COP, 2004b, pp. 13-31), COP-9 adopted the SBSTA recommendations (UNFCCC SBSTA, 2003), thus paving the way for the implementation of CDM forestry projects. The following summarizes the most important COP-9 decisions regarding forestry in the CDM:
+
+      • The definitions of forest, afforestation and reforestation under Article 3, paragraphs 3 and 4 will also apply to the CDM.
+
+      • There will be a longer crediting period for forestry projects in order to account for the long economic rotations in forestry. As in the text relating to energy projects, two options are available.9 The project developer can choose a crediting period of either 20 years, renewable twice, or a crediting period of 30 years which cannot be renewed. Therefore, the maximum length of a crediting period will be 60 years.
+
+      • Two types of temporary credit have been created to account for the non-permanence of carbon sequestration through forestry projects.
+
+      • Sustainability criteria for forestry projects have been very controversial. As in the climate regime host countries have the prerogative to define sustainability criteria, no list of criteria or prohibited projects, e.g. those involving invasive alien species or genetically modified organisms (GMOs), exists. A rather general wording in the preamble states that host countries and Annex I buyers of forestry credits evaluate, in accordance with their national laws, risks associated with the use of potentially invasive alien species and GMOs. Furthermore, the project documentation has to include a detailed description of project characteristics as well as an analysis of socio-economic and environmental consequences in order to make this information available to the general public. However, a socio-economic or environmental impact assessment study is not obligatory (UNFCCC SBSTA, 2003, p. 2; p. 7, ¶ 12(c); pp. 18-19, Appendix B).
+
+      • Fixed costs and transaction costs may seriously burden CDM projects, particularly in the forestry sector, where designing, registering, measuring, monitoring and certifying may be expensive. To help smaller projects cope, small-scale energy projects benefit from simplified modalities and procedures. According to the COP-9 agreement, simplified rules and procedures will apply to forestry small-scale projects that are expected to result in net anthropogenic greenhouse gas removals by sinks of less than 8 Kt of CO2 per year and are developed or implemented by low-income communities and individuals, as determined by the host party (UNFCCC SBSTA, 2003, p. 5, ¶ 1[I]). COP-9 invited Parties to submit suggestions on how to simplify modalities and procedures for small-scale projects, for consideration by COP-10 in December 2004 (UNFCCC COP, 2004b, p. 14, ¶¶ 4-6).
+
+      • A technical paper prepared by the UNFCCC Secretariat in 2003 summarizes the status quo of the discussion on how to account for carbon sequestered in harvested wood products (UNFCCC Secretariat, 2003). SBSTA is continuing to consider this issue, although it is unlikely to be included in the first commitment period.
+
+Complications for potential national legislation
+
+What approach might legislatures use to promote and regulate the use of forests as carbon sinks, reservoirs and sources of environmentally friendly products and renewable energy? The complexities of the UNFCCC and Kyoto Protocol and the nature of forest mitigation make it difficult to give a general answer to this question.
+
+First, the UNFCCC and the subsequent Kyoto Protocol create different obligations for different Parties. Because the developed nations have historically emitted the majority of GHGs believed to drive climate change, they bear the primary burden of reducing emissions or sequestering carbon under the UNFCCC. Some of the more extensive legal reforms will probably have to occur in these nations.
+
+The developing nations will face different sets of compliance questions, many arising out of projects undertaken in the framework of the CDM or in the context of reporting on forest carbon stock changes in national communications. Solving these questions may require a wide set of legal and institutional approaches. Some of the issues may be conventional matters of improving forest conservation protection and assessment. Some may involve new ways of looking at property ownership, land use, social and environmental impact, forest management and forest inventories.
+
+Second, questions remain about the longer-term role of forestry as mitigation. COP-7 and COP-9 have gone a long way to answer some open questions, especially as they apply to the first commitment period of the Kyoto Protocol, 2008 to 2012. But technical issues and issues concerning the treatment of forests in subsequent commitment periods remain completely open.
+
+Third, the legal issues concerning mitigation through forests will overlap with the legal issues concerning mitigation and compliance generally. For example, a Party may wish to set up a GHG emissions trading system that deals with all kinds of sinks and all kinds of sources, from farms to factories, not just forests. As discussed in more detail in the third chapter of this paper, countries will encounter some legal issues that are unique to forests and others that apply to a broad range of sources and sinks. Some legal issues may be seen as “forest law” matters while others may be considered issues of property law or laws governing investments and financial transactions.
+
+Fourth, the direction of legislation will vary depending on the local legal system and institutions. A legal system that recognizes social property and community ownership will offer different options from one that does not. In a society where the fiscal institutions are weak or untested, it may be impractical to establish mitigation programmes based on market trading. These kinds of problem are familiar to legislative drafters, but GHG mitigation may raise them in new contexts.
+
+Fifth, the role of national legislation in compliance is still unclear. Do countries really need new laws? Only a few countries have made legislative changes in response to climate change concerns. Others have responded through policy changes and administrative acts under existing laws rather than through new legislation. As the international response continues, with experience gained and deadlines approaching, legislation may become more important.
+
+1 Not listed in Annex B are Belarus and Turkey.
+
+2 Only the part on factoring out direct human-induced changes from indirect human-induced changes and natural effects will be considered for possible adoption by COP 10.
+
+3 The GPG-LULUCF includes the methods to estimate, measure, monitor and report changes in carbons stocks and anthropogenic emissions and removals from LULUCF, as well as the Good Practice Guidance and uncertainty management relating to these.
+
+4 Other issues include additionality, leakage, uncertainties and socio-economic and environmental impacts, including impacts on biodiversity and natural ecosystems.
+
+5 In case a renewable crediting period was chosen, it expires at the end of the last crediting period of the project activity. Considering the available options for the length of the crediting period, the maximum validity of an lCER can be 60 years.
+
+6 If the sequestration has increased since the last verification, the amount of tCERs issued will increase by that amount.
+
+7 If the sequestration has increased since the last verification, new lCERs valid until the end of the project’s crediting period are issued.
+
+8 Carbon credits from removals include RMUs, tCERs and lCERs.
+
+9 For energy projects the crediting period is either seven years with the option to renew twice (maximum of 21 years) or a ten-year period without renewal.
+
+2. Some national legal responses
+
+As one authority described them, the national responses to climate change have been a mile wide and an inch deep (Mark Trexler, quoted in Anonymous, 1998). Parties to the UNFCCC have produced detailed reports on their activities. In many cases, however, the reports do not reflect activities initiated through new legislation. Rather, the reports describe ongoing efforts that incidentally may have beneficial effects on climate change. In some nations, the most striking new initiative is simply the effort to produce the report itself.
+
+Recent forest legislation in several countries has endorsed the use of forests as greenhouse gas sinks or declared a policy of forest-based mitigation. For example, Article 1 of the 1998 Forest Law of China includes adjusting the climate as a goal of the law. Article 1 of France’s Loi d’orientation sur la forêt (2001) declares that forest policy is a factor in fighting the greenhouse effect, and Article 7 encourages greater use of wood-based materials and fuels towards that end. The 1996 Ley Forestal of Guatemala notes fixation of carbon as one of the benefits that forests provide. Article 7 of Mexico’s Ley General de Desarrollo Forestal Sustentable (2003) includes capture of carbon among the environmental services that forests provide, and Article 33 includes carbon fixing as one of the factors that forest policy should promote.
+
+Nevertheless, to date few national laws have changed existing legal frameworks or introduced new mechanisms to encourage forest-based greenhouse gas mitigation. Some general forestry laws may have mitigation as an incidental purpose, but may result in activities indistinguishable from forestry carried out in traditional programmes. Some nations may have nothing in law that mentions forests as greenhouse gas sinks, but they can and do claim credit for business-as-usual forest-related carbon sequestration, which is carried out under laws and institutions that predate the UNFCCC.
+United States of America
+
+The United States of America offers an example of a national response that has focused more on policy than legislative change in the area of forests. The 2002 National Communication to the UNFCCC Secretariat (United States Department of State, 2002) describes a number of federal programmes that involve land use, forests or wood fuels. Many of these programmes pursue general conservation goals and do not have carbon sequestration as their main purpose. An example is the Conservation Reserve Program, which pays farmers to take excess lands out of production and return them to forest or other long-term conservation uses. Another example is the National Fire Plan, whose primary purpose is to reduce forest loss from catastrophic wildfires. In 2003, the United States enacted a major piece of forest legislation, the Healthy Forest Restoration Act (Public Law No. 108-148), which lists as one of its purposes to enhance carbon sequestration. However, its primary aim is to reduce the susceptibility of federal forests to catastrophic outbreaks of fire, insects and disease.
+
+Some of the programmes have a more specific focus on climate change. For example, the departments of agriculture and energy together run a research and demonstration programme for biomass fuels. This programme predates the UNFCCC and stems from a short set of climate change and agriculture provisions called the Global Climate Change Prevention Act of 1990 (Public Law No. 101-624, title XXIV, codified at 7 US Code §§6701-6710).
+
+A provision in a 1992 law encourages people to report voluntarily to the government any GHG reductions they create (Energy Policy Act of 1992, Public Law No. 102-486, §1605[b], codified at 42 US Code §13385[b]). The government may eventually recognize these reductions under future GHG reduction programmes. In 2001, the government’s database recorded 303 domestic and 66 international forestry projects, claiming a total sequestration of almost eight million metric tonnes of CO2 (United States Energy Information Administration, 2003).10
+
+As is often the case in the United States, the 50 state governments have been more willing than the federal government to adopt innovative laws. (For an overview of United States state and local actions, see Kosloff and Trexler [2004].) Although some state legislatures have passed non-binding resolutions opposing the Protocol, and a few have even passed laws forbidding state officials from adopting non-voluntary GHG reduction measures before the United States ratifies the Protocol (see, for example, the Kyoto Protocol Act of 1998, 415 Illinois Compiled Statutes 140/), several have looked for ways to limit their net GHG emissions. Naturally, some of these new laws involve forests.
+
+The state of California maintains a voluntary registry of GHG reductions achieved since 1990. In 2002, the state amended the registry law to require the registry to adopt procedures, protocols and criteria for monitoring, estimating, calculating, reporting and certifying carbon sequestration from conservation and conservation-based management of native forests, and to require the registry to refer forest owners to approved providers of advice on conservation and best management practices for native forest carbon reservoirs (2002 California Statutes ch. 423). Some other states have set up voluntary registries, as has the federal government, but California’s registry law is unusual in having specific forestry provisions.
+
+The state of Connecticut can include conditions in its air pollution permits that require the permit holder to plant trees or turf grass to offset CO2 emissions (Connecticut General Statutes §22a-174d).
+
+The state of Idaho, known for its agriculture, forested mountains and conservative politics, has established a Carbon Sequestration Advisory Committee. Its duties include recommending policies and programmes to promote non-industrial private forest landowner participation in carbon trading. The law creating the committee mentions the possibilities of developing emissions trading markets, encouraging creation of brokers or other trading intermediaries and production of educational materials for landowners. The law directs the chair of the committee to conduct an assessment of the carbon sequestration potential of agricultural and private-forest lands in the state. A few other states have set up such committees to look at carbon sequestration on agricultural lands, but Idaho’s law is unusual in expressly including forested lands (Idaho Code §§22-5201 to -5206).
+
+The state of Maine, a heavily forested state with an independent political bent, has adopted a “lead-by-example initiative”. The law sets state-wide goals for GHG emission reduction, calls for participation in a regional GHG registry and mandates creation of a climate action plan that allows sequestering GHGs through sustainably managed forestry, agriculture and other natural resource activities (38 Maine Revised Statutes §§574-578).
+
+The state of Minnesota has created a “releaf” programme “to encourage, promote and fund the planting, maintenance and improvement of trees … to reduce atmospheric carbon dioxide levels and promote energy conservation” (Minnesota Statutes §88.82). In a similar vein, the state of New Mexico has a general tree-planting programme created by a 1990 “Forest Re-Leaf Act”, whose findings speak of the benefits of sequestering carbon (New Mexico Statutes Annotated §§68-2-29 to -33).
+
+The state of Oregon, a major producer of forest products, has empowered its State Forester to act as a broker to register and market “forestry carbon offsets” from non-federal forests.11 The State Forester is to develop a carbon offset accounting system, and the State Board of Forestry may develop rules governing creation, measurement, verification and transfer of offsets (Oregon Revised Statutes §§526.780-.789). The State Forester may manage the state-owned forests, including forests set aside to generate income for the public schools, to create marketable carbon offsets (Oregon Revised Statutes §§530.050 and .500).
+
+Oregon has also integrated carbon sequestration into one of its reforestation efforts. The state has created a Forest Resource Trust to finance reforestation efforts on privately owned land in return for a limited interest in the income from commercial harvests (Oregon Revised Statutes §§526.700-.775). An administrative rule requires landowners using money from the trust to give the trust ownership of any carbon offsets created through the reforestation (Oregon Administrative Rules §629-022-0700[2]).
+
+The Oregon Public Utility Commission may allow electric utilities to create offsets through small-scale tree planting on “underproducing forest land” and pass the costs on to their customers (Oregon Revised Statutes §757.266). Oregon also considers CO2 emissions in deciding whether to allow construction of new electrical power generation plants (Oregon Administrative Rules §§345-024-0500 et seq.). In a recent plant approval, the state accepted the plant owner’s payment to the Forest Resource Trust as creating a quantifiable, verifiable offset (Cathcart, 2000).
+European Community
+
+The European Community (EC) offers another example of extensive reported activity (European Community, 1998) but relatively little new legislation specifically addressed to forests. The EC stands out as a Party to the UNFCCC, being a multinational entity rather than a single nation. It has authority to adopt regulations, which are binding on its member nations. The Council of the European Union has approved the Kyoto Protocol on behalf of the Community (Council Decision of 25 April 2002).
+
+The EC’s main legislative effort concerning forests is related to its Common Agricultural Policy (CAP). It adopted CAP in late July of 1992, not long after the UN Conference on Environment and Development where the UNFCCC was signed, but well before the EC ratified the UNFCCC in December 1993. The policy offers financial support for afforestation of agricultural land and silvicultural actions that may increase carbon sequestration. The EC also offers to share the cost of forest fire prevention projects, supports monitoring of fires and the effects of air pollution on forests, and supports general forestry research (European Community, 1998).
+
+More recent actions include contributions to COST E21, a major European research effort on forest carbon (see www.bib.fsagx.ac.be/coste21/info/action ); the establishment of a Working Group on Forest Sinks within the European Climate Change Programme (ECPP), which produced a set of detailed technical recommendations for implementation (ECPP Working Group on Forest Sinks, 2002); and a proposal by the Commission for a directive amending the directive for greenhouse gas emission allowance trading within the EC, in respect of the Kyoto Protocol’s project mechanisms. The latter may affect demand for CER from forestry CDM projects.
+Costa Rica
+
+Costa Rica offers an example of a more activist approach to GHG forest mitigation legislation. Not being an Annex I nation, Costa Rica has no quantified reduction goal for GHGs under the UNFCCC. However, its political stability and reputation for environmental stewardship have made it an attractive partner for AIJ pilot projects. Costa Rica has signed bilateral agreements concerning GHG projects with the United States, Norway, Switzerland, Finland, the Netherlands and Mexico.
+
+In 1995, Costa Rica created an Office on Joint Implementation (OCIC). OCIC came out of an agreement signed by the Ministry of Environment and Energy with two private sector groups representing industrial and financial interests and one non-governmental organization with expertise in forest protection.
+
+In 1996, Costa Rica passed a new forestry law (No. 7575). Article 69 of the law dedicates a third of the national tax on hydrocarbons for forest conservation. This income is to compensate for the environmental services that forests provide, including mitigation of gas emissions. Article 46 of the law creates the national forest finance fund (FONAFIFO). Article 22 of the law allows FONAFIFO to issue forest landowners certificates for forest conservation (CCBs) representing payment for environmental services. The landowners can use CCBs to pay taxes and other fees owed to the government.
+
+A 1996 executive decree set up a National Specific Fund for the Conservation and Development of Sinks and Deposits of Greenhouse Gases. Income from the sale of GHG mitigation services goes into the fund. The government spends the fund on the support of local AIJ projects.
+
+To make the offsets more attractive to potential investors, Costa Rica has created a tradable security, known variously as a Greenhouse Gas Mitigation Certificate or a Certifiable Tradable Offset (CTO). CTOs represent specific levels of GHG reduction or mitigation, expressed as equivalent amounts of carbon removed from the atmosphere. The government has designed the CTO to be independently verifiable and to meet any technical or procedural requirements of the UNFCCC.
+
+Costa Rica issued its first CTOs in 1997 to the Government of Norway and a consortium of private Norwegian companies. The CTOs represented credit for 200 000 metric tonnes of carbon offset through a reforestation and forest conservation project.
+
+Costa Rica also enacted a new law on the Use, Management and Conservation of Land in 1998 (Law No. 7779). The government, in a report on UNFCCC implementation activities, pointed to this law as promoting reforestation of degraded forests and preventing degradation of existing forests (Republic of Costa Rica, 1999). However, the text of the law does not appear to speak specifically to climate change issues.
+Australia
+
+In November 1998, the state of New South Wales in Australia passed the Carbon Rights Legislation Amendment Act (No. 124). This act aims to create a tradable interest in the carbon sequestration potential of forests. It recognizes a carbon sequestration right as a form of forestry right. Forestry rights are conveyable interests in land. They may create a profit à prendre. In the case of a carbon sequestration right, this is not a right to remove natural products from the land so much as a right to claim the benefits from the carbon sequestration. The act also recognizes that a forestry covenant associated with a property may provide access to or guarantee maintenance of the forest on land subject to a carbon sequestration right. The act expressly allows the state’s Forestry Commission and electricity generators and distributors to hold and trade carbon sequestration rights.
+
+According to Lee (2000), the state forestry agency in New South Wales has contracted with Tokyo Electric Power Company to sequester carbon in a “planted forest estate.” Planting the first year will cover 1 000 hectares, with between 10 000 and 40 000 hectares to be planted over the life of the agreement. Lee also reports that the Sydney Futures Exchange is working with the state government to develop a market for carbon credits.
+Canada
+
+Canada, with a vast forest resource, a commitment to implementing the Protocol and ten provincial governments, may become a laboratory for developing subnational legislative approaches relevant to forests. To date, however, new legislation has been limited.
+
+Alberta has passed a Climate Change and Emissions Management Act (Statutes of Alberta 2003 ch. C-16.7). The act defines sinks to include plants and soils and declares that sink rights are property rights, but beyond that it is short on specifics. It calls for the government to adopt regulations supplying many of the details, including “the manner in which and the terms and conditions subject to which emission offsets, credits and sink rights may be created, distributed, exchanged, traded, sold, used, varied and cancelled” (Act §5[b]).
+
+In 1998, eight provinces and the Federal Government of Canada entered into a memorandum of understanding creating a Greenhouse Gas Emission Reduction Trading (GERT) pilot project. GERT was designed to give members practical experience in emission reduction training and build the foundation for a possible future trading system. Several industry and environmental groups were also participants in the project, which is described in Bisson (2000) and on the GERT Web site (www.gert.org).
+
+Parties wishing credit for GHG reductions submitted proposals to GERT’s steering committee. Among other things, GERT required that GHG reductions had to be measurable and verifiable, and had to exceed any reductions mandated by law.
+
+GERT projects included reductions in emissions as well as sinks. One of the first projects reviewed by GERT involved substituting wood waste for natural gas to power industrial boilers at a facility in British Columbia. GERT’s other forest-related project involved carbon sequestration by the province of Saskatchewan’s Ministry of Environment and Resource Management. The ministry generated credits from new white spruce plantations and from establishing a new forest reserve on land formerly available for timber harvest and traded them to SaskPower, an electric utility. GERT’s pilot project phase ended in June 2002, and it has ceased functioning as a trading exchange.
+Dominican Republic
+
+In December 1999, the Dominican Republic enacted a new forest law (Ley 118-99). Article 95, paragraph I of the law allows the national forestry agency, INAREF, to adopt regulations creating special incentives to promote the valuation of the environmental services of forests, including carbon fixation. The State will also issue negotiable reimbursement certificates to finance 80 percent of the expenses of capital and investments made in the establishment and handling of plantations and management and protection of forests. The expenses include payment of all the existing taxes.
+Peru
+
+Peru’s 2000 Ley Forestal y de Fauna Silvestre has provisions that allow the government to grant concessions for carbon sequestration. Article 2 of the law defines environmental services of forests to include those that protect soil, regulate the flow of water, conserve biodiversity, conserve ecosystems and scenic beauty, absorb carbon dioxide and maintain essential ecological processes, Article 10 of the law allows the government to grant concessions for ecotourism, conservation and environmental services, subject to regulations under the law. Presumably the holder of the concession could claim credit for any carbon sequestered.
+Spain
+
+Spain adopted a new forest plan in 2002 and a national forest law in 2003 (Ley 43/2003, 21 November, de Montes), which define domestic forest policy regarding climate change. The plan considers policy support crucial to climate change mitigation. It establishes the potential for mitigation based on available area, evaluates technical capacity for sequestration and assesses possibilities for enhancement. The law recognizes global change mitigation and wood energy as valuable functions of forests that should be enhanced. Article 65 directs public administrations to promote positive environmental benefits from forests, including carbon fixation. Public administrations may grant subsidies, conclude contracts with owners or invest directly in public lands to achieve the goals. Research on energy use from slash and adaptation of forests to climate change has also been initiated, and the law calls for a study on the adaptation of Spanish forests to climate change.
+New Zealand
+
+The Government of New Zealand agreed that some credits from afforestation and reforestation should accrue to those undertaking sink activities. However, as signatory to the Protocol, it also considers the need to meet reduction obligations as its ultimate responsibility.
+
+Although legislation has not been introduced, the government intends to retain sink credits from all post-1990 commercial forests for the first commitment period. It also plans to accept liability for up to 10 percent of carbon losses from deforestation. Landowners who enter into contracts to manage post-1990 forests as permanent protection forests, excluding harvest, will be able to trade accumulated credits. Landowners accept the costs of participating in emission trading, e.g. monitoring, and responsibility for emissions from the forest.
+Denmark
+
+In 1999, Denmark established an emissions cap and trading system for CO2 among its electric utilities (Act on CO2 quotas for electricity production, Act No. 376 of 2 June 1999). The system estimates CO2 production based on the amount of energy produced multiplied by a CO2 emission factor for the fuel used to produce the energy. The law assigns an emission factor of zero to several renewable fuels, including wood chips, fuelwood, wood pellets and wood waste. In effect, it recognizes that production of these fuels removes CO2 from the atmosphere.
+
+The Danish act predates much of the COP work clarifying the role of LULUCF activities in flexible mechanisms. However, section 12 of the act allows the Minister of Environment and Energy to issue guidelines integrating the Danish system into an international emissions trading system.
+
+10 For a more detailed discussion of United States actions, see Hayes and Gertler (2002) and Justus and Fletcher (2003).
+
+11 The federal government owns and manages over half the land in the state, including significant forest reserves not under the State Forester’s authority.
+
+
+
+Previous PageTable Of ContentsNext Page
+3. Legal and institutional issues of forest-based mitigation
+
+This chapter deals with promoting and regulating forest-related GHG emission reductions and removals. In particular, it discusses mitigation based on use of land.
+
+A lawmaker dealing with the full range of forest-related climate change issues will have concerns beyond forest land-based mitigation. A party to the UNFCCC or the Protocol may consider laws to meet procedural and institutional requirements, e.g. procedures for carbon inventory and reporting. Persons interested in these aspects may find guidance in Articles 5 and 7 of the Protocol and the Decisions of COP-7 cited in the first part of this paper regarding the IPCC Good Practice Guidance.
+
+Any nation undertaking long-term planning for its forests will have concerns about adaptation of forests to altered climates. Adaptation is a particular concern in forestry, because the long life span of trees means that trees planted today must face climatic conditions over many decades and perhaps centuries. Foresters know that trees planted away from their typical geographic and ecological range often show different growth characteristics and increased vulnerability to insects, disease and fire. Climate change may shift the optimal geographic areas for tree growth, stressing existing vegetation. Governments may wish to support adaptation through sponsoring research, educating landowners and foresters on management for stability and resilience, increasing efforts to control insects, diseases and fire, and anticipating and providing for unmanageable risks, such as major blowdowns from hurricanes. There may be a role for government-backed disaster insurance for forest owners. Assigning liability for forest damage from climate change and collecting damages is problematic under a court-based system, because of the large number of causal agents scattered far beyond the jurisdictional boundaries of any court. However, governments might consider a GHG-based tax supporting a fund for adaptation projects or damages to reduce the individual forest owner’s climate change-related risks.
+
+Besides land-based mitigation, forests can also play a role through the use of forest products as materials or as fuels. When a person builds a house out of wood instead of cement or brick, that wood represents carbon removed from the atmosphere and emissions avoided in the energy-intensive manufacture of other materials. The Protocol does not yet regulate credit for carbon storage in forest products, although the SBSTA is continuing to consider the issue.
+
+Nevertheless, governments may wish to encourage the use of wood and wood fibre in ways that keep carbon sequestered for as long as possible. In manufacture, laws could require waste reduction planning in larger, more sophisticated sawmills and pulp and paper mills, including steps to discourage decay of stored chips or timber. Laws could bar burning of sawdust and wood waste, unless the heat was captured and used in processes that would otherwise use fossil fuels. Building codes could encourage the use of wood and require fire- and decay-resistant or retardant designs. Laws could promote recycling of waste paper through a variety of means, from increasing supply by encouraging consumers to segregate recyclables, to increasing demand by having government preferentially purchase products with recycled content.
+
+The discussion below begins by considering issues that might arise if the law recognizes claiming credit for carbon sequestration to be a kind of property right. “Ownership” of forests and forest products, whether private, community, social or state-based, is the oldest and still most prevalent legal mechanism for allocating forest resources and encouraging their sustained use. However, owning an intangible resource such as carbon sequestration, actual or potential, poses new challenges to old systems of property law.
+
+The discussion then considers regulatory approaches. These might include regulation of forest use or conversion and regulation of the manufacture, use or disposal of forest products.
+
+The third area of discussion is subsidy-based approaches. These issues may be the most familiar to forest managers today. The legal issues that arise out of government spending to promote GHG mitigation will be similar to the issues arising out of other government spending to promote good forest stewardship, frequently as an indirect compensation for those forest services for which no market exists.
+
+The final area of discussion is information-related approaches. These involve attempts to promote education, product labelling or certification, and government evaluation of management systems.
+
+Different Parties will have different interests in the possible reforms. For example, an Annex I nation trying to meet a specific reduction goal may be interested in a tax or regulatory system to reduce emissions coupled with market measures to reduce costs of compliance. The market measures may demand new laws concerning ownership of carbon sink potential. In contrast, a non-Annex I Party, with no goal to meet, may be more interested in making changes that might attract CDM investments and direct them towards sustainable development goals. Nevertheless, the non-Annex I nation may also be interested in new laws concerning ownership of carbon sinks to make investment in forest projects more attractive.
+
+Some of the ideas in this chapter have application beyond forest projects. For example, the market issues of ownership, liability and risk apply to any project that results in emission reductions or removals. For the sake of simplicity and consistency, nations should address these kinds of issues through general laws that apply to all mitigation projects.
+Property and transfer issues
+
+This section considers legal issues that will arise if a Party seeks to use property rights and market transfers to encourage carbon sequestration in forests. Markets can create incentives and encourage voluntary participation in mitigation activities domestically or abroad. Through social or community ownership, markets can empower local groups in their dealings with outsiders while allowing them to continue to follow traditional use rules among themselves. Working at their best, markets can serve environmental and sustainable development goals while fighting poverty.
+
+Market approaches can also lead to undesirable outcomes. They must be carefully tuned to promote mitigation, or they will promote accumulation of wealth regardless of its consequences. They can attract corruption. They can catalyse unexpected social change. Moreover, although they may look good on paper, if the necessary fiscal, governmental and cultural structures are absent, markets will stumble or fail entirely. Markets can be powerful tools, but they are not panaceas.
+
+The discussion below considers issues that will arise from ownership and trading of credit for carbon sequestration. The Parties themselves will set the rules for transfers between Parties to the Protocol. But what if an Annex I nation decides to purchase carbon sequestration credits directly from forest owners? What if a nation regulates major new sources of emissions, requiring them to acquire offsetting reductions or removal units? With the proper legal structure, these transfers involving individual buyers and sellers would be subject to national laws.
+Ownership
+
+The initial inquiry about ownership must be: What will Parties or individuals wish to own? The UNFCCC and Protocol predominantly frame mitigation in terms of what a Party has achieved. Compliance depends on GHG emissions avoided or GHGs removed from the atmosphere. The agreements look to present conditions shaped by past actions. Parties will wish to claim actual carbon sequestered, as verified and certified removal credits.
+
+To encourage GHG removal through property rights and markets, national laws must be concerned with a more abstract concept than the present amount of carbon sequestered in a forest. The law must make clear who has the right to claim ownership when the forest sequesters carbon.
+
+To make a rough analogy, when a farmer sells fruit, the buyer is only interested in what fruit the farmer has to offer. When the farmer plans for producing fruit, the farmer must think about what lands he may legally harvest - perhaps the lands he owns, or those he has leased, or those for which he has bought a right to harvest, or perhaps even public lands from which anyone may come and gather fruit. When a Party presents evidence of compliance to the UNFCCC Secretariat, the secretariat will be interested in how the Party’s sources and sinks have actually performed. However, when a Party plans for compliance, or when an individual plans to exploit sinks to offset emissions to comply with a national law, the Party and individual will be concerned about what sinks they may legally claim. They will want the law to clarify who may claim to own the potential for forests to sequester carbon.
+
+Who owns the carbon sequestering potential of a forest? The obvious answer is: the owner of the forest. However, the obvious answer is far from the only possible answer. Below are some possible ownership systems:
+
+            I. The owner of the property owns the potential and:
+
+                  A. The potential does not exist as a separate property right. The property owner cannot sell or give it away independently of selling or giving away the property. However, if the owner can affect the potential through management of vegetation and soils, the owner can contractually promise to manage the property in ways to increase the potential.
+
+                  B. The potential does not exist as a separate property right as such; however, the owner of a property can grant a covenant affecting the potential. Unlike a contractual obligation, the covenant would “run with the land”, binding the present owner and anyone who happened to become an owner of the property in the future.
+
+                  1. The covenant attaches to another property related to the first property. The owner of the dominant property then would have the right to protect or perhaps enhance the potential of the subservient property. The covenant can only be transferred with the dominant property.
+
+                  2. The covenant attaches to a person (an individual, corporation or government entity). It cannot be transferred.
+
+                  C. Instead of a covenant, the right is in the form of an easement or servitude. This may attach to a dominant estate or it may attach to a person, in which case it can be transferred to another person independently of any transfer of underlying land.
+
+                  D. The potential is a separate, alienable property right, such as a usufructuary right or profit à prendre, governed under the laws concerning ownership of land (real property, immovable property, etc.). The owner can convey that right to others without conveying the whole property ownership. When that potential is transferred to a new owner:
+
+                  1. The new owner of the potential inherently has the right to affect how the property is used, if that is necessary to:
+
+                        a. protect the existing potential of the property;
+
+                        b. protect or enhance the existing potential of the property.
+
+                  2. The new owner of the potential has no inherent right to affect how the property is used; however, the property owner can separately grant the potential owner that right:
+
+                        a. through a contract or other legal mechanism that binds the current owner;
+
+                        b. through a covenant or other legal mechanism that “runs with the land” and binds the present and any future property owner.
+
+                  E. As in (D) above, but the right is governed under the laws concerning personal, movable or some other class of property that does not include land.
+
+            II. The potential is a public good:
+
+                  A. Owned and ownable by no one. It is like sunshine or air. Many people may take advantage of it, particularly as it improves their own land and condition of life, but no one can claim to own it, buy or sell it, or take credit for the good it does for others.
+
+                  B. Owned by the national government:
+
+                  1. As a passive entity that can take credit for carbon sequestration but that has no particular power to require landowners to protect or enhance sequestration, and:
+
+                        a. that holds the potential in trust for the nation and cannot sell or give it away;
+
+                        b. that can sell or give the potential away.
+
+                  2. As in (1) above, but the national government has inherent power to regulate the use of land to protect or enhance carbon sequestration. This regulatory power is inalienable.
+
+                  3. As in (1) above, but the national government holds power, as the owner of a property right, to affect property use to protect or enhance sequestration. If, as in (1)(b), the government may transfer the property right, the new owner would also acquire the right to affect property use.
+
+                  4. As in (1)(b) above, but the national government holds the potential as trustee for the benefit of the forest owner or the public. Any profits from the sale or use of the potential must go to the beneficiaries of the trust.
+
+                  C. Owned by a subnational or local government with powers as in (B) above. Note that it might be possible to have ownership vested in one level of government with some or all regulatory powers vested in another level of government.
+
+                  D. Owned by no one until someone takes steps to capture the carbon. For example, if Corporation A funds a project to plant trees along roadsides, Corporation A would own the resulting carbon sequestration, regardless of who owns the roadside lands. Further:
+
+                  1. Anyone can acquire carbon sequestration potential in this way.
+
+                  2. Only a limited number of entities are eligible to own carbon potential in this way and these are:
+
+                        a. entities emitting carbon and desiring offsets;
+
+                        b. (a) plus the government;
+
+                        c. (a) or (b) plus “banks” chartered to deal in mitigation credits;
+
+                        d. (a) or (b) or (c) plus NGOs interested in environmental protection;
+
+                        e. (a) or (b) or (c) or (d) or any landowner.
+
+Some of these options may seem odd, but some of the oddest have analogues in other laws. From the United States come these examples:
+
+      • Under the Pacific Northwest Electric Power Planning and Conservation Act, electric power utilities in the northwestern United States can acquire ownership of conservation capacity, informally called “negawatts” (negative watts), by financing projects that reduce electric demand. For example, a utility could pay to install thicker insulation on the tanks of electric water heaters of consumers. The consumers would own the new insulation and enjoy lower electric bills, however the utility would own the reduced electric demand. The utility can sell this reduced demand to the government agency responsible for assuring that the region has sufficient energy to meet demand.
+
+      • Under the United States Clean Air Act, in regions that have not attained national goals for air quality, new sources of air pollution must arrange offsets. If the pollution problem in the region is severe enough, the new source must arrange an offset greater than the new source’s expected emissions. The exact size of the offset is determined by the new source’s expected output multiplied by a factor reflecting the severity of the local pollution problem. In areas with moderate problems, the offset may be close to one for one. In areas with severe problems, the offset may be more like two for one. The offset is not a separate property interest, but more a contractual arrangement between the new polluter and an existing polluter. As an added guarantee of performance, the government alters the air pollution permits of the two sources to reflect the agreed-upon offset.
+
+      • Also under the United States Clean Air Act, the largest sources of sulphur dioxide in the nation have been assigned emission allowances. A source may only emit as much sulphur dioxide as it has allowances. A source with too few allowances must either reduce its emissions or acquire more allowances. These allowances are alienable, and there is an open market in them. Some environmental groups have bought them and “retired” them.
+
+      • Under the United States Clean Water Act, persons dredging or filling wetlands need a permit. As a condition of the permit, the government often requires the applicant to arrange mitigation of any damage done to the wetlands. A typical mitigation requirement might be to restore an area of degraded wetlands. In some areas, the government operates mitigation banks (United States Army Corps of Engineers et al., 1995). People who restore wetlands create a credit that they can place in the bank. Later, a person in need of a mitigation project can buy the banked mitigation.
+
+      • Most states of the United States allow private landowners to grant or sell conservation easements. The holder of a conservation easement can prevent development of the subservient land. Sometimes the holder can require the land to be kept in a natural state. Sometimes the terms of the easement require the land to be actively managed for conservation purposes. The holder of the easement ordinarily cannot sell it or reap any monetary gain from it, but holds it strictly to benefit the public. Usually, the law only allows the state or NGOs dedicated to conservation to acquire conservation easements.
+
+      • A few United States local governments recognize a fully tradable right to develop land. Property owners in areas marked for conservation cannot use their rights to develop their own property, but they can sell the rights to property owners in areas marked for development. Owners that buy the rights can “overdevelop” or build more extensively than neighbours who have not bought the tradable rights. The intent of the system is to compensate fairly property owners in the conservation zone for the restrictions on their property use.
+
+The point of these examples is that the universe of possible models for carbon sequestration ownership and trading goes well beyond traditional notions of property and markets. Legislative drafters looking for models may find them in traditional systems of property law or in innovative systems of mitigation, trading and offsets of environmental harm.
+
+The choice of how to shape the nature of the property right in carbon sequestration will depend on several factors. Existing laws and legal traditions will play a major role and may constrain the choice. Legislators and jurists usually prefer to apply existing patterns of law to new situations rather than to adopt radical innovations.
+
+For example, in a country that only recognizes easements or servitudes that directly benefit other properties, legislators may hesitate to recognize a servitude that can be traded independently of a dominant estate. Costa Rica offers a concrete example of this. The country has wanted to create a property interest in the nature of a conservation easement that would create a legal right to prevent the subservient land from being developed or cleared. However, Costa Rican law only recognizes easements that benefit a specific dominant estate. The country has adopted the minor fiction that a conservation easement is for the benefit of (and so attaches to) nearby reserved natural areas.
+
+Another factor is the nature of the local economy. In a country with an unstable currency or poorly developed markets, it will be impractical to set up a national system based on tradable rights. However, a limited system granting credits to large polluters that finance mitigation projects may be feasible.
+
+A third factor is the governmental capacity to deal with abstract forms of landownership. In a country where the government finds it difficult even to determine who owns surface rights to a particular piece of land, it would be unrealistic to put in place a complex system of intangible, divisible interests.
+
+A fourth factor is the nature of the demand for carbon sequestration. If the major goal of a country is to encourage foreign governments to invest in forest-based mitigation projects, and government-to-government dealings are the desired outcome, a system vesting ownership of sequestration in the national government may be appropriate. If developed countries adopt laws that encourage individual emitters of GHG to seek offsets, developing countries seeking private investment may wish to vest ownership of sequestration potential in private hands.
+
+The ultimate interpretation of the Kyoto Protocol may affect the choice and desirability of market mechanisms as well. If the Parties develop a system that promotes transfer of mitigation credits, it will make market systems more attractive.
+
+Carbon ownership is not an abstract question for forest owners. Even without a large market, carbon values may be substantial (see Box).
+
+Valuating carbon sequestration in Irish forests
+
+Ireland’s industrial emissions will probably exceed Kyoto commitments consisting of annual emission reductions of approximately 15.4 Mt CO2 or 4.2 Mt of carbon (C). Forests established since 1990 will fix 0.3 Mt C per annum, offsetting about 6.5 percent of Ireland’s projected excess emissions, and reducing carbon credits to be acquired in international markets by this amount. At a market value of €30 per tonne of carbon in international emission trading, these young Irish forests alone would save the country an outlay of about €9 million annually, or €45 million over the commitment period 2008 to 2012.
+
+The average rate of carbon gain in these young forests is estimated at 3.4 tonnes of carbon per hectare per year. They would thus accumulate a gross value of approximately €100 per hectare annually.
+
+Credits for the activity “forest management” in Ireland are capped at 50 000 tonnes of carbon per year. If the country chose forest management as an eligible activity under the Kyoto Protocol, an additional gross value of annually €1.5 million could accrue.
+Size
+
+How big is the carbon sequestration potential of a forest stand? This question is at heart a technical matter and can be measured on-site. However, in a legal context, even technical matters have legal aspects.
+
+As a starting point, nations will want to consider international regulations - the guidelines that the Parties adopt for international use. For example, COP-9 formally defined the CDM terms “baseline”, “additionality” and “leakage” as they apply to forests. The “baseline net greenhouse gas removals” are defined as “the sum of the changes in carbon stocks that would have occurred in the absence of the afforestation or reforestation project activity under the CDM” (UNFCCC SBSTA, 2003, p. 5, ¶ 1[c]).
+
+The issue of additionality is closely related to the one of baselines. The text on additionality of energy projects in the CDM (UNFCCC SBSTA, 2003, p. 7, ¶ 12[d]) has been adjusted to account for the circumstances of forestry projects and reads:
+
+        The proposed afforestation or reforestation project activity under the CDM is additional if the actual net greenhouse gas removals by sinks are increased above the sum of the changes in carbon stocks in the carbon pools within the project boundary that would have occurred in the absence of the registered CDM afforestation or reforestation project activity.
+
+The wording of the additionality definition has been subject to different interpretations. In assessing CDM projects, it is up to the CDM Executive Board to decide how to interpret the definition.12
+
+Leakage refers to the net change in GHG emissions outside the project boundary. The COP-9 decision defines it as: “the increase in greenhouse gas emissions by sources which occurs outside the boundary of an afforestation or reforestation project activity under the CDM which is measurable and attributable to the afforestation or reforestation project activity” (UNFCCC SBSTA, 2003,
+p. 5, ¶ 1[e]).
+
+For more on these terms and their possible definitions, see UNFCCC Secretariat (2002a).
+
+National lawmakers will have to decide whether and how to apply similar definitions to carbon transactions under their jurisdiction. As with ownership, there are many possibilities. To give an example, say that a coal-burning utility negotiates with a private forest landowner for the purchase of the carbon sink potential of a forest, so that the utility may claim it as an offset of its emissions.
+
+In one possible case, the contract does not discuss the size of the potential, but the size is important to the utility in its relations with government regulators. The law could declare that the size is determined by:
+
+      • a specific, objective formula, established by legislation, allowing little room for professional judgement;
+
+      • a set of general guidelines, established by legislation, allowing room for professional judgement of government officials;
+
+      • a set procedure, established by legislation, such as a hearing, allowing interested individuals to provide expert testimony to a finder of fact, who makes a decision based on the testimony;
+
+      • any of the first three options above, except that the formula, guidelines or procedure are set case-by-case by negotiated agreement of the utility and regulator rather than by general legislation;
+
+      • any of the above three, except that the formula, guidelines or procedure are set case-by-case unilaterally by the regulator;
+
+      • any of the above three, except that the formula, guidelines or procedure are set by some third party. This might be a standard-setting organization such as the International Organization for Standardization or its national affiliates, an impartial arbitrator agreed to by the buyer and seller, or a group affiliated with the UNFCCC Secretariat.
+
+In another possible case, the contract has terms that depend on the size of the carbon sequestration potential, and the size could be set:
+
+      • by a method specified in the contract, chosen by the buyer and seller;
+
+      • by a method specified in legislation, regardless of what the buyer and seller state in the contract;
+
+      • by a method specified in legislation, unless the buyer and seller specifically agree to another method in the contract;
+
+      • by law, the customary method or the method in common use in the trade, unless the contract specifies another method.
+
+Creating workable law in this area may require familiarity with national laws concerning interpretation of contracts, regulation of utilities and control of air pollution. It may require some familiarity with applicable international standards. It may also require thorough technical understanding of carbon sequestration and traditional forestry issues, such as site, growth and yield, and forest products markets.
+
+Cathcart (2000) describes how the state of Oregon, United States, has decided to determine the size of carbon offsets created by its Forest Resource Trust projects. The state is limiting the total claimable offset to the expected long-term average of carbon stored on the site over multiple harvest and regeneration cycles. The state subtracts from this amount an estimate of carbon stored on the site before reforestation to get the long-term net average increase in carbon storage. This choice appears to be a policy decision that the government has made unilaterally, without formal legislation, although the legislature recently gave the State Board of Forestry authority to write regulations governing forestry carbon offsets (Oregon Revised Statutes §526.786).
+
+A question related to “What is the size of the removal?” is “What units do we use to describe the size?” As discussed in the first chapter of this paper, the COP seems to have answered this question by creating the removal unit (RMU) and a group of similarly sized permanent as well as temporary units to measure trades and compliance with Protocol goals. To promote trades and simplify accounting, countries should adopt these international units to describe size.
+Duration and timing
+
+Closely related to size are issues of duration and timing. Governments and other organizations may base obligations on annual or five-year cycles, but forest cycles of growth, harvest, and decay extend over much longer periods. The rules for offsets must reconcile these differences and deal with other complications of timing.
+
+For example, can offsets be measured in units that fungibly combine time and mass? Is one tonne of carbon sequestered for five years equivalent to five tonnes fixed in biomass for only one year? Is five tonnes fixed for one year at the beginning of a compliance period equivalent to five tonnes fixed for one year at the end of a compliance period?
+
+And what about the non-permanent nature of forests? If governments grant carbon credits and financial awards to forest owners for carbon increment in their forests, will owners have to pay back when they harvest their forest, or when the forest succumbs to the next hurricane?
+
+Internationally, the Parties have solved the problem of non-permanence through the concept of temporary credits and carbon leasing. National governments may adapt the Parties’ solution or may seek alternatives that fit both international requirements and local needs. As examples, New Zealand now proposes carbon credits and market participation for domestic afforestation of protection forests that exclude future harvests, while the state of Oregon is allowing forestry offsets in production forests based on expected average sequestration over multiple harvest cycles.
+Transfer
+
+The above discussions have begun to raise some of the legal issues that might arise regarding transfers of ownership of a forest’s carbon sequestration potential. Assuming that the potential can be owned and transferred at all:
+
+      • Can it be transferred separately from the ownership of the land?
+
+      • If landowner A transfers the ownership of the potential to buyer B:
+
+      - Can B force A to manage the forest to maintain or enhance the potential?
+
+      - Can B enter the land and assess the potential?
+
+      - Can B enter and actively manage the land?
+
+      - If A then sells the underlying land to new owner C, does C bear any obligations towards B?
+
+      - Can B transfer the ownership and all it entails to a stranger, D?
+
+      • Can the government force A to transfer the potential to the government for public use?
+
+These kinds of question are common ones in the world of property transactions. The answers will depend on whether the government recognizes the potential as a kind of property, subject to property transaction laws, or as something that results from particular kinds of behaviour, subject to laws regarding contracts.
+
+If the potential is transferable, some issues of fraud prevention may arise. The interest will be intangible. There may be no physical indication that someone other than the land occupier holds the interest, beyond the paper or electronic record of transfer held by the parties. What would prevent an unscrupulous owner from selling the same carbon sink potential over and over to different parties?
+
+Governments face similar problems with other incorporeal property rights, such as security interests or usufructuary rights. The spectre of fraud even haunts transfer of the ownership of the whole property.
+
+The response of government has been to give notice to potential buyers of who actually owns the property. In its most basic form the notice may be little more than a public ceremony of transfer or a posted sign declaring ownership. Or the government may create a registry of property interests and require buyers or sellers to enter sales in public record books.
+
+In nations with well-developed markets and experienced regulators, the governments may wish to consider legislation in other areas to promote transfers. These areas could include insurance, brokerage, banking and formal market structures.
+
+Insurance encourages transfers by spreading risk. Buyers of carbon sink potential will face two kinds of risk. The first is that the seller does not actually have authority to transfer the sink potential. This could be so because the seller’s underlying land title is flawed or because the seller has already transferred the potential to someone else. A “title” insurer would research the seller’s ownership rights and issue a policy that would pay out if the seller’s title later proved flawed.
+
+The second kind of risk is that the forest does not serve as a sink owing to circumstances beyond the control of the buyer or seller. For example, flood, wind, fire, insects or disease could strike the forest. Squatters could steal the trees or clear the land. War or rebellion could destroy the forest. Or the government could acquire the land legally for public purposes such as construction of a road. Insurers might be willing to write policies covering some of these kinds of risk.
+
+Governments may choose to provide insurance directly or to regulate private insurance providers. Providing insurance would be a form of subsidy to promote these kinds of transaction.
+
+Governments may regulate insurers to provide stability to the insurance market and to prevent fraud, thereby making insurance a more attractive option for consumers. Governments interested in promoting sink insurance through regulation can probably draw on their own experience in regulating insurance companies. If the government does not have a domestic insurance industry already, it is unlikely to generate one solely to cover GHG mitigation transactions.
+
+An open market in GHG mitigation potential may allow people to earn money as mitigation brokers. The broker’s role would be to link interested buyer with interested seller and otherwise to facilitate sales. To cite a well-known example to demonstrate the feasibility of GHG mitigation brokerage, the World Bank has created several funds, among them specifically the BioCarbon Fund for sink projects. Again, the government may wish to take the brokerage task on itself or it may wish to regulate the profession of broker. Regulation may take the form of licensing, training or bonding requirements. Governments will probably find models for brokerage programmes and laws in their laws concerning sales of agricultural crops.
+
+Related to brokerage is banking. Here, willing sellers could transfer the rights to their potential to a mitigation bank. The bank would be a central place for those in need of mitigation to come to buy credits. Depending on the system, the bank could pay the sellers for the mitigation up front or could act more like a broker, making some of the payment contingent on sale. Banks could be government or private entities. If the government allows private banks, it may want to regulate them to reduce fraud or mismanagement that could hurt buyers and sellers.
+
+Mitigation banks can function even if the law does not recognize greenhouse gas mitigation potential as a severable, transferable property right. The wetlands mitigation banks found under the United States Clean Water Act are an example. Regulators under that law can require persons seeking to dredge or fill wetlands to arrange for restoration of other wetlands in mitigation. In some states and regions, the government agencies run mitigation banks to link owners of restored or restorable wetlands with people seeking mitigation credits.
+
+Another area that may invite government involvement is in the general regulation of markets, if mitigation is openly traded. Nations may wish to control trading through centralized markets, similar to stock, bond or commodity futures markets.
+Risk
+
+The above discussion of insurance touched on the issue of risk. Transactions involving forests will involve existing removal or promises of future removal. In the case of growing forests, several things could change the forest and so affect that removal. Those things include changes in law or policy that preclude the storage of carbon (sovereign risk); intentional or unintentional failure of the project promoter to carry out promised actions (implementation risk); and acts of nature or third parties changing the forest (human and natural hazards).
+
+Moreover, improvements in our knowledge of forest science could change our understanding of how much carbon a particular forest sequesters. If that happens, whether the estimate of carbon sequestered goes up or down, who gains or loses?
+
+Who bears the risk may depend on the nature of the property right and the transaction. In a country where all carbon sequestration potential is owned by the nation, and there are no transactions, the nation will naturally bear all risks. In a situation where a private forest owner contracts with a private factory to provide an offset, the terms of the contract may spell out who bears the risks.
+
+Even in a contractual situation, there may be room for the law to establish basic assumptions on risk. For example, the law may establish who bears the risk when the contract is silent on the issue. This may be a matter of existing contract law; however, some nations may eventually establish specific standards covering GHG mitigation transactions.
+
+In countries that adopt regulatory provisions concerning offsets, the situation may be more complex. Those laws may recognize obligations between source and government, source and sink, and sink and government. A failure by the sink could affect all three obligations, and the law may treat the outcome differently in each case. For example, a nation’s law might require sources to contract with sinks for offsets before a source may operate, and it might require contracting sinks to take reasonable precautions to protect the forest to qualify as sinks. If a lightning strike causes sink owner A’s forest to burn, does A have to return offset payments to factory owner B? Does factory owner B lose permission to operate? Does A owe the government any penalty for the loss of the sink or the increased emissions of carbon from the fire?
+
+The UNFCCC Secretariat (2002b) has produced an options paper for the SBSTA discussing how the Parties might deal with non-permanence in LULUCF activities. The paper raises several options for reducing risks among Parties that national governments could borrow and apply internally. These options include the following:
+
+      • Viability. Through regulations, the government can require the operator of a forest activity to demonstrate financial, legal and technical viability before the claiming or transferring carbon sequestration credits.
+
+      • Liability. Clear liability rules, regarding contracts as discussed above and torts and offences as discussed in the next section of this paper, will tend to deter some risky activities.
+
+      • Risk management. Regulations could require operators to design projects to minimize risks. Grouping activities into portfolios could reduce the risk of total failure.
+
+      • Insurance. Insurance systems could be set up either privately or through the government. The insurer would collect premiums from those investing in forest offsets. The insurer would use some or all of the premiums to pay for a reserve of unused offsets. If an insured investor experiences a failure, the reserve would cover the loss.
+
+      • Credit reserves. The law could require the government, a broker, or one of the other participants in credit or offset trading to hold credits in reserve to cover possible losses.
+
+      • Buffers. The law could require each forest claiming removal credits to retain a percentage of the credits as a buffer. The owner could tap the buffer to cover future losses.
+
+Using similar reasoning, the law could initially require a source to obtain more than a 100 percent offset for its emissions. If the offset partially failed, the law would not penalize the source unless the offset dropped below 100 percent.
+
+The law may want to draw distinctions based on intent or culpability. One rule may state who bears the risk of acts of nature, while another states who bears the risk of loss from negligence or intentional acts. The law may recognize degrees of negligence or may apportion responsibility where multiple causes contribute to the loss.
+
+These kinds of issue should be familiar to contract and regulatory lawyers. The issues are analogous to the ones raised in other contractual and regulatory situations.
+Liability and damages
+
+If the owner of a forest suffers damage to the value of the forest owing to the actions of another, the law will often offer some way for the forest owner to recover the loss. This may involve bringing a suit before the courts seeking damages.
+
+The courts may base the amount of the damages on the monetary loss to the owner. If carbon sequestration becomes a commodity, the law may automatically include loss of carbon sequestration in damage calculations. In some countries, the legislature may wish to eliminate any possible doubts by declaring that owners may seek damages related to carbon sequestration losses.
+
+Calculating damages can be complicated in a forest injury case because the lost value of commodities does not reflect the total injury. There is also an injury to the productive capacity of the forest.
+
+For example, let us say that a nation follows the example of the Protocol and measures carbon sequestration in five-year periods. A landowner afforests his or her land at the start of the first period. Because of the rate at which trees grow, the new forest will sequester relatively little carbon during the first five years. It will perform better during the next five years, because the trees are older and larger. Depending on the trees and the site, this improving trend could continue for several more cycles.
+
+Now assume that someone sets fire to the forest at the end of the first cycle. The amount of sequestered carbon lost is relatively small. However, the fire has reset the clock of ecological succession to zero. In the next five years, the forest will again sequester relatively little carbon. Besides destroying the small gain of the forest, the fire has delayed future gains.
+
+Valuing the injury to productive capacity can be difficult. It requires a good understanding of the rate at which trees will grow on the site throughout their lives. If the forest is of a type commonly managed for wood production, foresters may have this information. For many forests, however, the information may be unavailable. And, even with this information, calculating the loss will be complicated where fire or other injury has killed only some of the trees. On the whole, the current state of the art in forestry may not always be capable of assigning accurate values to these kinds of injury.
+
+The law can help by setting out some guidance. If the land is in private ownership and the marketplace accurately captures the value of the land for carbon sequestration, loss of market value to the land may be an adequate measure. If the land is only recently forested, then the damages should include the cost of restoration of forest cover. Restoration changes may also be appropriate where the injured land is part of a protected area.
+
+In situations where actual damages are difficult to determine, the law can set standard measures of damages. These could be detailed formulas based on area, forest type, age, and other factors, or they could be arbitrary, relatively high figures set to deter forest injury as well as compensate injured owners.
+
+Because there is a social interest in deterrence of forest injury, some jurisdictions allow forest owners to claim damages of two or three times the value of lost wood. The law could apply similar multipliers to the value of lost carbon sequestration.
+
+Another means of increasing deterrence is to make destruction of carbon sequestration an offence. Particularly in countries where the average person lacks the capital to pursue a lawsuit or pay damages, a criminal approach may be the most effective way to deter injuries. Of course, existing laws concerning criminal trespass or damage to government or private property may be sufficient to create deterrence. However, it may be appropriate to direct the courts to consider loss of carbon sequestration value when weighing the severity of the offence.
+
+If the nation expects carbon sequestration to remain a public good, the law might empower the government to sue to seek damages. Such damages might be based on the cost of restoration. Alternatively, the law could specify some simple formula for calculating damages based on the area of forest injured or the volume of wood injured or lost. Such a formula could simplify proof of losses, particularly if there is no local market setting a value on sequestered carbon.
+
+One model for such a damage scheme is the natural resource damage provision in the United States law governing liability for releases of hazardous substances. Where such a release kills fish or wildlife or injures other public natural resources, the law recognizes the right of the national and subnational governments to seek compensation from those responsible (Comprehensive Environmental Response, Compensation and Liability Act [CERCLA] §107[f][1], codified as 42 US Code §9607[f]). The law allows the president and state governors to designate government officials to serve as trustees of the resources for the purposes of seeking compensation. The law also empowers the president to write regulations establishing the proper level of compensation for lost resources [CERCLA] §301[c], codified as 42 US Code §9651[c]).
+Regulatory command-and-control issues
+
+Command-and-control regulation can play many roles in a national system to reduce net GHG emissions and the regime for climate change mitigation through forests. The above discussion of property and transfer issues identified several points where regulation could be useful. Indeed, a regulatory offset requirement could drive a country’s whole market in carbon credits. Besides regulating markets, a country could reduce its net GHG emissions by directly regulating forest use.
+
+Examples of possible forest regulatory approaches include:
+
+      • Laws placing trees off-limits to harvest. These could include laws creating protected natural areas on private lands, laws requiring uncut buffers of forests around waterways or roads, or laws prohibiting harvest on steep slopes or unstable soils.
+
+      • Laws controlling harvest methods or rotation age. Biologists, foresters and policy-makers currently do not all agree on which management systems and harvest or rotation ages would maximize carbon sequestration on particular forests over the long term and how to integrate mitigation and adaptation techniques. The issue is made more complex because how long carbon in harvested wood remains out of the atmosphere depends on how the wood is produced and used. If science is able to give clearer guidance in this area, laws regulating harvests may be useful in promoting carbon sequestration.
+
+      • Laws requiring property owners to ensure regeneration of harvested forests, to restore degraded forests, or to maintain minimum crown covers after thinnings.
+
+      • Laws limiting the use of fire to destroy logging waste or to clear land, and laws requiring people who work in or use forests to report fires or carry simple fire fighting tools.
+
+Governments may also want to adopt regulations for projects under the Clean Development Mechanism or Joint Implementation that foster environmental and social goals in the UNFCCC and the Kyoto Protocol that go beyond climate change issues:
+
+      • Laws could require mitigation projects to respect environmental standards and conform to COP-7’s principle that implementation should contribute to conservation of biological diversity and sustainable use of natural resources.
+
+      • Laws could require projects to respect traditional or indigenous forest use.
+
+      • Laws could require projects to offset disruption and costs to local communities by providing local benefits, such as employment, public access to the forest or public use of project infrastructure.
+
+In some instances, existing laws might need to be streamlined to facilitate mitigation projects. Carbon sequestration projects in California, for example, were subject to at least 16 federal and state regulations (Vine, 2004). The Kyoto Protocol and many countries (Bekhechi and Mercier, 2002) require environmental and social impact assessments for afforestation and reforestation. The carbon sequestration services that forests provide should probably be given a weight in these assessments as well as in laws on land-use planning, zoning and landscape conservation (Kennet, 2002). Current environmental legislation sometimes requires material offsets for interventions in the landscape that affect soil, water, local climate, forest area, biological diversity or amenity values. In the future, diminished carbon stores and reduced sequestration potential might also be considered in landscape restoration.
+Subsidy and tax issues
+
+Because GHG mitigation is a public good, governments may find it appropriate for the public to share the cost of producing it. Subsidies for forest-based GHG mitigation may not be very different from subsidies for forest management generally. GHG mitigation may be harder to evaluate than, say, area of forest cover or volume of wood brought to mills. But the basic mechanisms for promoting GHG mitigation through subsidies are probably analogous to general use of subsidies to promote good forest management. For example:
+
+      • As in Costa Rica, the government may wish to pay forest landowners directly for management that promotes carbon sequestration. These could be lump sum cash payments, tax deductions or tax credits.
+
+      • Governments could make payments to forest landowners in the form of goods. For example, the government could provide nursery stock, fertilizer or tools.
+
+      • Payments could be in the form of services. These could include fire fighting assistance, forest inventory, planning, timber sales preparation or extension services.
+
+      • In some countries, payments could go to local communities willing to help improve public forests.
+
+      • Revised management of public forests could also be effective. This could include placing restrictions on the forest practices that concession holders may employ in their harvests. Any resulting reduction in government income from concessions would be equivalent to public spending for better management.
+
+Some countries may wish to consider government purchase of lands or land interests:
+
+      • In some countries, creation or increased protection of natural areas may be effective. For example, Bolivia has attracted donor, NGO and corporate funding for the Noel Kempff Mercado Climate Action Project, involving hundreds of thousands of hectares in northeastern Bolivia (www.noelkempff.com ). Projects such as these can provide non-consumptive uses besides GHG mitigation, for instance protection of biodiversity or ecotourism.
+
+      • In some countries, the government may not need to acquire a complete interest in land to achieve its ends. For example, if the law recognizes conservation easements or GHG usufructuary rights, the government could acquire those on suitable lands. It may be attractive to do so on a multiyear lease basis, with annual payments. This would give the landowner an incentive to keep the land in good condition during the whole term of the lease. In countries with annual property taxes based on the value of the land, the government could create an additional incentive by lowering the appraised value of the land during the term of the lease. Leasing would also give the landowner and government periodic opportunity to review the appropriate price to be paid for GHG mitigation. The price is likely to change as the market for GHG mitigation matures.
+
+Governments may also decide to undertake general forest management service programmes without regard to the management decisions of individual landowners. For example, the government may decide to spend money on new programmes for forest fire prevention and response, for control of destructive forest insects or for control of forest diseases. These may ultimately result in quantifiable, verifiable increases in GHG sequestration, which the government may be able to claim for itself or offer as an offset. (Note, however, that the reporting requirements adopted by COP-7 require Parties to state which lands are subject to LULUCF activities, and to report on emissions and removals from those lands now and in future years. Claiming credit for a countrywide programme might complicate reporting.)
+
+More intense enforcement of existing forest protection laws may also yield gains. Most countries find it difficult to enforce basic property laws in remote forested areas. Investment in increased surveillance to stop unauthorized land uses might reduce forest degradation enough to have a measurable effect on carbon sequestration.
+
+Particularly in countries that consume large amounts of wood or paper, governments may wish to undertake programmes to promote more efficient use of forest products. These could include programmes to collect and recycle wood and paper.
+
+It should also be noted that the UNFCCC directs Parties to end destructive subsidies. These might include programmes encouraging the clearing of land or the early harvest of trees.
+
+For the country implementing these kinds of subsidy, the major questions may be judging the costs or likely returns. Until countries gain more experience in these areas, new programmes will necessarily entail some uncertainties.
+Information issues
+
+One of the barriers to GHG mitigation projects is a lack of information. Providing information to landowners, consumers of forest products and the general public may encourage GHG mitigation projects.
+Education
+
+Landowners may not be aware that GHG mitigation is an issue that involves them. The government can affect landowner management decisions by taking steps such as:
+
+      • informing landowners about economic opportunities that may arise under offset and mitigation programmes;
+
+      • informing landowners about the public service that they can perform through management for carbon sequestration;
+
+      • informing landowners about how to manage forests to improve carbon sequestration;
+
+      • informing landowners about how to measure and verify the results of their management efforts.
+
+In many instances, information and training may be provided through established extension services. These could also be done through tax agents, through land registry agents or other non-traditional means.
+
+Consumers and users of forest products may not be aware of their role in the carbon cycle. The government might consider programmes such as:
+
+      • clearinghouses collecting information on efficient manufacture and use of forest products;
+
+      • labelling programmes or educational campaigns to inform consumers about efficient use and recycling of forest products and about the advantages of wood as a carbon-neutral source of green energy;
+
+      • evaluation of the GHG impacts of individual large landowners or forest concession holders and public disclosure of those evaluations.
+
+Certification and verification
+
+Governments may have a role to play in certifying or verifying GHG mitigation efforts. Certification and verification may be directly connected to compliance with the Kyoto Protocol for Annex I nations; they may be an adjunct to national market-based, regulatory or subsidy laws; or they may some day be important in the marketing of wood products.
+
+Three articles in the Kyoto Protocol mention verification or certification. Article 12 requires CDM emission reductions to be certified. The Protocol directs the COP to designate “operational entities” to make these certifications, under the oversight of the Executive Board. The COP-9 decision on definitions and modalities for including LULUCF under the CDM includes aspects concerning verification and certification as well as the accreditation of operational entities in relation to afforestation and reforestation projects under the CDM (UNFCCC SBSTA, 2003, pp. 12-13 and 18).
+
+Article 6 allows Annex I Parties to implement emission reduction and sequestration projects in other Annex I countries. There are two “tracks” to Joint Implementation, with different institutional implications at the national level. The first track - the “fast track” - is available for host Parties meeting the eligibility requirements.13 These Parties may use their own processes to verify emissions reductions or removals as being additional and issue the appropriate quantity of ERUs or RMUs. Consequently, it will be important for these Parties to have the necessary institutional basis in place well before the beginning of the commitment period in 2008. Under the second “track”, a Joint Implementation supervisory committee sets international procedures for baselines, verification and other procedures (Mullins, 2002, pp. 5 and 18). The guidelines on the implementation on Article 6 are included in the decision 16/CP.7 of the Marrakesh Accords.
+
+Article 3 of the Protocol allows Annex I Parties to claim net changes in GHG emissions due to land-use change and forestry activities, but requires such changes to be verifiable. Annex I Parties have to report annually their anthropogenic greenhouse gas emissions and removals, which will be reviewed in accordance with relevant decisions relating to Articles 5, 7 and 8 of the Protocol.
+
+Governments that set up market-based, regulatory or subsidy programmes may find it necessary to create internal standards or mechanisms to verify GHG reductions due to forest activities. Some of the sections above in this paper have touched on verification issues, e.g. the discussion of size under market-related issues. Similar verification issues may arise in determining compliance with GHG regulations or eligibility for GHG reduction subsidies.
+
+Government involvement in internal certification and verification could take several forms. The government could itself measure and certify GHG offsets, perhaps through government forestry agencies. It could provide official guidelines for measuring them. It could license private parties, such as publicly accredited certification organizations, to measure them.
+
+Government certification may occur in varying contexts. It may be strongly tied to government enforcement efforts, as a means to determine whether property owners are following laws designed to reduce GHG emissions. In a non-enforcement context, the purpose of certification may be to assure parties involved in GHG mitigation transactions that the mitigation is real.
+
+If the public grows more aware of the importance of forests as GHG sinks, it may be interested to know whether wood came from forests managed to promote carbon sequestration. Certification of wood products could provide that information. This could be a government function, or it could fall to non-governmental organizations that maintain certification standards, such as the Forest Stewardship Council.
+Planning
+
+By mandating planning, the government can make decision-makers more aware of the impacts that forest-related decisions have on net GHG emissions. It is hoped that this awareness will lead to better decisions. This applies both to government and private decision-makers.
+
+Many countries have impact assessment or planning laws that require government decision-makers to review the environmental impacts of proposed actions and consider alternatives and mitigation. GHG effects from forest projects may escape review under these laws for several reasons. Climate change may not be one of the kinds of impact that analysts usually consider. Or, the analyst may decide the effect of a single project on net GHG emissions is so minor that it is not worth consideration. Or the analyst may conclude that the ultimate impacts of climate change are so distant in time and space and so speculative that a present analysis cannot assign them a reasonable weight for the decision-maker to consider. New laws or guidance on impact assessment can overcome these hurdles and ensure that analysts weigh climate impacts when reviewing forest projects.
+
+Many countries have planning requirements that apply to public or private forests. Managers cannot manage forests without short-term operational plans or long-term management plans. Typically, the law requires that these plans protect the productivity of the forest resource. At a minimum, planning makes the owner aware of the costs and benefits of proposed activities. It may also have a regulatory function, allowing the government to verify that the owner can carry out the proposed activity in accord with existing laws. Adding requirements for carbon inventories and projection of management impacts on net carbon sequestration could make forest owners and regulators more aware of the likely net GHG effects of proposed actions.
+
+Some countries require industrial operations to prepare pollution prevention plans. These typically focus on hazardous or toxic pollutants. Governments could require the forest industry to prepare GHG emission reduction plans for forest management.
+Research
+
+Legally mandated research generally takes one of two forms. One is a kind of subsidy, where the government commits itself to conducting research and making the results freely available. The other is a form of regulation, where the government orders others to gather information or conduct tests and pass the information on to the public or the government.
+
+To understand and improve the effectiveness of LULUCF projects, each forested country will benefit from research on the behaviour of its own forests. Just as foresters require a fair amount of locally specific information to determine the optimal management for producing timber, foresters will need locally specific information for optimal management for carbon sequestration. Research may also improve the accuracy of local inventory methods and aid in measurement and certification of the amount of carbon sequestered. A large, industrial landowner might have the ability to conduct this sort of research, but the government itself may want to conduct the research for the benefit of small private landowners and for the better management of public forests,
+
+Rather than conducting the research on small plots in dedicated experimental forests, some of the research on public lands could be in the form of adaptive management. In the course of management of public lands for carbon sequestration, the government would carefully vary its actions from stand to stand. By monitoring the resulting forest growth, the government would learn about how the lands react to management. The results would lead to better management decisions in the long term.
+
+If a country does host large, private, industrial-scale carbon sequestration projects, it may want to require project operators to conduct research. For example, it might require that large operators present the results of surveys of soil carbon content or non-tree biomass before they could get their projects certified. The government could analyse data from several projects to glean a better understanding of the carbon sequestration capacity of local lands.
+Institutions
+
+Implementation of the Kyoto Protocol hinges on institutional capacities. In particular, countries must designate a “national authority” if they are contemplating using the Clean Development Mechanism. Some nations may make the designations through legislation, while others may be able to make it through exercise of executive discretion.
+
+At the last count, only the European Union, eight industrialized countries, 39 developing, and six countries in transition had established such authorities. For some of these countries, the authority exists only on paper.
+
+It is probable that few countries will designate their forestry institution as the lead national authority. More often the choice will be an institution whose focus is air pollution or energy. Nevertheless, the lead institution will have to deal with LULUCF issues. Climate change presents a challenge that naturally cuts across institutional lines and requires cooperation among people with diverse expertise. Legislation can promote an interdisciplinary approach by creating interagency or public-private coordinating and advisory committees and requiring the lead institution to consult with other affected institutions before taking major actions.
+
+12 Even the attempt to clarify how to interpret the meaning of “would have occurred in the absence of the registered CDM project” by the CDM Executive Board (see the reports of the Executive Board at its ninth and tenth session, cdm.unfccc.int/EB) did not lead to the expected clarity on the issue. The decisions of the Executive Board on baseline methodologies, however, suggest that the Executive Board is interpreting additionality in a relatively strict manner.
+
+13 These are: (i) being a Party of the Kyoto Protocol; (ii) having established its assigned amount and a national system for estimating emissions and sinks; (iii) putting in place a national registry; and (iv) having submitted the required national inventory and supplementary information annually. Furthermore, the country has to inform the UNFCCC Secretariat of its designated focal point and its national guidelines and procedures for approving Article 6 projects. 
+
+4. Some concluding observations for legislative drafters
+What should be the role of legislation in supporting use of forests in Greenhouse Gas mitigation?
+
+With the decisions taken in December 2003 (COP-9) on the rules and modalities concerning forestry in the CDM, the basic questions in the international context have been resolved. In many cases, parties will want to adopt national legislation in support of these rules and modalities, or at least will want to review existing laws to assure consistency.
+
+The lack of clarity before COP-9 slowed the development of forest GHG mitigation efforts. Some nations and individuals acted, but most decided to watch and wait.
+
+Now the time to prepare for GHG mitigation is short. The Kyoto Protocol compliance period will begin in 2008 if the Protocol is ratified. Nations are supposed to be able to demonstrate progress by 2005. Given the time it takes to enact legislation, and the time it takes to grow trees or restore forests, national efforts to create procedural and institutional capacity must proceed without delay.
+
+The time for legislators to act is now. Having a legal foundation for forest GHG mitigation projects will enable forests to play a positive role in UNFCCC compliance.
+What expertise might drafters need to succeed in this area?
+
+On the role of forests, the texts of the UNFCCC and the Kyoto Protocol are at best ambiguous and at worst contradictory. Besides the texts, drafters need to be familiar with the issues that the Parties have addressed and how the COPs have resolved disagreements about the role of forests.
+
+Drafters need to analyse critically the legal responses of other nations. The self-serving descriptions of national responses produced by the Parties can distract readers from key questions. How much of this response represents true legal innovation? Are these innovations making a difference in people’s behaviour? In other words, what is new, and what works?
+
+Drafters will need a basic understanding of the technical issues concerning forest mitigation. For example, how can carbon sequestration be measured and verified? Which carbon pools in a forest are important: just the trees, or also the litter, dead wood and soils?
+
+Drafters need to be familiar with existing forest laws. Much of the legal response will build on existing law. The response may include programmes to protect forests from degradation or land-use change, reforestation and afforestation efforts, extension-style outreach, forest inventories and social forestry.
+
+Some of the response may involve new areas, particularly if countries try to set up markets in tradable offsets or create new property interests. Issues may arise concerning insurance, liability or property transfer. Drafters may want to seek outside assistance when dealing with unfamiliar areas. Responding nationally to the nascent international climate change regime related to forests will require a major and integrated effort.
+
+In the drafting of legislation, policy, politics, science and law sometimes all collide. The process is seldom simple. In the area of climate change and forests, the issues are particularly complex. But through forest law, nations have opportunities for creatively addressing one of the highest-profile environmental issues of our time. Innovative approaches could bring great rewards.
+
+Bibliography
+
+American Petroleum Institute. 1999. Carbon sinks and the Kyoto Protocol. Discussion Paper No. 091 (March).
+
+Anonymous. 1998. AIJ pilot phase mile wide but only inch deep. Joint Implementation Quarterly, 4(June): 2.
+
+Bekhechi, M.A. & Mercier, J.-R. 2002. The legal and regulatory framework for environmental impact assessments. Washington, DC, World Bank.
+
+Bisson, D. 2000. Let the trading begin: Canadian companies experiment with emission trading through GERT. EM (Air & Waste Management Association’s Magazine for Environmental Managers), April 2000, pp. 34-39.
+
+Cathcart, J.F. 2000. Carbon sequestration: a working example in Oregon. Journal of Forestry, 98(9): 32-37.
+
+Chekhov, A. 1900. Uncle Vanya. Translated by Constance Garnett (1923).
+
+Dayal, P. 2000. Carbon trading and sequestration projects offer global warming solutions. EM (Air & Waste Management Association’s Magazine for Environmental Managers), March 2000, pp. 15-24.
+
+Dyson, F.J. 1977. Can we control carbon dioxide in the atmosphere? Energy, 2: 287-291.
+
+ECCP Working Group on Forest Sinks. 2002. Conclusions and recommendations regarding forest related sinks and climate change mitigation. Final Report. European Climate Change Programme (available at: www.europa.eu.int/comm/environment/climat/pdf/forest_sinks_final_report.pdf ).
+
+EcoSecurities, Ltd. 2001. Post COP 7 - implications of Marrakech for the forestry sector (www.ecosecurities.com ).
+
+European Community. 1998. Second communication from the European Community under the UN Framework Convention on Climate Change (26 June).
+
+Hayes, D.J. & Gertler, N. 2002. The role of carbon sequestration in the U.S. Response to climate change challenges and opportunities. Environmental Law Reporter, 32: 11,350-11,356. (News & Analysis, November 2002 www.eli.org/pdf/32.11350.pdf .)
+
+IPCC. 1996. Revised 1996 IPCC guidelines for national greenhouse gas inventories. Vols 1-3 (available at: www.ipcc-nggip.iges.or.jp/public/gl/invs1.htm ).
+
+IPCC. 2001. Summary for policy makers, third assessment report of Working Group I of the Intergovernmental Panel on Climate Change (www.ipcc.ch/pub/spm22-01.pdf ).
+
+IPCC. 2003. Good practice guidance for land use, land-use change and forestry. Edited by J. Penman et al. Published by the Institute for Global Environmental Strategies for the IPCC (available at: www.ipcc-nggip.iges.or.jp/public/gpglulucf/gpglulucf_contents.htm ).
+
+Justus, J.R. & Fletcher, S.R. 2003. Global climate change. Congressional Research Service, Library of Congress, Issue Brief for Congress No. IB89005, updated 8 September (available at: www.ncseonline.org/NLE/CRSreports/03Sep/IB89005.pdf ).
+
+Kennet, S.A. 2002. National policies for biosphere greenhouse gas management: issues and opportunities. Environmental Management, 30: 595-608.
+
+Kosloff, L. & Trexler, M. 2004. State climate change initiatives: think locally, act globally. Natural Resources & Environment, 18(3): 46-50.
+
+Lee, M. 2000. Greenhouse: is it all just a lot of hot air? Where is the law? Environmental Law Reporter International News & Analysis (www.eli.org/elrinternationalna/articles/australialee.htm ).
+
+Mullins, F. 2002. Joint implementation institutions: implementing JI at the national level. Documentation prepared for the OECD/IEA/IETA Workshop on National Systems for Flexible Mechanisms: Implementation Issues in Countries with Economies in Transition, May 2002. Paris, OECD.
+
+Republic of Costa Rica. 1999. National report on activities implemented jointly during the pilot phase.
+
+Rotter, J. & Danish, K. 2000. Forest carbon and the Kyoto Protocol’s Clean Development Mechanism. Journal of Forestry, 98(5)(May): 38-47.
+
+Schulze, E.-D., Wirth, C. & Heimann, M. 2000. Managing forests after Kyoto. Science, 289(22 September): 2058-2059.
+
+UNFCCC COP. 2000. Decision 1/CP.6: Implementation of the Buenos Aires Plan of Action (www.unfccc.int/resource/docs/cop6/dec1-cp6.pdf ).
+
+UNFCCC COP. 2001. Report of the Conference of the Parties on the second part of its sixth session, held at Bonn from 16 to 27 July, addendum, part four: draft decisions on which progress was noted by the Conference of the Parties at the second part of its sixth session and which the Conference of the Parties decided to forward to its seventh session for elaboration, completion and adoption. FCCC/CP/2001/5/Add.2 (25 September).
+
+UNFCCC COP. 2002a. Report of the Conference of the Parties on its seventh session, held at Marrakesh from 29 October to 10 November 2001, addendum, part two: Action taken by the Conference of the Parties, volume I. FCCC/CP/2001/13/Add.1 (21 January).
+
+UNFCCC COP. 2002b. Report of the Conference of the Parties on its seventh session, held at Marrakesh from 29 October to 10 November 2001, addendum, part two: Action taken by the Conference of the Parties, volume II. FCCC/CP/2001/13/Add.2 (21 January).
+
+UNFCCC COP. 2002c. Report of the Conference of the Parties on its seventh session, held at Marrakesh from 29 October to 10 November 2001, addendum, part two: Action taken by the Conference of the Parties, volume III. FCCC/CP/2001/13/Add.3 (21 January).
+
+UNFCCC COP. 2002d. Report of the Conference of the Parties on its seventh session, held at Marrakesh from 29 October to 10 November 2001, addendum, part two: Action taken by the Conference of the Parties, volume IV. FCCC/CP/2001/13/Add.4 (21 January).
+
+UNFCCC COP. 2004a. Report of the Conference of the Parties on its ninth session, held at Milan from 1 to 12 December 2003, addendum, part two: Action taken by the Conference of the Parties at its ninth session. FCCC/CP/2003/6/Add.1 (22 April).
+
+UNFCCC COP. 2004b. Report of the Conference of the Parties on its ninth session, held at Milan from 1 to 12 December 2003, addendum, part two: Action taken by the Conference of the Parties at its ninth session. FCCC/CP/2003/6/Add.2 (22 April).
+
+UNFCCC SBSTA. 2003. Land Use, Land-Use Change and Forestry: definitions and modalities for including afforestation and reforestation activities under Article 12 of the Kyoto Protocol. Recommendation of the Subsidiary Body for Scientific and Technological Advice. FCCC/SBSTA/2003/L.27 (9 December).
+
+UNFCCC Secretariat. 2002a. Methodological issues: Land Use, Land-Use Change and Forestry: definitions and modalities for including afforestation and reforestation activities under Article 12 of the Kyoto Protocol in the First Commitment Period: options paper on modalities for addressing baselines, additionality and leakage. FCCC/SBSTA/2003/6 (24 December).
+
+UNFCCC Secretariat. 2002b. Methodological issues: Land Use, Land-Use Change and Forestry: definitions and modalities for including afforestation and reforestation activities under Article 12 of the Kyoto Protocol in the First Commitment Period: options paper on modalities for addressing non-permanence. FCCC/SBSTA/2003/5 (24 December).
+
+UNFCCC Secretariat. 2003. Estimation, reporting and accounting of harvested wood products. FCCC/2003/2003/7 (27 October).
+
+UNFCCC Secretariat. 2004a. United Nations Framework Convention of Climate Change: status of ratification [last modified on 26 February 2004] (www.unfccc.int/resource/conv/ratlist.pdf ).
+
+UNFCCC Secretariat. 2004b. Kyoto Protocol: status of ratification [last modified on 15 April 2004] (www.unfccc.int/resource/kpstats.pdf ).
+
+United States Army Corps of Engineers et al. 1995. Memorandum to field: federal guidance for the establishment, use and operation of mitigation banks. Federal Register, 60(28 November): 58,605-58,614.
+
+United States Department of State. 2002. Climate action report-2002: third national communication of the United States of America under the United Nations Framework Convention on Climate Change (available at: yosemite.epa.gov/oar/globalwarming.nsf/UniqueKeyLookup/SHSU5BWHU6/$File/uscar.pdf ).
+
+United States Energy Information Administration. 2003. Voluntary reporting of greenhouse gases 2001. Document DOE/EIA-0608(2001) (available at: www.eia.doe.gov/oiaf/1605/vrrpt/index.html ).
+
+Vespa, M. 2002. Climate change 2001: Kyoto at Bonn and Marrakech. Ecology Law Quarterly, 29: 395-420.
+
+Vine, E. 2004. Regulatory constraints to carbon sequestration in terrestrial ecosystems and geological formations. Mitigation and Adaptation Strategies for Global Change, 9: 77-95.
+Legislation cited
+Multilateral treaties
+
+United Nations Framework Convention on Climate Change (1992) www.unfccc.int .
+
+Kyoto Protocol to the United Nations Framework Convention on Climate Change (1997) www.unfccc.int .
+Regional, national and subnational legislation
+Australia: New South Wales
+
+Carbon Rights Legislation Amendment Act 1998. No. 124. State of New South Wales, Australia (26 November 1998).
+Canada: Alberta
+
+Climate Change and Emissions Management Act, Statutes of Alberta 2003, ch. C-16.7 www.qp.gov.ab.ca/documents/Acts/C16P7.cfm?frm_isbn=0779725794.
+China
+
+Forestry Law of the People’s Republic of China (24 April 1998, 9th National People’s Congress, 2nd meeting, amending the original text adopted 20 September 1984).
+Costa Rica
+
+Ley Forestal 1996 (Law No. 7575), published in La Gaceta No. 72 (16 April 1996).
+
+Reglamento a la Ley Forestal, 17 October 1996 (Decreto No. 25,721), published in La Gaceta No. 16 (23 January 1997).
+
+Law on the Use, Management and Conservation of Land 1998 (Law No. 7779) 30 April 1998, published in La Gaceta No. 97 (21 May 1998).
+Denmark
+
+Act on CO2 quotas for electricity production, Act No. 376 of 2 June 1999 (English translation available at: www.ens.dk/graphics/Publikationer/Laws/ActOnCO2QuotaForElectricityProduction.pdf ).
+Dominican Republic
+
+Código Forestal (Law 118-99) published in Gaceta Oficial No. 10,032 (30 December 1999).
+European Community
+
+Council Decision of 25 April 2002 concerning the approval, on behalf of the European Community, of the Kyoto Protocol to the United Nations Framework Convention on Climate Change and the joint fulfilment of commitments thereunder (2002/358/CE), published in English in the Official Journal of the European Communities,
+L 130/1 (15 May 2002) (available online at: www.europa.eu.int/eur-lex/pri/en/oj/dat/2002/l_130/l_13020020515en00010020.pdf ).
+France
+
+Loi No. 2001-602, d’orientation sur la forêt (9 July 2001).
+Guatemala
+
+Ley Forestal 1996, Decreto No. 101/96 (30 October 1996) (Diario de Centro América, 4 December 1996).
+Mexico
+
+Ley General de Desarrollo Forestal Sustentable (21 February 2003) (Diario Oficial de la Federación, 25 February 2003).
+Peru
+
+Ley Forestal y de Fauna Silvestre (Ley No. 27.308, 15 July 2000) (El Peruano No. 7328, 16 July 2000, pp. 190,283-190,289).
+Spain
+
+Ley de Montes (Ley 43/2003, 21 November 2003) (Boletín Oficial del Estado, 22 November 2003, pp. 41,422-41,442).
+United States of America
+
+Clean Air Act (as amended), 42 USC §§7401 et seq.
+
+Clean Air Act Amendments of 1990, Public Law No. 101-549 (15 November 1990), 104 Stat. 2399.
+
+Clean Water Act §404, 33 USC §1344.
+
+Comprehensive Environmental Response, Compensation and Liability Act (as amended), 42 USC §§9601 et seq.
+
+Energy Policy Act of 1992, Public Law No. 102-486 (24 October 1992), 106 Stat. 2776, codified at 42 USC §§13201 et seq.
+
+Federal Agriculture Improvement Act of 1996, Public Law No. 104-127 (4 April 1996), 110 Stat. 896, codified in scattered sections of titles 7 and 15 USC.
+
+Global Climate Change Prevention Act of 1990, Public Law No. 101-624, title XXIV (28 November 1990), 104 Stat. 4058, codified at 7 USC §§6701 et seq.
+
+Global Climate Change Research Act of 1990, Public Law No. 101-606 (16 November 1990), 104 Stat. 3098, codified at 15 USC §2921 et seq.
+
+Healthy Forest Restoration Act, Public Law No. 108-148 (3 December 2003), 117 Stat. 1887, codified at 16 USC §§6501-6591 and 7 USC §8101 note.
+
+Pacific Northwest Electric Power Planning and Conservation Act, Public Law No. 96-501 (5 December 1980), 94 Stat. 2697, codified at 16 USC §§839 et seq.
+United States of America: California
+
+2002 California Statutes ch. 423 (an act to amend Sections 42801.1, 42823, 42840, and 42841 of, and to add Section 42823.1 to, the Health and Safety Code, relating to air pollution) (relating to registry of emissions offset by conservation or management of native forests).
+United States of America: Connecticut
+
+Connecticut General Statutes, title 22a (Environmental Protection), ch. 446c (Air Pollution Control), §22a-174d (planting of trees or turf grass as condition of permit).
+United States of America: Idaho
+
+Idaho Code, title 22 (Agriculture and Horticulture), ch. 52 (Carbon Sequestration Advisory Committee), §§22-5201 to -5206.
+United States of America: Illinois
+
+The Kyoto Protocol Act of 1998, 415 Illinois Compiled Statutes 140/1-99.
+United States of America: Maine
+
+An Act to Provide Leadership in Addressing the Threat of Climate Change, Public Laws of Maine, 1st Regular Session, 121st Legislature, ch. 237, codified at 38 Maine Revised Statutes annotated ch. 3-A, §§574-578.
+United States of America: Minnesota
+
+Minnesota Statutes, ch. 88, §88.82 (Minnesota “releaf” programme).
+United States of America: New Mexico
+
+New Mexico Forest Re-leaf Act, 1990 New Mexico Laws ch. 96, §1, codified at New Mexico Statutes annotated §§68-2-29 to -33 (available at: www.emnrd.state.nm.us/forestry/releaf/RELEAF_STATUTE_formchg.pdf ).
+United States of America: Oregon
+
+Forestry Administration, Oregon Revised Statutes, ch. 526, §§526.700-.775 (Forest Resource Trust) and §§526.780-.789 (forestry carbon offsets) (www.leg.state.or.us/ors/526.html ).
+
+Acquisition and Development of State Forests, Oregon Revised Statutes, ch. 530, §§530.050 and .500 (allowing management of forests to produce offsets) (www.leg.state.or.us/ors/530.html ).
+
+Utility Regulation Generally, Oregon Revised Statutes, ch. 757, §757.266 (rates may encourage tree planting programmes as offsets to carbon dioxide emissions) (www.leg.state.or.us/ors/757.html ).
+
+Carbon Offsets, Oregon Administrative Rules, §629-022-0700(2) (1999 revision) (www.arcweb.sos.state.or.us/rules/OARS_600/OAR_629/629_022.html ).
+
+Standards for Energy Facilities that Emit Carbon Dioxide, Oregon Administrative Rules, §§345-024-0500 et seq. (revised, 1999) (www.arcweb.sos.state.or.us/rules/OARS_300/OAR_345/345_024.html ).
+FAO TECHNICAL PAPERS
+
+FAO FORESTRY PAPERS
+
+1 Forest utilization contracts on public land, 1977 (E F S)
+
+2 Planning forest roads and harvesting systems, 1977 (E F S)
+
+3 World list of forestry schools, 1977 (E/F/S)
+
+3 Rev.1 World list of forestry schools, 1981 (E/F/S)
+
+3 Rev.2 World list of forestry schools, 1986 (E/F/S)
+
+4/1 World pulp and paper demand, supply and trade 1- Vol. 1, 1977 (E F S)
+
+4/2 World pulp and paper demand, supply and trade - Vol. 2, 1977 (E F S)
+
+5 The marketing of tropical wood in South America, 1976 (E S)
+
+6 National parks planning, 1976 (E F)
+
+7 Forestry for local community development, 1978 (Ar E F S)
+
+8 Establishment techniques for forest plantations, 1978 (Ar C E* F S)
+
+9 Wood chips - production, handling, transport, 1976 (C E S)
+
+10/1 Assessment of logging costs from forest inventories in the tropics - 1. Principles and methodology, 1978 (E F S)
+
+10/2 Assessment of logging costs from forest inventories in the tropics - 2. Data collection and calculations, 1978 (E F S)
+
+11 Savanna afforestation in Africa, 1977 (E F)
+
+12 China: forestry support for agriculture, 1978 (E)
+
+13 Forest products prices 19601977, 1979 (E/F/S)
+
+14 Mountain forest roads and harvesting, 1979 (E)
+
+14 Rev.1 Logging and transport in steep terrain, 1985 (E)
+
+15 AGRIS forestry - world catalogue of information and documentation services, 1979 (E/F/S)
+
+16 China: integrated wood processing industries, 1979 (E F S)
+
+17 Economic analysis of forestry projects, 1979 (E F S)
+
+17 Sup.1 Economic analysis of forestry projects: case studies, 1979 (E S)
+
+17 Sup.2 Economic analysis of forestry projects: readings, 1980 (C E)
+
+18 Forest products prices 19601978, 1980 (E/F/S)
+
+19/1 Pulping and papermaking properties of fastgrowing plantation wood species - Vol. 1, 1980 (E)
+
+19/2 Pulping and papermaking properties of fastgrowing plantation wood species - Vol. 2, 1980 (E)
+
+20 Forest tree improvement, 1985 (C E F S)
+
+20/2 A guide to forest seed handling, 1985 (E S )
+
+21 Impact on soils of fastgrowing species in lowland humid tropics, 1980 (E F S)
+
+22/1 Forest volume estimation and yield prediction - Vol. 1. Volume estimation, 1980 (C E F S)
+
+22/2 Forest volume estimation and yield prediction
+
+            - Vol. 2. Yield prediction, 1980 (C E F S)
+
+23 Forest products prices 19611980, 1981 (E/F/S)
+
+24 Cable logging systems, 1981 (C E)
+
+25 Public forestry administrations in Latin America, 1981 (E)
+
+26 Forestry and rural development, 1981 (E F S)
+
+27 Manual of forest inventory, 1981 (E F)
+
+28 Small and medium sawmills in developing countries, 1981 (E S)
+
+29 World forest products, demand and supply 1990 and 2000, 1982 (E F S)
+
+30 Tropical forest resources, 1982 (E F S)
+
+31 Appropriate technology in forestry, 1982 (E)
+
+32 Classification and definitions of forest products, 1982 (Ar/E/F/S)
+
+33 Logging of mountain forests, 1982 (E F S)
+
+34 Fruitbearing forest trees, 1982 (E F S)
+
+35 Forestry in China, 1982 (C E)
+
+36 Basic technology in forest operations, 1982 (E F S)
+
+37 Conservation and development of tropical forest resources, 1982 (E F S)
+
+38 Forest products prices 19621981, 1982 (E/F/S)
+
+39 Frame saw manual, 1982 (E)
+
+40 Circular saw manual, 1983 (E)
+
+41 Simple technologies for charcoal making, 1983 (E F S)
+
+42 Fuelwood supplies in the developing countries, 1983 (Ar E F S)
+
+43 Forest revenue systems in developing countries, 1983 (E F S)
+
+44/1 Food and fruitbearing forest species -
+1. Examples from eastern Africa, 1983 (E F S)
+
+44/2 Food and fruitbearing forest species -
+2. Examples from southeastern Asia, 1984 (E F S)
+
+44/3 Food and fruitbearing forest species -
+3. Examples from Latin America, 1986 (E S)
+
+45 Establishing pulp and paper mills, 1983 (E)
+
+46 Forest products prices 19631982, 1983 (E/F/S)
+
+47 Technical forestry education - design and implementation, 1984 (E F S)
+
+48 Land evaluation for forestry, 1984 (C E F S)
+
+49 Wood extraction with oxen and agricultural tractors, 1986 (E F S)
+
+50 Changes in shifting cultivation in Africa, 1984 (E F)
+
+50/1 Changes in shifting cultivation in Africa - seven casestudies, 1985 (E)
+
+51/1 Studies on the volume and yield of tropicaI forest stands - 1. Dry forest formations, 1989 (E F)
+
+52/1 Cost estimating in sawmilling industries: guidelines, 1984 (E)
+
+52/2 Field manual on cost estimation in sawmilling industries, 1985 (E)
+
+53 Intensive multipleuse forest management in Kerala, 1984 (E F S)
+
+54 Planificación del desarrollo forestal, 1984 (S)
+
+55 Intensive multipleuse forest management in the tropics, 1985 (E F S)
+
+56 Breeding poplars for disease resistance, 1985 (E)
+
+57 Coconut wood - Processing and use, 1985 (E S)
+
+58 Sawdoctoring manual, 1985 (E S)
+
+59 The ecological effects of eucalyptus, 1985 (C E F S)
+
+60 Monitoring and evaluation of participatory forestry projects, 1985 (E F S)
+
+61 Forest products prices 19651984, 1985 (E/F/S)
+
+62 World list of institutions engaged in forestry and forest products research, 1985 (E/F/S)
+
+63 Industrial charcoal making, 1985 (E)
+
+64 Tree growing by rural people, 1985 (Ar E F S)
+
+65 Forest legislation in selected African countries, 1986 (E F)
+
+66 Forestry extension organization, 1986 (C E S)
+
+67 Some medicinal forest plants of Africa and Latin America, 1986 (E)
+
+68 Appropriate forest industries, 1986 (E)
+
+69 Management of forest industries, 1986 (E)
+
+70 Wildland fire management terminology, 1986 (E/F/S)
+
+71 World compendium of forestry and forest products research institutions, 1986 (E/F/S)
+
+72 Wood gas as engine fuel, 1986 (E S)
+
+73 Forest products: world outlook projections 19852000, 1986 (E/F/S)
+
+74 Guidelines for forestry information processing, 1986 (E)
+
+75 Monitoring and evaluation of social forestry in India - an operational guide, 1986 (E)
+
+76 Wood preservation manual, 1986 (E)
+
+77 Databook on endangered tree and shrub species and provenances, 1986 (E)
+
+78 Appropriate wood harvesting in plantation forests, 1987 (E)
+
+79 Smallscale forestbased processing enterprises, 1987 (E F S)
+
+80 Forestry extension methods, 1987 (E)
+
+81 Guidelines for forest policy formulation, 1987 (C E)
+
+82 Forest products prices 19671986, 1988 (E/F/S)
+
+83 Trade in forest products: a study of the barriers faced by the developing countries, 1988 (E)
+
+84 Forest products: World outlook projections - Product and country tables 1987-2000, 1988 (E/F/S)
+
+85 Forestry extension curricula, 1988 (E/F/S)
+
+86 Forestry poIicies in Europe, 1988 (E)
+
+87 Smallscale harvesting operations of wood and nonwood forest products involving rural people, 1988 (E F S)
+
+88 Management of tropical moist forests in Africa, 1989 (E F P)
+
+89 Review of forest management systems of tropical Asia, 1989 (E)
+
+90 Forestry and food security, 1989 (Ar E S)
+
+91 Design manual on basic wood harvesting technology, 1989 (E F S)
+(Published only as FAO Training Series, No. 18)
+
+92 Forestry policies in Europe - An analysis, 1989 (E)
+
+93 Energy conservation in the mechanical forest industries, 1990 (E S)
+
+94 Manual on sawmill operational maintenance,1990 (E)
+
+95 Forest products prices 19691988, 1990 (E/F/S)
+
+96 Planning and managing forestry research: guidelines for managers, 1990 (E)
+
+97 Nonwood forest products: the way ahead, 1991 (E S)
+
+98 Timber plantations in the humid tropics of Africa, 1993 (E F)
+
+99 Cost control in forest harvesting and road construction, 1992 (E)
+
+100 Introduction to ergonomics in forestry in developing countries, 1992 (E F I)
+
+101 Management and conservation of closed forests in tropical America, 1993 (E F P S)
+
+102 Research management in forestry, 1992 (E F S)
+
+103 Mixed and pure forest plantations in the tropics and subtropics, 1992 (E F S)
+
+104 Forest products prices 1971-1990, 1992 (E/F/S)
+
+105 Compendium of pulp and paper training and research institutions, 1992 (E)
+
+106 Economic assessment of forestry project impacts, 1992 (E/F)
+
+107 Conservation of genetic resources in tropical forest management - Principles and concepts, 1993 (E/F/S)
+
+108 A decade of wood energy activities within the Nairobi Programme of Action, 1993 (E)
+
+109 Directory of forestry research organizations, 1993 (E)
+
+110 Proceedings of the Meeting of Experts on Forestry Research, 1993 (E/F/S)
+
+111 Forestry policies in the Near East region - Analysis and synthesis, 1993 (E)
+
+112 Forest resources assessment 1990 - Tropical countries, 1993 (E)
+
+113 Ex situ storage of seeds, pollen and in vitro cultures of perennial woody plant species, 1993 (E)
+
+114 Assessing forestry project impacts: issues and strategies, 1993 (E F S)
+
+115 Forestry policies of selected countries in Asia and the Pacific, 1993 (E)
+
+116 Les panneaux à base de bois, 1993 (F)
+
+117 Mangrove forest management guidelines, 1994 (E)
+
+118 Biotechnology in forest tree improvement, 1994 (E)
+
+119 Number not assigned
+
+120 Decline and dieback of trees and forests - A global overview, 1994 (E)
+
+121 Ecology and rural education - Manual for rural teachers, 1995 (E S)
+
+122 Readings in sustainable forest management, 1994 (E F S)
+
+123 Forestry education - New trends and prospects, 1994 (E F S)
+
+124 Forest resources assessment 1990 - Global synthesis, 1995 (E F S)
+
+125 Forest products prices 1973-1992, 1995 (E F S)
+
+126 Climate change, forests and forest management - An overview, 1995 (E F S)
+
+127 Valuing forests: context, issues and guidelines, 1995 (E F S)
+
+128 Forest resources assessment 1990 - Tropical forest plantation resources, 1995 (E)
+
+129 Environmental impact assessment and environmental auditing in the pulp and paper industry, 1996 (E)
+
+130 Forest resources assessment 1990 - Survey of tropical forest cover and study of change processes, 1996 (E)
+
+131 Ecología y enseñanza rural - Nociones ambientales básicas para profesores rurales y extensionistas, 1996 (S)
+
+132 Forestry policies of selected countries in Africa, 1996 (E/F)
+
+133 Forest codes of practice - Contributing to environmentally sound forest operations, 1996 (E)
+
+134 Estimating biomass and biomass change of tropical forests - A primer, 1997 (E)
+
+135 Guidelines for the management of tropical forests - 1. The production of wood, 1998 (E S)
+
+136 Managing forests as common property, 1998 (E)
+
+137/1 Forestry policies in the Caribbean -
+Volume 1: Proceedings of the Expert Consultation, 1998 (E)
+
+137/2 Forestry policies in the Caribbean -
+Volume 2: Reports of 28 selected countries and territories, 1998 (E)
+
+138 FAO Meeting on Public Policies Affecting Forest Fires, 2001 (E F S)
+
+139 Principes de bonne gestion des concessions et contrats relatifs aux forêts publiques, 2003 (E F S)
+
+140 Global Forest Resources Assessment 2000 - Main report, 2002 (E F S)
+
+141 Forestry Outlook Study for Africa - Regional report: opportunities and challenges towards 2020, 2003 (E F)
+
+142 Cross-sectoral policy impacts between forestry and other sectors, 2003 (E)
+
+143 Sustainable management of tropical forests in Central Africa - In search of excellence, 2003 (E F)
+
+Availability: November 2004
+
+Ar - Arabic Multil - Multilingual
+
+C - Chinese * Out of print
+
+E - English
+
+I - Italian
+
+F - French
+
+P - Portuguese
+
+S - Spanish
+
+The FAO Technical Papers are available through the authorized FAO Sales Agents or directly from Sales and Marketing Group,
+FAO, Viale delle Terme di Caracalla,
+00100 Rome, Italy.

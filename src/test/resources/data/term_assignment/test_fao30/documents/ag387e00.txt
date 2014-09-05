@@ -1,0 +1,850 @@
+LinKS project
+gender, biodiversity and local knowledge systems for food security
+
+Biodiversity· Gender· Knowledge
+
+Community Diversity Seed Fairs in Tanzania
+Guidelines for seed fairs
+
+June 2006
+
+Report no 51
+
+The FAO-LinKS project (Gender, biodiversity and local knowledge systems for food security) sponsored two studies, in Southern Highlands and Central Tanzania, on local knowledge in relation to management of agrobiodiversity for food security. Following the studies, four community diversity seed fairs were held in 2005. The research teams worked closely together with the rural communities in organizing these seed fairs and field testing the guidelines. These guidelines were developed in collaboration with the FAO Gender and Population Division and the Seed and Plant Genetic Resources Service.
+
+All rights reserved. Reproduction and dissemination of material in this information product for educational or other non-commercial purposes are authorized without any prior written permission from the copyright holders provided the source is fully acknowledged. Reproduction of material in this information product for resale or other commercial purposes is prohibited without written permission of the copyright holders. Applications for such permission should be addressed to the Chief, Publishing Management Service, Information Division, FAO, Viale delle Terme di Caracalla, 00100 Rome, Italy or by e-mail to copyright@fao.org © FAO [2006]
+
+The designations employed and the presentation of material in this information product do not imply the expression of any opinion whatsoever on the part of the Food and Agriculture Organization of the United Nations concerning the legal or development status of any country, territory, city or area or of its authorities, or concerning the delimitation of its frontiers or boundaries.
+
+1
+
+TABLE OF CONTENT Table of content..................................................................................................................... 2 Introduction ........................................................................................................................... 3 Objectives .......................................................................................................................... 4 Methodology ......................................................................................................................... 4 Village meetings................................................................................................................ 4 Formation of the village organizing committees ............................................................... 4 Planning............................................................................................................................. 5 Implementation of the seed fairs ........................................................................................... 5 Participation and attendance.............................................................................................. 5 Certificates and awards...................................................................................................... 6 Crop diversity displayed.................................................................................................... 7 Ethnobotanicals ................................................................................................................. 7 Follow-up .......................................................................................................................... 8 Training ............................................................................................................................. 8 Sustainability of the seed fairs............................................................................................... 8 Lessons learned ..................................................................................................................... 9 For farmers and local people ............................................................................................. 9 For extensionists and researchers .................................................................................... 10 For officials ..................................................................................................................... 11 Recommendations ............................................................................................................... 11 Appendices .......................................................................................................................... 12 Annex 1: Synthesis of four village seed fairs .................................................................. 12 Participants ...................................................................................................................... 12 Crop categories displayed................................................................................................ 12 Crop varieties shown ....................................................................................................... 13 Annex 2: FAO/LINKS Project guidelines for conducting community seed fairs ........... 14 Community ownership .................................................................................................... 14 Theme, objectives and activities...................................................................................... 14 Planning the activities...................................................................................................... 15 Funding............................................................................................................................ 16 Public awareness ............................................................................................................. 16 Conducting the seed fair .................................................................................................. 16 Awards and recognition................................................................................................... 17 Monitoring and evaluation .............................................................................................. 17 Appendix 3: Crops and biodiversity displayed in Dabalo village (Central Zone)........... 18 Appendix 4: Crops and their biodiversity displayed in Misughaa village (Central Zone) ......................................................................................................................................... 23 Appendix 5: Crop biodiversity displayed at Shinji village (Southern Highlands) .......... 31 Appendix 6: Crop diversity displayed at Malinzanga village (Southern Highlands) ...... 41
+
+2
+
+INTRODUCTION Small farmers in the developing world rely on a diversity of crops and varieties to surive in a dynamic and changing world. Farming systems are not static as drought, pest and disease, declining soil fertility, changing market preferences and fragmentation of land holding all effect rural populations. Farmers depend on traditional landraces and modern varieties which sometimes replace or complement traditional landraces, adding to crop diversity. Throughout the developing world, modern varieties are entering the agricultural system, where they coexist with local landraces that have been there for many years, thereby increasing agro-biodiversity. However, many modern improved varieties do not satisfy the needs of small farmers, especially regarding qualitative properties, and have therefore been dropped from the system. As a result, the local farming community continues to rely on local landraces that have preferred qualitative properties for food production and security. Many small rural farmers who have to struggle to make a living in marginal areas are custodians of important agricultural crop diversity. This makes them knowledgeable partners in its management. Crop and variety diversity, coupled with local knowledge of biodiversity management, have been one of the strategies used by smallholder farmers to stabilize production. However, other stakeholders in agriculture often do not know about the diversity of agricultural crops in village settings, and even farmers living in the same rural community may not be well-informed on the wealth of different crop diversity that exists and is available to them. Seed diversity fairs help to fill this knowledge gap at the community level. Unlike more formal agricultural fairs, which farmers attend as passive spectators of others' materials and technology, a seed diversity fair gives farmers the opportunity of meeting to discuss and demonstrate not only their own seeds, but also their local practices and knowledge that are linked to specific seed varieties, storage, processing and use. Many smallholder farmers continue to rely on their own farm-saved seeds for future crops. At seed diversity fairs, they are able to show and exchange small quantities of these seeds, some of which will be unknown or long-forgotten varieties for other farmers. Through this, farmers can diversify their production with varieties that are well adapted to local conditions. Seed diversity fairs can therefore be an appropriate approach to improving food security in rural settings. An advantage of small-scale, local seed fairs is that smallholder farmers can participate easily. Travel costs are minimal, and it is easier for women - who are the key people concerning neglected and collected crops - to take part. Another advantage of local seed fairs is that the seeds displayed are easily accessible; seed fairs rely on local resources rather than on those from outside the community. This also means that follow-up between farmers is easier. Having exchanged seed varieties, farmers can discuss their experiences, and further exchange and communication can be strengthened, including through the formation of local networks. This document reports on four community seed diversity fairs that were held in the United Republic of Tanzania: two in the central zone, at Dabalo and Misughaa villages, covering Dodoma and Singida regions, respectively; and two in the southern highlands, at Shinji and Malinzanga villages, covering Ileje and Iringa districts, respectively. In order to make these seed fairs affordable for the rural communities, they were organized on a small scale at the village level, with farmers from the village displaying the diversity of their crops. Based on the wealth of local crop varieties available in the villages, the seed fairs focused on improved and local crop diversity in the three categories of staple, neglected and collected crops. Hybrid seeds were also exhibited, but these were not the main focus of the seed fairs because they are not important crops in the semi-arid climatic conditions of the areas concerned; during the planning session it had been decided that farmers should display what they actually grow in their fields.
+
+3
+
+Objectives
+The specific objectives of the seed fairs were to: · raise awareness of local crop diversity among different stakeholders at the rural community level who lack the knowledge of seeds and diversity that other farmers have; · strengthen linkages among smallholder farmers, researchers, non-governmental organizations (NGOs), policy-makers and other agricultural stakeholders; · educate the community (including the younger generation), researchers, extension staff and other organizations working with seeds on the importance of crop diversity and local knowledge in food security; · create an opportunity for farmers to buy, sell and barter seeds among themselves and with neighbours to encourage the conservation of crop diversity and the sharing of varieties among farmers for food security. METHODOLOGY The seed fairs were organized according to the FAO guidelines, which are attached as Annex 2. One of the purposes of these seed fairs was to test the effectiveness of the guidelines. Village meetings Following discussions with village leaders, the research teams held general meetings at each seed fair village. During these meetings, the research teams highlighted the objectives and advantages of the seed fair and asked farmers to identify and select knowledgeable farmers to display materials and explain techniques at the fairs. The aim was to avoid overcrowding of the displays and to encourage equal participation between men and women farmers. In two of the villages ­ one from each zone ­ some of the selected farmers formed groups to prepare larger, shared displays. Formation of the village organizing committees The formation of a village-level organizing committee for each seed fair was an important factor in creating a sense of ownership of the activity. The role of research team members was to advise and facilitate, while the committees played the leading role in planning and conducting the seed fairs and carrying out post-implementation evaluation. Committee members included project extension staff members and key representatives from the community: staff from the school, church, mosque and local organizations, farmers and village leaders. Both women and men were included in the committees. Seed fair committees met to carry out the necessary planning before the seed fairs were implemented. Clear roles and responsibilities were defined for the committee members so that each knew her/his responsibilities. Specific committee tasks were to mobilize village farmers, prepare the exhibition sites, organize and ensure security during the seed fairs, and arrange entertainments during the fairs. A coordinator was selected from among the team members of each committee. As well as overseeing all the activities in the plan, the coordinator was also responsible for: · discussing issues and recruiting community members for involvement in the seed fairs; · meeting with participants and planning activities; · reporting to the committee; · ensuring that participants and materials were ready in time for the seed fair; · after the seed fair, reviewing it with participants and the committee to discuss how it had been received and how it could be improved.
+
+4
+
+Planning The committee and activity coordinators carried out the necessary advance planning for the seed fairs. It was decided that the sites for the fairs should be open spaces with enough room to accommodate small temporary tables or huts and a large number of people. One of the southern highland villages offered a community field for the event, which was an encouraging sign of the community's sense of ownership in the seed fair. The committees also set the dates for the seed fairs, so that they were convenient for both the host village and the neighbouring villages in the ward. It was decided to hold the fairs after the main harvest, when most local farmers have brought their crops home for processing and have large supplies of seeds to display. The committees decided who to invite from the ward, division and district levels, and who should be the guest of honour. Songs and dances related to seed fairs and crop diversity were created and practised. IMPLEMENTATION OF THE SEED FAIRS At the village level, songs and dances are a means of calling people to participate in community functions, and they proved very useful in publicizing the seed fairs across the communities. The organizing committees identified the performing groups, gave them the themes of the seed fair and requested them to formulate songs and dances related to the event. The day before each seed fair, enough display tables were set up to accommodate all the potential exhibitors. Products were displayed in small temporary huts and on small tables made from local materials or on fabric sheets spread on the ground. Farmers share their knowledge about seeds and crops with songs and
+dances (R.Laub)
+
+Each fair was opened with a speech from the guest of honour, who in most cases was the local District Commissioner. The two seed diversity fairs in the central zone started before their opening ceremonies and continued after the invited officials had left. This was because their main purpose was to serve the needs of participating farmers rather than to act as official occasions. During the diversity fairs, village leaders took part in welcoming invited guests and ensuring that food was offered to them. Among the guests invited were people from radio, the press and television. People from district headquarters and other villages bought seed and fruits from the farmers' displays. Researchers and farmers were also able to discuss issues of common interest, and farmers exchanged crops and varieties among themselves. Farmers found out more about improved varieties from researchers, while researchers were able to obtain local materials and varieties from the farmers. Participation and attendance Annex 1 gives a breakdown of who participated in the fairs and what they displayed. In each village, everybody involved in farming was invited to participate in the seed fair. This meant that anybody could display her/his crop diversity, and there were no selection criteria for identifying potential exhibitors. Special knowledgeable farmers in seed management were encouraged to participate, and many of them did so, especially elderly farmers. These farmers are particularly rich in local knowledge of seed management and usually keep a number of varieties that other farmers do not have. These farmers are part of the local system of the village; other farmers recognize them as sources of knowledge, supplies of local
+
+5
+
+landraces/varieties, advice on seeds and seed management, and other agricultural information. Unlike contact farmers, these knowledgeable farmers are not supervised by agricultural officers. Contact farmers are identified by the national system in the village - the extension service. They produce seeds of improved varieties by following guidelines for production packages, under the supervision of agricultural extension officers. In two villages, most participating farmers formed groups, with each member contributing several products in order to have a wider range of crops and diversity to display. In one case, the local primary school participated as a group, its students acting as contact farmers and producing seeds of improved varieties to sell to interested farmers in the village. It was important for the school students to display their improved varieties along with the other participants, and they explained their products under the supervision of their agricultural teacher. Schoolchildren also attended the seed fairs as spectators, and showed a great deal of interest, asking questions on different aspects of crop diversity. In the southern highlands, stakeholders from the district level, research stations and NGOs were invited to display their technologies together with those of the farmers. Farmers at one of the villages in this area (Malinzanga) were slow to volunteer as seed fair participants. To encourage more of them to do so, the research team and organizing committee decided to publicize the prizes that would be awarded to the best individual and group displays. In the central zone, the two seed fairs were attended by about 2 000 and 3 500 farmers, respectively. Most of these people came from the host villages, but several hundred travelled from neighbouring villages. Although more women than men farmers from the host villages attended, there were more men than women farmers from the surrounding areas. This was mainly because women tend to have less access to transport facilities such as bicycles. In the southern highlands, the two fairs were attended by about 1 000 and 3 000 people, respectively. Again, most of these people were from the host village, although a sizeable minority came from neighbouring communities. Numbers of attendees were not broken down according to gender in this zone. In addition, the fairs were attended by high-ranking officials from the district council and the ward, the Zonal Director for Research and Development, the Zonal Research Extension Liaison Officer, chairpersons from nearby villages, and officers and researchers from crop research centres in the zone. There were also representatives from FAO headquarters, the Commission of Science and Technology, local knowledge systems and FAO's Dar Es Salaam office. At the two central zone seed fairs, 26 and 32 farmers, respectively, displayed their products - crop biodiversity, ethnobotanicals, small storage facilities, etc. Again there were more women than men exhibitors (14:12 in one case, and 17:15 in the other), and women farmers displayed more diversity than men. In one southern highlands village (Shinji), 21 groups and four individual farmers displayed seed from different crop varieties, ethnobotanicals and storage structures used for seeds. Other participants were researchers from Uyole research institute and representatives from the Ileje Rural Trust Development Fund (an NGO based near the village). Participation at Malinzanga was lower. Certificates and awards All the farmers who displayed biodiversity at the seed fairs were given participation certificates, and awards were presented to the best three displays at each fair. Farmers were awarded from one to five points for each of the following criteria: · · · · · number of crops; number of varieties of a crop; quality of display; innovativeness; quality of presentation.
+
+6
+
+Four people carried out the evaluations: two women (a knowledgeable farmer and a school teacher) and two men (a crop researcher and an extensionist). The seed fair organizing committees opted for cash prizes, so that winners could buy what they wanted. The prizes awarded were US$15, $10 and $5 for first, second and third, respectively. Crop diversity displayed In the central zone, all sorts of material was displayed: local landraces, improved varieties and a few hybrids, especially of maize, which is a staple crop. The research team had identified six study crops for the years 2003 to 2005: sorghum, pearl millet, cowpeas, pumpkins, sponge gourds and mlenda. Farmers at both seed fairs displayed all of these. Other crops on show included maize, finger millet, tomatoes, castor, green gram, sunflower, beans, Bambara nuts, water melon, sesame, okra, Amaranthus, pigeon peas and wild fruits such as cactus. In the southern highlands, farmers displayed maize, sorghum, finger millet,
+Castor bean seeds (R.Laub)
+
+rice, cassava, sweet potatoes, green gram, cowpeas, pawpaw, beans, banana, pigeon peas, Bambara nuts, coco yams, groundnuts, simsim, pumpkins, sunflower, castor oil and different types of vegetables. Some of the varieties displayed at the seed fairs had not been listed in the study, implying that there is more crop diversity in the southern highlands than previously thought. For example, at Shinji, there were three new varieties of maize, all of which are early-maturing and resistant to drought. There were also six local bean varieties, which are characterized as high-yielding, small-seeded and disease-resistant. However, these bean varieties are unmarketable, so they are used for home consumption only. Drought at Malinzanga meant that several of the crops and varieties expected were not displayed at the seed fair there. Ethnobotanicals As well as seeds, farmers displayed different ethnobotanicals used to treat human diseases or to protect seed against storage pests. Ethnobotanicals for treating pests included Tagetes minuta, tobacco and local herbs such as lidudwe, lisakasaka and lidupala in the southern highlands, and mgonasimba, neem, mtumba, saka, nhunungu, mavu, lumbasi, mtungulu and Mutangang'unyi in the central zone. Some farmers brought the ashes of goat and cattle dung, which is commonly used to control storage pests. At one southern highlands village (Shinji), farmers demonstrated the use of finger millet (iyelelo) husks, red soils and sunflower ashes as pesticides for stored crops. At this same village, researchers from ARI-Uyole exhibited pyrethrum dust and a local herb known as Ikowo. Various types of storage structure were also displayed. Seeds mixed with ashes to protect them against storage pests
+(R.Laub)
+
+7
+
+Follow-up The farmers and the crop diversity they displayed were registered for follow-up after each seed fair. Throughout the seed fairs, the research team members recorded all the types of crop diversity on show, and this information has been stored in electronic format for future use by researchers, farmers and other stakeholders. The day after each seed fair, a feedback meeting was held and attended by all the committee members who had participated in the preparatory meetings. The main objective of these feedbacks was to review the whole seed fair to identify what factors had led to achievements and what had led to problems in order to use the experience to guide future planning. The meetings also identified ways of making seed fairs more successful and sustainable in the future. Training The experienced farmers were requested to train other farmers on local technologies for controlling storage pests, including the use of ethnobotanicals. Expert farmers were identified by their colleagues and interviewed by the study team, and it was found that they had acquired much of their knowledge through the accumulation of experiences, their own informal experiments and a sound understanding of the local environment. In the southern highlands, four expert farmers trained another 60 farmers (32 women and 28 men) on how to prepare, apply and handle traditional pesticides, including goat dung and the herbs Tegetes minuta and lisakasaka. The training created much interest among the farmers, and encouraged them to consider adopting the technologies. District extension staff were available to answer farmers' many questions on application rates and methods and to share experiences from other villages where similar practices are already widely used. Training was also provided on the production and processing of oil from simsim, sunflower, groundnut and castor. In order to promote these crops as valuable contributions to local agro-biodiversity, training on the use and maintenance of manual oil presses was provided by an NGO that manufactures the presses. Presses were bought for both the southern highlands villages and presented to farmers during the seed fairs. The NGO trained 40 farmers and three village leaders. After explaining that the seed should be sun-dried prior to pressing, the trainer demonstrated how the machine works, and how to assemble, position and operate it. The operation skills taught included feeding, pressing, removing the seed cake and adjusting the machine for efficient operation. Farmers also learned how to process the extracted, crude oil into refined oil. The seed crops used during the training were sunflower, pumpkin and sesame. Three trained farmers were appointed to form a committee for managing the village press. The committee will be responsible for maintaining the press and preparing it for use by other farmers. The farmers also decided that people who use the press should pay small fees, which will be used for machine repairs and maintenance. The NGO will be making follow-up visits to ensure that the press is properly used and maintained. SUSTAINABILITY OF THE SEED FAIRS As promoters of local community learning, seed exchange and seed selling, the seed fairs had varied success, with one village in the central zone (Misughaa) achieving far more than the other. There was also more sharing of knowledge and experience in this village, mainly because the setting of the seed fair there was more conducive to discussion. All the displays were arranged on well-constructed tables in temporary huts, so everything was open and easy to see, with no overlapping of the samples displayed. It was recommended that seed fairs be conducted once a year after harvest, when all the farmers have collected their produce into their backyards and have not yet used much of it. Farmers stated that seed fairs were a good way for them to find seed varieties that they had
+
+8
+
+lost or been looking for without success. Rather than being held at the same site every year, seed fairs could rotate among villages and wards as a way of spreading their influence further. It was decided that, as well as the District Council, villages can consult community-based and non-governmental organizations - including the Diocese of Central Tanganyika, which is already operating in one of the villages - to seek sponsoring for seed fairs in the future. In order to reduce costs, seed fairs could by combined with other festivals, such as Nanenane. LESSONS LEARNED The FAO guidelines for seed fairs (Annex 2) are instrumental in organizing seed fairs, especially when it is a village's first experience of such an event, as was the case in these four villages. Farmers expect the organizers to be knowledgeable and to take a leading role, particularly in the introductory phases. For farmers and local people Many farmers in and around the study area are not aware of all the crop diversity and local knowledge that exists in their communities. Seed fairs provide a learning platform for local people. For example, some farmers mentioned seeing crop varieties that they thought were extinct in their villages. Young people commented with surprise on the wide range of varieties and technologies that existed in their local environments. They were particularly interested in the use of ethnobotanicals for the storage of cereals and legumes, and the processing of cooking oil from watermelons, pumpkins and sponge gourd seeds. A specially prepared drama about seed fairs and local knowledge proved to be an excellent way of attracting participants' attention and passing on important messages. Farmers recommended that researchers produce information leaflets on local seed management and other practices for distribution among community members.
+
+Women farmers and their pumpkins (R.Laub)
+
+Seed fairs include displays of equipment for seed and food preparation and processing, such as tools for oil extraction, storage, farming and decoration. In one village, farmers also demonstrated recipes using different varieties, such as local wine from both local and improved varieties of sorghum. Demonstrations of oil extraction from pumpkin seed and sunflower showed what a tiresome process it is for the women who do it, involving extracting the seeds from the fruits, sun-drying and stone-grinding the seeds, boiling to separate the oil from the flesh, and leaving the product to settle. Farmers used the seed fairs as an opportunity for sharing experiences among themselves and with younger generations and development workers. Seed fairs also allowed farmers to exchange seed through barter and to market their products and seeds. Some farmers, especially those who were involved in the seed study, commented on other farmers' lack of interest in the seed fair prior to the event. Some also expressed concern about seed fair participants displaying items such as pottery and local minerals, which they felt were out of place at a seed fair. Farmers emphasized that more efforts should be directed towards local crop landraces that thrive well in semi-arid conditions, without forgetting those collected crops that are particularly important during harsh weather. People in the village who are knowledgeable about the uses of ethnobotanicals should come forward to offer their valuable advice regarding the storage of food grains and seeds.
+
+9
+
+Farmers regarded the awards as being the apex of the seed fairs and the motivation for taking part in the future. For extensionists and researchers The seed fairs gave crop researchers the opportunity to interact with different types of farmer and to learn more about seed diversity; for many research team members, the fairs were the first time that they had seen rare varieties that cannot be collected easily, such as a central zone strain of sorghum whose local name is Mpatapata. Traditions associated with certain crops and varieties can be recorded easily during a seed fair, and seed fairs can also be used as a means of triangulating village agroDisplay of rare sorghum and millet varieties (R.Laub)
+
+biodiversity or variety data. For example, local varieties that are not displayed can be assumed to be lost. The research team noted that more local seeds than improved varieties were displayed at the seed fairs and that much of the study communities' crop diversity and local knowledge has not yet been documented. The seed fairs emphasized the close links between agro-biodiversity and ethnobotanicals, such as neem tree leaves, saka and Mtumba. Ethnobotanicals are becoming valuable marketable products for the farming community, and farmers need support in developing the capacity to process, pack and label them as part of the commercialization process. It was interesting to note that wild varieties of finger millet, rice and sorghum were displayed. These have a role to play in food security, and farmers explained their value, especially during extreme droughts when common food crops fail. Farmers also commented that a wide range of collected crops, green vegetables (e.g. Milenda), wild fruits (e.g. lade) and neglected crops such as local pulses (e.g. maharage makubwa,) or cucurbitaceous are important to the food security of farming communities in semi-arid areas.
+Collected food plants (R.Laub)
+
+In addition, the seed fairs demonstrated that semi-arid areas have the potential to produce oilseeds (moringa, cotton, pumpkins, sunflower, sponge gourds, castor oil, watermelons, safflower and others), which thrive well in these regions. Regarding the organization of future seed fairs, it is important that the farmers who participate in research should take a leading role; however, all other stakeholders should also be involved, including policy-makers at different levels. Successful seed fairs require at least a month of preparation, including sensitization meetings and publicity. Village leaders, research farmer groups and extension officers are well-placed for spreading the word about
+
+10
+
+the coming event, and the exact numbers of farmers' displays should be known two days before the seed fair. During the event itself, all official guests should be in attendance throughout the whole day; for example, farmers in one village had prepared local foods and drinks to share with all guests and other attendees. For the future, it was suggested that a receptionist be appointed to greet official guests and provide them with name labels. Food vendors and entertainment troupes should also be organized to keep the event "alive". For officials Seed fairs are an eye-opener for policy-makers and politicians regarding the wealth of local knowledge. Official guests at the seed fairs showed considerable interest in the local biodiversity and products on display, and did much to draw the visiting media's attention to the concepts behind the events. During their speeches, some officials undertook to promote the holding of seed fairs in the future. Farmers commented that such interest is encouraging to them. They would like to see gifts and certificates for future shows, as well as recognition from the influential people who attend them. Farmers particularly appreciated the purchases of seeds, ethnobotanicals and other valuable materials that were made by visiting officials, and would like to encourage more of these in the future. In the central zone, the lack of an official closing ceremony was seen as beneficial, because once an event has been declared closed everybody disperses, discouraging latecomers from benefiting from the fairs.
+
+RECOMMENDATIONS · The community diversity seed fairs should be organized regularly by rural communities preferably once per year after the main harvest period. These seed fairs are an excellent opportunity for farmers to display and exchange their local seed varieties and the related local knowledge. It is important to highlight, that women farmers, who are very often seed management specialists, have easy access to this kind of seed fair. During the seed fairs a cultural programme should be organized. The presentation of songs, poems and theater pieces attracts a lot of attention also from the younger generation. During these events the participants can learn to value and appreciate the importance of local agrobiodiversity management and practices for food security. The community diversity seed fairs are a good learning opportunity for all the participants. The seed fairs should be used to bring men and women farmers together with extension staff and researchers to exchange germplasm, different crop varieties and experiences. Moreover the seed fairs offer a good occasion to combine the event with participatory plant breeding exercises and other mutual learning and experimenting opportunities for the participants.
+
+·
+
+·
+
+11
+
+Appendices Annex 1: Synthesis of four village seed fairs The following are some basic facts and figures about the four seed fairs described in this study. Participants Central Zone Dabalo: 26 people showed crops 14 women 12 men 32 people and 1 school showed crops 17 women 15 men 58 people and 1 school showed crops 31 women 27 men
+
+Misughaa:
+
+Total:
+
+Southern Highlands Shinji 21 groups and four individual farmers showed crops These figures were not broken down according to gender. Malinzanga Numbers not available
+
+In general, more women than men farmers attended and/or displayed crops and seeds at the fairs. Fewer women attend larger-scale agricultural fairs and exhibitions, because women rarely travel long distances and are less interested in the improved cash crops that larger-scale events tend to concentrate on. Crop categories displayed The tables below show the categories of crops shown. Farmers focused mainly on staple crops, but many neglected and collected crops were also shown. Few cash crops were shown. Research team members were surprised to find some new crop varieties that they had not seen before. Women showed far more collected crops than men did; for example, in Dabalo in the central zone, two men showed collected crops, compared with ten women.
+
+Cash crops Central Zone Dabalo Misughaa Shinji Malinsanga 3 4 0 0
+
+Staple crops
+
+Neglected crops 6 6 30 12
+
+Colleted crops 6 8 10 2
+
+New varieties 3 3 8 1
+
+Total
+
+19 18 4 3
+
+37 39 52 18
+
+Southern Highlands
+
+12
+
+Far more local than modern crop varieties were displayed.
+Local varieties Central Zone Misughaa Datalo Southern Highlands Malinzanga* Shinji 139 7 146 * Crop varieties displayed in Malinzanga were not recorded according to whether they were local or modern. 83 72 25 18 108 90 Modern varieties Total
+
+Crop varieties shown In Shinji (Southern Highlands), farmers showed a large number of local crop varieties of: · maize: 20 varieties; · beans: 26 varieties; · sorghum: 16 varieties; · pumpkin: 14 varieties. In Dabalo (Central Zone) the following were shown: · maize: 8 varieties; · sorghum: 13 varieties; · songe gourd: 8 varieties; · cow peas: 9 varieties. In Misughaa (Central Zone) the following were shown: · sorghum: 15 varieties; · sponge gourd: 8 varieties; · cowpea: 6 varieties; · finger millet: 7 varieties; · mlenda: 7 varieties.
+
+13
+
+Annex 2: FAO/LINKS Project guidelines for conducting community seed fairs Project field research in rural communities helps to create awareness of local crop diversity and related issues among community members, the research team and other stakeholders. A surprising number of farmers often know very little about the different crop varieties that are being used by other farmers living in the same rural community. Research greatly increases farmers' and researchers' awareness of crop diversity within rural communities, and there is a need to strengthen this process further through the use of community events. Seed fairs are a good way of achieving this. At community seed fairs, farmers have the possibility of showing and exchanging small quantities of their seed. Seed fairs provide them with the opportunity to meet and discuss not only seeds, but also local practices and knowledge linked to specific seed varieties. In order to make seed fairs affordable for rural farmers, they should be organized on a small scale and cover only a few communities. Based on the wealth of local crop varieties available in the communities, seed fairs focus mainly on local crop diversity (improved, local, neglected and collected crops). Hybrid seeds can also be exhibited, but they should not be the main focus of a fair. The advantage of small-scale seed fairs is that smallholder farmers can participate without problems. Few travel costs are involved, and women - who are the key people for neglected and collected crops - find it easier to attend. Another advantage of local seed fairs is that the seeds displayed are easily accessible, as they rely on local resources rather than on those from outside the community. This makes follow-up easier for the farmers; when they have exchanged seed varieties, they can discuss their experiences, thereby strengthening further exchange and communication, including through the establishment of local networks. The following are some points to consider in the planning and implementation of a community seed fair. Community ownership The most important factor in a useful community seed fair is that the community feels ownership of it. This can best be accomplished by giving the lead role to a seed fair organizing committee with community representation. The formation of a seed fair organizing committee is the first action in the planning of a seed fair. · The committee should have representatives from the community, project research and extension staff, school staff, the church, local groups and organizations, women and men farmers, and community leaders. The seed fair committee should then meet to plan and implement the seed fair. · Clear roles and responsibilities should be defined for the committee members so that all the necessary arrangements are made. · Planning should start long before the seed fair, preferably around harvest time so that farmers can save sufficient seed of the crops and varieties that they want to display, sell or exchange. · A date that does not conflict with other community events should be chosen for the seed fair. This should preferably be shortly before the planting season, when farmers are most interested in buying seed. The risks with this are that some farmers might have no seed left to display, or they may have large quantities, which they want to sell. · The committee should develop a programme for the seed fair. · The seed fair should be conducted by the community for the community. Theme, objectives and activities The seed fair should be given a theme that captures the interest and significance of crop diversity for the local community and suits local culture. The community needs to have a
+
+14
+
+clear idea of the seed fair objective so that activities can be planned and then evaluated after the fair. The following are some suggested objectives for a seed fair. A fair should have no more than two objectives. Objective 1: Raising awareness of local crop diversity at the rural community level · Displays of crop diversity, with judging and awards for the best displays. · Presentations by very knowledgeable farmers on the crop diversity that they conserve. · Sketches, songs and dances related to crop diversity. · LinKS project presentations on the findings of field research. Objective 2: Educating the community (including the younger generation) about crop diversity. With the involvement of students, an educational component can be presented that will help the future conservation and use of crop diversity · Presentations on nutrition and the cooking of local crop diversity. Highlight the nutritional value of neglected and collected crops. Explain the importance of nutritious food, especially for HIV/AIDS-afflicted people. · Demonstrations of processing and storage for local crops. · Involvement of the local school, including students' drawings and essays on crop diversity. · Exchange of experiences and information about seed selection and storage. Objective 3: Buying, selling and bartering seed to encourage the conservation of crop diversity and spread it among local farmers · Farmers' sale or exchange of small quantities of local varieties. Objective 4: Encouraging community-level production of crop diversity · Sale or exchange of local varieties. · Exchange of information on local varieties. · Planning of demonstration plots, including at the local school or with a farmer (quality declared seed [QDS], very knowledgeable farmer or other). Planning the activities Based on the identified objectives, the following activities should be carried out: · An activity coordinator is identified to have overall responsibility for all the activities. · The activity coordinator discusses and recruits community members who will be involved. · The activity coordinator meets participants and agrees the necessary planning to carry out the activity. · The activity coordinator reports to the community seed fair committee. · The activity coordinator ensures that participants, materials, etc. are ready for the seed fair. · The activity coordinator reviews the activity with the participants and committee after the seed fair, to discuss how it was received and how it could be improved. · The most knowledgeable farmers and women farmers should be especially encouraged to participate in seed fairs because they are the key resource people for crop diversity. · The seed fair should not be limited to hybrid and improved seed varieties or cash crops; local seed fairs are a good opportunity to highlight and display the role and importance of neglected and collected crops for food security. · QDS farmers should also participate.
+
+15
+
+Funding Community seed fairs must be sustainable. Every effort should be made to make the event self-funded based on the contributions of time and effort from the committee and participants. Local sources of sponsorship should be arranged if needed. Ideally, community seed fairs should be held regularly, twice a year. This would give farmers two reliable opportunities a year to find seed varieties that they have lost or long been looking for. Public awareness It is essential to inform the community of the seed fair in advance so that sufficient seed is saved for display and exchange. Local means should be used to create awareness through announcements at public events, posters, radio and leaflets. Conducting the seed fair The seed fair committee and activity coordinators must plan in advance: · Where will the seed faire take place? · When will it take place? · What will its objective be? · Who will be invited? · Who can display seeds (everybody or only certain people)? How will these people be identified and selected, and according to which criteria? How can farmers who plant more varieties than others be encouraged to participate? · What kind of material is required? Only local materials need be used ­ it is not necessary to build big stands as displays can be arranged on pieces of cloth spread on the ground. · What kinds of seeds will be exposed (local, improved, hybrid, collected, neglected, wild, etc.)? · What kind of awards will be distributed? Where will they be obtained? Contact between activity coordinators and participants is necessary: · · · · What are activity coordinators planning to do? Who will participate? Is a large response from the rural community expected? What will participants have to do? When will they have to start with the activity?
+
+The farmers and the crop diversity they display should be registered for follow-up after the event: · · · · · Who will do this? How will crop diversity be registered? Where will this information be stored? What will happen to this information? Who is interested in this kind of information?
+
+The project staff should use this opportunity to review the crop diversity displayed, compare this with the findings of the study and record additional crop diversity. A set programme should be followed as closely as possible, starting with an opening statement by the seed fair committee and invited guests: · · Who will open the seed fair? General events and individual presentations should follow.
+
+16
+
+· · ·
+
+There should be an award presentation followed by a final closing ceremony. Who will select the award winners? According to which criteria? Who will close the seed fair?
+
+Awards and recognition For the community members who are conserving crop diversity, recognition is an essential element of a seed fair. Awards can be provided for the most crops, most varieties of a crop, best display, best activity and best presentation. Simple awards of seed, certificates or tools can be provided. Monitoring and evaluation After the seed fair, the seed fair committee should meet to review how it was received and to determine how it could be improved and when the next seed fair should be held. Ideally, seed fairs should be organized twice or three times a year, before each planting season. Farmers need to understand the routine of regular seed fairs.
+
+17
+
+Appendix 3: Crops and biodiversity displayed in Dabalo village (Central Zone) Name Sex Crop Displayed Varieties/ local name Local (L) / Improved (I) I I L L L L L L L I L L I L I L L L L L L L L L L L L L L L L L L L I I L L L L I Staple (S), Neglected (N) Collected (C) S S S S S S S S S S N C S S S Cash crop S S N N S C Cash crop S S S S S S S C S S S S S S C S S S Remarks
+
+Bakari Waziri
+
+Male
+
+Maize Sorghum Pearl millet Finger millet Cowpeas
+
+John Ngaila John Msigala
+
+Male Male
+
+Spongy gourds Mlenda Tomato Nyanya Chungu Egg plant Castor Green Gram Cowpeas Spongy gourds Pumpkins Maize Mlenda Sunflower Maize
+
+Staha Pannar Red udo Buluma Red Spreading Wima Red 00040 Mapele Mbata Tanya Local Local Local Ihali Majenje Dimeku Mbata Nyeupe Nanenane Merika Ngogo Funukulu Sabatele Fwafwa Nhanze Mbata Kongwa Buluma Chora Staha Pato Wima Iyungu Chikola Sabatele Cargil
+
+Hawa Mbwana Hagulwa Matonya
+
+Female
+
+Female
+
+New New New
+
+Sorghum Mlenda Groundnuts Pearl millet Cowpeas Maize Sorghum Cowpeas Spongy gourds Maize
+
+Zaina Ramadhani Sakina Ally
+
+Female Female
+
+New
+
+Paulina Mombo
+
+Female
+
+New entry
+
+18
+
+Mtama Pearl millet Groundnuts Cowpeas Finger millet Mlenda Cowpeas
+
+Mariam Kisalazo Aziza Mwin`juma Andason Shangau
+
+Female
+
+Merika Dimeku Seedco Fwafwa Udo Buluma Kongwa Wima Mweusi Mbata Wima Kasa Fisi Ilonga Staha Soya Nyandani Imbede Ufuta Mamuzo Nhungu Nanenane Ilonga Staha Ihali Iyungu Mujeti Imbede Ihikwi Lugugu Sanyaji Uvele Record Majenje Mamuzo Mhoni Upela Ntendelekwima Nyandani Mambunga Ilonga Staha TMV 1 Cargil Kito Chikole Sabatele Fununghula
+
+L L I L L L L L L L L L L I I I L L L L L L I I L L L L L L L L I L L L L L L L I I I I I L L L
+
+S S S S S S S S S C S S S S S S S N Cash crop N N S S S N N N S N N N S S N N S C S S S S S S S S S S S
+
+New entry
+
+Female
+
+New entry
+
+Male
+
+Maize Beans Bambara nuts Water melon Simsim Pumpkins Spongy gourds Maize
+
+Jeremia Zakaria
+
+Male
+
+Spongy gourds Water melon Sorghum Pearl millet Sunflower Pumpkins Finger millet Baobab fruit Beans Bambara nuts Groundnuts Maize
+
+Cash crop
+
+Juma Ngayaki
+
+Male
+
+19
+
+Spongy gourds Sorghum Cowpeas Sorghum Maize Fruit tree Spongy gourds Maize Groundnut Bambara nuts Cowpeas Honey Spongy gourds Monica Baridi Female Maize Sorghum
+
+Daniel Leboni
+
+Male
+
+Majuka Mapele Mbwagale Sanyaji Pilipili Fwafwa Nhandazi Fwafwa Dimeku Nhumbulu Mbwagale Ilonga Kongwa Nyeupe Red Sunzumazi Uchi Iyungu Nhungu Ilonga Staha Hembahemba nyekundu Hembahemba nyeupe Sunzumazi Majenje Imbede Kongwa TMV 1 Mamuzo Mapele Sunzumazi Mwezimoja Lade/Sada Staha TMV1 Sandala Fwafwa Telatela Staha Nhoma Nhunde Ihikwi Majenje Ngogo Upela
+
+L L L L L L L L L L L I I L L L L L L I I L L L L L I I L L L L L I I L L L I L L L L L L
+
+N N N S S S S S S S S S S S S S C N N S S S S S N N S S N N S S S S S S S S S N N N N S C
+
+Eunike Msemakweli
+
+Female
+
+Hamisi Iddi
+
+Male
+
+David Nyerau
+
+Male
+
+Cowpeas Pumpkins Water melon Groundnuts Maize Pumpkins Spongy gourds Cowpeas Pigeon peas Fruit tree Maize Sorghum
+
+Stanley Masale Zakaria Chitema Elizabeth Lessi
+
+Male
+
+Cactus Maize Spongy gourds
+
+Male Female
+
+Water melon Pumpkins Cowpeas Baobab (fruit)
+
+20
+
+Esta Lessi
+
+Female
+
+Mlenda Cucumber Maize Sorghum Bambara nuts Castor Groundnuts Fruit tree Okra Green gram Amaranthus Spongy gourds Beans Pumpkins Castor Baobab fruit Pearl millet Cowpeas Bambara nuts Sorghum Groundnuts Pumpkins Sweet potatoes Maize Sorghum Sunflower Pumpkins Cowpeas Spongy gourds Baobab fruit Fruit tree Mlenda Maize Sorghum Beans Cowpeas Sunflower Groundnuts Pearl millet Pumpkins Cucumber Spongy gourds
+
+Wima Mviringo Dimeku Hembahemba nyeupe Nyandani Nyemba Kongwa Nhumbulu Bamia fupi Sasauli Mchicha Nhungu Soya Majenje Nyemba Upela Shibe Nhandazi Nzugudunhu Hembahemba nyeupe Kongwa Majenje Ntolo Sabatele Sandala Record Majenje Mamuzo Nhandazi Nhungu Upela Nhumbulu Mbata Dimeku Staha Sandala Serena Nghundukwima Nhandazi Sunzumazi Record Kongwa Mambunga Okoa Majenje Mamuzo Mviringo Nhungu
+
+L L L L L L I L I I L L I L L L I L L L I L L L L I L L L L L L L L I L I L L L I I L I L L L L
+
+C N S S S N S C S S C N S N S C S S S S S N S S S S N N S N C S C S S S S S S S S S S S N N N N Cash crop Used to be a cash crop
+
+Vaileti Lessi
+
+Female
+
+Shida Ambrose
+
+Female
+
+Gidion Chilongani
+
+Male
+
+Cash crop
+
+21
+
+Sarah Mdebe
+
+Female
+
+Maize
+
+Groundnuts Simsim Sunflower Cowpeas Pigeon peas Mlenda Pearl millet Sorghum
+
+Water melon Spongy gourds
+
+Pumpkins Ethnobotanicals
+
+Sabatele Staha Mgogo Nanenane Njano Pannar Cargil 4141 Ilonga Kongwa Mambunga Ngogo Kienyeji Naliendele 92 Record Nhandazi Sunzumazi Mali Wima Mbata Kienyeji Lugugu Macheya Mpilipili Sanyaji Fwafwa Mlanga Sandala Macia Pato Roma Tanga Mbwagale Mapele Gundugundu Majuka Majenje Mamuzo Mgonasimba
+
+L I L L L I I I I L L L I I L L I L L L L L L L L L L I I L L L L L L L L L
+
+S S S S S S S S S S S S S S S S S C C S S S S S S S S S S S N N N N N N N C
+
+Cash crop Cash crop Cash crop
+
+Muarobaini Mtumba Saka Nhunungu Mavu
+
+L L L L L
+
+C C C C C
+
+Control of storage pest As above As above As above As above As above
+
+22
+
+Appendix 4: Crops and their biodiversity displayed in Misughaa village (Central Zone) Name Sex Crop Displayed Varieties/local names Local (L) / Improved (I) Staple (S), Neglected (N) Collected (C) Staple Staple Staple Staple Staple Staple Staple Staple Staple Staple Staple Staple Staple Staple Staple Collected Staple Staple Neglected Staple Neglected Neglected Staple Staple Staple Staple Staple Staple Staple Staple Staple Remarks
+
+Domitila Kelvin (group)
+
+3 Female3 Males
+
+Sorghum
+
+Langalanga nyekundu Langalanga manyiang`omb e Langalanga kijivu Langalanga kirwana Langalanga Richadi Langalanga wera Hembahemba Njano Nyeupe Mbia Khande Dodoma Asili Tumaini Gerigeri Wima Asili Asili Asili Nyeusi Iranga la mwana Mahukuma Langalanga nyekundu Langalanga manyiang`omb e Pato Langalanga kirwana Langalanga Richadi Langalanga wera Hembahemba Dodoma Supa
+
+Local Local Local Local Local Local Local Local Local Local Local Local Local Improved Local Local Local Local Local Local Local Local Local Local Improved Local Local Local Local Local Improved
+
+Maize Finger milllet Pearl millet Cowpeas Mlenda Groundnuts Bambara nuts Water melon Sunflower Spongy gourds Andrea Tatulu Male Pumpkins Sorghum
+
+Pearl millet Rice
+
+23
+
+Maize Cowpeas Sunflower Pigeon peas Spongy gourds Pumpkins Finger milllet Bambara nuts Mlenda Misughaa Primary School NA Sorghum
+
+Cargil Merika Kilima Gerigeri Johari Nyekundu Nyeusi Nyeupe Itanga makundo Itanga mwana Mahukuma Matumba Nyekundu Nhandi Nyeupe Wima Mbata Macia Upemba Staha Cargil Nyekundu Asili Nyeupe Nyeupe Pundamilia Nyeusi
+
+Improved Local Improved Local Improved Local Local Local Local Local Local Local Local Local Local Local Local Improved Local Improved Improved Local Local Local Local Local Local Local Local Local Local Local Local Local Local Local Local Local Local Local Local
+
+Staple Staple Staple Staple Staple Staple Staple Staple Neglected Neglected Neglected Neglected Staple Staple Staple Collected Collected Staple Staple Staple Staple Staple Staple Staple Staple Staple Staple Staple Staple Staple Neglected Neglected Collected Collected Collected Collected Staple Staple Staple Staple Staple New
+
+Maize Finger milllet Pearl millet Cowpeas Sunflower
+
+Cash crop Cash crop Cash crop
+
+Simba group
+
+4 females2 males
+
+Bambara nuts Pigeon peas Groundnuts Water melon Pumpkins Local fruit Local fruit Local fruit Local fruit Sorghum
+
+Nyeupe Nyeupe Mwezimoja Asili Mahukuma Lade Furu Sosati Ubuyu Langalanga nyekundu Langalanga manyiang`omb e Langalanga kijivu Langalanga majimaji Langalanga kirwana
+
+24
+
+Finger millet Maize Cowpeas Mlenda Spongy gourds Bambara nuts Sorghum
+
+Irimina Damas group
+
+3 Female2 males
+
+Langalanga Richadi Langalanga wera Hembahemba nyeupe Hembahemba nyekundu Hembahemba kijivu Macia Pato Nyekundu Njano Cargil Kilima Nyekundu Kusayakirima Wima Itanga mwana Ihukuma Imamayi Asili Langalanga nyekundu Langalanga manyiang`omb e Langalanga kijivu Langalanga Richadi Langalanga wera Hembahemba nyeupe Hembahemba nyekundu Okoa Pato Nyekundu Gerigeri Buluu Nyeupe Asili Mamboleo Wima Mbata Itanga makundo Itanga ng`upa Langalanga
+
+Local Local Local Local Local Improved Improved Local Local Improved Improved Local Local Local Local Local Local Local Local Local
+
+Staple Staple Staple Staple Staple Staple Staple Staple Staple Staple Staple Staple Staple Collected Neglected Neglected Neglected Staple Staple Staple
+
+Local Local Local Local Improved Improved Local Local Local Local Local Local Local Local Local Local Local
+
+Staple Staple Staple Staple Staple Staple Staple Staple Staple Staple Staple Staple Collected Collected Neglected Collected Staple New
+
+Cowpeas
+
+Groundnuts Mlenda Spongy gourds Alli Mhuvii 1 female1 Sorghum
+
+25
+
+male
+
+Pearl millet Maize
+
+Pumpkins Water melon
+
+nyekundu Langalanga manyiang`omb e Langalanga kirwana Langalanga Richadi Langalanga wera Langalanga sunkuni Hembahemba kijivu Hembahemba nyekundu Hakika Pato Asili Dodoma Wamiba Staha Kilima Njano Asili Matumba laini Mageng`enge Mahukuma Mamamai Magigini ya Ng`ombe
+
+Local Local Local Local Local Local Local Improved Improved Local Local Local Improved Improved Local Local Local Local Local Local Local
+
+Staple Staple Staple Staple Staple Staple Staple Staple Staple Staple Staple Staple Staple Staple Staple Staple Neglected Neglected Neglected Neglected Neglected New entry
+
+New Taken during hunger periods
+
+Cowpeas
+
+Finger millet
+
+Magigini ya mpogho Tumaini Gerigeri Nyeupe Buluu Ulezi matawi Ulezi Nkhonnde Ulezi pori
+
+Local Improved Local Local Local Local Local Local
+
+Neglected Staple Staple Staple Staple Staple Staple Staple Taken during hunger periods
+
+Spongy gourds
+
+Itanga mwana Itanga makundo Mtetua Mwasambaya Ifunde
+
+Local Local Local Local Local
+
+Neglected Neglected Neglected Neglected Neglected
+
+26
+
+Cucumber Groundnuts Sunflower Cotton Mlenda
+
+Magreth Mbugha
+
+1 Female1 Male
+
+Sorghum
+
+Maghogho Tumaini Record Jupiter UK 74 Mbata Wima Mtae Kifue Langalanga nyekundu Langalanga manyiang`omb e Langalanga nyeupe Langalanga mbagala Langalanga wera Serena Hembahemba nyeupe Hembahemba nyekundu Hakika Pato Macia Serena nyeupe Tona nyeupe
+
+Local Improved Improved Improved Improved Local Local Local Local Local Local Local Local Local Improved Local Local Improved Improved Improved Improved Improved Improved Improved Local Local Improved Local Local Local Improved Local Local Local Improved Local Local Improved Local Improved Local Improved Improved
+
+Neglected Staple Staple Staple Staple Collected Collected Collected Collected Staple Staple Staple Staple Staple Staple Staple Staple Staple Staple Staple Staple Staple Staple Staple Staple Staple Staple Staple Staple Staple Staple Staple Staple Staple Staple Staple Staple Staple Staple Staple Staple Staple Staple
+
+New entry New entry
+
+Maize
+
+Pearl millet Finger millet Cowpeas
+
+Groundnuts Bamabara nuts Pigeon peas Green gram Beans Sunflower
+
+Cargil Staha Meupe Mekundu Okoa Dodoma Nkhonde Ulezi matawi Tumaini Gerigeri Buluu Nyeupe Fahari Kienyeji Dodoma Mwezimoja Nyeupe Mali Kienyeji Soya Record
+
+27
+
+Cassava Sweet potatoes Pumpkins Spongy gourds
+
+Mlenda Mushroom Amaranthus Water melon Castor Moringa spp Tomatoes Cotton Chick pea Cucumber Spongy gourds Sorghum
+
+Kienyeji Sitha Nyeupe Matumba Mageng`enge Itanga mwana Itanga makundo Mtetua Mwasambaya Itanga ngufa Mamamai Mbata Wima Muntera Madale Asili Tango Asili Nyonyo Mlonge Asili UK 74 idengu Maghighini Ng`upa Langalanga nyekundu Langalanga manyiang`omb e Langalanga kirwana Langalanga majimaji Langalanga wera Hembahemba njano Hembahemba nyeupe Hembahemba nyekundu Pato Njano Mpande
+
+Local Improved Improved Local Local Local Local Local Local Local Local Local Local Local Local Local Local Local Local Improved Local Improved Improved Local Local Local Local Local Local Local Improved Local Local Improved Improved Local
+
+Staple Staple Staple Neglected Neglected Neglected Neglected Neglected Neglected Neglected Neglected Collected Collected Collected Collected Collected Neglected Collected Used to be a cash crop Used to be a cash crop Used to be a cash crop
+
+Staple Staple Staple Staple Collected Neglected Staple Staple Staple Staple Staple Staple Staple Staple Staple Staple Neglected
+
+Tatu Juma Group (6 members)
+
+3 Female 3 Males
+
+Maize Bambara nuts
+
+28
+
+Pumpkins Spongy gourds
+
+Cowpeas Cucumber Mlenda Spinach Fruit Ethno botanicals Ashura John (Group of 4) 2 Female2 males Sorghum
+
+Itumba Mahukuma Itanga makundo Itanga mwana Mtetua Imamai Nyekundu Gerigeri Maghighini Mbata Ikugha Mtae Mugha Lade Maumbasi Mutungulu Mghoghogongo Langalanga nyekundu Langalanga manyiang`omb e Langalanga kirwana Langalanga Richadi Langalanga wera Langalanga majimaji Hembahemba nyeupe Hembahemba nyekundu Pato Macia Kijani Dodoma Nyeupe Njano Nkhonde Kienyeji UK 74 Mpande Mwezimoja Redwhite Gerigeri Mahukuma Mageng`enge
+
+Local Local Local Local Local Local Local Local Local Local Local Local Local Local Local Local Local Local
+
+Neglected Neglected Neglected Neglected Neglected Neglected Staple Staple Neglected Collected Collected Collected Collected Collected Collected Collected Collected Staple
+
+Local Local Local Local Local Local Local Impoved Improved Local Local Local Local Local Local Improved Local Local Local Local Local Local
+
+Staple Staple Staple Staple Staple Staple Staple Staple Staple Staple Staple Staple Staple Staple Staple Cash crop Neglected Neglected Neglected Neglected Neglected Neglected
+
+Pearl millet Maize Finger millet Groundnuts Cotton Bambara nuts Sweet potatoes Cowpeas Pumpkins
+
+A cash crop
+
+29
+
+Spongy gourds
+
+Cucumber
+
+Itumbalaini Itanga makundo Itanga mwana Mtetua Mwasambaya Mamamai Maghighini Mang`ang`aa
+
+Local Local Local Local Local Local Local Local
+
+Neglected Neglected Neglected Neglected Neglected Neglected Neglected Neglected
+
+Wild, consume d during hunger periods.
+
+Mlenda Fruits
+
+Ethno botanicals
+
+Mbata Ikhonda Mtae Matogo Mpu Lade Pawpaw Neem leaves Maumbasi Matungulu Ntula
+
+Local Local Local Local Local Local Improved Improved Local Local Local
+
+Neglected Neglected Neglected Collected Collected Collected Staple Collected Collected Collected Collected
+
+30
+
+Appendix 5: Crop biodiversity displayed at Shinji village (Southern Highlands) NB: S = Staple food crop N=Neglected crops C=Collected crops 1. Group of farmers Name Village/ Hamlet Wema group Shinji A hamlet Crop sp. Maize Utilisatio n category* S Variety / local name Sokosela Njelenjele Chifute Nakakungwe MH41 Kigoma Maini Ndondo Nambisa Kablanketi Kwaiti Mwikala Masusu Uyole 84 Mwasipenjele Chizungu Kambani Njowa (yowa) Tambaa Wima Bhusambya Isungu Imbange choroko Tegemeo Nyegho viazi Inyemba Nyegho Bokeni Harale Manga Chimwela Local (L)/ improved (I) L L L L I L L L L L L L L I L L L L L L L L L L I L L L L L L L L New variety Early New crop Remarks
+
+Beans
+
+S
+
+Ex-Malawi New
+
+White seed Climbing Light colour Prostat Erect
+
+G/nuts Cowpeas Simsim Bambaran uts Pigeon peas Green gram Sorghum Irish potato Castor oil Finger millet Banana
+
+N N N N N N N S N N N
+
+New crop
+
+Mwangaza group
+
+Shinji B hamlet
+
+Pumpkin N Water N melon Wild C Masele L Cucumber Other: traditional spear,and needle (for mat making) Maize S Sokosela L Nakakungwe L Katukumeni L Beans S Ndondo L
+
+Food prepared like pumpkin
+
+31
+
+G/nuts Cowpeas Bambara nuts Soghum Soybean Castor Numbu Pumpkin Masele
+
+N N N N N N N N C C C
+
+Mwikalu Kwaiti Mwasipenjele Kablanketi Dry bean straw ash Njogwa Kambaini Kunde wima Kunde Tambaa Nyegho
+
+L L L L L L L L L L L L L L L L L L L L
+
+For grain storage
+
+Variety name was not known From Malawi Variety not known Dried vegetable leaves Fruits eaten Ethnobotanical for grain storage Root resemble cassava, eaten during hunger
+
+Pupwe Pulula Manga Mululusha Nakukungu
+
+Majengo hamlet
+
+Shinji
+
+tomato C L Hot pepper Others: Displayed local music instruments: Locally known Zeze, guirtar Maize S Mbandabwe L Sokosela L Nakakungwe L Ganje L L Beans S Nakashabala L Kwaiti (kabaya) L Mwasipenjele L Ndondo L Maini L Kablanketi L Mabula L Nabakwe L Namazele L Mangolo L Sokolo Chifufya Dried leaves Cowpeas N L Peas N Syababa L G/nut N Kambani L Light colour Kambani L Red colour Mashabala L Finger N Ulezi L millet
+
+32
+
+Pumpkin
+
+N
+
+Sorghum Castor sunflower Bambara nuts
+
+N N N N
+
+Manga Masele Tagali Chdadakunda ( soap made of fruit pieces) Nyegho Bupemba
+
+L L L L L L L L L
+
+Pumpkins are locally known as Lunyungu
+
+Isungu
+
+Juhudi group
+
+Ndendo hamlet
+
+Jiendeleze
+
+Shinji village
+
+Others: Bulupa, Nyongwe, Sogoyo, shigolola; all are herbs for grain storage; traditional grain grounding stone, tradidional tea leaves (Lubeba and Nachitasha) and wooden morter traditional cosmetics ( from a herb called Chipamba) Maize S Baka L Njelenjele L Finger N Inyego L millet Beans S Ndondo L Maize S Sokosela L Ndndawe Ex-Malawi I MH41 Ex-Malawi I MH18 L Njelenjele L Popokoni L Katukumeni L Kirungu L Nakakungwe Beans S Ndondo Maini mazumbwi Nambisa Mwikala Kwaiti Nabakwe Mwasipenjele Kigoma Kasweswe Sipukupuku Ndandabale Kabulangeti Nakashabala Masusu Pigeon N Ingolanie L peas Nyeupe L Light colour simsim N L Sorghum N Ndende L Chipira L Nakalela L Uwele L
+
+33
+
+Ulezi
+
+N
+
+Castor N African N tomato Rice Yam N Sunflower Green gram Cowpeas Bambara nut G/nut Sweet potato Cassava N N N N N
+
+Mpemba Nyego Ivopatila Ivovo Inyemba Nyanya chungu Kilombero Ichifugho Nyeusi Nyeupe Kijani Nyeupe Tambaa Wima Nyekundu Nyekundu nyeupe Kambani Kambani Njogwa Nachibufu Mkombozi Sunga bapina Mwachisa Mtututmushi Mdundumale Nachisalanze Kapombo Manga Litagali Iyengala Uvumbata Utweswa Utupindi
+
+L L L L L L L L L L L L L L L L L L L L L L L L L L L L L
+
+Black colour White colour Prostate Erect Red seeded Red Light seeded Light seeded Red seeded
+
+N
+
+Pumpkin
+
+N
+
+Hasongwa hamlet
+
+Shinji
+
+Wild C Masele L cucumber Others: 1. local soap made of shigolole, mpogolo and tatangunde; traditional salt made of chibeya; gourd, rodent trap 2. mwalobaini, mlulusha, nyongwe, cow dung,and red soil, as grain storage chemicals 3. Various grain storage equipments such as Katumba (for maize), chifunda (for groundnuts) Kapombo, kasanga, luselo, and chidunduga. Maize S Inchancha L Bulibuli L (mofati) Nachikungwe L Mbandawe L L Beans S Mwikala L Nchenzya L Ndondo L Maini
+
+34
+
+Cowpeas Bambara nuts Pumpkin
+
+N N N
+
+Mpopoka Kwaiti Msafiri Kambani Kigoma Msisya Nakabako Nakashsbala Sokolo Unchesya Inefu Inefu Mzimwa Kwipa Mayengala Matagali Manga Namtana dried leaves Mchicha Masele Broken Harale Numbu
+
+L L L L L L L L L L L L L L L L L L For dry season L L C L L L Cucurbitaceas pp
+
+Water melon Amaranth Wild cucumber Banana Livingston potato Cassava
+
+N N C N N N
+
+Ndendo
+
+Shinji village
+
+Mbundumale L Mwanyeka L Sorghum N Nyegho L Mafuti L Indenda L Bupemba L Masakata L G/nuts N Kambani L Red Kambani L Light seeded Rice Zambia L Finger N Nyego ndogo L Small grains millet Nyego kubwa L Big grains Others: grain storage facilities called chisalaga (basket), isonda (pot), traditional cups (utwesa and utupindu) Maize N Panawe L Sokosela L MH17 I Ex- Malawi L Beans S Nambisa L Ndondo L Kwiti L Mwasipenjele L Maini L Kigoma L Masusu
+
+35
+
+G/nuts
+
+N
+
+Pumpkin
+
+N
+
+Mabakwe Kambani Kambani Kambani Mashabala Tagali Uteswa Dried leaves Kipira
+
+L L L L L L L L
+
+Light colour Red colour Cream colour
+
+Sorghum
+
+Known as Chifufye Two varieties (white and red grain)
+
+Mtima group
+
+Mtima village
+
+Sweet N Mbatata L potato Pigeon peas N Imbange L Simsim N Usanbwa L Rice N India rangi L Finger N L millet Kale N L Sweet N L potatoes G/nut N Kambani L Onions N L Pawpaw N L Amaranths C Mchicha L Imbosho N L Other: Cow dung ash for grain storage, Nyongwe, Pawpaw N L Pumpkin Water melon Wild cucumber Tomato Bambara nut G/nut Amaranth Soybeans Green gram Maize N N C C N N C N N S Baka Mwafrika Mayengala Masele L L L L L L L L L L
+
+White and red colour Light colour
+
+Wild fruit tree Variety unknown
+
+Wild tomato Light colour
+
+Nakasale group
+
+Mapogoro village
+
+Njelenjele Nakakungwe Sokosela Chichipa Others: Utupa, mwalubaini, and mnyongwe Winnower (Nyungo), wooden mortor (kinu) Dried beans and amaranths laeves Maize S Kito Njelenjele
+
+L L L Ex- Malawi L for grain storage I L
+
+36
+
+Beans
+
+S
+
+Mashagoli Kigoma Mashimiko Dried leaves Kambani Karangakubwa Chizungu Tambaa Mkia rangi Nyegho Shashikuluwe Masele
+
+L L L L L L L L L L L L L L
+
+Eaten on dry season
+
+G/nuts Bambara nut Cowpeas Soybean Rice Finger millet Wild cucumber Okra Mushroom Sorghum Pumpkins
+
+N N N N N C C C N N
+
+One variety was displayed
+
+Fruits eaten
+
+Ng'ongo group
+
+Mapogoro village
+
+Ethno botanical
+
+L L Nyegho L Nyangala L Lyungu L Onions N L Others: Displayed, woodern mortor (Kinu) and local kniting tools Maize S Njelenjele L Sokosela L Kito I Beans S Kigoma L Mwasipenjele L Mushumike L G/nuts N Kambani L Njogwa L Cowpeas N Tambaa L Pigeon peas N Bange L Green gram N Soybean N Finger millet N Nyegho L Early Unknown L Late maturing Wild cumber C masele Pumpkin N Yengala L Manga L Itagali L Sweet potato N Mwakusa L Mamakisa L Sorghum N Two unknown varieties displayed Rice Supa india Mululusha C Mululusha L Plant ash used for grain storage Others: Utupa, Mwalobaini,and Pupwe (local amaranths) for grain storarge
+
+37
+
+Namalongol o group
+
+Mapogoro village
+
+Maize Beans G/ nut Pigeon peas Okra Bambara nut Sorghum Pumpkins Wild cucumber Sunflower Beans
+
+S S N N N N N C
+
+Njelenjele Kito popcorn Mwasipenjele Ndondo Kambani Njowa Mbange bamia Mdenda Yengala Manga Masele
+
+L L From Malawi L L L L L L L L L L L L
+
+Have sweet stem for chewing
+
+Natwaimba group
+
+Mbebe village
+
+S
+
+Maini Kablanketi Kwaiti Kigoma Pijo Njelenjele Sokosela Mapemba Mgagala Tagali Paprika
+
+Soybeans Finger millet Rice Maize Sorghum Pumpkin pepper onions Cassava
+
+N S N N
+
+L L L L L L L L L L L L
+
+Small and big types New crop
+
+N N
+
+Mbebe group
+
+Mbebe village
+
+Wild C cucumber Matalali C L Banana N L Other: Mnyongwe, banana ash, cow dung ash and red soil for grain storage. Maize S MH14 I Ex- Malawi Katumani I Beans S Ndondo L Bambara nut N Isungu L Sorghum N Indenda L Castor oil N L Pumpkin N L Fruits L Dried leaves (chifufye) Cassava N Katapwa L Others: mululsha, beans, bean leaves ashes used as salt.
+
+Mdundumale Nachisalansa Masele
+
+L L L L
+
+38
+
+Nambiyili Group
+
+Mbebe
+
+Maize Beans
+
+S S
+
+Njelenjele Ndondo Dried laeves
+
+L L Known as Chifufye L L L L L L L L L L L L
+
+Isoka group
+
+Mbebe village Mbebe village
+
+Other: mululusha, for grain storage Maize S Njelenjele Cassava Beans Maize Beans N S S S Chisalanzo Mwasipenjele Sokosela Ngola Mwasipenjele Ndondo Maini Dried leaves Njowa Tambaaa
+
+Nalwenda group
+
+Both are drought tolerant
+
+G/nuts Cowpeas Pumpkins
+
+N N N
+
+Seeds displayed
+
+Mbebe A group
+
+Mbebe village
+
+Wild C Masele L cucumber Rice Faya L Others: utupa and mwalobaini leaves for grain storage Maize S Njelenjele L Beans Pumpkin Wild cucumber Maize S N C S Ndondo Dried leaves Manga Masele Njelenjele L L L L L Eaten on dry season
+
+Mbebe B group
+
+Mbebe village
+
+Msia group
+
+Msia village
+
+Castor oil N Nyimba L Sorghum N Ndenda L Beans S Ndondo L Masele C L Mululusha C L Other; Chembetewa, a plant used for grain storage as Mululusha L Maize S Sokosela L Mdira L Napuyala L Lokolo L Kito L Chitute L Bandawe Beans S Sipukupuku L cowpeas N L G/nuts N Baka L Mamboleo L Pumpkin N Tagali L
+
+39
+
+Namakangala Wild cucumber Amaranth Sorghum C C N Masele
+
+L L
+
+Upendo group
+
+Ilulu village
+
+Mlenda L Dried leaves Mapula L Masaka L Msoma L Intenta L Displayed local manure made of composite and FYM, FYM ashes (storage) Amaranth C L For brewing Avocado C L Hot pepper N L For storage Pawpaw N L For washing leaves G/nuts N Baka L Beans S L Puple colour
+
+2. individual farmers Name Village/ Hamlet Msia Paja Msia
+
+Sex female
+
+Crop sp.
+
+Utilisation category*
+
+Variety or local name
+
+Beans S Kabanya Also displayed different items, ie. 1. Tatakunda, a local soap made from chopped pieces of pumpkin fruit 2. Muguluka, a plant species whose stem bulks are used as washing soap 3. Kihololo, small fruits are used as washing soap 4. Pupe, a plant whose stem bulks pounded and mixed with water a drink can treat couph Displayed 29 different herbs,ie. Some mentioned were:Namanyafu for treatment of human pneumonia Nachitusya, and Nantenti both for treatment of human bloting Natuli for infant head disorder traetment Nakakuta, for easening mother delivery problems Soghoyo, for treatment of human peptic ulcers Displayed 15 different herbs for treatment of human diseases Displayed: Diferent herbs,ie. Sebe and chighololo both for pneumonia, and Sabhizi for facilitating mothers on delivery difficulties.
+
+Local (L)/ improved (I) L
+
+Remarks
+
+Matisim Siwale
+
+Shinji
+
+Male
+
+Leckson Gambi Ernest Ndimbo
+
+Shinji Mtima
+
+Male Male
+
+40
+
+Appendix 6: Crop diversity displayed at Malinzanga village (Southern Highlands) Group Name Malinzanga Crop sp. Cassava Yams Banana Category* N N N Kabuku Mbeya Malinda Mapapai Wima Tambaa Roma Katumani Tuxpeno Bwanalomba Kombati Mkeredu Canadian Faya Supa Faya jike Faya dume Kaniki bamia Kunde tambaa Ngobwi Serena Sanyagi Mlenda Maboga Variety / local name Loca (L)/ improved (I) L L L L L L L L L I I I I L L L I L L L L L L L L I L L L L L L Remarks Introduced from Dodoma in 1978 Introduced from Mufindi Highly marketable Early maturing Early matiring Sweet and marketable Early maturing Erect and early Late
+
+Sweet potatoes G/nuts Tomato Maize Simsim Beans Rice
+
+N N S N S S
+
+New variety
+
+Highly palatable
+
+Okra Cowpeas Sorghum Amaranth Pumpkins Cowpeas Pumpkins
+
+N N N C N N N
+
+Mixed species of dried leaves for dry season feeding
+
+Masukasuka Mwalobaini Mafuruto Baobab fruits
+
+Masasa Seeds are pressed for Mamung'unya cooking oil (matakari) L Dried seeds A plant herb its leaves is used for control of grain insect pests (can be applied both as fresh leaves and as dried powder) C L 1. Mixed with honey eaten during hunger 2. Mixed with milk and saved to breast feeding mothers and children to improve their health
+
+41
+
+Maasai group (cattle keepers)
+
+Traditional farming equipments, 1. spears and gourd for collection of animal blood meal 2. lorien ­ a plant herb used for softening milk before storage 3. ngusijeti ­ a plant herb used for cleaning gourd ( a milk container) 4. oling'olet ­ a small plant pant piece for drainage of blood from cattle
+
+42
+

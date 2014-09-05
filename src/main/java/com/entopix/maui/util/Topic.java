@@ -14,6 +14,10 @@ public class Topic {
 	private double probability;
 	private boolean correct;
 	
+	public Topic(String title) {
+		this.title = title;
+	}
+	
 	public Topic(String title, String id, double probability) {
 		this.title = title;
 		this.probability = probability;

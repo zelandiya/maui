@@ -1,0 +1,612 @@
+Cover illustration by Emanuela D'Antoni
+
+Model plan for a Pacific Island country
+National plan of action to prevent, deter and eliminate illegal, unreported and unregulated fishing
+
+FOOD AND AGRICULTURE ORGANIZATION OF THE UNITED NATIONS Rome, 2005
+
+The designations employed and the presentation of material in this information product do not imply the expression of any opinion whatsoever on the part of the Food and Agriculture Organization of the United Nations concerning the legal or development status of any country, territory, city or area or of its authorities, or concerning the delimitation of its frontiers or boundaries.
+
+ISBN 92-5-105374-X
+
+All rights reserved. Reproduction and dissemination of material in this information product for educational or other non-commercial purposes are authorized without any prior written permission from the copyright holders provided the source is fully acknowledged. Reproduction of material in this information product for resale or other commercial purposes is prohibited without written permission of the copyright holders. Applications for such permission should be addressed to the Chief, Publishing Management Service, Information Division, FAO, Viale delle Terme di Caracalla, 00100 Rome, Italy or by e-mail to copyright@fao.org
+
+© FAO
+
+2005
+
+iii
+
+PREPARATION OF THIS DOCUMENT This document presents a model plan for a Pacific Island country to assist in the elaboration of a National Plan of Action to Prevent, Deter and Eliminate Illegal, Unreported and Unregulated Fishing (NPOA-IUU). It was prepared by FAO Consultant, Colin Brown, under a regional project funded by the FAO Technical Cooperation Programme, TCP/RAS/3009(A), Elaboration of a National Plan of Action to Prevent, Deter and Eliminate Illegal, Unreported and Unregulated Fishing for the Federated States. Illegal, unreported and unregulated (IUU) fishing is increasing in world fisheries and is proving to be a major obstacle in the achievement of long-term sustainability and enhanced responsibility in fisheries. The model NPOA-IUU outlined in this document seeks to facilitate the wider implementation of the 2001 FAO International Plan of Action to Prevent, Deter and Eliminate Illegal, Unreported and Unregulated Fishing (IPOA-IUU) in the Pacific Islands region. Action towards this end is consistent with the large number of calls that have been made in international fora for States, industry and other stakeholders to take steps to implement the IPOA-IUU. Although the Model Plan has been developed specifically for the Pacific Islands region based on the realities of its fisheries, management challenges and regional institutional arrangements, the concepts and ideas underlying the Model Plan could be modified and adapted for use in other regions. Brown, C. Model plan for a Pacific Island country. National Plan of Action to Prevent, Deter and Eliminate Illegal, Unreported and Unregulated Fishing. Rome, FAO. 2005. 43p. ABSTRACT The Model Plan for the elaboration of an NPOA-IUU is designed to assist Pacific Island States give effect to the IPOA-IUU. The model incorporates the essential aspects and features of the IPOA-IUU, demonstrating how a NPOA-IUU might be drafted. In seeking to address IUU fishing the model provides an introduction (with an important focus on the fisheries situation in the model country) followed by measures that might be adopted under the headings of all State responsibilities, flag State responsibilities, coastal State measures, port State measures, internationally agreed market-related measures, research, regional fisheries management organizations and the special requirements of developing countries. Importantly, the model in the Appendix provides a checklist of supporting actions that Pacific Island States should take in developing and implementing their NPOAs-IUU.
+
+v
+
+CONTENTS Acronyms and abbreviations Executive summary 1. INTRODUCTION 1.1 Purpose 1.2 FAO International Plan of Action to Prevent, Deter and Eliminate Illegal, Unreported and Unregulated Fishing 1.3 Definition of Illegal, Unreported and Unregulated fishing 1.4 Why is IUU fishing a problem ? 1.5 Fisheries profile 1.5.1 Marine fisheries 1.5.1.1 The subsistence fishery 1.5.1.2 Coastal commercial fishery 1.5.1.3 The industrial fishery 1.5.2 Economic considerations 1.5.2.1 Economic role of the fishing industry 1.5.2.2 Economic policy objectives of the government for the fisheries sector 1.5.2.3 Development prospects 1.5.3 Fisheries management 1.5.3.1 Coastal commercial fisheries 1.5.3.2 Industrial fisheries 1.5.4 The Fisheries Management Act 1.5.5 Research and training 1.5.6 Development assistance 1.5.7 International and regional law and relations 1.5.7.1 Treaties and agreements 1.5.7.2 Membership of regional fishery bodies 1.6 Impact of IUU Fishing 1.7 Scope of the NPOA-IUU 2. ALL STATE RESPONSIBILITIES 2.1 International instruments viii ix 1 1 1 2 3 5 5 5 6 7 8 8 9 9 10 10 12 15 15 16 16 16 17 19 20 20 20
+
+vi
+
+2.2 National legislation 2.2.1 Legislation 2.2.2 State control over nationals 2.2.3 Vessels without nationality 2.2.4 Sanctions 2.2.5 Non-cooperating States 2.2.6 Economic incentives 2.2.7 Monitoring, control and surveillance 2.2.8 Cooperation between States 2.2.9 Publicity 3. FLAG STATE RESPONSIBILITIES 3.1 Fishing vessel registration 3.2 Record of fishing vessels 3.3 Authorization to fish 3.4 Measures to control transport and re-supply vessels 4. COASTAL STATE RESPONSIBILITIES 5. PORT STATE MEASURES 5.1 Advance notice of access 5.2 Denial of access 5.3 Authorized ports 5.4 Evidence indicating IUU fishing 5.5 Cooperation with port States and through RFMOs 6. INTERNATIONALLY AGREED MARKET-RELATED MEASURES 6.1 Trade-related measures 6.1.1 Catch documentation schemes 6.1.2 Transparency of markets 6.1.3 Information dissemination
+
+22 22 22 23 23 24 24 25 27 28 28 28 29 30 31 31 32 32 33 33 34 35 35 35 36 36 37
+
+vii
+
+7. REGIONAL FISHERIES MANAGEMENT ORGANIZATIONS 7.1 Party compliance 7.2 Non-party compliance 7.3 Innovation 7.4 Inclusion of non-contracting parties 8. SPECIAL REQUIREMENTS OF DEVELOPING COUNTRIES
+
+37 37 38 38 39 40
+
+APPENDIX: Supporting action Table 1: Fisheries exports (FOB) 2001-2003 Table 2: List of instruments ratified by the PIC
+
+41 8 21
+
+viii
+
+ACRONYMS AND ABBREVIATIONS 1982 UN Convention 1993 FAO Compliance Agreement 1995 UN Fish Stocks Agreement United Nations Convention on the Law of the Sea of 10 December 1982 1993 FAO Agreement to Promote Compliance with International Conservation and Management Measures by Fishing Vessels on the High Seas 1995 United Nations Agreement for the Implementation of the Provisions of the United Nations Convention on the Law of the Sea of 10 December 1982 relating to the Conservation and Management of Straddling Fish Stocks and Highly Migratory Fish Stocks automatic location communicators Convention on International Trade in Endangered Species of Wild Fauna and Flora FAO Committee on Fisheries exclusive economic zone fish aggregation devices Pacific Islands Forum Fisheries Agency 1979 Pacific Islands Forum Fisheries Convention Food and Agriculture Organization of the United Nations free on board 2001 FAO International Plan of Action to Prevent, Deter and Eliminate Illegal, Unreported and Unregulated Fishing International Maritime Organization institutional strengthening project monitoring, control and surveillance Harmonized Minimum Terms and Conditions of Access for Foreign Fishing Vessels 1992 Niue Treaty on Cooperation in Fisheries Surveillance and Law Enforcement in the Pacific Islands Region 1999 FAO National Plan of Action for the Management of Fishing Capacity
+
+ALC CITES COFI EEZ FADs FFA FFA Convention FAO FOB IPOA-IUU
+
+IMO ISP MCS MTCs Niue Treaty
+
+NPOA-Capacity
+
+ix
+
+EXECUTIVE SUMMARY
+
+This document provides a model National Plan of Action to Prevent, Deter and Eliminate Illegal, Unreported and Unregulated Fishing (NPOA-IUU) for a Pacific Island country (PIC). The Plan has been developed in accordance with the 2001 FAO International Plan of Action to Prevent, Deter and Eliminate Illegal, Unreported and Unregulated Fishing, adopted by the Food and Agriculture Organization of the United Nations in 2001. Protection of the marine ecosystem is a key issue for the PIC in its bid to ensure food security. All fishing activities that degrade the marine environment and that threaten the health of fish stocks in the PIC and the wider Pacific Islands region is a threat to the health and livelihood of the PIC people and to the supply of fish, particularly tuna, available to the outside world. Coastal marine resources as well as the deepwater snapper and grouper stocks are already under stress from legitimate fishers and so the additional impact on resources by illegal, unreported and unregulated (IUU) fishers will be catastrophic. The PIC is conscious that the Pacific Islands region's tropical tuna resources are in a generally healthy state and that these resources contribute significantly to the world's supply of tuna. Along with partner small island developing States (SIDS) in the region, the PIC is concerned to ensure the long-term sustainability of these resources both for food security purposes and because the PIC is seeking to derive long-term economic benefit from the exploitation of tunas. The domestic tuna industry has expanded significantly in recent years and has the prospect for further expansion. Currently, fresh and frozen tunas make up approximately 25 percent of total export earnings. In future, domestic demand for tuna will increase as coastal fishery resources become fully exploited. IUU fishing on tuna and associated species is a threat to food and economic security as the PIC seeks to develop a sustainable and viable tuna fishing and processing industry. The PIC has limited fisheries management resources and relies to some extent on regional and bilateral cooperation to prevent, deter and eliminate illegal, unreported and unregulated fishing. The PIC is committed to further developing its management capacity and to working with partner States, both in the region and internationally, to ensure the conservation and long-term sustainable use of fish stocks and the protection of the environment.
+
+x
+
+Since the PIC has adopted fisheries management initiatives developed regionally and has enacted new legislation that incorporates principles contained in the 1995 UN Fish Stocks Agreement, the 1993 FAO Compliance Agreement and the 1995 FAO Code of Conduct for Responsible Fisheries, to a large extent, this document is a record of actions already underway. There are, however, a number of matters to be considered for further action and these are listed at the end of the document. The PIC will review the NPOA-IUU on an ongoing basis and will submit revisions to FAO, as required.
+
+1
+
+1. 1.1
+
+INTRODUCTION Purpose
+
+This document provides a model National Plan of Action to Prevent, Deter and Eliminate Illegal, Unreported and Unregulated Fishing (NPOA-IUU) for a Pacific Island country (PIC). The NPOA-IUU has been developed in accordance with the 2001 FAO International Plan of Action (IPOA-IUU) to prevent, deter and eliminate IUU fishing (IPOA-IUU). The IPOA-IUU was adopted by the Committee on Fisheries (COFI) of the Food and Agriculture Organization of the United Nations (FAO) in 2001 and later in that year, endorsed by the FAO Council. 1.2 FAO International Plan of Action to Prevent, Deter and Eliminate Illegal, Unreported and Unregulated Fishing
+
+The IPOA-IUU was developed as a voluntary instrument within the framework of the 1995 FAO Code of Conduct for Responsible Fisheries. The objective of the IPOA-IUU is to combat illegal, unreported and unregulated (IUU) fishing by providing all States with comprehensive, effective and transparent measures by which to act, including through appropriate regional fishery management organizations (RFMOs) or arrangements established in accordance with international law. The IPOA-IUU called on States to develop and implement NPOAs-IUU by June 2004, to further achieve the objectives of the IPOA-IUU and to give full effect to its provisions as an integral part of their fisheries management programmes and budget. The IPOA-IUU serves as a comprehensive "toolbox" of measures to address IUU fishing in a range of situations and contexts. The IPOA-IUU contains general measures targeted at all States, as well as measures targeted specifically at flag States, coastal States and port States. It also contains market-related measures, ways to support the special requirements of developing countries in their achievement of the objectives of the IPOA-IUU and measures to be taken by States through RFMOs. Some of the IPOA-IUU provisions reflect obligations that many States have accepted as binding, either through internationally agreed instruments, RFMOs or through national legislation. The IPOA-IUU incorporates the following principles and strategies: Participation and coordination: To be fully effective, the IPOA-IUU should be implemented by all States either directly, in cooperation with other States, indirectly through relevant RFMOs or through FAO and other appropriate
+
+2
+
+international organizations. The participation of stakeholders in combating IUU fishing, including industry, fishing communities and non-governmental organizations is encouraged. Phased implementation: Measures to prevent, deter and eliminate IUU fishing should be based on the earliest possible phased implementation of NPOAs-IUU together with regional and global action in accordance with the IPOA-IUU.
+
+Comprehensive and integrated approach: Measures to prevent, deter and eliminate IUU fishing should address factors affecting all capture fisheries. In taking such an approach, States should embrace measures building on the primary responsibility of the flag State and using all available jurisdiction in accordance with international law, including port State measures, coastal State measures, market-related measures and measures to ensure that nationals do not support or engage in IUU fishing. States are encouraged to use all these measures, as appropriate, and to cooperate to ensure that measures are applied in an integrated manner. NPOAs-IUU should address all economic, social and environmental impacts of IUU fishing.
+
+Conservation: Measures to prevent, deter and eliminate IUU fishing should be consistent with the conservation and long-term sustainable use of fish stocks and the protection of the environment.
+
+Transparency: The IPOA-IUU should be implemented in a transparent manner in accordance with Article 6.13 of the 1995 FAO Code of Conduct for Responsible Fisheries.
+
+Non-discrimination: The IPOA-IUU should be applied without discrimination in form or in fact against any State or its fishing vessels.
+
+1.3
+
+Definition of Illegal, Unreported and Unregulated fishing
+
+The IPOA-IUU defines IUU fishing. The PIC uses this definition in its NPOA-IUU. Illegal fishing refers to activities:
+
+· ·
+
+conducted by national or foreign vessels in waters under the jurisdiction of a State, without the permission of that State, or in contravention of its laws and regulations; conducted by vessels flying the flag of States that are parties to a relevant RFMO but operate in contravention of the conservation and management measures adopted by that organization and by which the States are bound, or relevant provisions of the applicable international law; or
+
+3
+
+·
+
+in violation of national laws or international obligations, including those undertaken by cooperating States to a relevant RFMO.
+
+Unreported fishing refers to fishing activities:
+
+· ·
+
+which have not been reported, or have been misreported, to the relevant national authority, in contravention of national laws and regulations; or undertaken in the area of competence of a relevant RFMO which have not been reported or have been misreported, in contravention of the reporting procedures of that organization.
+
+Unregulated fishing refers to fishing activities:
+
+·
+
+·
+
+in the area of application of a relevant RFMO that are conducted by vessels without nationality, or by those flying the flag of a State not party to that organization, or by a fishing entity, in a manner that is not consistent with or contravenes the conservation and management measures of that organization; or in areas or for fish stocks in relation to which there are no applicable conservation or management measures and where such fishing activities are conducted in a manner inconsistent with State responsibilities for the conservation of living marine resources under international law.
+
+The IPOA-IUU notes that unregulated fishing may take place in a manner that is not in violation of applicable international law and may not require the application of measures envisaged under the IPOA-IUU. 1.4 Why is IUU fishing a problem? In the context of the 1995 FAO Code of Conduct for Responsible Fisheries and its overriding goal of sustainable and the responsible use of fisheries, the issue of IUU fishing is a serious and increasing concern. IUU fishing undermines efforts to conserve and manage fish stocks in capture fisheries. In the face of IUU fishing, national and regional fishery management organizations or arrangements can fail to achieve management goals. This situation leads to the loss of both short- and long-term social and economic opportunities and to negative effects on food security and environmental protection. In the extreme, IUU fishing can lead to the collapse of a fishery or seriously impair efforts to rebuild stocks that have already been depleted. In many instances international instruments have been ineffective in addressing IUU fishing because of a lack of political will to support their acceptance and implementation, low priority accorded to them by States and insufficient
+
+4
+
+capacity and resources to ratify or accede to them and then to take steps to implement them. To avoid detection, IUU fishers often violate basic safety requirements on fishing vessels such as keeping navigation lights lit at night, thereby putting their crew and other users of the ocean at risk. Operators of IUU vessels also tend to deny crew members fundamental rights concerning the terms and conditions of their labour, including rights relating to wages, insurance, safety standards as well as their living and working conditions. In addition to its detrimental economic, social, environmental and safety consequences, the unfairness of IUU fishing raises serious concerns. By definition, IUU fishing is either an expressly illegal activity or at minimum, an activity undertaken with little regard for applicable standards. IUU fishers gain an unfair advantage over legitimate fishers. In this sense, IUU fishers are "free riders" who benefit unfairly from sacrifices made by others for the sake of proper fisheries conservation and management and the adherence to other applicable international standards. This situation undermines the morale of legitimate fishers and, perhaps more importantly, encourages them to disregard the rules as well. Thus, IUU fishing tends to promote additional IUU fishing, creating a downward spiral of management failure. The unreported nature of IUU fishing makes it particularly difficult to quantify. Available information nevertheless indicates that, for some important fisheries, IUU accounts for up to 30 percent of total catches. Moreover, available information strongly suggests that, despite apparent improvement in some regional situations, the amount of IUU fishing worldwide is increasing, as IUU fishers seek to avoid compliance with stricter fishing regulations that are being imposed to deal with downturns in a growing number of fish stocks. While some estimates suggest that IUU fishing may account for as much as one quarter of total catch in the world's oceans, fully reliable data on IUU fishing are by definition scarce. IUU fishing is a dynamic, multi-faceted problem that cannot be effectively addressed by any single strategy. A multi-pronged approach is required at international, regional and national levels, with buy-in from all stakeholders involved and affected by IUU fishing. The IPOA-IUU contains a range of tools to address IUU fishing. Widespread implementation of the provisions contained in the IPOA-IUU presents an opportunity for States and RFMOs to reinforce existing measures and to implement new measures to address IUU fishing.
+
+5
+
+1.5
+
+Fisheries profile
+
+The PIC is situated in the Pacific Islands region between latitudes 12° and 23° south and longitudes 180° and 170° west encompassing an Exclusive Economic Zone (EEZ) of 800 000 km² and land area of 700 km². The PIC is comprised of more than 100 islands spread across three major island groups: Taitonga, Havana and Taitokerau. About 70 percent of the population of 100 000 is located in Taitonga. Being a small island developing State (SIDS), fisheries resources have always been an important part of life in the PIC as a source of protein and for customary purposes. PIC people harvest, consume and market a wide range of marine products including finfish, crustaceans (crab, lobster), seaweed, corals, bivalves (clams, cockles), and other molluscs (such as octopus) and invertebrates such as jellyfish and sea cucumbers. As an exporter, the fisheries sector is gaining importance particularly due to the rapid development in recent years of industrial tuna catching and processing capacity. Other significant economic activities include the deepwater snapper and grouper fishery, aquarium trade, dried shark-fin and the seaweed fishery. The free on board (FOB) value of marine products exported in 2003 approached PIC$14 million1 with tuna exports amounting to more than PIC$8.8 million or approximately 25 percent of export earnings. 1.5.1 Marine fisheries The PIC's fisheries sector can be divided into three broad subsectors: · · · Subsistence; Coastal/commercial; and Offshore/industrial.
+
+1.5.1.1 The subsistence fishery The subsistence fishery targets lagoon and reef resources and in some cases, pelagic species associated with fish aggregation devices (FADs). In outer island areas, in particular, fish resources remain a significant proportion of protein intake as revealed by a recent survey that estimated per capita consumption of fresh fish ranging between 74 km (in urban communities) to 180 km (in rural communities).2 It has been estimated that as many as half the male population in
+
+1 Ministry of Fisheries Annual Report 2003. The current exchange rate is (PIC$1.0 = US$0.52) 2 PIC Country Report (draft), DemEcoFish-PROCFish, SPC, 2004.
+
+6
+
+rural areas spend some part of their time fishing.3 Women have traditionally focused on reef gleaning. Community surveys are currently underway to determine the nature of local fisheries in order to develop community fishery management plans. It is largely through community fisheries management systems that the government will work to ensure food security and to promote responsible and sustainable resource use for those communities that depend significantly on fisheries resources. 1.5.1.2 Coastal commercial fishery The coastal commercial fishery exploits resources which fall into two main categories: · resources marketed for domestic consumption: mainly finfish, octopus, lobsters, seaweed, mud crabs and various shellfish. In general, these resources are supplied by fishers who are also involved in the subsistence fishery but also by commercial fishers including those involved in the export of deepwater snappers and tunas who supply bycatch and low grade fish; and resources for export: mainly seaweed, aquarium fish and live coral.
+
+·
+
+The seaweed fishery includes species collected for domestic consumption and species collected from the wild and farmed for export mainly to Japan. Cladosiphon spp. mariculture is at an advanced stage and a preliminary annual export target of 2 500 tonnes has been set. In 2003 approximately 223 tonnes of Cladosiphon spp. was exported. The aquarium trade is well established in the PIC and is limited to the export of certain types of live corals and aquarium fish (including hatchery reared giant clam). Licensed operators are limited to specified areas of Taitonga that are opened on a rotational basis through the year. There is also a small but active sports fishery operating in Taitokerau and Taitonga targeting game fish. Management and supporting compliance plans for each of the key fisheries, including deepwater fisheries, commercial fisheries and aquaculture are being developed. The Tuna Fishery Management Plan has been approved by the government.
+
+PIC Natural Resources Use and Sustainable Socioeconomic Development, ADB Pacific Studies Series, 2002.
+
+3
+
+7
+
+1.5.1.3 The industrial fishery The industrial fishery encompasses the tuna fishery and the deepwater snapper and grouper fishery: The PIC commercial oceanic fisheries longline fleet grew rapidly from one vessel catching around 200 tonnes annually in the early 1990s to around 20 vessels catching about 2 000 tonnes by 2002. The catch is mainly albacore tuna with smaller, but valuable, quantities of bigeye and yellowfin tuna. Most of the longline catch is landed in Napa, the only export point for air freight out of the country, although some domestic vessels also discharge catch in American Samoa. Over 90 percent of the catch is taken in PIC waters but more recently there has been a small amount of fishing in neighbouring areas of high seas. The PIC does not licence foreign vessels directly. Locally based foreign fishing vessels operate under PIC control utilizing charter arrangements to PIC entities. These vessels are subject to the terms and conditions of access based on regional agreed terms and conditions for foreign vessels. Falling albacore catch rates, apparently related to oceanographic conditions, undermined the viability of the albacore fishery in 2003 and caused uncertainty about the future of the commercial tuna fishery in the PIC. However, since then a gradual recovery in catch rates has been reported.4 At present there are five plants that airfreight fresh tuna to markets in Japan and USA. Tuna, mainly albacore is also exported in frozen form principally to America Samoa for canning. For the year ending June 2003, approximately 1 300 tonnes of fresh and frozen tuna was exported.5 As a party to the Multilateral Treaty on Fishing with the USA, the PIC also licenses purse seine vessels that target surface swimming skipjack and juvenile tunas. At present 20 vessels are licensed under the arrangement but since PIC's EEZ falls outside the main purse seine fishing area, purse seining in the zone is rare. The deepwater snapper and grouper fishery was developed in the 1980s when catches peaked in 1987 at 563 tonnes. Annual catches then settling at around 200-300 tonnes through the 1990s. Currently, there are 20 vessels licensed to operate and in 2003, approximately 200 tonnes of mainly snapper was exported to markets in Hawaii in the USA and Japan.
+
+4 5
+
+Country Mission Report: PIC, FFA, 2004. Country Mission Report: PIC, FFA, 2004.
+
+8
+
+1.5.2
+
+Economic considerations
+
+1.5.2.1 Economic role of the fishing industry The fisheries sector remains a critical element of the PIC economy. The PIC Reserve Bank set the contribution of the fisheries sector to export earnings in 2002 at 37.6 percent.6 The value of exports for 2001 to 2003 were as follows: TABLE 1: FISHERIES EXPORTS (FOB) 2001-20037 Fisheries exported FOB value in 2001 FOB value in 2002 FOB value in 2003
+
+Dried shark fin Tuna (fresh) Tuna (frozen) Tuna (cannery) Snapper & grouper Aquarium Seaweed Total PIC$
+
+346 232 7 935 840 1 466 402 1 463 880 1 228 920 1 514 910 42 672 13 998 856
+
+547 040 4 818 858 3 147 870 2 223 210 1 153 086 2 751 477 10 004 14 651 545
+
+540 960 3 781 800 1 713 360 3 346 200 1 030 834 3 213 148 78 053 13 704 355
+
+In 2002, it was estimated that 105 tonnes of snapper and grouper from commercial fishers was sold on the domestic market along with 497 tonnes of tuna.8 An Asian Development Bank (ADB) study estimated that in 2001, the nonmarket catch of fish contributed around 30 percent of value added by fisheries.9 In terms of employment, the snapper and grouper fishery is estimated to employ 150-200 fishers, masters, processors and retailers10 while the tuna industry employs around 500 people.11 At the artisanal/subsistence level, it is estimated that 7 700 persons are engaged in fishing.12
+
+Ministry of Fisheries Corporate Plan 2004-2007, 2003. Ministry of Fisheries Annual Report, 2003 (draft). 8 Ministry of Fisheries Corporate Plan, 2004-2007, p.11. 9 PIC Natural Resource Use and Sustainable Socioeconomic Development, ADB Pacific Studies Series, 2002. 10 Deepwater Fishery Report, 2003-2004, Ministry of Fisheries. 11 Domestic Tuna Industry Development in the Pacific Islands, FFA Report 03/01. 12 Ministry of Fisheries Corporate Plan 2004-2007, 2003.
+7
+
+6
+
+9
+
+The PIC receives about PIC$310 000 annually in fees from the Multilateral Treaty on Fishing with the USA. In addition, licence fees from locally based vessels amounted to about PIC$200 000 in 2003. 1.5.2.2 Economic policy objectives of the Government for the fisheries sector The Fisheries Management Act, 2002, provides for the conservation, management sustainable utilization and development of fisheries resources in the country. Policy objectives include: · long-term conservation and sustainable use of fishery resources and the adoption of management measures that promote the objective of optimum utilization to achieve economic growth, human resources development, employment creation and sound ecological balance; to promote and expand sustainable competitive exports of marine products by implementing appropriate fisheries management plans developed in partnership with the private sector; to provide assurance of adequate air freight for export production; and to encourage local value adding and downstream processing with the aim of maximizing the value of marine products.
+
+· · ·
+
+1.5.2.3 Development prospects The tuna resources occurring within PIC's EEZ offer the opportunity for growth in the domestic industry.13 However, major growth would need to be associated with a fishing component that is able to range beyond the PIC zone and a processing component that is able to add value. The resource of deep-swimming tunas, accessible to longline gear, is dominated by albacore tuna (70-80 percent), with smaller quantities of yellowfin and bigeye tuna, and is available year-round. Surface swimming tunas (skipjack and juvenile yellowfin) occur more seasonally in PIC waters and are currently not exploited to any significant degree. A range of other species occurs along with the tunas, including billfish, dolphin fish, moon fish, wahoo and sharks. These species are commonly taken as bycatch in tuna fishing. The Secretariat of the Pacific Community (SPC) estimates, based on productivity and the size of the PIC's fisheries waters, that annual longline catches of up to 5 000 tonnes (tunas and bycatch) could be sustainable at moderate levels of exploitation. This quantity is considerably higher than current and historical longline catches and does not take into account the affects that changing oceanographic conditions might have had on resources and their
+13
+
+Oceanographic conditions do vary however and over the last two years these changes have affected, tuna abundance in PIC waters and across neighbouring SIDS.
+
+10
+
+availability. The surface fishery potential may be even higher (14 000 tonnes for skipjack), but it is considered that such an amount would be more difficult to achieve.14 On a regional basis, the stocks of skipjack, yellowfin and albacore tuna are considered to be in a healthy condition, but concerns exist for bigeye stocks, particularly in view of declining longline catch rates and increased surface catches of juvenile fish. The PIC's tuna industry remains in a developmental stage with potential for further growth given essential improvements in infrastructure and a lower cost operating environment. It will be important to maintain flexibility in the development and implementation of conservation and management strategies to avoid unnecessary costs to industry that could inhibit further expansion. Given the consistently falling catch rates over the last five years, the development prospects for the snapper and grouper fishery are not robust. There is concern that the fishery has excess capacity and industry representatives are working with governments to develop strategies to ensure the fishery is sustainable. Further development of other commercial marine products including seaweed, aquarium fish, and giant clams, appear excellent given that the export markets for these products are strong and exploitation is below sustainable levels. There is concern, however, over the environmental affects of existing levels of live coral exploitation and a review of this fishery is planned. 1.5.3 Fisheries management Fisheries management focuses on the coastal commercial and industrial fisheries. 1.5.3.1 Coastal commercial fisheries 1.5.3.1.1 Management objectives and measures The management objectives are resource sustainability, maximization of economic returns and assuring that commercial fisheries do not interact negatively with subsistence fisheries. The main strategy being used to achieve the objectives is the use of centrally administered regulations and participatory
+
+14
+
+1996 National Fisheries Assessment, Oceanic Fisheries Programme Country Report No.9, SPC, Noumea, 1997.
+
+11
+
+management plans, promulgated under the Fisheries Management Act 2002 and the Aquaculture Management Act, 2003. Examples of measures are: · · · · · · requirement for designated fisheries to have a management plan and an associated management advisory committee in place; requirement for commercial fishers and plant to be licensed; size limits (e.g. regulations specify minimum sizes for lobster, trochus and certain species of fish); gear specification (e.g. mesh sizes for nets); banned fishing methods (e.g. use of explosives); requirement for an export permit for marine products: The Customs Department, acting as agents for the Fisheries Division, will not authorize the release of an export shipment of fishery products without an export permit from the Fisheries Division; bans or limits on the export of certain species: regulations ban the export of bêche-de-mer and limit the amount of live coral exported; promotion of safety at sea; and Convention on International Trade in Endangered Species of Wild Fauna and Flora (CITES) certification for live corals and clams. Information for management decisions
+
+· · · 1.5.3.1.2
+
+Information to support fisheries management decisions comes from various sources, including: periodic resource assessments (often with overseas technical and financial assistance); the compilation of information in the "PIC Fisheries Resource Profiles", which contains description of the resource, fishery, stock status, and management for important fishery resources; the Ministry of Fisheries statistical system; the Ministry of Fisheries export database; Customs Department export database; records of processors; and anecdotal information from fishers. Regional fishery organizations, the SPC, Pacific Islands Regional Environment Programme (SPREP) and the Pacific Islands Forum Fisheries Agency (FFA), described below, have provided substantial information for resource management. 1.5.3.1.3 Fisheries monitoring, control and surveillance
+
+The Fisheries Management Act 2002, empowers authorized officers (including fisheries, police and defence officers) to enforce the Act and subsidiary legislation. Although there has been some confusion in the past with respect to roles and responsibilities, there is now a regular dialogue between the Ministry of Fisheries, Police and the PIC Defence Service (PDS).
+
+12
+
+In practice, most of the enforcement activity for coastal commercial fisheries focuses on apprehending individuals involved in fishing undersized fish, gravid lobsters and the use of poisons and dynamite. 1.5.3.2 Industrial fisheries 1.5.3.2.1 Management objectives and measures The objective of tuna management in PIC's policy is "to increase the benefits to the country from fishing and associated processing activities. This objective is to be expanded to include local ownership of the industry, generating greater local employment, and increasing the value of exports". A guiding policy principle is preservation of the gains that have been made and management action should not unnecessarily jeopardize the continuing success and opportunities for growth of the tuna industry. The strategy used to achieve the objective for the tuna fishery involves a limited entry policy combined with conditions on vessel licensing. For the limited number of licences, certain categories of applicants receive priority. A key licence condition is that the geographic area where a licensed vessel is permitted to operate: this depends largely on the degree of localization of the vessel (i.e., its ownership, nationality of crew and associated local infrastructure). The measures to be applied in the new fisheries regulations are that: · · · all vessels must be registered and have a licence; a limit is placed on the number of licences: 30 tuna longline vessels; and criteria for priority in the allocation of licences, which include: PIC owned vessels, PIC registered fishing vessels, degree of local ownership, degree of employment opportunities that a vessel provides, degree of investment in onshore infrastructure and the ability to meet quality and export standards.
+
+The licence allocation criteria attempt to encourage greater involvement in the PIC fishery and give vessels making this commitment a competitive advantage. Accordingly, PIC registered-and-owned fishing vessels have access to all maritime zones (including internal waters, archipelagic waters, territorial sea and the EEZ) while at the other extreme locally based foreign fishing vessels are restricted to the EEZ. In September 2001, Cabinet set up the Tuna Management Advisory Committee (TMAC) to establish:
+
+13
+
+· · · ·
+
+objectives and strategic directions for the conservation and management of tuna resources and the fulfilment of the economic potential of the tuna industry; clear and transparent rules for licensing, monitoring and regulating fishing activities in PIC's waters; guidelines for decision-making, consultation and administration in regard to the tuna fishery; and national measures for tuna conservation and management that are compatible with those established both regionally and internationally.
+
+A tuna management plan has been developed by the Tuna Management Advisory Committee and is now being implemented. Although well studied, the deep slope snapper and grouper fishery has not been well managed. Catch rates have fallen markedly over the last five years and some industry representatives consider that fleet overcapacity is a key issue. A moratorium of 18 licences was recommended in 2002 but it is noted that there are now 20 vessels licensed. The Ministry of Fisheries is working with industry stakeholders towards the development of a management plan that will seek to ensure a viable and sustainable snapper and grouper fishery. 1.5.3.2.2 Information for management decisions Information in support of management is acquired by the Ministry of Fisheries in a number of ways. Licensed operators are required to record and submit daily records of fishing activity, including catch of all species, bycatch, and fishing effort. From time to time, licensed operators are required to carry an observer who collects information on fishing activities for stock assessment, research and monitoring purposes. The Ministry of Fisheries works in cooperation with the regional scientific research body, SPC, to collect length frequency, catch composition and species composition data, for the purposes of logbook data validation, stock assessment and research. The SPC analyses these data along with similar information from neighbouring countries to provide a regional management perspective on tuna resources. Changing oceanographic conditions appear to be having a strong influence on the distribution patterns of tuna stocks in the region and research on this issue is likely to be increased so as to enhance understanding for better management purposes.15
+
+15
+
+GEF SAPII Regional Workshop, Summary Record, Noumea, 2004.
+
+14
+
+1.5.3.2.3 Monitoring, control and surveillance The Ministry of Fisheries is the lead agency involved in fisheries monitoring, control and surveillance (MCS) and is supported by the PDS, Police and the Crown Law Office. Recent institutional developments include: · the establishment of a National MCS Committee aimed at improving coordination of MCS activities among the Ministry of Fisheries and other agencies and a Ministerial Fisheries Council and Operational Task Force to coordinate compliance actions. The Operational Fisheries Task Force has met several times in the past year and is proving effective as an inter-agency coordinating mechanism; a new national Vessel Monitoring System (VMS), supported by a new VMS section within the Access and Compliance Division of the Ministry of Fisheries is intended to be financed by a cost recovery scheme. The section will maintain close contacts with the FFA Regional VMS; reform of the licensing activities and fishing vessel register; development of a High-Seas Fishing Vessel Register that will include a listing of PIC nationals wishing to engage in fishing on the high seas; and establishment of domestic Observer and Port Sampling Programmes that meet the FFA/SPC regional standards and which are cost recovered.
+
+·
+
+· · ·
+
+The PIC has a strong capacity to enforce its fisheries laws, using three patrol vessels (provided and supported through the Australian Pacific Island Patrol Boat Programme) and a patrol aircraft operated by the PDS. The country is also assisted by regular surveillance flights by Australia, France and New Zealand. In addition the Ministry of Fisheries manages a pool of Observers and Port Samplers that are able to monitor fishing vessel activities at sea and at port during unloading. The strengthening of MCS activities is considered a high priority by the PIC Government and this is shown through the adoption of leading edge legislation to combat IUU fishing, the restructuring of the Ministry of Fisheries for enhanced fisheries management and the establishment of an institutional strengthening project (ISP) for the Ministry (PIC Fisheries Project).16 Over the last year the MCS network has been successful in apprehending a number of foreign and locally based foreign vessels involved in IUU fishing.
+The Australian Government through AusAid, is funding a five-year Institutional Strengthening Project ­ PIC Fisheries Project which commenced in 2001.
+16
+
+15
+
+1.5.4
+
+The Fisheries Management Act
+
+The main features of the Fisheries Management Act 200217 are that it: · · provides for the conservation, management and sustainable utilization and development of fisheries resources; is consistent with the 1982 Convention, the 1995 UN Fish Stocks Agreement and the 1993 FAO Compliance Agreement and allows for the implementation of management interventions developed by international, regional and subregional organizations to which the PIC is a party, including the 2000 Convention on the Conservation and Management of Highly Migratory Fish Stocks in the Western and Central Pacific Ocean (WCPF Convention); incorporates flag State and port State control as well as control over nationals and requires authorization for nationals and PIC vessels to fish on the high seas; provides for joint and reciprocal MCS with other countries; makes it an offence to bring into PIC any fish illegally caught outside PIC; and provides for the establishment of Management Plans with associated Management Advisory Committees, for designated fisheries.
+
+· · · ·
+
+An updating review of the Fisheries Management Act 2002, is pending and consideration is being given to the possible inclusion of additional provisions relating, inter-alia, to vessel licensing, administrative penalties and presumptions. 1.5.5 Research and training One of the core functions of the Ministry of Fisheries is to conduct research in support of resource assessment, development, conservation and management. As part of its capacity building plans, the Ministry is reorganizing and strengthening its Research Division. The Division, as part of the PIC Fisheries Project and with the assistance of the Commonwealth Secretariat, is currently conducting community surveys to assist in the development of community-based fisheries management plans. In terms of offshore research, capacity building is planned to allow greater in-house stock assessment capability and to develop a better understanding of the affects of oceanographic changes on tuna stocks. This will include computer skills
+
+17
+
+Fisheries Management Act 2002, entered into force in April 2004 and was developed in 2001 through the assistance of FAO.
+
+16
+
+enhancement along with database development and strengthened expertise in stock assessment modelling. Capacity building in MCS undertaken or planned for 2004 includes: · · · · · · · · 1.5.6 interagency port boarding course involving officers from the Police, PDS and the Ministry of Fisheries; FFA VMS training conducted by FFA to familiarize Ministry of Fisheries staff with the regional VMS requirements; PIC VMS interagency familiarization involving Crown Law and PDS staff; Regional Observer Training to be conducted by FFA and SPC to train personnel as FFA/SPC qualified Observers; Safety at Sea course conducted for Observer trainees to ensure basic sea safety standards are known including the use of communications devices; Port Boarding and Prosecution Workshop conducted by the FFA for the Ministry of Fisheries and PDS officers; Subregional at-sea MCS training for PDS personnel; and overseas attachments for MCS personnel.
+
+Development assistance
+
+The PIC receives fisheries sector technical assistance from a number of bilateral donors including Australia, New Zealand and France. Significant assistance is also obtained from international and regional organizations of which the PIC is a member, including United Nations agencies and the Commonwealth Secretariat. The regional organizations have been active for many years and the contribution of FFA and SPC, in particular, is set to increase over the next five years as the WCPF Commission is established under the WCPF Convention, and management initiatives are developed for high seas areas. 1.5.7 International and regional law and relations
+
+1.5.7.1 Treaties and agreements The PIC has ratified and is party to the following international treaties and agreements: · 1973 Convention on International Trade in Endangered Species of Wild Fauna and Flora (CITES): the PIC supports closer cooperation between CITES and FAO to improve the applicability of CITES provisions to commercial fisheries. In particular, listing some commercially harvested species on Appendix II (this requires trade in the species to be regulated) would complement RFMO efforts through addressing issues such
+
+17
+
+·
+
+·
+
+as non-member fishing and through the potential for multilateral trade sanctions against States that do not comply with CITES requirements; 1982 United Nations Convention on the Law of the Sea: provides, inter-alia, the framework for the rational management of marine resources and confers on coastal States rights and responsibilities for the management and use of fishery resources within the area of their national jurisdiction; and 1995 UN Fish Stocks Agreement: elaborates and extends certain aspects of the 1982 United Nations Convention on the Law of the Sea and is consistent with some aspects of the 1993 FAO Compliance Agreement, sets the framework for the conservation and management of highly migratory fish stocks and straddling fish stocks.
+
+The PIC has ratified and is party to the following regional treaties: · · · 1987 Treaty on Fishing with the United States of America, permitting access to the waters of the regional parties by US purse seine vessels; 1989 Convention for the Prohibition of Fishing with Long Driftnets, banning the use of long driftnets in the Pacific Islands region; 1991 Regional Treaty on Cooperation in Fisheries Surveillance and Law Enforcement, providing the framework for subregional arrangements under which parties can conduct joint and reciprocal surveillance and enforcement; and 2000 Convention on the Conservation and Management of Highly Migratory Fish Stocks in the Western and Central Pacific Ocean, establishing the comprehensive framework for the conservation and management of highly migratory fish stocks in the Pacific Islands region, consistent with the 1995 UN Fish Stocks Agreement.
+
+·
+
+1.5.7.2 Membership of regional fishery bodies The Secretariat of the Pacific Community (SPC): The primary objective of the SPC is to encourage and strengthen international cooperation in promoting the economic and social welfare and advancement of the peoples of the region. The Divisional goal for the Fisheries Programme is to provide a regional service that provides information, advice and direct assistance to the region through SPC member governments, either individually or collectively, in using living marine resources in the most productive and responsible manner possible. Activities include fisheries stock assessment (for both reef fisheries and highly migratory fish stocks), marine ecosystem research for reef and pelagic fisheries, tuna
+
+18
+
+fisheries development support, coastal fisheries management support and fisheries information and databases within the area of competence. Two programmes form the framework for SPC's fisheries activities: the Coastal Fisheries Programme and the Oceanic Fisheries Programme. The Pacific Islands Forum Fisheries Agency (FFA): The objectives of the FFA include: (i) conservation and optimum utilization of the highly migratory species; (ii) promotion of regional cooperation and coordination in respect of fisheries policies; (iii) securing of maximum benefits from the living resources of the region for their peoples and for the region as a whole and in particular the developing countries; and (iv) facilitating the collection, analysis, evaluation and dissemination of relevant statistical scientific and economic information about the resources covered by the Convention. The functions of the Organization include, inter alia: (i) harmonization of policies with respect to fisheries management; (ii) cooperation in respect of relations with distant water fishing countries; (iii) cooperation in surveillance and enforcement; (iv) cooperation in respect of onshore fish processing; (v) cooperation in marketing; (vi) cooperation in respect of access to the 200 mile zones of other Parties. FFA provides some services to its members allowing them to assess the extent, impact and effects of IUU fishing, such as the operation of a regional VMS. However, because FFA does not have a management mandate, as noted above, it is not in a position to indicate activities, priorities or plans in relation to specific issues. It does, however, have important roles such as: the provision of information among member countries and between the countries and the Organization; and assisting members in improving their capacity to manage and develop the oceanic fisheries resources for their benefits. The Western and Central Pacific Fisheries Commission (WCPF Commission): The WCPF Convention that entered into force on 19 June 2004 established a Commission for the conservation and management of highly migratory fish stocks in the Western and Central Pacific Ocean. At this stage 14 FFA member countries are the sole contracting parties. The inaugural meeting of the Commission took place in December 2004. The WCPF Commission is a regional fisheries management organization with regulatory powers and includes members from the region and distant-water fishing nations. The Commission's mandate allows broad scope for it to implement the 1995 UN Fish Stocks Agreement in the region, including through data collection, MCS and trade sanctions. The Commission will agree on management measures to be implemented by its members including measures to prevent, deter and eliminate IUU fishing. These actions reinforce the need for the laws and practices of PIC concerned with implementing the international fisheries instruments, including the IPOA-IUU, to be in place to discharge its responsibilities under the Commission.
+
+19
+
+The Pacific Regional Environment Programme (SPREP): SPREP is an organization established by the governments and administrations of the region to promote protection of the environment. SPREP has grown from a small programme attached to the SPC in the 1980s into the region's major intergovernmental organization charged with protecting and managing the environment and natural resources. Its principal mandate is to promote cooperation in the region and provide assistance to protect and improve the environment, including the marine environment, and ensure sustainable development for present and future generations. The island governments and administrations saw the need for SPREP to serve as the conduit for concerted environmental action at the regional level. The establishment of SPREP also sends a clear signal to the global community of the deep commitment of the island governments and administrations towards sustainable development, especially in light of the outcomes of the 2002 World Summit on Sustainable Development (WSSD). 1.6 Impact of IUU Fishing Protection of the marine ecosystem is a key issue for the PIC in its bid to ensure food security. All fishing activity that degrades the marine environment and that threatens the health of fish stocks in the country and the wider Pacific Islands region is a threat to the health and livelihood of the PIC people and to the supply of fish, particularly tuna, available to PIC and the outside world. Coastal marine resources as well as the deepwater snapper and grouper fishery are already under stress from legitimate fishers. Consequently, the additional impact of IUU fishing and their disregard for the state of stocks is likely to be catastrophic. The PIC is conscious of the fact that the Pacific Islands region's tropical tuna resources are in a generally healthy state and that these resources contribute significantly to the world's supply of tuna. Along with partner SIDS in the region, the PIC is concerned to ensure the long-term sustainability of these tuna resources both for food security purposes and because PIC intends to derive longer term economic benefit from their sustainable exploitation. The domestic tuna industry has expanded significantly in recent years and has the prospect for further expansion. Currently, fresh and frozen tunas make up approximately 25 percent of total export earnings. In the future, domestic demand for tuna will increase as pressure on coastal fisheries resources mount. The PIC has extremely limited fisheries management capacity and resources and relies heavily on regional and bilateral cooperation to combat IUU fishing. The PIC is committed to developing its own management capacity and to work with partner States in the region and internationally to ensure the conservation and long-term sustainable use of fish stocks and the protection of the environment.
+
+20
+
+1.7
+
+Scope of the NPOA-IUU
+
+The PIC's NPOA-IUU closely follows the structure of the IPOA-IUU. Like the IPOA-IUU, the PIC's NPOA-IUU addresses general measures targeted at all States, as well as measures targeted specifically at flag States, coastal States and port States. The NPOA-IUU focuses on the offshore tuna and deepwater snapper and grouper fisheries and as such considerable importance is attached to the role of RFMOs in fisheries management, particularly with respect to high seas fisheries management. The PIC has recently adopted new fisheries management legislation that is consistent with the 1993 FAO Compliance Agreement and the 1995 UN Fish Stocks Agreement. The legislation also makes provision for management measures that may be required by RFMOs, including the WCPF Commission. In addition, the Ministry of Fisheries is undergoing restructuring and realignment as part of the PIC Fisheries Project. As a result, the PIC's NPOA-IUU is largely a record of actions already underway. At the conclusion of the document is a list of suggested actions aimed at enhancing the PIC's ability to address IUU fishing. As proposed in the IPOA-IUU, the PIC's NPOA-IUU will be reviewed and if necessary, revised every four years for submission to FAO. 2. 2.1 ALL STATE RESPONSIBILITIES International instruments
+
+The IPOA-IUU calls on States to give full effect to relevant norms of international law in order to prevent, deter and eliminate IUU fishing. States are encouraged as a matter of priority to ratify, accept or accede to the 1982 UN Convention, the 1995 Fish Stocks Agreement, the 1993 FAO Compliance Agreement and to implement the 1995 FAO Code of Conduct for Responsible Fisheries, including its related IPOA-IUUs and strategy and to become members of, or cooperate to establish new, RFMOs where appropriate.
+
+The PIC is in compliance with relevant norms of international law related to the conservation and management of marine living resources. In fact, the PIC is a party to the following instruments:
+
+21
+
+TABLE 2: LIST OF INSTRUMENTS RATIFIED BY THE PIC Instrument 1979 FFA Convention 1982 UN Convention on the Law of the Sea 1989 Driftnet Convention 1991 Regional Treaty on Cooperation in Fisheries Surveillance and Law Enforcement 1995 Fish Stocks Agreement 2000 WCPF Convention Status Ratified Ratified Ratified Ratified
+
+Ratified Ratified
+
+The PIC is taking steps to implement the 1995 FAO Code of Conduct for Responsible Fisheries and is in the process of implementing the IPOA-IUU. Other IPOA-IUUs to be implemented through the development of NPOAs are the IPOA-IUU-shark and the IPOA-IUU-capacity. Although the trust and provisions of the 1993 FAO Compliance Agreement are incorporated into the Fisheries Management Act 200218, the PIC has yet to ratify this Agreement. Action will be undertaken in the Ministry of Fisheries to initiate procedures for ratification. The Fisheries Management Act 2002, requires that PIC nationals and PIC flag vessels wishing to operate in high seas areas to be duly authorized.19 The Act also allows for the implementation of further management measures for high seas areas that may be decided by RFMOs. The PIC has ratified the WCPF Convention and is therefore bound to implement conservation and management measures relating to highly migratory fish stocks in the Western and Central Pacific region, established by the WCPF Commission. The PIC has also agreed to implement the FFA Harmonized Minimum Terms and Conditions of Access (MTCs), which set minimum reporting and monitoring requirements for foreign fishing vessels licensed to operate in the FFA region. In accordance with Section 23 of the Fisheries Management Act 2002, Tuna Fisheries Development and Management Regulations have been drafted. These Regulations require that the terms and conditions of access by foreign fishing vessels to the country's EEZ conform with the regionally agreed the MTCs.
+
+18 19
+
+Fisheries Management Act 2002, Part VIII, S49. Fisheries Management Act 2002, Part VIII.
+
+22
+
+2.2 2.2.1
+
+National legislation Legislation
+
+The IPOA-IUU states that national legislation should address, in an effective manner, all aspects of IUU fishing.
+
+The Fisheries Management Act 2002, entered into force in April 2004. It provides for the conservation, management and sustainable utilization and development of fisheries resources. The legislation permits and encourages the use of tools identified in the IPOA-IUU "toolbox". Draft Fisheries Management Regulations to be implemented under the Act are currently being reviewed. Part XIII of the Fisheries Management Act 2002, provides for the use of certificate evidence and the use of photographic evidence with the date and time superimposed. The Act also provides for the implementation of regulations setting out the circumstances in which the readings, printouts, displays and pictures produced by a designated instrument may be admissible in evidence.20 All vessels of a specified class are required to have an approved Automatic Location Communicators (ALC) device fitted and operational.21 Draft regulations relating to VMS are currently being developed. The definition of "fishing" is comprehensive and follows the definition adopted by the FFA member States as well as that embedded in the WCPF Convention.22 2.2.2 State control over nationals
+
+The IPOA-IUU calls on States, to the greatest extent possible, to take measures or cooperate to ensure that their nationals do not support or engage in IUU fishing, and to cooperate to identify those nationals who are the operators or beneficial owners of IUU fishing vessels.
+
+The PIC will maintain a register of the operators or beneficial owners of vessels flying its flag, including their nationality. In this way the PIC can identify its nationals should a vessel be involved in IUU fishing. It will encourage other
+20 21
+
+Fisheries Management Act 2002, Part XIV, S.101 (2) (y). Fisheries Management Act 2002, Part IV, S.24 (a). 22 WCPF Convention, Part 1, Art. 1(d); Fisheries Management Act 2002, Part 1,S.2(1).
+
+23
+
+island States in the region and RFMOs to maintain the same information base and encourage cooperation and information exchanges for purposes of controlling nationals who may be involved in IUU fishing. The Fisheries Management Act, 2002, requires PIC nationals to be authorized to fish on the high seas23 and it is an offence for any PIC subject or ship that is registered under the Shipping Act or flies or is entitled to fly, the PIC flag, to fish in the zone of another State without authorization from that State and adherence to its laws.24 2.2.3 Vessels without nationality
+
+The IPOA-IUU calls on States to take measures consistent with international law in relation to vessels without nationality on the high seas that are involved in IUU fishing.
+
+The PIC is a member of the International Maritime Organization (IMO) and will support any effort of that body to prevent vessels from becoming stateless during their transfer to a new flag. Any information received on vessels without nationality operating in the Pacific Islands will be passed on to neighbouring States and relevant RFMOs, as appropriate, as well as the International MCS Network for wider international dissemination. 2.2.4 Sanctions
+
+The IPOA-IUU provides that sanctions for IUU fishing by vessels and nationals under its jurisdiction should be of sufficient severity to effectively prevent, deter and eliminate IUU fishing and to deprive offenders of the benefits accruing from such fishing.
+
+The PIC endeavours to deter fisheries-related offences through successful prosecution and deterrent penalties. Penalties for fisheries-related offences can include fines, forfeiture of fish, vessel and imprisonment. An IUU fishing vessel may also be "black-listed" on the Regional Register. This action would deny the vessel the possibility to be licensed to fish in any FFA member State's EEZ.
+23 24
+
+Fisheries Management Act 2002, Part VIII, S.46. Fisheries Management Act 2002, Part IX, S.66.
+
+24
+
+The Fisheries Management Act 2002, sets fines for serious offences such as fishing without authorization, of up to PIC$1.5 million. In a current case of IUU fishing, the Government is seeking PIC$3.2 million in penalties covering fines as well as the value of the vessel and catch. There is a need, however, for the level of penalties for offences committed inside PIC waters to be balanced with penalties for offences committed outside PIC waters. Administrative penalties for minor offences are not a feature of the Fisheries Management Act 2002, but a review is in progress with a view to their inclusion as a way of expediting resolution without burdening the court system. The Minister of Fisheries may compound an offence committed by a foreign vessel by accepting, on behalf of the Government, a sum of money not exceeding the maximum fine specified, from the offender.25 2.2.5 Non-cooperating States
+
+The IPOA-IUU recommends that all possible steps should be taken, consistent with international law, to prevent, deter and eliminate the activities of noncooperating States to a relevant RFMO that engage in IUU fishing.
+
+The PIC will cooperate with all RFMOs to which it belongs to prevent, deter and eliminate the activities of non-cooperating States that engage in IUU fishing. This will include implementing trade and other sanctions that may be recommended by the WCPF Commission.26 2.2.6 Economic incentives
+
+The IPOA-IUU provides that States should avoid conferring economic support, including subsidies, to companies, vessels or persons that are involved in IUU fishing.
+
+Economic support will be withheld from companies, vessels and persons that are involved in IUU fishing. In particular, access to any fuel subsidy, will be denied to any fishing vessel involved in IUU fishing.
+
+25
+
+Fisheries Management Act 2002, Part XIV, S.95 (1). Compounding was used in the 2004 Ching Fong Hwa No.1 case. 26 The PIC has used the Regional Register to suspend the "good standing" of a foreign fishing vessel.
+
+25
+
+2.2.7
+
+Monitoring, control and surveillance
+
+The IPOA-IUU calls on all States to undertake comprehensive and effective MCS of fishing from its commencement, through the point of landing, to final destination.
+
+The Fisheries Management Act 2002, sets out the broad requirements for vessel licensing and these are elaborated in regulations. All foreign fishing vessels, including locally based foreign fishing vessels, are required to be registered in "good standing" on the FFA Regional Register with vessel, flag, owner, operator, master and fishing master details. This information is available to all FFA member States. In addition, vessels and their operators are required to be registered on the PIC Fishing Vessel Register prior to applying for a fishing licence. All licences include terms and conditions of access that cover target species and any bycatch restrictions, closed areas, operational restrictions and reporting. Vessels are required to be VMS compliant and to carry observers on a cost-recovery basis. All fishing activities are subject to periodic inspection and in the case of export products, inspection and permitting prior to export. MCS in the PIC is an integrated system that relies on cooperation between various entities including the Ministry of Fisheries, PDS, Crown Law, Commerce Department, Customs, Police, Registrar of Companies, Ports Authority, Fishers, Management Advisory Committees, the New Zealand and Australian armed forces, RFMOs and other Pacific Island States. The Ministry of Fisheries maintains constant contact with FFA with respect to foreign fishing vessel activity in the region and is a participant in the regional VMS. Regular communication is also maintained with neighbouring States on vessels that may be operating in multiple EEZs. To enhance MCS capabilities at both policy and operational levels, the following coordinating mechanisms have been established: · An ad hoc Ministerial Fisheries Council chaired by the Minister of Fisheries and includes the Ministers of Police, Justice, Marine and Ports and the Commander of PDS. The Council provides direction to the Fisheries Operational Task Force, and The Fisheries Operational Task Force that is chaired by the Ministry of Fisheries and includes representatives from the
+
+·
+
+26
+
+Ministries of Police, Justice, Marine and Ports, PDS, the Registrar of Companies, Ports Authority and others as appropriate. The major MSC issues are also addressed by fisheries Management Advisory Committees which include fisher representation. The Ministry of Fisheries is developing Compliance Plans to support each of the fisheries Management Plans. Each Compliance Plan will aim at informing stakeholders and the wider public about the management plan as well as regulations in place and the terms and conditions for fishing access. The increasing cooperation between the Ministry of Fisheries and the PDS will continue and subregional programmes to train observers and port samplers will be attended by an increasing number of PIC nationals. Training of naval and police personnel in boarding, inspection and evidence-gathering will continue. In addition, PDS, Police, Ministry of Fisheries, Crown Law and members of the judiciary will participate in in-country fisheries prosecution workshops conducted with regional assistance. Vessel reporting requirements will be reviewed and strengthened. Reporting requirements for the high seas and the information database of licences and registers will be upgraded or developed. Cooperation through regional agencies on information collection and sharing and cooperative enforcement, including VMS, will be strengthened. Cooperation with international organizations and networks, such as FAO and the International MCS Network, will be enhanced. Capacity building is a central feature of the PIC Fisheries Project and includes the following activities in 2004: · · · · · · · interagency port-boarding course involving officers from the Police, PDS and the Ministry of Fisheries; FFA VMS training conducted by FFA to familiarize Ministry of Fisheries staff with the regional VMS; PIC VMS interagency familiarisation involving Crown Law and PDS staff; Regional Observer Training to be conducted by FFA and SPC to train personnel from the PIC as FFA/SPC qualified Observers; Safety at Sea course conducted for Observer trainees to ensure basic sea safety standards, including use of communication devices, are met; Port Boarding and Prosecution Workshop conducted by the FFA for Ministry of Fisheries and PDS officers; Subregional at-sea MCS training for PDS personnel, conducted with the assistance of the Royal Australian Navy;
+
+27
+
+· ·
+
+MCS attachment to Australia for a Ministry of Fisheries MCS officer; and MCS FFA attachment for a Ministry of Fisheries MSC officer.
+
+To be more effective in its MCS functions, the Ministry of Fisheries will require 27 additional skilled staff particularly in the legal area and the operation of the national and regional VMS. Additional trained personnel will also be required to achieve adequate observer coverage and that port sampling reaches targeted levels to ensure that inspection regimes are complied with. 2.2.8 Cooperation between States
+
+The IPOA-IUU calls on States to coordinate their activities and cooperate directly, and as appropriate through relevant RFMOs, in preventing, deterring and eliminating IUU fishing.
+
+The PIC is member of SPC and FFA and participates fully in all regional MCS-related programmes including implementation of MTCs, the Regional Register, VMS, the Regional Observer Programme and the annual meetings of MSC, VMS and Observer officials. The PIC also benefits from the Australian Patrol Boat programme in terms of platforms and training as well as from the aerial surveillance programmes provided to the region by Australia, New Zealand, the USA and France. Lists of currently licensed vessels are provided to FFA on a regular basis as is information on IUU fishing activities. Catch and effort data is also collected and provided to SPC and FFA for analysis. The PIC is a party to the WCPF Convention and anticipates full involvement in the WCPF Commission's MCS programmes for high seas areas, once these are developed and implemented. The PIC also cooperates directly with neighbouring States on MCS issues and is working towards the development of joint and reciprocal MCS arrangements under the 1992 Niue Treaty on Cooperation in Fisheries Surveillance and Law Enforcement in the Pacific Islands Region (Niue Treaty).
+
+Technical assistance will be available through the GEF SAP II project coordinated by FFA which is expected to commence in May 2005.
+
+27
+
+28
+
+2.2.9
+
+Publicity
+
+The IPOA-IUU calls on States to publicize widely, including through cooperation with other States, full details of IUU fishing and actions taken to eliminate it, in a manner consistent with any confidentiality requirements.
+
+The PIC uses the media to publicize IUU fishing incidents and resulting convictions as a means of deterring IUU fishing and supporting compliance with international agreements and domestic fisheries laws.28 Use is also made of the FFA MCS monthly newsheet and the International MCS Network to publicize IUU fishing incidents. The Ministry of Fisheries also has a website (http://www.picfish.gov.pc) that should be used for this purpose.
+
+3. 3.1
+
+FLAG STATE RESPONSIBILITIES Fishing vessel registration
+
+The IPOA-IUU calls on States to ensure, including through appropriate fishing authorization and vessel registration procedures, that their flag vessels and vessels under charter do not engage in or support IUU fishing.
+
+The Fisheries Management Act 2002 requires PIC fishing vessels that desire to operate in or outside PIC EEZ to be registered on the Fishing Vessel Register.29 On application to be registered, the vessel is required to be inspected to ensure it is fit for fishing and conforms with safety and hygiene standards.30 Notification of any change of ownership or modification to a registered vessel is required within 30 days and a further inspection is mandatory. The Act also requires that the High Seas Fishing Permit Register be maintained. This Register is a record of PIC fishing vessels that have been issued with high seas fishing permits.31
+
+28 29
+
+Fishing News International published an article on the Ching Fong Hwa No.1 case. Fisheries Management Act 2002, Part IV, S20 (2). 30 Fisheries Management Act 2002, Part IV, S20 (5-6). 31 Fisheries Management Act 2002, Part VIII, S55 (1).
+
+29
+
+Foreign vessels under charter to PIC interests are required to be in "good standing" on the FFA Regional Register of Fishing Vessels before they can be registered on the Fishing Vessel Register32 and therefore eligible to apply for a licence to fish in PIC waters. 3.2 Record of fishing vessels
+
+The IPOA-IUU calls on each flag State to maintain a record of fishing vessels entitled to fly its flag. Each flag State's record of fishing vessels should include, for vessels authorized to fish on the high seas, all information set out in paragraphs 1 and 2 of Article VI of the 1993 FAO Compliance Agreement, as well as the additional information specified in paragraph 42 of the IPOA-IUU.
+
+As a party to the WCPF Convention, the PIC is required to maintain a record of vessels entitled to fly its flag and authorized to fish in the Convention area beyond its area of national jurisdiction.33 The following information relating to such vessels is required to be submitted to the WCPF Commission on an annual basis with any modifications requiring prompt notification: · · · · · · · · · · · · · · · ·
+32
+
+Name of fishing vessel, registration number, previous names (if known) and port of registry Name and address of owner or owners Name and nationality of master Previous flag (if any) International Radio Call Sign Vessel communications types and numbers (Inmarsat A, B and C numbers and satellite telephone number) Colour photograph of vessel Where and when built Type of vessel Normal crew compliment Type of fishing method or method Length Moulded depth Beam Gross register tonnage Power of main engine or engines
+
+Fisheries Management Act 2002, Part IV, S20 (3), certain vessels may however be exempted. 33 WCPF Convention Part V, Art. 24, S.4
+
+30
+
+· ·
+
+The nature of the authorization to fish granted by the flag State Carrying capacity, including freezer type, capacity and number and fish hold capacity.
+
+The above information incorporates all vessel information requirements set out in paragraphs 1 and 2 of Article VI of the 1993 FAO Compliance Agreement as well as most of the additional information suggested for inclusion specified in paragraph 42 of the IPOA-IUU. While the history of non-compliance by a vessel is not included in the record of flag vessels, the PIC maintains a record of all fishing violations that occur in its EEZ. In addition, PIC flag vessels that commit an offence outside of the PIC can be prosecuted under the Fisheries Management Act 2002, and any information in this respect can be made available. At the inaugural meeting of the WCPF Commission it was decided that each Party should submit its initial record of flag vessels by July 2005. The FFA Regional Register already contains details of some PIC flag vessels and could be used as the basis for a regional standard format which could easily be electronically transmitted to the WCPF Commission. 3.3 Authorization to fish
+
+The IPOA-IUU calls on States to ensure that no vessel is allowed to fish unless so authorized, in a manner consistent with international law for the high seas. A flag State should ensure that each of the vessels entitled to fly its flag fishing in waters outside its sovereignty or jurisdiction holds a valid authorization to fish issued by that flag State. Where a coastal State issues an authorization to fish to a vessel, that coastal State should ensure that no fishing in its waters occurs without an authorization to fish issued by the flag State of the vessel.
+
+The Fisheries Management Act 2002 requires authorizations to fish, including permits for all PIC vessels and PIC subjects and permanent residents, in areas beyond national jurisdiction.34 Foreign fishing vessels can be issued with a licence to fish in PIC waters provided there is an access agreement in place with the Government of the flag State of the vessel.35
+
+34 35
+
+Fisheries Management Act 2002, Part IV, S20 (2), S21 (1). Fisheries Management Act 2002, Part VII, S38 (4).
+
+31
+
+3.4
+
+Measures to control transport and re-supply vessels
+
+The IPOA-IUU calls on flag States to ensure their fishing, transport and support vessels do not support or engage in IUU fishing. The IPOA-IUU also calls on States to ensure that, to the greatest extent possible, all of their fishing, transport and support vessels involved in transhipment at sea have a prior authorization to tranship issued by the flag State, and report specified information to the national fisheries administration or other designated institution.
+
+Any authorized transport and support vessels that have been involved in IUU fishing in PIC waters or an area of the high seas subject to international conservation and management measures will be subject to prosecution. It is an offence under the Fisheries Management Act 2002 for such vessels not registered in PIC, to carry out related activities, such as refuelling and transhipping, in PIC waters. In cases where transport or support vessels are found to have supported IUU fishing but have escaped apprehension, the application of the Regional Register is an option. At-sea transhipment of fish by purse seiners is not permitted in the Pacific Islands region. Licence terms and conditions require vessels operating in the PIC to provide 72 hours advance notice to tranship as well as the written permission to do so from the Secretary of the Ministry of Fisheries. 4. COASTAL STATE RESPONSIBILITIES
+
+In the exercise of sovereign rights of coastal States for exploring and exploiting, conserving and managing the living marine resources under their jurisdiction, the IPOA-IUU calls on coastal States to implement measures to prevent, deter and eliminate IUU fishing in waters under their jurisdiction. Measures which coastal States should consider are: effective MCS; cooperation and exchange of information with other States and RFMOs; ensuring that all fishing is authorized; ensuring all vessels are registered; logbook requirements; controls on transhipment/processing of fish; regulation of fishing access; and avoiding licensing vessels with an IUU fishing history.36
+
+36
+
+See 2.2.7 Monitoring, control and surveillance.
+
+32
+
+The PIC is taking measures to combat IUU fishing by foreign fishing vessels through use of its own MCS systems and through strengthened regional and international cooperation. This is being achieved through regional databases and information exchanges, enforcement cooperation and use of the VMS system. Moreover, air surveillance patrols provided by Australia, New Zealand, USA and France are bolstering this effort. The establishment of the WCPF Commission is expected to enhance this cooperation. The PIC investigates the offending history of foreign vessels applying to fish in PIC waters primarily through the FFA Regional Register database. A vessel is required to be in "good standing" on the Regional Register, before it can be considered for registration and licensing in the PIC. All licences issued include comprehensive terms and conditions for operating. The PIC does not require foreign fishing vessels to produce their flag State authorization to fish before licensing them. However, no foreign fishing vessel licence is issued unless there is in force with the Government of the flag State of the vessel or with an association representing the foreign fishing vessel owners or charterers, an access agreement or arrangement with the PIC.37 5. PORT STATE MEASURES
+
+The IPOA-IUU calls on States to use port State measures, in accordance with international law, to control port access by fishing vessels in order to prevent, deter and eliminate IUU fishing.
+
+5.1
+
+Advance notice of access
+
+The IPOA-IUU calls on States to require vessels seeking access to their ports to seek prior permission to enter their ports and to provide reasonable advance notice of their entry into port, a copy of their authorization to fish, and details of their fishing trip and quantities of fish on board, in order to ascertain whether the vessel may have engaged in, or supported, IUU fishing.
+
+37
+
+Fisheries Management Act 2002, Part VII, S38(4).
+
+33
+
+The master of any foreign fishing vessel that wishes to enter PIC waters must give at least 72 hours advance notice of his intention to do so38 and 24 hours notice prior to port entry.39 All locally based foreign fishing vessels are required to be inspected and cleared by a fisheries officer after each port call, before any cargo or personnel can be off-loaded. In conformity with international law, the PIC provides port access to foreign flagged vessels for reasons of force majeure or distress or for rendering assistance to persons, ships or aircrafts in danger or distress. 5.2 Denial of access
+
+The IPOA-IUU calls on each port State, where it has clear evidence that a vessel has engaged in IUU fishing activity, to prohibit the vessel from landing or transhipping fish in its port, and to report the matter to the vessel's flag State.
+
+Any foreign fishing vessel that is suspected of contravening international conservation and management measures may be denied entry into internal waters and if it has entered internal waters, directed to leave those waters.40 If a vessel is in port and following inspection and there is clear evidence that it has been involved in IUU fishing, an offence is considered to have been committed in the PIC and legal action can be initiated. In such a case, the PIC would inform the flag State and FFA of the details of the case as well as any FFA member State affected. 5.3 Authorized ports
+
+The IPOA-IUU encourages States to publicize ports to which foreign flagged vessels may be permitted admission and to ensure that these ports have the capacity to conduct inspections.
+
+38 39
+
+Fisheries Management Act 2002, Part IX, S68(1). One of the terms and conditions of licence. 40 Fisheries Management Act 2002, Part IX, S68(2).
+
+34
+
+The PIC has two ports of entry and reserves the right to inspect any fishing vessel in port. Inspection of foreign vessels in port (including those that are not licensed to fish but come for duty free fuel or repair) will be intensified following proposed training on boarding and inspection by the regional organizations. As the WCPF Commission takes effect and the Commission possibly adopts catch certification schemes, a future priority will be to develop inspection capacity and train inspectors concerning any relevant documentation requirements. In the immediate term, the PIC's ability to conduct in port inspections will be enhanced with the addition of personnel currently undergoing training and could be further enhanced with the use of PDS personnel. In the longer term it would be beneficial to have at-port inspectors trained to a regional standard and FFA would be the logical organization to implement such a programme along similar lines to the regional Observer Programme. 5.4 Evidence indicating IUU fishing
+
+If, in the course of an inspection, a port State finds that there are reasonable grounds to suspect that a vessel has engaged in or supported IUU fishing, the IPOA-IUU calls on port States to immediately report the matter to the flag State of the vessel and, where appropriate the RFMO. The port State may take other action with the consent of, or upon the request of, the flag State.
+
+The PIC will continue its policy of informing the flag State of a vessel, if it has reasonable grounds to suspect any of its vessels have engaged in or supported IUU fishing. Reports will also be made to FFA and the WCPF Commission, as appropriate. Where evidence is found indicating that a foreign vessel in port has encouraged or supported IUU fishing, PIC enforcement action can be taken. This is especially the case if IUU caught fish has been imported or if an offence has been committed in another State or in an area of the high seas subject to RFMO management or if the vessel is subject to a joint and reciprocal surveillance and enforcement arrangement in place with the PIC.
+
+35
+
+5.5
+
+Cooperation with port States and through RFMOs
+
+The IPOA-IUU calls on States to cooperate, as appropriate, bilaterally, multilaterally and within relevant RFMOs, to develop compatible measures for port State control of fishing vessels. The IPOA-IUU also encourages States to consider developing, within relevant RFMOs, port State measures building on the presumption that fishing vessels entitled to fly the flag of States not parties to a RFMO and which have not agreed to cooperate with that RFMO, which are identified as being engaged in fishing activities in the area of that particular organization, may be engaging in IUU fishing.
+
+The PIC will continue to cooperate, mainly through regional organizations, with other port States in the Pacific Islands, to agree on mechanisms and information exchange to combat IUU fishing. The PIC will implement port State measures that may be adopted by the WCPF Commission and any other relevant RFMOs. 6. INTERNATIONALLY MEASURES AGREED MARKET RELATED
+
+As a member of FFA and in accordance with regionally accepted MTCs and MCS operating procedures, the PIC has established port State controls that are consistent with other FFA member States. In addition, as a party to the WCPF Convention, the PIC will work with other party States to further develop appropriate port State controls. The WCPF Commission itself is required to consult, cooperate and collaborate with other relevant intergovernmental organizations to ensure through effective management, the long-term conservation and sustainable use of highly migratory fish stocks in the region.41 6.1 Trade-related measures
+
+The IPOA-IUU encourages States to take steps, consistent with international law, to prevent fish caught by vessels identified by the relevant RFMO to have been engaged in IUU fishing being traded or imported into their territories.
+
+41
+
+WCPF Convention, Art. 22.
+
+36
+
+It is an offence to bring into the PIC fish that has been taken illegally in another State42 or in areas of high seas that may be subject to international conservation and management measures. To enhance this provision of the Fisheries Management Act 2002, and to strengthen its MCS capability, the Government of PIC is exploring the establishment of joint and reciprocal surveillance and enforcement arrangements with neighbouring island States. Where there is an agreement with another State, prosecution of the offence can take place in the PIC and any penalties remitted according to conditions of the agreement.43 The PIC will continue to supply information to FFA and other relevant RFMOs including the WCPF Commission on vessels suspected of IUU fishing in their respective areas of competence. The WCPF Commission is empowered to develop procedures that allow for non-discriminatory trade measures to be taken against any State or entity whose fishing vessels fish in a manner that undermines the effectiveness of the conservation and management measures the Commission has adopted.44 6.1.1 Catch documentation schemes
+
+The IPOA-IUU suggests that certification and documentation requirements should be standardized to the extent feasible, and electronic schemes developed where possible, to ensure effectiveness, reduce opportunities for fraud, and avoid unnecessary burden on trade.
+
+Measures will be taken to implement catch documentation and certification schemes for PIC vessels that are adopted by FFA and the WCPF Commission and any other relevant RFMO to which PIC is, or may become a member. The PIC is already MCS compliant and implements the regional reporting and documentation standards. 6.1.2 Transparency of markets
+
+The IPOA-IUU calls on States to take steps to improve transparency of their markets to allow the traceability of fish or fish products.
+
+42 43
+
+Fisheries Management Act 2002, Part IX, S65. Fisheries Management Act 2002, Part IX, S65 (3). 44 WCPF Convention , Art.25.
+
+37
+
+Technical assistance will be requested to develop measures to improve the transparency of markets to allow the traceability of fish and fish products. 6.1.3 Information dissemination
+
+The IPOA-IUU calls on States to take measures to ensure that their importers, transhippers, buyers, consumers, equipment suppliers, bankers, insurers, other service suppliers and the public are aware of the detrimental effects of doing business with vessels identified as engaged in IUU fishing, and should consider measures to deter such business. Similarly, the IPOA-IUU calls on States to take measures to ensure that their fishers are aware of the detrimental effects of doing business with importers, transhippers, buyers, consumers, equipment suppliers, bankers, insurers and other service suppliers identified as doing business with vessels identified as engaged in IUU fishing.
+
+In an endeavour to prevent, deter and eliminate IUU fishing, fishery management compliance plans will focus on awareness-raising to ensure transparency, clarity and direction to support the implementation of approved fishery Management Plans. Seminars and out-reach programmes for the general public, fishers, Police, Crown Law and restaurateurs to explain the penalties associated with the purchase of IUU caught fish, have been conducted. A Compliance Plan has been developed and implemented for the National Tuna Management and Development Plan and further Compliance Plans will be developed and implemented for the deepwater fishery, the charter boat (sports) fishery, the marine seaweed fishery and the marine aquarium fishery. It is intended that an amendment to the Fisheries Management Act 2002, be drafted that makes it an offence to conduct business or trade in fish or fish products derived from IUU fishing. 7. 7.1 REGIONAL FISHERIES MANAGEMENT ORGANIZATIONS Party compliance
+
+The IPOA-IUU calls on States to ensure compliance with and enforcement of IUU fishing-related policies and measures adopted by any RFMOs by which they are bound. States should cooperate in the establishment of such organizations in regions where none currently exists.
+
+38
+
+The PIC will continue to work through RFMOs to implement the IPOA-IUU. The PIC considers RFMOs to be in the forefront of taking measures to implement the IPOA-IUU. It is expected that the WCPF Commission will be well positioned to implement the IPOA-IUU through, inter alia, information mechanisms, MCS, and dealing with non-member fishing, develop documentation and certification schemes. The PIC will be an active participant and will strive to implement the decisions of the Commission effectively and expediently. 7.2 Non-party compliance
+
+The IPOA-IUU calls on States to give effect to their duty to cooperate by agreeing to apply the conservation and management measures by RFMOs to which they are not members, or by adopting measures consistent with those conservation and management measures, and should ensure that vessels entitled to fly their flag do not undermine such measures.
+
+Consistent with the 1995 UN Fish Stocks Agreement, the PIC will cooperate and act consistently with the conservation and management measures agreed by RFMOs to which it is not a member. Currently, there are no PIC flag vessels operating in the high seas but any future high seas fishing permits will require specific approval for PIC vessels and PIC nationals (including PIC registered companies), to fish in areas or for species covered by organizations and arrangements to which PIC is not a party. 7.3 Innovation
+
+The IPOA-IUU encourages States, acting through relevant RFMOs, to take action to strengthen and develop innovative ways, in conformity with international law, to combat IUU fishing.
+
+The PIC has been a member of FFA since 1979 and in cooperation with the other members of that organization, has contributed to the development and implementation of a number of fisheries management measures designed to prevent, deter and eliminate IUU fishing.
+
+39
+
+Prominent among the many innovations is the Regional Register that contains details of each foreign fishing vessel listed in "good standing" and eligible to apply for a licence to fish in the Pacific Islands region. Information listed includes details of vessel owner, operator, master, fishing master and the VMS ALC fitted. For vessels found to have been involved in IUU fishing, the threat of "black-listing" and thus the prospect of not being able to fish in any FFA member State waters, has proven effective in bringing the offender to justice. The 1991 Regional Treaty on Cooperation in Fisheries Surveillance and Law Enforcement is another innovation that allows for subregional joint and reciprocal surveillance and enforcement arrangements thus allowing neighbouring SIDS to coordinate the use of surveillance assets and for their enforcement personnel to be cross-authorized. FFA is a leader in tuna fisheries management innovation and the PIC intends to work in cooperation with other FFA member States to pursue new initiatives and strengthen existing measures to combat IUU fishing, including the WCPF Commission. 7.4 Inclusion of non-contracting parties
+
+The IPOA-IUU encourages States, acting through relevant RFMOs, to encourage non-contracting parties with a real interest in the fishery concerned to join those organizations and to participate fully in their work. Where this is not possible, the RFMOs should encourage and facilitate the participation and cooperation of non-contracting parties, in accordance with applicable international agreements and international law, in the conservation and management of the relevant fisheries resources and in the implementation of measures adopted by the relevant organizations. RFMOs should address the issue of access to the resource in order to foster cooperation and enhance sustainability in the fishery, in accordance with international law.
+
+The PIC acknowledges that the effectiveness of RFMOs depends on securing the membership and participation of all States and entities fishing in an area, or for species covered by an RFMO. The WCPF Commission has developed a protocol to allow cooperating noncontracting parties with an interest in the region's fisheries, to participate in the work of the Commission as Observers.
+
+40
+
+8.
+
+SPECIAL REQUIREMENTS OF DEVELOPING COUNTRIES
+
+FAO encourages States, with the support of FAO and relevant international financial institutions and mechanisms, to cooperate in supporting training and capacity building and consider providing financial, technical and other assistance to developing countries, including in particular the least developed among them and small island developing States, so that they can more fully meet their commitments under the IPOA-IUU and obligations under international law. Such assistance should be directed in particular to help such States in the development and implementation of national plans of action.
+
+FAO also encourages States, with the support of FAO and relevant international financial institutions and mechanisms, where appropriate, to cooperate to enable: review and revision of national legislation and regional regulatory frameworks; the improvement and harmonization of fisheries and related data collection; the strengthening of regional institutions; and the strengthening and enhancement of integrated MCS systems, including satellite monitoring systems.
+
+This part of the IPOA-IUU, which relates to participation in efforts to assist developing States implement the IPOA-IUU, is not relevant for the PIC's NPOA-IUU because it calls upon donors to assist developing States in their efforts to address IUU fishing. However, the PIC supports the establishment of a voluntary trust fund and values the assistance provided to date, including that provided by FAO, to support the implementation of the IPOA-IUU.
+
+41
+
+APPENDIX SUPPORTING ACTION The following suggested actions would further enhance and strengthen the ability of the PIC to combat IUU fishing and to some extent represents a check list for follow-up action: International instruments
+
+·
+
+Ratification of the 1993 FAO Compliance Agreement.
+
+National legislation
+
+· · · · · · ·
+
+Adopt Fisheries Management Regulations; Complete development of VMS regulations for adoption; Clarify the procedures for licensing fishing vessels to operate in the PIC's EEZ; Balance the level of penalties for fisheries offences that occur within the PIC's EEZ with those provided for high seas infringements; Include the use of administrative penalties for minor offences; Formally adopt the updated Harmonized Minimum Terms and Conditions of Access for Foreign Fishing Vessel (MTCs); and Include an amendment in the Fisheries Management Act 2002, that makes it an offence to conduct business or trade in fish or fish products derived from IUU fishing.
+
+Vessels without nationality
+
+Any information received on vessels without nationality operating in the Pacific Islands region, will be passed on to neighbouring States and relevant RFMOs as appropriate, as well as the International MCS Network for further dissemination. Economic incentives
+
+Economic support will be withheld from companies, vessels and persons that are involved in IUU fishing. In particular, access to any fuel subsidy, will be denied to any fishing vessel involved in IUU fishing. Monitoring, control and surveillance
+
+To more effectively fulfil its MCS functions, the Ministry of Fisheries will need to direct resources to enhance its legal, VMS, port sampling, observer and inspection capacity. The Ministry has identified these needs and is currently in
+
+42
+
+the process of training additional observers. The use of PDS personnel should be utilized for routine at port inspection purposes. Cooperation between States
+
+In cooperation with neighbouring SIDS, develop subregional joint and reciprocal surveillance and enforcement arrangements to ensure the most efficient use of MCS assets and to more effectively police border areas in particular. Publicity
+
+The Ministry of Fisheries should post on its website, full details of IUU fishing and actions taken to eliminate it, as an additional way to publicize this information. Record of fishing vessels
+
+As a party to the WCPF Convention, PIC is required to maintain a record of vessels entitled to fly its flag and authorized to fish in the Convention area beyond its area of national jurisdiction. The following information relating to such vessels, is required to be submitted to the WCPF Commission on an annual basis with any modifications requiring prompt notification: · · · · · · · · · · · · · · · · · Name of fishing vessel, registration number, previous names (if known) and port of registry Name and address of owner or owners Name and nationality of master Previous flag (if any) International Radio Call Sign Vessel communications types and numbers (Inmarsat A, B and C numbers and satellite telephone number) Colour photograph of vessel Where and when built Type of vessel Normal crew compliment Type of fishing method or methods Length Moulded depth Beam Gross register tonnage Power of main engine or engines The nature of the authorization to fish granted by the flag State, and
+
+43
+
+·
+
+Carrying capacity, including freezer type, capacity and number and fish hold capacity.
+
+The FFA Regional Register already contains details of some PIC flag vessels and could be used as the basis for a regional standard format which could be electronically transmitted to the WCPF Commission and/or FAO as required. Regular updates of the High Seas Fishing Vessel Register containing fishing vessel data should be submitted to FAO on a monthly basis. Authorized ports and inspection
+
+As the WCPF Commission begins its work and possibly adopts catch certification schemes, a future priority will be to develop inspection capacity and train inspectors about the relevant documentation and procedures. FFA should be approached to develop a regional at port inspection programme so that officers can be trained to a regional standard and certified as such. Catch documentation schemes
+
+Measures will be taken to implement further catch documentation and certification schemes for PIC vessels that may be adopted by FFA and the WCPF Commission and any other relevant RFMO to which PIC may become a member. Transparency of markets
+
+Technical assistance will be requested to develop measures to improve the transparency of markets to allow the traceability of fish and fish products. Internationally agreed market-related measures
+
+PIC will cooperate with all RFMOs to which it belongs to prevent, deter and eliminate the activities of non-cooperating States which engage in IUU fishing. This will include implementing trade and other sanctions that may be recommended by the WCPF Commission.
+

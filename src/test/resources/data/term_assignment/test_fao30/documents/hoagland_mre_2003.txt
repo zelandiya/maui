@@ -1,0 +1,275 @@
+The Optimal Allocation of Ocean Space: Aquaculture and Wild-Harvest Fisheries
+PORTER HOAGLAND DI JIN HAUKE KITE-POWELL Woods Hole Oceanographic Institution
+Abstract
+A significant problem hindering the emergence or the continued growth of aquaculture in many marine areas is the conflict that arises among it and other ocean uses. We develop a framework to clarify the choice of the optim a l scale of aquaculture when that use impacts a commercial fishery. We identify a range of potential impacts, both positive and negative, and analyze how one or more might affect the carrying capacity of a fish stock. We conduct a numerical simulation to illustrate a case where aquaculture and fishery uses interact in the ocean and compete in the product market, and we find that an ocean area could be devoted exclusively to aquaculture. This result depends strongly upon assumptions about the nature of the interaction, the geographic distribution of fish, and the aquaculture production technology. We also investigate the behavior of the model when both uses are able to coexist. Key words Aquaculture, wild-harvest fishery, bioeconomics, spatial allocation, carrying capacity, user conflicts. JEL Classification Codes Q12, Q22.
+
+Introduction
+In this paper, we examine the interactions between marine (or estuarine) aquaculture and a wild harvest fishery. These two uses of the ocean may vie over physical space, impose external costs (or benefits) on each other, and compete in downstream markets . In many instances, fishermen and aquaculturists may gain access to the ocean under different sets of rules and legal rights. Where such disparate property systems are not fully integrated, and uses are partially or fully exclusive, conflicts are bound to arise. If property rights are ill defined, or if they are spread across a large number of users, then classic Coasean solutions to external effects may not be realizable.
+
+Porter Hoagland is a Research Specialist, Di Jin is an Assistant Scientist, and Hauke Kite-Powell is a Research Specialist at the Marine Policy Center, Woods Hole Oceanographic Institution, Woods Hole, M A 02543. Their respective email addresses are: phoagland@whoi.edu; djin@whoi.edu; and hauke@whoi.edu. this research was sponsored with funds from NOAA through: the Saltonstall-Kennedy Grant Program , Grant No. NA96FD0078; the National Marine Aquaculture Initiative, Grant No. NA06RG0544; and the Office of Policy and Planning, Contract No. 40AANA904063. Versions of this paper were presented at the Open-Ocean Aquaculture IV meeting in St. Andrews, New Brunswick in June 2001 and at the International Institute for Fisheries Economics and Trade 2002 meeting in Wellington, New Zealand i n August 2002. We thank Graeme Coates, Sue Grey, Deirdre Kimball, Phil Kirk, Andy Solow, Eric Thunberg , Stan Wang, and two anonymous referees for ideas and constructive suggestions on earlier versions of this work. WHOI contribution number 10932.
+
+Here , we explore the implications for the coexistence of commercial fisheries and aquaculture in a particular ocean region. We consider first what happens when aquaculture is introduced into a region where an open-access fishery is established. Next , we consider the effects of aquaculture on the price of quota in a fishery in which a system of individually transferable quotas (ITQs) has been implemented. Finally, we develop a model to determine the optimal long-run, steady-state scales o f fishing and aquaculture, assuming that the fishery can be regulated with taxes or ITQ s . We develop a numerical example to illustrate the sensitivity of the optimal outcome to alternative parameter values. A wide range of potential interactions may arise between aquaculture and commercial fisheries (table 1). The type of interaction may depend upon the classes of species grown or caught and the technologies utilized for each activity. Interactions m a y involve a decrease in the physical space available for prosecuting a fishery; possible increases in the costs of either wild harvest or aquaculture as more space is devoted to the alternative use; the culling of juvenile fish from a wild stock for growout in a culture facility; changes in the level of nutrient enrichment; and the risks of genetic mixing or displacement and the spread of disease. These are the types of interactions that have been highlighted, mostly in a negative sense, by environmental groups (cf., Goldburg, Elliott, and Naylor 2001). Although the culturing o f one species could affect the status of a range of species or the characteristics of an entire ecosystem, in this paper we focus mainly on the effects on a single species. The most obvious type of competition between aquaculture and a fishery is over physical occupation of the ocean. The siting of an aquaculture facility, such as a net pen , longline, or seafloor growout, may displace some forms of commercial fishing activity . If the wild stock is unavailable for harvest because of the failure of fish to migrate out of an area allocated for culturing, then the "effective" carrying capacity m a y be reduced. This issue is analogous to the question of the diffusion rate of a fish stock out of a marine reserve (Mullen 1989). As more space is allocated for aquaculture , there may be both a smaller stock available for fishing and more congestion in the areas remaining open for wild harvest. These effects could lead to increases in the cost of fishing. On the other hand, as more area is allocated for wild harvest , the cost of aquaculture might increase if the potential for achieving economies of scale is constrained. Another type of competition occurs through the culling of juveniles from a wild stock to supply aquaculture operations. If the juveniles have not yet recruited to the spawning stock, then culling could affect the carrying capacity of the fish stock as a consequence of recruitment overfishing. Culling has been proposed for the culture of bluefin tuna, Atlantic sea scallops, and summer flounder. A final type of competition concerns the external effects of aquaculture on a fishery. First, the release of nitrogen from feeds and fish wastes might lead to nutrie n t overenrichment and eutrophication, particularly in protected bays or small estuaries . Second, the potential exists for the spread of disease from cultured fish, leading to declines in the wild stocks. Third, if the cultured fish are genetically different from wild fish, there may be some potential for affecting the biological fitness of the wild stock if releases or escapes occur. In such a case, aquaculture operations might be confined to a relatively small area of the ocean, with only a minor physical displacement of the fishery. The release of nutrients, disease, or genetically altered fish, however, might have effects that reach far beyond the actual culturing facility. The potential for conflicts between commercial fisheries and aquaculture has been appreciated in only a few places to date, but it is likely to become a more significant problem as aquaculture continues to expand worldwide. At an FAO-sponsored meeting in 1986 focusing on the problems of small-scale fisheries in the western Mediterranean, the participants identified "major problems in the competition between aquaculture and fisheries ... over uses of space, living resources, huma n and financial resources, and market competition for seafood" (Charbonnier and Caddy 1986, p. 47). 1 In the early 1990s, in North West Connemara (on the west coast of Ireland), local fisherman perceived that the "expansion of [salmon] farms result[ed] in an increasing number of restricted areas for fishing" (Steins 1997, p. 3). The fishermen formed a shellfish cooperative to secure aquaculture licenses so that they could safeguard access to their historical fishing grounds. In the Norwegian town of Vega, conflicts between aquaculture and the commercial herring fisheries have been settled through the use of a "first in time, best [sic] in right" rule ( Doksroed 1996). The application of this rule, however, may be made difficult by fluctuations in fish stocks that lead to variations in the level of fishing activity and therefore in the extent to which fishermen are using areas of the ocean. In 1996, the siting of an experimental aquaculture growout facility for sea scallops off the coast of Martha's Vineyard, MA (USA) was delayed, in part, because of the opposition of commercial fishermen to the site originally proposed on the basis of historical patterns of fishing (WSC 1998). I n New Zealand, Hickman (1996, p. 452) notes that the 30-year history of aquaculture there has been one of competition for coastal waters and that "on occasions direct competition has occurred between aquaculture and traditional fishery interests . " Most recently, permit applicants for green-lipped mussel longline culturi n g operations have come into conflict with southern scallop fisheries in Tasman B a y and Golden Bay. Grey and Sullivan (2003) explain that commercial fishermen in New Zealand argue that ITQ rights ought to include a guaranteed right of access t o ocean areas sufficient to catch the quota. There is now a moratorium on all new marine farming in New Zealand ostensibly to develop a more rational approach to the allocation of ocean space (Grey 2002). McVey (2001) of the US National Sea Grant College Program has argued that aquaculture and fisheries will need to be managed together in order to optimize value . In a similar vein, Ferlin (1986) calls for an integrated management approach to both improve marine fisheries and develop the aquaculture industry.
+
+
+Table 1 Aquaculture and Wild Fishery Interactions
+Wild Stocks Aquaculture Salmonids Groundfish Pelagics Shellfish Salmonids p(G), p(D)
+
+©
+Groundfish K, Cf, Ca K, Cf, Ca, J, p(G), p(D) K, Cf, Ca Cf, Ca Pelagics Cf, Ca Cf, Ca J, p(D), Cf, Ca Cf, Ca Shellfish
+
+Cf, Ca, J, p(D)
+
+Ke y : K = the carrying capacity of the commercial fish stock is impacted (negatively or positively); Cf = the cost of fishing increases as the area allocated to aquaculture increases; Ca = the cost of aquacult u r e increases with increasing fishing effort; J = juvenile fish may be culled from the wild stock for growout; p(G) = the risk of genetic pollution; p(D) = the risk of the spread of disease.
+
+1
+
+On the other hand, Jordana i de Simon (1999) reports that there has been no interference between fishing and aquaculture in the autonomous Community of Catalonia, Spain.
+
+The literature on the economics of aquaculture is small but growing rapidly. Existing studies in this area may be categorized into two groups. The first group focuses on the economics of aquaculture operations, including the analyses of production processes (Kite-Powell et al. 2003a, 2003b; Kazmierczak and Caffey 1995; Arnason 1992; Karp, Sadeh, and Griffin 1986) and downstream product markets (Engle and Kouka 1995; Kouka 1995). The second group examines the biological and market interactions between aquaculture and commercial fisheries. For example, Anderson (1985a) models the interactions between ocean ranching (the hatching and release of smolts of an adromous fish, such as coho salmon ( on corhynchus kisutch), which migrate in to ocean waters and later return to be harvested by the rancher) and commercial fishing. The author shows that there is a range of prices within which both ranched and wild fish stocks can coexist. However, there is a limit price above which the wild stock could be driven to extinction through overfishing stimulated by the release of large numbers of the ranched fish. The range of prices under which both stocks can coexist can be increased either through restrictions on wild harvest fishing effort or by reducing the catchability of the ranched stock . Cooperative management can result in profits from both activities. Anderson and Wilen (1986) examine the implications of private salmon ranching in the Pacific Northwest on market structure, salmon prices, wild harvests , ranch output, and salmon fishing regulation. The authors model the behavior of a dominant salmon rancher facing a competitive open-access fishery . Primary attention is given to the factors that influence the strategies of an optimally managed salmon ranch under selected institutional and biological constraints . The effect of such behavior is evaluated with regard to salmon prices , natural salmon stocks, ocean fishing effort, and ocean fishery productivity. In another study, Anderson (1985b) presents a single-species model in which cultured finfish competes in the same market as a perfect substitute for a wild harvest product. There is no biological interaction or geographical competition between the aquaculture operations and the commercial fishery. The author concludes that the entry of competitive aquaculture firms leads to increases in the stock of wild harvest fish, thereby complementing wild harvest fishery management objectives, and benefits consumers through increases in the total supply of fish to the market and price reductions. Green and Kahn (1997) find a similar result and use it to argue for the subsidization of aquaculture. We consider two general types of interactions: those that take place in the ocean and those in the market. We start with an examination of the competition between aquaculture and fishing in the ocean. Aquaculture may also compete with wild harvest fisheries solely in the market. This appears to be the situation in the world salmon market, where low-cost aquaculture production may be causing the wild harvest fishery in Alaska to slump. Recently, Alaskan fisherm e n and processors have been attempting to differentiate the product through a n unsuccessful effort to certify the wild harvest as "organic." This type of competition is an interesting case in which technological innovation may lead to the displacement of more traditional forms of production, with potentially important ramifications for ecosystem health and social welfare. We do not consider this case explicitly in this paper, although the essence of the problem is found in a more general model that considers competition in the ocean as well as in the downstream market.
+
+
+Competitive Interactions in the Ocean
+We begin with a traditional production function for a wild harvest fishery: h f = qXE , (1)
+
+where hf is the level of landings from the wild harvest stock, q is a catchability coefficient, X is the size of the natural fish stock, and E is a variable that represents aggregate fishing effort for a fleet of homogeneous vessels. Let r be an intrinsic growth rate of the fish stock, and let K represent the fishery ' s carrying capacity in stock units. We assume that the fish stock is distributed uniformly over the area of the fishery, so that K can also be denominated in units of area. 2 Let S be the area devoted to aquaculture, and let K be a linear function of S so that the carrying capacity changes with S at a constant rate : K ( S) = K - S. (2)
+
+In principle, K(S) could either increase or decrease with increases in S. An example of the former could occur where the nutrients from an aquaculture operation enhance local productivity. For example, lobster stocks are believed to benefit from the siting of mussel growout facilities. Examples of decreasing K(S) with increasing S include the physical displacement of fishing, interference with the ecosystem to create conditions where fish cannot exist, the spread of disease from the cultured stock to wild fish, or even the release of genetically inferior stocks into the wild. In the following illustrations, we focus mainly on the case where  > 0, implying that K (S) decreases as more ocean space is allocated to aquaculture. We employ a simple surplus production model to describe the growth, G(X,S,E ), of the wild stock when it is being fished:
+· X  G( X , S, E )  X = rX 1 -  - h f ( X , E ). K (S )  
+
+(3)
+
+At a steady-state equilibrium, equation (3) describes the classic downward sloping linear population equilibrium relationship between fishing effort, E, and the fish stock, X. The intrinsic growth rate, r, is a fixed parameter. When  > 0, it is straight forward to show that the equilibrium stock size declines as more and more ocean space is devoted to aquaculture. Figure 1 depicts this relationship for an open-access fishery. As the value of  increases, K will decrease. The fishing effort intercept of the population equilibrium curve stays fixed, but the curve rotates toward the origin, thereby reducing the steady-state stock associated with any level of fishing effort. For a fixed level of fishing effort, say, one with a management goal of achieving MSY (horizontal line in figure 1), yields must drop as the available stock declines. We now begin to consider some of the economic aspects. If we assume first that the fishery and aquaculture products are identical and undifferentiated in the market,
+
+2
+
+This assumption is critical to the analysis. If it is known that the stock is distributed nonuniformly, the n it may be possible to site aquaculture operations in such a way as to reduce the likelihood of impacts on the fishery. Many jurisdictions use the historical distribution of fishing effort as a way to select locations for the siting of aquaculture facilities. This approach is not necessarily economically efficient, but it may minimize the costs associated with political conflicts.
+
+Figure 1. Population Equilibrium Relationship for a Fishery with Contracting Carrying Capacity (hypothetical parameterization)
+
+then consumers should be indifferent with respect to the source of seafood. We model the total costs of fishing as an increasing linear function of fishing effort: TC = cE, where c is the unit cost of effort. In an open-access fishery, rents are dissipated, implying that it may be economically efficient for aquaculture to expand and displace the fishery completely. This result is definitely true if aquaculture can generate producer surpluses and produce at least as much fish as the open-access fishery was producing , because there will be no decrease in consumer surplus. Moreover, the economy conceivably might benefit more, even if somewhat less fish is produced by aquaculture , for two reasons: the open-access inefficiency would be reduced (or removed) and aquaculture producers might earn surpluses. Another important consideration is what happens to the commercial fishing fleet. Ostensibly, there is no change in producer surpluses for fishermen, because resource rents are fully dissipated in open-access equilibrium. As the carrying capacity contracts, the sustainable revenue curve shifts down (figure 2). This shift forces the open-access fishing effort to decline, or, equivalently, it forces vessels to exit the fishery. Thus, we might expect considerable opposition by commercial fishermen to the introduction of aquaculture if it is expected to reduce the effective carrying capacity of the fishery.
+
+There will be opposition to aquaculture in an optimally managed fishery as well . Figure 2 shows that both the optimal level of fishing effort and resource rents w i l l decline as the carrying capacity contracts. To see this in another way, we can explore the relationship between the value of fishing quota, m, and changes in the carrying capacity. We assume the market price of fish, p, is a constant, and we discount the future at rate . For an optimally managed fishery, the stock size can be solved as a function of the model parameters only (Clark 1990), including the important parameter K(S):
+1 K ( S)  c    c 2 8c      X [ K (S )] = +1-  + +1-  +  4  pqK ( S ) r   pqK (S ) r pqrK ( S )     * 2
+
+  .  
+
+(4)
+
+Define the value of fishing quota as follows: c   m[ K (S ) ] = p -  .  qX [K ( S) ]  
+
+(5)
+
+Substituting the optimal stock size into equation (5) gives us a functional relationship between the price of quota and the effective carrying capacity, as shown in
+
+Figure 2. Decline in Open-access Fishing Effort with Contracting Carrying Capacity (hypothetical parameterization)
+
+figure3. Assuming that the fish stock is distributed uniformly over the fishing grounds , this relationship provides a way of measuring the opportunity cost of the expansion of aquaculture. If fishermen hold the property rights, then the curve represents a minimum compensation schedule for the purchase of rights to conduct aquaculture in the ocean. 3
+
+Competition Over Space and in the Market
+In order to explore the optimal allocation of space between a commercial fishery and aquaculture, we first need to characterize the economic dimensions of the aquaculture operation. 4 We specify a linear production function for aquaculture: ha = wS , (6)
+
+Figure 3. Decline in the Price of Fish Quota with Contracting "Effective" Carrying Capacity
+Hypothetical parameterization; note that carrying capacity is declining to the right.
+
+3
+
+In Japan, for example, fishery cooperative associations hold the rights to areas of the coastal ocean for commercial fishing; aquaculture operators must obtain the right from a cooperative in order to grow fish (Murai 1992). 4 This framework is analogous to the multiobjective policy model for marine aquaculture developed by Sylvia, Anderson, and Cai (1996), although we do not specify a set of "policy weights" on the two uses.
+
+
+where ha is farmgate output and w is a positive coefficient. According to this model, a larger area, S, is needed if aquaculture is to increase its supply to the market. We assume that capital and labor are proportional to acreage. 5 We model the costs of aquaculture as an increasing function of the total geographic area, S, allocated for aquaculture: 6 C a S > 0.
+
+(7)
+
+Further, there is a cost of investment in aquaculture, I(z), in which z is an increment to the total acreage S: I z > 0.
+
+(8)
+
+We define total benefits as the sum of revenues from the commercial wild harvest of fish and the production of fish by aquaculture. Total benefits are a function of E, X, and S: B( E, X , S) = B f (h f ) + Ba ( ha ). (9)
+
+A hypothetical regional manager chooses the levels of fishing effort, E, and investment in aquaculture acreage, z, to maximize the net benefits of fish production from both the wild harvest fishery and aquaculture production:
+
+max subject to:
+
+ {B( E , X , S ) - C ( E ) - C (S ) - I ( z)}e
+f a 0 ·
+
+
+
+- t
+
+dt
+
+(10)
+
+X = F( X , S ) - qEX S = z.
+·
+
+(11)
+
+(12)
+
+5
+
+This specification of the production function simplifies our analysis. In reality, there may be important substitution possibilities between area and other factors ( i.e. , capital equipment, feed, labor). MTI (1998) includes a description of the production technology for fluke in the ocean, but it does not explore substitution possibilities among factor inputs. Analysis of the tradeoffs among these possibilities and their relationship to the problem of competition with commercial fisheries is a topic for future research. 6 It is also conceivable that the cost of fishing will be an increasing function of the space allocated to aquaculture, for example, because of gear conflicts or increased congestion. If this is true, then increases in S would tend to shift the total cost of fishing up at all levels of effort, resulting in a qualitative effect similar to the reduction of effective carrying capacity. In order to focus mainly on the effect of S on the reduction in carrying capacity, we do not model its effect on fishing costs. A more general model has bee n explored by Jin, Hoagland, and Kite-Powell (2003).
+
+The current-value Hamiltonian is: H = B( E, X , S) - C f ( E ) - C a ( S) - I ( z ) +  [ F( X , S) - qEX ] +  z. The marginal conditions for an interior solution include: H E = B E - C f E I z - qX = 0 (13)
+
+(14)
+
+H z  -  = -
+· ·
+
+=-
+
++ =0 B X B S F X
+
+(15)
+
+H X H S
+
+=-
+
+-
+
++  qE F S
+
+(16)
+
+ -  = -
+
+=-
+
++
+
+C a S
+
+-
+
+.
+
+(17)
+
+As an example, we assume that aquaculture will produce the same species as the commercial fishery and that the product is undifferentiated in the market. Take a line a r demand function: P = P0 ­ (hf + ha) , where P0 is the choke price and  is the slope. As a consequence, the benefit function (9) becomes:
+h f + ha
+
+B( E, X , S ) 
+
+
+0
+
+( P0 - )d = P0 h f ( E, X ) + ha ( S ) -
+
+[
+
+]
+
+
+
+[h 2
+
+f
+
+(E , X ) + ha ( S ) . ( 1 8 )
+
+]
+
+2
+
+We specify the cost and investment functions as linear functions: 7 C a = vS I = bz . Equations (14) through (17) become:  = P0 - ( qXE + wS ) - c ( qX ) =b  -  [ - r + qE + 2 rX ( K - S)] + qE[ P0 - ( qXE + wS )] = 0
+·
+
+(19) (20)
+
+(21) (22) (23)
+
+7
+
+Here, we ignore congestion costs or other externalities, suggesting d 2 Ca / dS 2 > 0, or possible scale economies, suggesting d 2Ca /dS 2 < 0.
+
+
+Aquaculture and Wild-Harvest Fisheries  -  + w [P0 - ( qXE + wS )] - v -  rX 2 (K - S )2 = 0.
+·
+
+139
+
+(24)
+
+Assuming that a steady-state equilibrium is feasible, equations (21) through (24), together with equation (3), can be used to solve for X as a function of E. S is a function of both E and X. c (r - qE ) 2 rq(b + v ) c(  + r - qE )[ wr - ( r - qE )2 ] rq(2 qE -  - r)( b + v ) K  - rX ( r - qE ) .
+
+X=
+
+-
+
+(25)
+
+S=
+
+(26)
+
+The solution at steady-state can be determined as follows. 8 First, for any E calculate X using equation (25). Then calculate S using equation (26). Next, calculate  using equation (21), at the steady state, d/dt = 0. Finally, substitute E, X, S, and  into equation (24). The optimal level of effort, E*, is a positive solution to equation (24) when d/dt = 0.
+
+Model Simulation
+In order to examine the interactions between aquaculture and a commercial fishery, we consider a hypothetical case in which aquaculture produces the same species as the commercial fishery. The growout of fluke in floating netpens (on the surface or submerged) has been proposed as a potential aquaculture product along the New England coast. One prototype fluke growout operation has been operating sporadically off the coast of Plum Island, New York, in recent years (Link 2002). 9 Fluke netpen operations can be stocked with juveniles produced at an onshore hatchery or by the wild harvest of juveniles in a nearshore pot fishery. We assume that the cost of juveniles from either source would be a part of the operational costs of the aquaculture operation. The product would be sold in the market for flatfish or, potentially, in the high-end market for sushi. We focus on the former, as the market for the latter is not thought to be large (although it could be quite lucrative). Here, we abstract from the commercial harvest of other species, the important recreational fishery for fluke, and the effects of existing conservation and management measures, among other complications. We borrow estimates of parameters from the literature. The US National Marine Fisheries Service has developed a surplus production model for fluke (SARC 2000).
+
+8
+
+In this problem, we have a system of six equations, (3), (12), and (21) through (24), and six unknown variables, , , E, z, X, and S. The steady-state values for the variables may be solved simultaneously. Because of nonlinearity, the analytical solution involves multiple roots. Depending on the values of coefficients (such as  and v), negative or complex roots must be eliminated in the process. Because the analytical solution is lengthy and does not yield any significant insights, we adopt a numerical procedure that is both relatively simple and gives us more control in searching for interior solutions. 9 Another prototype, focusing on winter flounder ( Pleuronectes americanus) and Atlantic halibut ( Hippoglossus hippoglossus), is under development by the University of New Hampshire off the coast of Isles of Shoals in the Gulf of Maine.
+
+The model suggests an intrinsic growth rate, r, ranging from 0.49 to 1.08 year -1.10 We adopt the lower growth rate as a baseline for simulations. We use an estimate of the catchability, q, of yellowtail flounder (Pleuronectes ferrugineus) of 0.000011 days -1 , obtained from a study of the New England groundfish fishery (Edwards and Murawski 1993). We focus on the fluke fishery in Rhode Island Sound, and we estimate a carrying capacity for fluke of 35 million pounds (17,500 short tons [ST]), which is 15% of the current estimate of biomass capable of producing maximum sustainable yield in the Sound (SARC 2000). 11 We calculate an average price of $1.82 per pound ($3,640 ST -1 ) for summer flounder from recent data on the national value of landings divided by national landi n g s . Use of this price abstracts from regional and seasonal variations in price as well as premiums known to be paid in the market for different grades of fluke. We have been unable to find a published model of the demand for fluke, so we borrow a demand slope parameter, , for yellowtail flounder of $0.017 ST -2 from the Edwards and Murawski (1993) study. We calculate a choke price, P 0, of $3,668 ST -1 for a line a r demand curve using the slope parameter and the point represented by price and the 1999 Rhode Island commercial landings of fluke of 818 ST. The US Mid-Atlant i c Fishery Management Council's fishery management plan for summer flounder, scup , and black sea bass identifies four size classes of trawlers that catch fluke, but m o s t landings are made by the two intermediate size trawler classes (MAFMC 1998 ) . We employ an average estimate of unit fishing costs, c, of $3,300 day -1 for these two classes, based upon unpublished data compiled by the NMFS Northeast Fisheries Science Center (Gautam and Kitts 1996). For the culturing of fluke, the following parameter estimates were obtained from a model developed at the WHOI Marine Policy Center (Kite-Powell et al. 2003 b ) : annual yield, w, is 120 ST acre -1; annual aquaculture production cost, v, is $470,000 acre -1; and the cost of new investment, b, is $90,000 acre -1. Investments in equipment are assumed to have a life of 15 years. Production costs include the costs of maintenance and the purchase of juveniles for growout. If the net benefits from aquaculture exceed those from the commercial fishery, then a regional manager would want to allocate all of the available space to aquaculture (and vice versa). When we run the model with our baseline parameter values, we find that it is optimal to allocate the entire region to aquaculture. We emphasize that this simulation result is an illustration of the model, not an empirical result that might be used to argue for a specific allocation policy. Importantly, significant changes in any one parameter value or a combination of parameter values will produce the result that it is optimal for the entire region to be allocated for a wild harvest fishery. In general, we find that, given the current functional forms and parameter values, the model typically results in a corner solution favoring one of the two uses. In order to examine more closely the nature of the tradeoff between aquaculture and the fishery, we modify some of the baseline parameters so that the model produces an internal steady-state equilibrium. In effect, we consider a case where the coexistence of both uses is the economically optimal outcome. We adjust carrying capacity, K, from 17,500 to 175,000 ST; aquaculture yield, w, from120 to 200 ST acre -1 ; aquaculture production cost, v, from $470,000 to $534,000 acre -1 ; and we contract demand, while keeping the choke price fixed, by increasing  from $0.017 to $0.034 ST -2 . All of these parameter changes seem plausible, except possibly the increase in carrying capacity, which is larger by an order of magnitude. Figure 4 depicts production possibility surfaces in which aquaculture production measured along the ordinate is traded off against fishery landings measured along the abscissa. The points along any surface represent combinations of production possibilities for a fixed set of model parameters. Only one of these points, represented by the dot on each curve, represents the optimal combination of production. The figure shows how the production possibilities change when the parameter , which affects the carrying capacity of the ecosystem for fluke, is varied by 20%. Here , an increase in  from 100 to 120 ST acre -1, representing a more significant negative impact of aquaculture on the carrying capacity, moves the optimal solution to the corner favoring commercial fishing; a decrease to 80 ST acre -1 moves the optim a l solution to the corner favoring aquaculture. We attempt to explain this seemingly counterintuitive result below. when the model is parameterized to yield an interior solution, we can examine the effects of small changes in each of the parameters on the optimal levels of the control, E, and state variables, S and X, in the model. The model exhibits varying degrees of sensitivity to changes in the range of parameters. In order to compare these sensitivities, we represent these changes as elasticities (ratios of percentage changes in the variable of interest to percentage changes in the parameter being varied) in the neighborhood of the initial values (table 2, column 2). These elasticities are summarized in columns 4 through 6 of table 2. Both the direction and size of these changes are of interest. Given the large number of parameters, we discuss only a few of the apparently counterintuitive results here. All three variables are most sensitive to changes in the following three parameters : the unit cost of aquaculture, v; the marginal productivity of aquaculture, w; and the choke price, P 0. Interestingly, when the unit cost of aquaculture, v, is increased , instead of making aquaculture less competitive with commercial fishing, the model selects a new optimum in which more acreage is allocated for aquaculture and less effort is devoted to commercial fishing. T o gain some insight into why this happens, we consider the relationship between the dynamic marginal cost of aquaculture with respect to fish yield, MC a, and the dynamic marginal costs of fishing with respect to yield, MC f , at the steady state. Define the marginal benefits of supplying the market from both sources as MB = P 0 ­ (qEX + wS). In our problem, a regional manager maximizes the benefits o f fish production from both (either) the wild harvest fishery and (or) aquaculture. A s shown in figure 5, this is the area below the demand curve and above the supply (i.e. , marginal cost) curve(s). When MC a < MC f is always true over the entire range o f aquaculture production levels (MC a is always below MC f in figure 5), we have a corner solution in which the entire market is supplied by aquaculture. In contrast, when MC a > MC f is always true, the fishing industry is the sole supplier. I n an interior solution (see figure 5), the wild harvest fishery is more competit i v e than aquaculture (MC f < MC a) within a certain range of production (hf ) , and when market demand is greater than h f , aquaculture becomes less costly (MC f > MC a) . In this case, the rest of the market is supplied by aquaculture (ha). Thus, the market-clearing quantity is hf + ha and the price is MB. In other words, at market equilibrium the marginal cost of production from either activity must equal MB ( = MC a = MC f ). Using equations (24) and (23), we derive the following expressions for MC a and MC f, respectively. 12
+
+For comparison, in their study of the New England groundfish fishery, Edwards and Murawski (1993) employ an intrinsic growth rate of 0.23 for yellowtail flounder, a related species. The NMFS surplus production model is still under development, and it has not been utilized to manage the fishery to date. 11 Fifteen percent is the average annual harvest share for Rhode Island during 1980­92 (MAFMC 1998).
+
+
+Figure 4. Production Possibility Surfaces
+These surfaces illustrate the tradeoffs between aquaculture and the wild harvest fishery as the interact i o n term  is varied by ± 20% from a baseline interior solution (the black dot on the heavy middle curve),  = 0.10. Black dots represent points of optimality. Units are expressed in thousands of short tons (ST). Parameters are discussed in the text.
+
+
+Table 2 Elasticities of Model Variables
+Initial Values P0 v w  r  b  c q K 3,640 534 0.200 0.100 0.490 0.070 90 0.034 3.300 0.000011 175 Units $ ST ­1 $ x10 3 AC­1 STx10 3 AC­1 ST x10 3 AC­1 time ­1 $ x10 3 AC­1 $ x10 ­3 ST ­2 $ x10 3 day ­1 day ­1 ST x103 E 307.61 ­300.85 267.61 25.35 13.96 6.90 ­3.49 ­2.87 ­1.86 1.08 ­0.99 X 7.37 ­7.99 7.40 0.60 0.30 0.15 ­0.10 ­0.07 0.96 ­1.00 ­0.02 S ­31.54 37.02 ­31.20 ­3.81 ­2.68 ­0.73 0.47 0.35 ­1.83 1.91 3.15
+
+We substitute for  using equation (21) and  using equation (22). Then we solve both (23) and (24) for MB.
+12
+
+Figure 5. Marginal Costs of Fishing (MC f), Marginal Costs of Aquaculture (MC a), and Demand
+Note: Total fish production equals the sum of supplies from both the wild fishery, h f, and aquaculture, h a. A regional manager's objective is to maximize net surpluses, represented b y the area ABCP 0. When aquaculture is more productive than the ocean per unit area, MC a will decline with increases in area, S. Under certain types of parameter changes, such as an increase in the unit cost of aquaculture, v, an efficient outcome requires that more ocean space be allocated to aquaculture. Although MC a will shift up with a higher v, MC f also shifts up to a relatively greater extent, so that the distance BC ( = h a = wS) gets larger. Note that net surpluses will always decline with an increase in v.
+
+MCa =
+
+b + v + mc f F w+ S
+
+F S
+
+(27)
+
+MC f
+
+    qE  = mc f 1 + F (S )  ,  -  X   
+
+(28)
+
+where we define mc f = c/(qX) to be the marginal cost of fishing with respect to yield, hf, for the current period. 13 N o t e that in a static model, the marginal cost of aquaculture would be v/w. In either the static or dynamic case, MC a increases as the unit cost of aquaculture, v, is raised . Equation (27) illustrates that in a dynamic model, the interactions between fishing and aquaculture and the effects of discounting also affect MC a. An interesting question is how MC a might be affected by S. Differentiating MC a with respect to S and noting that w > ­F/S,14 we find that: dMC a dS ­ cr 2 X F   q( K ­ S )  w + S   
+3
+
+=
+13
+
+Because h f = qEX, we can write the total cost of fishing as cE = c[h f/( qX )].
+
+
+< 0.
+
+(29)
+
+Thus, the dynamic marginal cost of aquaculture is reduced through an expansion of S. Next , we consider the dynamic marginal cost of fishing (MC f) . Equation (28) s h o w s the effects of discounting and stock growth in a dynamic model. Note that equation (28) is identical to the marginal condition of a model that focuses only on a commercial fishery, except that here the growth function (F) is affected by S. In our formulation of the problem, an expansion of S always results in an increase in MC f (dMC f /dS > 0). Thus, the market equilibrium is a result of the interaction between the two opposing effects (i.e. , dMC a /dS < 0 and dMC f /dS > 0). W e use these insights to explain why, when v is increased, the optimal allocation of space requires an expansion of aquaculture. We know that MC a increases as v is raised. However, we can lower MC a by allocating more area to aquaculture. Further, MC f increases with an expanding S, until it just meets the decreasing MC a (i.e. , the gain from lowering MC a just offsets the loss from rising MC f). The new equilibr i u m occurs where more space is allocated to aquaculture, even though unit cost is larger. Of course, the net benefit must be lower with a higher v.
+
+Conclusions
+A wide variety of potential interactions may arise between aquaculture and commercial fisheries. Depending upon the species and technologies involved, these interactions may be competitive or complementary. As an example of the latter, Hickman (1996) describes the merger of technologies from a wild harvest fishery and aquaculture to undertake spat collecting, growout, seabed seeding, and dredge harvesting in the New Zealand southern sea scallop fishery. More frequently, however , the two uses are competitive; and user conflicts could grow as aquaculture is increasingly looked to as a source of supply of seafood protein. We develop a framework for improving our understanding about these interactions. Our hope is that with this improved understanding, we may be able to manage fishery resources more efficiently and mitigate potential user conflicts. We show first that the commercial fishery's equilibrium stock size declines as more ocean space is devoted to aquaculture. When the fishery is open access, it may be optimal for aquaculture to displace the fishery -- even when aquaculture is producing a different species. This result depends upon the size of consumer surpluses for the products of the two uses and the fact that rents are dissipated in the open access fishery. Under the right conditions, the entry of aquaculture also could force wild harvest fishermen to exit the fishery, implying that there may be considerable political opposition to aquaculture in an established fishery -- even if it is managed for maximum economic yield. We consider the nature of the tradeoff between a rights-based fishery with rights to quota and aquaculture with rights to geographic space . Where the fishery has pre-eminent rights, the relationship between the value of quota and the effective carrying capacity, which may vary with the scale of aquaculture development, defines a minimum compensation schedule for quota holders -- assuming that the fish stock is uniformly distributed over the fishery. We develop a framework to analyze the tradeoffs between a wild harvest fishery and aquaculture occurring in the same region (defined by the fishery) and selling into the same market. In the framework, aquaculture affects the fishery's carrying capacity and supplies a portion of the market. The framework can be used to identify the economically optimal scale of both aquaculture and a commercial fishery. Our results suggest that when aquaculture exerts a significant negative impact on the fishery , the economic optimum often is associated with a corner solution of the model (i.e. , the region should be allocated exclusively for either aquaculture or commercial fishing), and the coexistence of the two uses is suboptimal. Using baseline parameters for a hypothetical case involving fluke in Rhode Island Sound, we were unable to find a superior equilibrium solution involving the coexistence of both uses . In general, if the net benefits from aquaculture exceed those from commercial fishing , then it is economically optimal to replace the fishery with aquaculture (and vice versa). We note that economically optimal adjustments along the path to equilibriumor, what is even more likely, political accomodations could well lead to a situation where both uses coexist. Further, we have abstracted from the real world where other uses, including nonmarket uses such as recreational fishing and ecosystem conservation, should enter into allocation decisions. With modified parameter values, we examine internal steady-state solutions to consider what happens when both uses coexist. The framework shows that the optim a l values of the control and state variables are most sensitive to the choke price and to both the unit cost and marginal productivity of aquaculture. We find, counterintuitively, that the optimal scale of aquaculture expands (and optimal commercial fishing effort contracts) when the unit cost of aquaculture increases or when the marginal productivity of aquaculture decreases. This result is due to the interaction between the dynamic marginal costs of aquaculture and those associated with the wild harvest fishery. An important question for future research concerns the generalizability of this result to real-world examples of aquaculture-fishery interactions.
+
+
+14
+
+This condition can be interpreted as requiring that the marginal increase in productivity of aquaculture with respect to S must exceed the marginal loss in productivity for the wild fishery when more space is allocated for aquaculture. Also, in analyzing dMC a/ dS , we consider E to be exogenous.
+
+
+References
+Anderson , J.L. 1985a. Private Aquaculture and Commercial Fisheries: Bioeconomics of Salmon Ranching. Journal of Environmental Economics and Management 12:353­70. _ . 1985b. Market Interactions Between Aquaculture and the Common-Property Commercial Fishery. Marine Resource Economics 2(1):1­24. Anderson , J.L., and J.E. Wilen. 1986. Implications of Private Salmon Aquaculture o n Prices, Production, and Management of Salmon Resources. American Journal of Agricultural Economics 68:866­79. Arnason, R. 1992. Optimal Feeding Schedules and Harvesting Time in Aquaculture. Marine Resource Economics 7(1):15­35. Charbonnier, D., and J.F. Caddy, eds. 1986. Report of the Technical Consultation of the General Fisheries Council for the Mediterranean on the Methods of Evaluating Small-Scale Fisheries in the Western Mediterranean, FAO Fish. Rep. No. 362. Rome: United Nations Food and Agricultural Organization. Clark , C.W. 1990. Mathematical Bioeconomics, 2 nd edition. New York: John Wiley & Sons. Doksroed, T. 1996. Short History of Coastal Zone Planning in Norway, with Emphas i s on the Municipality of Vega. Reconciling Pressures on the Coastal Zone: Fisheries and Aquaculture, pp. 35­40. Paris: Organisation for Economic Co-operation and Development. dwards , S.F., and S.A. Murawski. 1993. Potential Economic Benefits from Efficient Harvest of New England Groundfish. North American Journal of Fisheries Management 13:437­49. Engle , C.R., and P-J. Kouka. 1995. Potential Consumer Acceptance of Canned Bighead Carp: A Structural Model Analysis. Marine Resource Economics 10(2):101­16. Ferlin , P. 1986. Conflits et Complementarités Entre les Pêches Cotiérès et l'Aquaculture. Report of the Technical Consultation of the General Fisheries Council for the Mediterranean on the Methods of Evaluating Small-Scale Fisheries in the Western Mediterranean, FAO Fish. Rep. No. 362, D. Charbonnier and J.F. Caddy, eds., pp. 145­47. Rome: United Nations Food and Agricultural Organization. Gautam , A.B., and A.W. Kitts. 1996. Data Description and Statistical Summary of the 1983­92 Cost-Earnings Data Base for Northeast U.S. Commercial Fishing Vessels: A Guide to Understanding and Use of the Data Base , NOAA Tech. Memo . F/NE-112. Woods Hole, MA: Northeast Fisheries Science Center, National Marine Fisheries Service. Goldburg , R.J., M.S. Elliott, and R.L. Naylor. 2001. Marine Aquaculture in the United States. Arlington, VA: Pew Oceans Commission. Green , T.G., and J.R. Kahn. 1997. The Myth of Sustainability in Managed Wild Fisheries ; The Economic Case for Aquaculture Subsidies. Developing and Sustaining World Fisheries Resources: The State of Science and Management, D.A. Hancock , D.C. Smith, A. Grant, and J.P. Buemer, eds., pp. 437­42. Brisbane: Commonwealth Scientific and Industrial Research Organisation. Grey , S.J. 2002. Aquaculture -- Why Another Moratorium? Mimeo. Nelson, NZ: M.S. Sullivan & Associates. Grey , S.J., and M.S. Sullivan. 2003. Conflict for Space Between Aquaculture and Fishing -- The New Zealand Experience. Open-Ocean Aquaculture: From Research to Reality , C. Bridger and B. Costa-Pierce, eds., forthcoming. Charleston, SC: World Aquaculture Society. Hickman, R.W. 1996. The Fisheries-Aquaculture Relationship in New Zealand: Is It Competitive or Complementary? Developing and Sustaining World Fisheries Resources: The State of Science and Management, D.A. Hancock, D.C. Smith, A . Grant, and J.P. Buemer, eds., pp. 451­54. Brisbane: Commonwealth Scientific and Industrial Research Organisation. Jin , D., P. Hoagland, and H.L. Kite-Powell. 2003. A Model of the Optimal Scale of Open-ocean Aquaculture. Open-Ocean Aquaculture: From Research to Reality, C . Bridger and B. Costa-Pierce, eds., forthcoming. Charleston, SC: World Aquaculture Society. Jordana i de Simon, R. 1999. Aquaculture Planning and Local Fisheries; The Case of Catalonia, Spain. Cahiers Options Méditerranéennes 43:55­9.Karp , L., A. Sadeh, and W.L. Griffin. 1986. Cycles in Agricultural Production: The Case of Aquaculture. American Journal of Agricultural Economics 68:553­61. Kazmierczak, R.F., and R.H. Caffey. 1995. Management Ability and the Economics of Recirculating Aquaculture Production Systems. Marine Resource Economics 10:187­209. Kite-Powell, H.L., P. Hoagland, D. Jin, and K. Murray. 2003a. Economics of Open Ocean Growout of Shellfish in New England: Sea Scallops and Blue Mussels. Open-Ocean Aquaculture: From Research to Reality, C. Bridger and B. CostaPierce, eds., forthcoming. Charleston, SC: World Aquaculture Society. _ . 2003b. Open Ocean Growout of Finfish in New England: A Bioeconomic Model. Open-Ocean Aquaculture: From Research to Reality, C. Bridger and B. Costa-Pierce, eds., forthcoming. Charleston, SC: World Aquaculture Society. Kouka , P-J. 1995. An Empirical Model of Pricing in the Catfish Industry. Marine Resource Economics 10(2):161­69. Link, R. 2002. Personal communication. Bohemia, NY: The Aquagroup. Mariculture Technologies Incorporated (MTI). 1998. Environmental Assessment and Proposed Permit Amendment Relating to Ocean Net Pen Culture Operations for the Production of Summer Flounder (Paralicthys dentatus ) , pp. 7­27. Greenport, NY. McVey, J.P. 2001. Maximizing Value to Coastal Communities Through Fisheries and Aquaculture. Marine Aquaculture and the Environment: A Meeting for Stakeholders in the Northeast, M. Tlusty, D. Bengston, H.O. Halvorsen, S. Oktay, J. Pearce, and R.B. Rheault, eds., pp. 244­48. Falmouth, MA: Cape Cod Press. Mid - Atlantic Fishery Management Council (MAFMC). 1998. Amendment 12 to the Summer Flounder, Scup, and Black Sea Bass Fishery Management Plan. Dover, DE. Mullen, A.J. 1989. Aggregation of Fish Through Variable Diffusivity. Fishery Bulletin 87:353­62. Murai, T. 1992 Aquaculture Conflicts in Japan. World Aquaculture 23:31. Steins, N.A. 1997. The "Black Box" in Collective Action Research: Incentives from Outside the Management System (A Case Study of an Irish Aquaculture Cooperative ) . Wkg. Pap. in Coastal Zone Management No. 22. Portsmouth, UK: Centre for Coastal Zone Management, University of Portsmouth. Stock Assessment Review Committee (SARC). 2000. 31st Northeast Regional Stock Assessment Workshop (31st SAW), NEFSC Ref. Doc. 00-15, pp. 320­23. Woods Hole , MA: Northeast Fisheries Science Center, National Marine Fisheries Service. Sylvia , G., J.L. Anderson, and D. Cai. 1996. A Multilevel, Multiobjective Policy Model: The Case of Marine Aquaculture Development. American Journal of Agricultural Economics 78(1):79­88. Westport Scalloping Corporation (WSC). 1998. Sea Scallop Enhancement and Sustainable Harvesting: The Seastead Project, Final Rep. for NOAA Award No. NA66FD0027. North Falmouth, MA: Coonamessett Farm.

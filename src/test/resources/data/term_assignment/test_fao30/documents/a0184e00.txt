@@ -1,0 +1,1001 @@
+FAO Fisheries Circular No. 1012
+
+FIRM/C1012 (En)
+ISSN 0429-9329
+
+MANUAL FOR THE MONITORING AND MANAGEMENT OF QUEEN CONCH
+
+Copies of FAO publications can be requested from: Sales and Marketing Group Information Division FAO Viale delle Terme di Caracalla 00100 Rome, Italy E-mail: publications-sales@fao.org Fax: (+39) 06 57053360
+
+FAO Fisheries Circular No. 1012
+
+FIRM/C1012 (En)
+
+MANUAL FOR THE MONITORING AND MANAGEMENT OF QUEEN CONCH
+
+by Paul Medley Consultant Alne, North Yorkshire United Kingdom of Great Britain and Northern Ireland
+
+FOOD AND AGRICULTURE ORGANIZATION OF THE UNITED NATIONS Rome, 2005
+
+The designations employed and the presentation of material in this information product do not imply the expression of any opinion whatsoever on the part of the Food and Agriculture Organization of the United Nations concerning the legal or development status of any country, territory, city or area or of its authorities, or concerning the delimitation of its frontiers or boundaries.
+
+All rights reserved. Reproduction and dissemination of material in this information product for educational or other non-commercial purposes are authorized without any prior written permission from the copyright holders provided the source is fully acknowledged. Reproduction of material in this information product for resale or other commercial purposes is prohibited without written permission of the copyright holders. Applications for such permission should be addressed to the Chief, Publishing Management Service, Information Division, FAO, Viale delle Terme di Caracalla, 00100 Rome, Italy or by e-mail to copyright@fao.org © FAO 2005
+
+PREPARATION OF THIS DOCUMENT This document was prepared for FAO by Dr Paul Medley with funding from the FAO Regular Programme and the FAO FishCode Programme with Trust Fund support from the Government of Norway. In the course of preparing the manual, Dr Medley consulted with scientists and officials from the relevant government departments and other scientific experts on queen conch in the region. He expresses his particular thanks to Kevern Cochrane, Richard Appeldoorn, Miguel Rolón, Graciela García-Moliner, Andre Kong, Karl Aiken, Vincent Gillette and Mauro Gongora who have provided many useful comments and help for this document. Grateful thanks also go to the staff of the Caribbean Regional Fisheries Mechanism Secretariat, Jamaica Fisheries Division, Belize Fisheries Department and the International Queen Conch Initiative, coordinated by the Caribbean Fishery Management Council for help and support in the production of the manual. The watercolour painting on the front cover was done by Lesley Ninnes.
+
+iii
+
+Medley, P. Manual for the monitoring and management of queen conch. FAO Fisheries Circular. No. 1012. Rome, FAO. 2005. 58p.
+
+ABSTRACT The Caribbean queen conch Strombus gigas is listed on Appendix II of the Convention on International Trade in Endangered Species of Wild Fauna and Flora (CITES). A listing on Appendix II requires that any specimen of the species included in Appendix II can only be exported if a permit has been issued to allow the export. Further, CITES states that export permits should only be issued when the responsible authority has deemed that the export will not be detrimental to the survival of that species. This manual presents guidelines on the requirements for responsible management of the fisheries exploiting queen conch, with particular emphasis on the requirements to comply with the relevant CITES regulations. The manual describes the basic fisheries management cycle which includes: development and interpretation of policy; the need for management controls to regulate fishing activities; data collection and analysis; decision-making; enforcement of and compliance with the management controls; and regular feedback and review of the management system. It provides general guidance on each of those steps for the queen conch fisheries of the Caribbean. It also provides two case studies of management systems currently being applied: the Turks and Caicos Islands and Jamaica. Sections 2 to 6 (Part 1) cover the main issues and examples in a relatively non-technical manner and Sections 7 to 16 (Part 2) cover similar issues in a more technical manner.
+
+iv
+
+CONTENTS Page INTRODUCTION PART 1: NON-TECHNICAL 1. THE CONVENTION OF INTERNATIONAL TRADE IN ENDANGERED SPECIES OF WILD FLORA AND FAUNA (CITES) AND THE FAO CODE OF CONDUCT FOR RESPONSIBLE FISHERIES (CCRF) FISHERY BIOLOGY THE FISHERIES MANAGEMENT CYCLE 3.1 Policy 3.2 Controls 3.3 Data collection 3.4 Data analysis 3.5 Decision-making 3.6 Enforcement and compliance 3.7 Feedback and review EXAMPLE MANAGEMENT SYSTEMS 4.1 Turks and Caicos Islands 4.2 Policy 4.3 Controls 4.4 Data collection 4.5 Data analysis 4.6 Decision-making 4.7 Enforcemement and compliance 4.8 Feedback and review JAMAICA 5.1 Background 5.2 Policy 5.3 Controls 5.4 Data collection 5.5 Data analysis 5.6 Decision-making 5.7 Feedback and review MANAGEMENT CHECKLIST 1 3
+
+3 4 4 5 5 5 6 6 7 7 8 8 8 8 9 9 9 9 10 10 10 10 10 11 11 11 11 12 14 14 15 15 16
+
+2. 3.
+
+4.
+
+5.
+
+6.
+
+PART 2: TECHNICAL 7 8. SUMMARY SPECIFIC RECOMMENDATIONS 8.1 Management objectives 8.2 Initial data collection v
+
+8.3 8.4 8.5 8.6 8.7 8.8 9.
+
+Long-term data collection and monitoring Assessments linking data to indicators Initiating management advice Management control Monitoring Long-term research
+
+16 16 17 17 17 17 17 17 18 19 22 24 24 25 25 26 28 28 29 29 30 30 30 33 36 36 36 36 37 37 37 38 38 38 38 39 39 39 39 40 40
+
+GENERAL APPROACH 9.1 Stock identification and management units 9.2 From policy to data collection 9.3 Logical framework 9.4 Standard indicators and reference points 9.5 Empirical or non-parametric indicators 9.6 Probalistic indicators
+
+10. DATA COLLECTION 10.1 Introduction 10.2 Catch and effort 10.3 Catch size frequency sampling 10.4 Fishery independent surveys 10.5 Tagging 10.6 Other information 11. ASSESSMENTS LINKING DATA TO INDICATORS 11.1 Introduction 11.2 Biomass dynamics assessment 11.3 Per-recruit assessment 11.4 Other assessments 12. LONG-TERM POPULATION MONITORING 12.1 Population assessments 12.2 Standardized minimum meat weight 13. CONTROLS AND MONITORING 13.1 Introduction 13.2 Fleet capacity and effort 13.3 Catch quotas 13.4 Minimum size and maturity 13.5 Closed area 13.6 Closed season 13.7 Taxation 14. OTHER ISSUES 15. ADAPTIVE MANAGEMENT 15.1 Management cycle 15.2 Verification and transparency 16. POTENTIAL REGIONAL MANAGEMENT REGIME
+
+vi
+
+17. REFERENCES APPENDIXES I II III Fishery checklist Interpreting mean meat weight Participatory fisheries stock assessment (ParFish)
+
+41 43 51 56
+
+vii
+
+INTRODUCTION CITES (Convention on International Trade in Endangered Species of Wild Fauna and Flora) is concerned with preventing conch from becoming an endangered species. Governments which have a conch resource are concerned with the sustainable development of their fisheries. However, CITES and Government policy should have considerable common ground. Managing a fishery to maximize sustainable economic benefits and protect the ecosystem is compatible. This indicates that good management practice should meet CITES requirements as well as improve economic returns from these fisheries. The main issue should not be what fisheries are setting out to achieve, but whether these objectives can be met with available technical and logistical resources. Achieving optimal sustainable economic returns from a fishery is far from simple, mainly due to the lack of the necessary information to define where the optimum is and how to get there. To define the optimum and then enforce the conditions to ensure this is reached requires considerable scientific and management expertise and resources. However, once set up, monitoring and maintaining the fishery should be simple and well within the capability of most Governments. Good management requires political choices, which is why emphasis is placed here on easier communication, by reducing complex fisheries to a set of simpler performance indicators, and planning ahead. Planning ahead means gaining agreement on appropriate actions before they need to be applied. Prior agreements not only allow Government to plan ahead, but industry too. This should lead to smoother changes and greater stability in the long term. This manual is focused on Caribbean queen conch Strombus gigas and the requirements for responsible management of the fisheries exploiting this important resource, with particular emphasis on the requirements to comply with CITES regulations and requirements for the Appendix II listing. It presents guidelines only. The large differences between fisheries make it impossible to prescribe exactly what must be done in all fisheries. However, it is possible to make two general requirements that will need to be met by any conch fishery. · The processing and catching capacity needs to be on the same scale as the productivity of the resource. Where there is over-capacity, political and economic pressures will often lead to short-term planning aimed at meeting immediate demands of the processing and catching capacity, which in turn will lead to overfishing. A stock assessment should provide advice on the appropriate capacity. It should be possible to show that the policy and the fishery management system are effective. For this, you have to monitor the resource state and the fishery. When a control is applied, you need to be able to demonstrate that the control affects the monitoring variables in the manner expected. For example, if the average vessel catch rate is used to monitor stock size, when you apply a control, such as reducing the number of vessels allowed fish so as to increase stock size, you need to see a corresponding increase in catch rate. This implies that the control has increased the stock as intended. Similarly, it should be possible to show that a stock increases once a "no-take zone" has been established. There are many reasons why controls may be ineffective. If you do not have effective controls, you are not managing the fishery and not meeting CITES requirements.
+
+·
+
+The level of management, control and monitoring needs to be appropriate for the size of the fishery. There is often concern that the management required will be too expensive. It need not be, and should not be, expensive relative to the size of the fishery. Importantly, the more certain 1
+
+you wish to be as to the state of the fishery, and you will need to be certain if you wish to exploit the resource at close to the maximum level, the better information and enforcement will be required, and the higher the cost of management. Lower management costs generally mean lower levels of exploitation, but should not prevent you from exploiting the resource efficiently and optimally. There are two ways to deal with uncertainty. The first, and perhaps most important, is to obtain more and better information about your fishery. The second is to keep fishing pressure low. This decreases the chance of overfishing even if you are uncertain exactly when overfishing will occur. It is quite possible, where a management regime is not well developed, that you will start with little information on which to base decisions. It is reasonable to develop a programme which will bring the management system up to the required standard without closing the fishery. To meet international standards, however, the development would need to follow a predetermined time table. Sections 2 to 6 (Part 1) cover the main issues and examples in a relatively non-technical manner. This Part is suitable for decision-makers and persons not familiar with fisheries methods. Sections 7 to 16 (Part 2) cover similar issues in a more technical manner. Further information on fisheries management in general can be obtained from the publications listed at the end of this manual. These include the FAO Technical Guidelines for Responsible Fisheries No. 4 ­ Fisheries management (FAO, 1997); the FAO Technical Guidelines for Responsible Fisheries No. 4.2 ­ Fisheries management: the ecosystem approach to fisheries (FAO, 2003); the FAO Fisheries Technical Paper No. 424 - A fishery manager's guidebook (Cochrane, 2002); and the book "Managing small-scale fisheries" by Berkes et al. (2001).
+
+2
+
+PART 1: NON-TECHNICAL
+1.
+
+THE CONVENTION FOR INTERNATIONAL TRADE IN ENDANGERED SPECIES OF WILD FAUNA AND FLORA (CITES) AND THE FAO CODE OF CONDUCT FOR RESPONSIBLE FISHERIES (CCRF)
+
+The Convention for the International Trade in Endangered Species (CITES) is an agreement to control the exports and imports of species listed in its appendices. Most importers, such as the European Union and United States of America are bound by the agreement. Conch is listed under Appendix II. The most relevant part of the convention for conch is: "2. The export of any specimen of a species included in Appendix II shall require the prior grant and presentation of an export permit. An export permit shall only be granted when the following conditions have been met: (a) a Scientific Authority of the State of export has advised that such export will not be detrimental to the survival of that species; ...", and "3. ...[Appendix II species exports] should be limited in order to maintain that species throughout its range at a level consistent with its role in the ecosystems in which it occurs and well above the level at which that species might become eligible for inclusion in Appendix I." Appendix I listed species are banned from international trade. If conch were listed under Appendix I, the export trade in conch would essentially cease. The central aim of fishery management is to prevent overfishing. The FAO Code of Conduct sets out the principles which need to be applied to achieve this. We can reinterpret CITES convention in the terms of the Code of Conduct. While the Code covers considerably more issues than CITES, CITES requirements fall well within its scope. In fact, perhaps the most important aim of good fisheries management is to maintain the abundance of the stock above the state where it would be considered depleted or have a negative impact on the ecosystem. This should be, as a minimum, above the endangered state where the species would be moved from Appendix II to Appendix I. Ideally, good management of queen conch fisheries across the region, and in accordance with the Code of Conduct, should result in the restoration of the stocks to a state where queen conch no longer meets the criteria for listing on Appendix II and could be delisted. So, if we apply good management as defined under the Code of Conduct, CITES conditions are met, the productivity of the resource is maintained and, its function in the ecosystem is not impaired. However, we still need to define "overfished" and "overfishing". The decision to decide that a fishery is overfished needs to be based on more than "expert opinion". It needs to have a sound basis in science, which depends on data collection and research. It is also critical that a fishery can be clearly seen to be not overfished by people not involved in the fishery.
+
+3
+
+2.
+
+FISHERY BIOLOGY
+
+Fish stocks have much in common with other exploited living resources, such as goats. Managing fisheries is like managing a goat herd where you must maintain the herd with its own offspring. If you sell too many female goats1, you will not be able to produce enough young goats in future years to support the herd's productivity and eventually you will have to reduce the number sold. Conversely, if you allow the goat population to increase, they will consume all the available grass and forage and will become thinner, produce fewer kids and will be more likely to die from disease until the herd balances out with births and deaths, reaching its "carrying capacity". Usually farmers like to maintain the herd at its optimum size, the size when its productivity is at its maximum, the "maximum sustainable yield". If you replace "goats" with "conch", you have a description of conch fisheries management. However, there are two important differences between farming and fishing. · You will be uncertain exactly how many conches remain in the sea. Whereas a farmer can count his stock, you can only make an estimate of how many conches you have remaining to ensure the stock can replenish it. To ensure the estimate is as good as possible, and to make it acceptable to all parties (including CITES), you must use good statistical and scientific methods. The stock is held in common with all fishers2. Where, as sole owner, a farmer can take decisions in his own best long-term interest, fishers can not unless they cooperate. If fishers believe that any conch they leave will be taken by others, from their point of view there is no benefit in leaving enough conch in the sea to replenish the stock. Under such conditions, they are therefore encouraged to take as much as they can before the stock is depleted by others. It is management's task to create the circumstance where it is in fishers' best long-term interest to cooperate. This will require setting up a suitable system of access rights, effort control or both as well as an effective management system. A part of that management system must be to ensure the regulations are obeyed because illegal fishing (poaching) may not only directly cause overfishing, but may also undermine the degree to which fishers will cooperate with management.
+
+·
+
+3.
+
+THE FISHERIES MANAGEMENT CYCLE
+
+Fisheries management, like driving a car, should be a "feedback control system". Driving a car consists of the controls (accelerator, brakes, gears, and steering wheel) and monitoring (the driver's eyes and ears). When you are driving you are constantly monitoring the progress and position of your car and taking appropriate action by slowing down, speeding up or changing the direction in which the car is moving. Few people drive without moving the steering wheel or with their eyes shut. Fisheries management also needs controls. In the case of queen conch fisheries, controls are usually in the form of effort limits, catch quotas, minimum size and closed areas; and eyes and ears in the form of a monitoring programme. The monitoring programme should do more than simply report on the state of the fishery. It also needs to measure the effectiveness of controls, to make sure that they are working and help decision-makers ensure that they are implementing the policy correctly.
+1
+
+One male goat can fertilize many females. It is the number of females which control the herd's productivity and growth. 2 Also known as the tragedy of the commons: co-management and individual transferable quotas are fisheries management techniques that try to recreate a sense of sole ownership of the resource.
+
+4
+
+3.1
+
+Policy
+
+Policies set out the principles on which decisions are made. Most policies usually state that a fishery should be exploited optimally and sustainably. Policies should also state that the precautionary approach be applied in making decisions, if the policy is to be consistent with the Code of Conduct. It is necessary to interpret "optimal", "sustainable" and "precautionary". This is usually done by agreeing what indicators and reference points will be used. Indicators should be straightforward to calculate, reliable and easy to understand. Reference points may require more sophisticated analysis to define, but should be based on simple, agreed principles. Reference points generally define conditions in the fishery when some management action will be taken. The "precautionary approach3" can be particularly difficult to interpret. Generally, decisionmakers should avoid unnecessary risks and irreversible actions, and support research and data collection which will reduce uncertainty.
+
+3.2
+
+Controls
+
+Legislation should allow the means to control the exploitation rate of the resource and various other protective measures which reduce the chance of overfishing. It is best to use a variety of controls and not just depend upon one. Controls should always include some limit on fishing effort, or, at the very least, a limit on fishing capacity. Fishing effort is the work done by fishers to catch fish (days fishing, amount of gear set etc.). Fishing capacity is the maximum limit on what effort (work) could be applied in the short-term in a particular fishery. For example, capacity could be the number of vessels available for fishing. The limit on effort (i.e. capacity) would be reached if all these vessels fished all the time that they possible could. Effort controls might force days fishing to be reduced below this limit: vessels could be laid up, for example, or limited in how many days of the week they are allowed to fish. However, the capital cost of the vessels (e.g. interest on loans used to purchase the vessels) strongly encourages their maximum use. Therefore trying to maintain effort far below the potential fishing capacity becomes very difficult to enforce and represents a significant cost to both industry and management.
+
+3.3
+
+Data collection
+
+Data will be needed to monitor the fishery. Data must be collected for objective assessment of the state of the fishery and is necessary for rational, informed decision-making. An efficient and effective data collection system will also be necessary to convince outside observers that the fishery is meeting international standards. Data are best collected from critical monitoring and control points during catching and processing, which will vary from fishery to fishery. Identifying these critical points forms an important part of an effective management system. Critical points can be identified as being
+
+3
+
+For a full discussion, see FAO. Precautionary approach to capture fisheries and species introductions. Elaborated by the Technical Consultation on the Precautionary Approach to Capture Fisheries (Including Species Introductions). Lysekil, Sweden, 6-13 June 1995. FAO Technical Guidelines for Responsible Fisheries. No. 2. FAO. Rome. 1996. 54p.
+
+5
+
+"bottle-necks" in the fishery, where costs of monitoring are low and monitoring can be enforced. Such critical points are often at points of landing and export. Low cost approaches fit the data collection system to the fishing industry practices. For example, it is natural for processors to provide purchase receipts to fishers, and routine data collection can include getting copies of such receipts. Getting copies of such transactions need not be onerous to industry, and accuracy is enforced by the businesses involved. There are four types of monitoring data which can be collected, in order of importance: · · · fishery based indices will monitor the inputs to and outputs from the fishery. Indices usually include catches and fishing effort; abundance based indices will monitor the changes in the population size. A commonly used index is catch-per-unit-effort, but some fisheries are monitored using abundance surveys; biological indices monitor specific aspects of the fish population. An important statistic is the number or weight of females in the population at spawning time. As, in many species, one male should be able to fertilize the eggs of many females, the ability of the population to replenish itself is usually thought to depend on the number of females. However, this also depends on the species, and in the case of queen conch, scientists may decide to assume an equal sex ratio between males and females is desirable; socio-economic and other indices are important to monitor the fishery in relation to policies required to meet economic objectives. The simplest indices would be the price of the product, which multiplied by the landings give the revenue from the fishery. Other indices of interest could include the number of employees (licensed fishers and numbers involved in processing etc.) and costs of the industry.
+
+·
+
+3.4
+
+Data analysis
+
+Raw data need to be interpreted using models of the fishery. Models are just simple versions of how scientists think the fishery behaves and should capture the most important behaviour of the fishery in relation to management decisions. Because models are only approximations of reality, the advice obtained from them needs careful consideration. The analysis should produce simple indices, which indicate how well the fishery is doing. Appropriate indices include average vessel catch rates, fishing mortality and the spawning stock biomass. These can be used to indicate the economic efficiency of the fishery, whether the fishery is sustainable, and whether the stock is overfished.
+
+3.5
+
+Decision-making
+
+The decision-making authority needs to be defined. That is, the people responsible for the decisions need to be clearly identified. Decisions need to be documented and transparent, so that it is clear how and why particular decisions have been made. Decision-making must be consistent with CITES and the Code of Conduct. The easiest way to implement these policies is to apply decision rules. Decision rules are management actions which are planned to be applied in response to key changes in indicators. For example, a simple decision rule could be a 20 percent reduction in quota when catch rates fall below some critical level. The difference between decision rules and any other sort of decision-making is that the rules are 6
+
+planned in advance. They should be simple and transparent, so that their implications to the fishing industry can be discussed before they have to be applied.
+
+3.6
+
+Enforcement and compliance
+
+While decisions can be made easily, ensuring they are carried out can be difficult. Enforcement usually consists of direct methods and auditing methods. Direct methods include patrolling by enforcement vessels and spot checks at landing points by fisheries officers. These methods can be expensive, but at least some direct policing at landing sites is recommended. A complementary method creates audit trails, by using documentation and comparing information obtained at different points during the catch to export process. This is a powerful method to enforce rules and regulations set by decision-makers, and audit-like documentation is increasingly required for international export by many countries and international organisations, like CITES. Enforcing unpopular decisions can be expensive or impossible. Improving the effectiveness of decision-making requires two actions: a) consultation with stakeholders and participation in decision-making makes decisions better as the concerns of stakeholders are taken into account. Also, if stakeholders understand the problems, they may be more ready to accept decisions that result in short-term hardship in exchange for long-term sustainable benefits. Co-management is a term implying fisher (and others) participation in management and encourages much of the decision-making to be devolved to the fishers themselves; b) enforcement is always necessary. Once a few fishers get away with ignoring controls, other law-abiding fishers will see less reason for themselves to follow regulations and controls, and management can break down. Similarly, poaching undermines the management process unless it can be suppressed by enforcement activities. CITES has proved useful in helping countries enforce decisions. However, this is a two-way process, and in return managers have to accept "interference" in policy by stakeholders and the requirement for transparency in decision-making. One complaint against CITES has been the lack of involvement of stakeholders in making CITES policy. CITES is perceived by some as having been thrust upon many Caribbean countries which may make enforcement in some cases more difficult.
+
+3.7
+
+Feedback and review
+
+It is important that decision-making undergoes some sort of feedback, whereby the process can make improvements, adapt to new situations and learn from its mistakes. Feedback should not be obtained only from the management authority, government officials and the like, but should include industry and other stakeholders. Reacting to their concerns and including them in the management process should improve management, making it more cost effective and better enforced. Independent reviews, particularly of the technical parts of the decision-making process (i.e. the science), will add significantly to the credibility of the decisions. It is rarely possible for international institutions to study a fisheries management system in depth. Confidence in the management system can come from independent experts who do have the time and local knowledge to study decisions and satisfy themselves, perhaps through discussion with decision-
+
+7
+
+makers, that the process has met international standards. Local, independent scientists, for example, might be easily recruited from the region's academic institutions.
+
+4.
+
+EXAMPLE MANAGEMENT SYSTEMS
+
+The following general examples follow implementation of some of the ideas in the manual in two fisheries. These examples have been simplified to illustrate the approach. The reality of day-today management needs to consider many details of administration not covered here. One of the aims of these examples is to demonstrate that good management need not be expensive or complex. Fairly simple procedures may be applied and provide adequate management for small scale fisheries, as long as they are well adapted to local conditions.
+
+4.1
+
+Turks and Caicos Islands
+
+4.1.1 Background
+Most fishing occurs on the Caicos Bank, a 6 140 km2 area of shallow sand, seagrass, algae and reef habitat suitable for conch. There are approximately 600 registered fishers and 200 vessels exploiting conch, landing around 450 pounds whole meat each fishing day. Vessels are three metres in length and have outboard engines. They depart in the morning and return mid to late afternoon, usually landing at one of the five main processing plants that purchase the conch. Shells are removed and discarded at sea. Conch are cleaned, frozen and packed for export mainly to the United States. Recent quotas for the total landed meat weight were 1 675 million pounds falling to 1.4 million pounds because of concerns over the state of the stock.
+
+4.2
+
+Policy
+
+The Policy is bound by CITES requirements, and the stock is managed so as not to impair the ability of the conch population to replenish itself. This in practice means maintaining the population above 50 percent of its unexploited size. When the population is at 50 percent of its unexploited size, it is presumed to be at the point of maximum sustainable yield. Once below this point, the stock is considered overfished.
+
+4.3
+
+Controls
+
+The fishery is primarily controlled through licensing and an export quota, which is calculated based on a target TAC4. There is also a small area closed to fishing, a closed season to spread the catches more evenly through the year, and fishers are not allowed to use breathing apparatus, but must free dive. The export TAC was set up largely as a result of CITES requirements. The export TAC is controlled both locally and internationally through customs. Most exports go through Miami, USA, where they must be accompanied by a CITES form issued by the Turks and Caicos Government, which indicates the part of the TAC which the export constitutes. Quotas, as parts of the TAC, are allocated to processors.
+
+4
+
+TAC: Total allowable catch
+
+8
+
+The number of licences is limited, but is not controlled by management. While any Turks islander can get a licence, the number of eligible people in the population is small, making the number of full-time licence fishers limited. The processing sector is similarly licensed, although they do not only process conch; they also buy lobster and finfish from fishers.
+
+4.4
+
+Data collection
+
+Data collection for monitoring purposes relies mainly on the processing industry. Every processor must complete forms indicating the daily landings from each vessel. At the end of each month the processor sends the completed form to the fisheries department where the data are entered on to a computer. The data reported by industry are used to calculate the total landed catch, by adding up all the reported daily landings, and the total effort, by counting all the landings that have been made. Each landing reported for a boat represents a day's fishing for a boat, the fishing effort. The Turks and Caicos Islands is unique in that it has a very long time series of data which can be used to help interpret how the resource responds to different levels of fishing.
+
+4.5
+
+Data analysis
+
+A standard fishery model is used to interpret the catch and effort data. By analysing past behaviour of the fishery, it is possible to estimate the abundance of conch relative to the unexploited stock size and estimate the current productivity of the stock. It is necessary to know both to set an appropriate quota.
+
+4.6
+
+Decision-making
+
+Ultimate authority and therefore decisions, rest with the Minister for fisheries. However, the Minister takes advice from a scientific committee and decisions going against this advice would have to be justified. The Scientific Committee assesses evidence based on a stock assessment. The stock assessment mainly assesses the impact of management actions on the catch rate of fishers. Setting a reduced TAC should lead to an increase in queen conch and therefore an increase in the average catch taken on a vessel fishing day. Conversely, higher TACs will decrease the abundance of conch and therefore the catch taken on a day's fishing. The limit reference point, the level that management aims to maintain the catch rate above, is around 450 pounds per day, as this is estimated to be the maximum sustainable yield point. In addition, the scientific committee needs to apply the precautionary approach, so higher catch rates are preferable.
+
+4.7
+
+Enforcement and compliance
+
+Although the TAC is set based on landings, the landings are controlled through export quotas allocated to each processor and not enforced directly. The yield from processing is 40 percent of the TAC. Once the export quotas are met by processors, the fishery is closed and no further landings undertaken. Stockpiling conch for the following season was a problem, but has been discouraged and is not permitted. Other controls are enforced directly by fishery department patrols. In particular, poaching vessels from other states have been caught and prosecuted. However the information required to catch 9
+
+such poachers has usually been based on information from fishers or police surveillance. Regular fishery patrols have proved difficult and costly to maintain.
+
+4.8
+
+Feedback and review
+
+There is no formal review process for the assessments. However, the Scientific Committee is made up of local experts as well as government scientists, so that the advice is independent. Local scientists also take part in regional fisheries workshops where informal reviews can also take place.
+
+5. 5.1
+
+JAMAICA
+Background
+
+The Jamaica conch fishery operates mainly on the Pedro Bank south of Jamaica. Legal landings have recently been in the region of 1 000­1 500 metric tonnes. Vessels are large mother boats each having several catching vessels. The mother vessels work on the Pedro Bank for trips of several weeks. Conch is partially processed and frozen at sea. Divers use both SCUBA and hookah gear due to the water depth.
+
+5.2
+
+Policy
+
+The aim has been to move the fishery from unsustainable to sustainable exploitation. In early years of the fishery, landings were very high and uncontrolled. Rather than change the quota immediately to the lower long term level, a step-wise quota reduction was agreed with industry to give them time to adjust their capacity and fishing activities. The second main concern has been to look at ways to reduce poaching. Illegal fishing is seen as a significant problem. All illegal catches are removed from the total quota, which is based on the biological productivity of the stock, before the remainder can be allocated to the legal fishery. Clearly there is a direct significant advantage to the legal fishery in reducing illegal fishing.
+
+5.3
+
+Controls
+
+The fishery is primarily controlled through licensing and an export quota. The export quota is set by the government Department. Fishers are allowed to use breathing apparatus as the exploited area is in relatively deep water. The number of licences issued and the vessel quota allocation is agreed with the processors, who own the vessels. There is a closed season for conch (1 August­ 30 October) when all catch and trade in conch is prohibited (including importation). Control over the quota has been helped by the monitoring which is necessary for the sanitary standards required for export to Europe and the United States (Hazard Analysis Critical Control Point). Combining monitoring systems has helped implement the conch quota efficiently. Licence allocation is conditional upon meeting various requirements. These are clearly printed on the back of the licence. The conditions are designed to make monitoring and enforcement much easier. Adding them explicitly to the issued licence document ensures fishers are fully aware of their obligations.
+
+10
+
+The main concern has been with poaching. While direct enforcement, through patrol vessels for example, has not been undertaken due to high costs, Jamaica has been able to use the control through trade (i.e. CITES) to apply pressure to reduce illegal fishing.
+
+5.4
+
+Data collection
+
+The stock has been monitored primarily through biomass surveys. These surveys have been conducted by divers swimming fixed distances over the Pedro Bank counting and measuring conch. By conducting a large number of such transects, the total biomass of conch can be estimated. There has been a lack of support of the conch data collection programme by vessel operators. This has prevented developing a catch and effort based programme as used in the Turks and Caicos Islands. Industry has made a significant financial contribution to the conch surveys, however.
+
+5.5
+
+Data analysis
+
+The survey data has been used in three ways. a) The biomass can be monitored directly. Decreases in quota (or illegal fishing) should produce higher estimates of biomass. Conversely increases in quota should decrease the biomass. b) A model has been applied to interpret the survey data and estimate the maximum sustainable yield. This sets the maximum quota that could be allocated. Applying the precautionary approach, and allowing for illegal fishing, has meant that the quota is set below this figure. c) Another way to assess the state of the stock has been to compare two survey areas, one fished at the current average rate and the other not fished (because it is inaccessible or protected). The assumption is that the areas not fished have the same density of conch as the whole area would if unexploited. This assumption needs careful review, but nevertheless such comparisons can give general indications as to the state of the stock.
+
+5.6
+
+Decision-making
+
+The quota has been arranged between Government and industry and is based on scientific advice. Ultimate authority rests with the Minister for Fisheries, although decisions have been made on the advice of the Fisheries Division. The quota is allocated to the different parts of industry through a committee. Industry takes a significant role in management decisions which encourages industry to abide by them.
+
+5.7
+
+Feedback and review
+
+Jamaica has a CITES scientific committee responsible for reviewing CITES issues in Jamaica, of which conch is one concern. The committee, made up of independent scientists and people from institutions interested in conservation, has reviewed both the science and decision-making, and reports directly to CITES on their findings. The reviews have included interviews with government staff.
+
+11
+
+6.
+
+MANAGEMENT CHECKLIST
+
+The following is a simple checklist of the issues that should be considered when managing a conch fishery (see also Appendix I: Fishery checklist). You can check in a particular fishery how well it addresses each criterion. This will help decide what actions might need to be taken to strengthen fishery management. These issues should be covered in the management plan
+
+Checklist The fishery is clearly defined
+
+Comment The fishery and management unit need to be clearly identified. A conch stock as a management unit should be defined relatively easily using depth contours. Adult stocks are not thought to migrate through deep water. The fishery includes fleets, gear and estimated or "best guess" illegal, unregulated and unrecorded fishing (i.e. poaching).
+
+An effective Reliable monitoring indices should be available. Monitoring should monitoring system is include indicators and reference points/decision rules for: in place ­ quantity of conch remaining: Biomass and/or spawning stock index; ­ quantity of conch being caught: Fishing mortality; ­ economic: Revenue, costs and profits from fishing. The effects on the The stock needs to be maintained at a level where it will not adversely ecosystem have been affect the ecosystem. There is very little information available to decide considered what level this should be. Usual definitions of overfishing have to suffice. Other ecosystem effects could include indirect damage to habitat and environment by the fishery, although they are likely to be minor. Habitat damage from gears, discarded shells and disposal of conch processing waste are the main potential problems that need to be considered. Uncertainty has been characterized Uncertainty needs to be taken into account in decision-making. Decisionmakers need to apply the precautionary approach. They need to consider possible bad-outcomes from their decisions; whether decisions are reversible should they prove inappropriate and so on. The only effective way to reduce uncertainty is through an active research program, which includes routine data collection as well as appropriate research projects.
+
+12
+
+A harvest strategy and decision rules exist
+
+Decision rules refer to specific plans of what to do when the state of the resource and fishery change. Based on the monitoring program, it should be possible to decide when the fishery changes from a normal to overfished state. Management's focus should reflect the state the fishery is in: Normal Phase: ­ the capacity limit and how it will be monitored and adjusted from time to time; ­ how selectivity might be adjusted to improve yields and protect the spawning stock. Rebuilding Phase: ­ how a temporary reduction in fishing mortality will be achieved; ­ for how long it will be necessary to maintain the reduction in catches; ­ whether and how compensation may be given to fishers and/or the industry. The stock assessment and management system should meet acceptable international standards and independent reviews should ensure this is the case. The legal structure should provide for monitoring, control and enforcement. Laws implementing policy not only exist but are being applied. There also needs to be a method to resolve conflicts and disputes. Clear lines of responsibility exist from political levels which define policy down to technical and enforcement levels where day-to-day management is undertaken. The management structure must be documented in the management plan. Such documentation improves the transparency of the system and allows external review. Co-management is desirable, where stakeholders are actively involved in decision-making and management. Co-management generally improves the effectiveness of management actions.
+
+Independent reviews are undertaken An adequate legal basis exists
+
+There is an effective management system
+
+13
+
+PART 2: TECHNICAL
+7.
+
+SUMMARY
+
+It is necessary to define management objectives so that if these objectives are met, the CITES goal will automatically follow. The CITES objective will be to control exports so that the stock remains in a state sufficiently close to its unexploited state so that it will not become endangered. Whether this objective is met, should be verifiable through various government reports and export monitoring. CITES objectives should be met through applying fisheries management objectives. Fisheries management objectives should be to: · · · · maintain the conch population above the overfished level; maintain fishing effort below level that would lead to overfishing; maintain the reproductive capacity of the stock; maintain socio-economic returns as close to the theoretical optimum as possible.
+
+Note that these objectives are not limited to exports, but may encompass wider controls and concerns of which CITES objectives are a part. These objectives are met by achieving management and scientific outputs. Management is required to set and enforce the controls that change the state of the fishery so that the: · · · · current stock state is above its lower limit; current mortality rate is below its upper limit; reproductive state is above its limit; socio-economic returns are closer to the optimum.
+
+The outputs from the scientific authority include indicators and reference points for the current stock state, fishing mortality, reproductive capacity and socioeconomic performance. These are use as feedback to the management controls. This manual provides advice on how management and scientific authorities might achieve these outputs. This is largely through implementing a data collection program and then basing advice upon the data collected. Data are converted to simplified indicators and reference points which measure the state of the fishery and the stock. While difficult to estimate statistically, chosen indicators should be simple to understand and capture all relevant important information about the fishery. Definitions of such states as "overfished" should be agreed based on indicator values. For example, if the catch per boat day is an indicator, overfishing could be defined as a point when this indicator is too low. Management actions already agreed among stakeholders should be associated with all such points. In this example, a rebuilding plan would automatically be applied when the indicator showed that the stock is overfished.
+
+14
+
+It is important that the decision-making is transparent and based upon objective assessments of the fishery. It will be necessary for all stakeholders to identify the current state of the fishery and verify that agreed measures have been implemented.
+
+8.
+
+SPECIFIC RECOMMENDATIONS
+
+The management plan should include documentation of: · · · · · policy objectives and the resulting principles on which decisions should be based; the indicators and reference points that will be used; controls which will be applied to alter the stock or fishery as shown by the indicators; plan of actions when indicators pass reference points; technical information on the assessments conducted and the default operational model on which management decisions are taken.
+
+8.1
+
+Management objectives
+
+8.1.1 Stock state
+The state of the stock should be maintained above the overfishing point. Standardized catch-perunit-effort (CPUE) as a proportion of the estimated unexploited CPUE should be used as the biomass indicator. There are two reference points: · · fifty percent unexploited CPUE precautionary: If the indicator falls below this point a rebuilding programme is implemented (CPUE should be monitored during rebuilding or a set recovery period applied); thirty percent unexploited CPUE limit: If a fishery falls below this point, the fishery should close;
+
+8.1.2 Exploitation rate
+Maintain the current fishing mortality and potential fishing mortality below that level which could drive the fishery into an overfished state. · · FMSY limit: Effort should be reduced to be below this level at which yield is maximized. FMSY (effort at the maximum sustainable yield) is the fishing effort which theoretically maximizes the total catch from the fishery. fTEY (effort at the target economic yield) target: This is the fishing effort required to move the stock to some optimum level which can be defined using socio-economic indicators. The fTEY should be adjusted to approach the target level as quickly as possible. A socioeconomic target should be developed immediately and can be based on average costs, conch price and/or on fisher interviews. It can be refined through further socio-economic research.
+
+It cannot be emphasized enough that most other controls are secondary compared to controlling fishing mortality and fishing capacity (including processing capacity). If fishing mortality is controlled to the appropriate level, other requirements are very likely to be met. Fleet capacity should be reduced to be commensurate with FMSY.
+
+15
+
+8.1.3 Size composition
+A simple empirical indicator should be applied using observed catch size composition and mean meat weight to assess whether growth overfishing is occurring and whether the spawning stock (i.e the mature fraction of the total stock) is large enough (see Appendix II).
+
+8.2
+
+Initial data collection
+
+All fishing vessels should be registered. A survey may need to be conducted to initiate the register. If catch is not available, a survey should be undertaken to estimate current total catch. The survey would cover vessel activity and catch per unit effort. Size composition sampling should be carried out on the landed catch. Catches should be chosen at random and the size recorded for all samples (e.g. meat weight). A sub-sample should be selected ensuring it covers the widest range of catch size to estimate conversion parameters between various measures, such as processed and unprocessed meat weight. Fisher interviews can be conducted to obtain fishers' views on the productivity of the stock. This is not only useful in estimating the current state of the stock, but also is a useful move towards co-management, which should improve enforcement. Data can and should be shared between countries to enable those with little information to develop a monitoring programme immediately. Other data, such as biomass estimates from surveys, are very useful if they can be conducted, but are not necessary for initializing controls.
+
+8.3
+
+Long-term data collection and monitoring
+
+The following should be implemented over a reasonable, planned time frame: · · · · · all fishing vessels should be required to register. An existing register needs to be maintained and kept up-to-date; all commercial catches should be recorded through purchase receipts and processor records; other catch and effort data should be estimated through sampling programmes; catch size composition should be obtained through random sampling of all catches; logbooks should be required for commercial vessels at sea more than one day.
+
+8.4
+
+Assessments linking data to indicators
+
+8.4.1 Primary assessment model
+A biomass dynamics model should be used to set limit, precautionary and target reference points for total catch and effort. The default population model should be the logistic biomass dynamic model unless another can be shown to fit the available data better. The logistic model has maximum sustainable yield occurring when the biomass is at half of its unexploited size (see Figure 3). 16
+
+8.4.2 Secondary assessment model
+A size- and age-based model will be required to interpret size composition, ensure adequate replenishment of the spawning stock and optimize yield in relation to growth. Indicators and reference points should be based upon robust decision rules rather than population models.
+
+8.5
+
+Initiating management advice
+
+Robust decision rules must be developed in relation to indicators. In particular, it is necessary to decide upon a rebuilding plan and at what stock level it would be necessary to apply that plan to the fishery. A plan compatible with CITES goal should be agreed with the fishing industry.
+
+8.6
+
+Management control
+
+A vessel register and licensing scheme should be applied to maintain or reduce fishing capacity to the appropriate level. Controls should be chosen so that they are enforceable and can be shown to have the desired effect on the fishery. An effort control should be applied to cap the maximum effort which can be applied in any year. A quota control should ideally be set on total catch rather than on exports. Additional controls, such as marine reserves, can be used to reduce the risk of overfishing.
+
+8.7
+
+Monitoring
+
+Regular assessments of the data should be carried out. It is not necessary, or even desirable, that assessments be carried out every year. It is however necessary that monitoring of indicators be continuous. A fall in indicators of biomass should initiate an assessment. It will be necessary to demonstrate that the chosen management controls can affect the fishery. For example, reducing quotas should result in increases in the CPUE index. This can and should be verified by management.
+
+8.8
+
+Long-term research
+
+Longer term research should be co-ordinated in the region. Models for growth and mortality are a priority. Not only do estimates for parameters need to be refined, but explicit measures of uncertainty are also required. Ideally, a default growth and mortality model paradigm should be agreed amongst scientists.
+
+9. 9.1
+
+GENERAL APPROACH
+Stock identification and management units
+
+As queen conch has a pelagic larval stage, conch stocks may recruit individuals from many surrounding populations. In the strict sense of stocks being completely isolated, it is quite possible that several fisheries will share a single conch population. Although this should lead to calls for greater cooperation, it should not lead to inaction on the part of individual fisheries for two reasons.
+
+17
+
+Firstly, joint actions are likely to be close to the sum of individual fishery actions taken as though they are exploiting isolated stocks. Therefore it does not take cooperation to know what to do. An individual fishery should undertake action immediately and then seek adjoining fisheries to do likewise. Secondly, recruitment links between populations may not be strong. Conch has only a short three week pelagic larval stage. It is therefore unlikely that the larvae travel far and the majority of recruits are probably derived locally. In this case, running a country's fishery as a separate management unit is appropriate.
+
+9.2
+
+From policy to data collection
+
+To apply policy in fisheries, it is necessary to obtain information on the state of the fishery. This is achieved by routine data collection which allows scientists to estimate variables which measure different aspects of the state of the fishery (FAO, 1999). Fisheries are generally by too complex to manage without some simplification. This can be achieved by reducing the description of change in the fishery to a small set of indicators representing the fishery's performance. Interpretation of indicators may be difficult. It is achieved by decision rules usually defined by boundaries, called reference points, at which points the fishery is deemed to change from one state to another. Each policy needs to be represented by a set of indicators and reference points. For example, overfishing is often talked about but rarely defined. Application of the policy to avoid overfishing needs a precise definition of what overfishing is. A common interpretation is the point where biomass has fallen below 50 percent of its unexploited state. Policy usually requires two types of reference points: · · limit and precautionary reference points define when the fishery might close and when rebuilding programmes might be instituted; target reference points define the optimum point towards which managers are trying to move the fishery.
+
+It is important that both types of reference points are defined for each fishery. As well as providing an objective way to summarize the state of a fishery, indicators and reference points allow easier communication between scientists and managers and others within the fishery. Although there is considerably more to managing a fishery than simply defining indicators and reference points, they can be used to plan for important changes in management actions and allow easier communication between stakeholders. Data collection must provide information for the estimation of indicators and reference points. Regular data collection forms the foundation for providing independent advice and arbitration between different interest groups. Controls that can have a demonstrable effect on the indicators need to be defined for the fishery. Controls on catch and effort should allow managers to bring about changes in the stock and the indicators, demonstrably improving the performance of the fishery.
+
+18
+
+Indicators must not only accurately represent the state of the fishery, they must be independent of the controls. A control that affects an indicator directly makes the indicator invalid. For example, if CPUE is being used as an indicator, a control affecting the gear efficiency, for example prohibiting the use of SCUBA gear, when it was previously permitted, may change CPUE even if biomass does not change. If this is the case, an alternative, possibly more costly indicator, may have to be developed to bridge this change. All these issues must be addressed in the management plan. The management plan should encapsulate not just the general policy, but the framework through which it will be applied.
+
+9.3
+
+Logical framework
+
+It is necessary to define a logical system that will achieve CITES overall goal: to avoid endangering Strombus gigas. This is achieved by preventing the various stocks of conch from becoming endangered, which in turn is achieved by meeting various fisheries management objectives (Table 1). Objectives should be defined not only for the direct avoidance of particular fishery states, such as overfishing, but to achieve socio-economic conditions which will encourage a sustainable fishery. In particular, avoiding over-capacity is necessary to achieve a sustainable fishery. Consultation and joint decision-making are essential in determining the objectives. The objectives should reflect the reasonable desires of interest groups within the constraints imposed by ecological limits and overriding objectives of national planning. Identifying the various interest groups and encouraging them into partnership with the management authority will often form an initial objective in itself. The system can be defined by a hierarchical set of objectives. Meeting the lowest set of objectives should automatically achieve the highest goal. Each fishery should set out such a plan. This need not necessarily follow the specific recommendations in this manual, but must apply some logic that guarantees CITES objectives are met. There is an international standard against which a fishery can be measured represented by the FAO Code of Conduct. There is no perfect management regime. Management is always limited by resources and various social constraints. A checklist is given in Appendix I which can be used to assess a fishery's management regime.
+
+19
+
+General policy decisions · Control stock to remain sufficiently close to its unexploited state so that it will not become endangered.
+
+WHY
+
+Objectives of data collection · Obtain data to estimate current biomass and unexploited biomass for each stock · Obtain data to estimate current level of exploitation
+
+WHAT
+
+Stock assessment
+
+Performance indicators and reference points · Determine relationship between CPUE and biomass, effort and fishing mortality. Determine MSY and MEY reference points for CPUE and effort levels. · Determine data requirements to apply and monitor controls. · Identify any necessary or desirable additional short-term scientific data collection
+
+Logistics and resources
+
+Data collection strategy · Identify catch and effort data sources. · Decide on general strategy: exports can be monitored directly, local consumption through sampling.
+
+HOW
+
+Data collection methods · Develop catch and effort records for processors · Implement catch and effort sampling from vessels · Develop local/tourist purchase and consumption surveys
+
+Feedback
+
+Data Management · Original data needs to be stored in a relational database
+
+Planning and implementation · Planning phase: legal, institutional and budget issues · Implementation phase: training, monitoring and administration issues
+
+System appraisal · Assess data collection programme · Verify indicators and reference points
+
+Figure 1: An illustration of the relationship between the policy and a data collection programme. In this case, catch and effort data are collected to estimate the state of the stock and the exploitation rate. It will be necessary to check that the data collection programme gives reasonably precise estimates of the indicators and that the indicators are truly related to the state of the fishery. For example, applying a reduced catch quota should eventually lead to a demonstrable increase in the CPUE and immediately reduce effort indicators (Adapted from FAO, 1999).
+
+20
+
+Table 1: Logical framework for conch fishery management. Management should be focused on the means of fishery control and the levels of control to achieve objectives. Objectives are translated into suitable indicators and reference points. If these objectives are met, the CITES goal will automatically follow.
+Narrative summary Goal Article II paragraph 3. ...[exports] should be limited in order to maintain that species throughout its range at a level consistent with its role in the ecosystems in which it occurs and well above the level at which that species might become eligible for inclusion in Appendix I... CITES objectives Science reports Control exports subject to a stock remaining in a state sufficiently close to its unexploited state so that it will not Working Group Report become endangered. Export monitoring Fisheries management objectives Government Policy Statement Maintain population above the overfished level Maintain fishing capacity below overfishing level Maintain fishing effort below level that would lead to Fishery Management Plan overfishing Maintain reproductive capacity of the stock Maintain socio-economic returns as close to the theoretical optimum as possible Management outputs Annual Management Report Set annual controls to move: current stock state above limit reference point Demonstrable correlation between current mortality rate below limit reference point control and indicator from time series reproductive state above limit reference point socio-economic returns closer to the optimum Science outputs Define indicators and reference points proxies for: current stock state fishing mortality reproductive capacity socioeconomic performance Management activities Landings, effort, vessel, fisher and gear monitoring Fishery area and seasonal closures Prosecutions applied Science activities Catch sampling and monitoring Fishery independent surveys Models and analysis Assess by-catch and environmental impacts Independent Annual Science Report Scientific reports and papers justifying measures chosen Means of verification
+
+Database records Data sheets Internal reports Database Data sheets Scientific papers and reports
+
+21
+
+9.4
+
+Standard indicators and reference points
+
+The fundamental indicators are the proportion of the stock that is being removed by fishing (fishing mortality) and the remaining biomass of mature females upon which recruitment ultimately depends. These variables can be estimated directly or monitored through the use of proxies (Table 2). Proxy variables ideally should be approximately proportional to, rather than equal to, the variable of interest. Even if a stock assessment model cannot be fitted, these variables can be plotted to monitor trends in the fishery. Table 2: Proxy variables should be related to standard fisheries indicators. The relationship should ideally be verified. The proxies can be used to monitor the fishery without carrying out a full stock assessment. Proxy Effort CPUE Survey density Mean meat weight5 Variable of Interest Fishing mortality Biomass Biomass and spawning stock biomass Fishing mortality (see Appendix 2)
+
+Particular types of data need to be collected to estimate indicators and reference points (Table 3). Interpretation of indicators may require research (Table 4) or at the very least a decision on the default growth and mortality models to apply. These types of data either are used for monitoring (collected continuously) or as single research programmes. Information from research programmes can be shared within the region, thereby reducing costs. Table 3: The main data types and the indicators or models with which the data may be used for estimation of parameters and to study the dynamics of the stock and fishery. Data Type Catch and effort Survey density Size frequency data (meat weight, shell morphometrics) Tagging data Estimates Biomass Biomass and spawning stock biomass Fishing mortality (F) and spawning stock biomass Conversion functions Growth and mortality parameters, including F
+
+Indicators are statistics calculated from the available data. Like any statistic, they are associated with some error. For example, the indicator could be an estimate of the biomass. The biomass estimate will be uncertain, and that uncertainty will need to be taken into account in decisionmaking.
+
+Mean meat weight indicates the average size of the conch. The statistic can be obtained by weighing and then counting a number of individuals. It is important that processing is taken into account as this will lower the weight. Mean weight should indicate the age and hence maturity of the conch in the landings, and may be used to monitor which parts of the conch population the fishery is exploiting.
+
+5
+
+22
+
+Table 4: Priority research to enable interpretation of routinely collected data Research Growth model Morphometric conversion Population parameters Use Conversion between size and age, necessary for all catchat-age assessment approaches Conversion between measurements particularly processed and unprocessed meat weights. Where there are few data, parameters can be estimated independently. Catchability, recovery rates and unexploited density may be obtainable from fishing experiments, for example.
+
+Reference points require an application of some principle (Table 5). Reference points should define boundaries where fisheries management takes actions or changes a control following some predefined agreement (Figure 2). These points need to be decided by management in consultation with stakeholders. Table 5: Basic reference points and their principles Reference Point MSY FSPR MEY Fopt Principle Maximum sustainable yield. When effort is at the point at which MSY is obtained, any further increase in effort will lead to a decrease in longterm yield. Fishing mortality allowing adequate escapement to replenish the spawning stock (spawners per recruit). Maximum (discounted) economic yield, the same as MSY but for maximizing the economic value after allowing for costs. It is always less than the MSY point and should be a suitable target. Optimum fishing mortality could be defined in a number of ways, as it should address socio-economic returns and improving utility-per-recruit, for example.
+
+Other measures of the fisheries state are also required, particularly fleet capacity and vessel fishing power. This can be achieved through a vessel register. Most countries already operate vessel registers and a licensing system. Vessel fishing power is of particular concern in many fisheries as on-going improvements in fishing power of vessels may invalidate CPUE indicators. Fortunately in conch fisheries, fishing power is likely to remain stable and easy to monitor if it does change. Critical change in fishing power would be between free diving and use of SCUBA or hookah allowing deeper populations to be exploited. Otherwise vessel length and engine power could indicate fishing power and be monitored through a vessel registration system. These vessel characteristics will not only affect the numbers of divers a vessel might carry, but also will affect the fishing grounds used. Controlling fleet capacity so that it is appropriate to the potential yield of the fishery is an important aim of management. Excessive fleet capacity is one of the biggest underlying causes for overfishing. For commercial conch fishing, a vessel register is necessary for all vessels exploiting conch. A register should allow managers to control the number and type of vessels which have access to the resource. This in turn limits potential fishing mortality and reduces risks of overfishing. 23
+
+4500
+
+4000
+
+Closure (T arget F = 0)
+
+Rebuild (T arget F < 0.3) 2001 2002 2000
+
+1999
+
+3500
+
+3000 Effort (boat days)
+
+T arget Region (T arget F < 0.9)
+
+2500
+
+2000 Economic Optimum 1500
+
+1000
+
+500
+
+0 0 50 100 150 200 CPUE (kg per day) 250 300 350 400
+
+Figure 2: Example fishery-state diagram of the two main indicator variables. The diagram shows the effort in this hypothetical example that could be allowed at different observed catches per unit effort. The reference points are marked as boundaries. The best estimate for the fisheries state (measured as CPUE) is plotted for each year (1999­2002). In this example, there has been excessive effort and the fishery has entered its rebuilding programme. The main current aim would be to reduce fishing effort below 2 500 boat days until CPUE has risen to above 200 kg day-1.
+
+9.5
+
+Empirical or non-parametric indicators
+
+While the focus has been on interpreting standard indicators such as spawning stock biomass or fishing mortality, in many cases indicators can be developed which are less dependent on model assumptions, but try to apply controls through decision rules and empirical measures of performance. While such measures would be more robust where information is limited, they will still be founded upon some underlying models of the fishery or stock. These models still need to be researched, verified and improved. However, day to day management can be made a great deal easier through development of simple rules using indicators which are easy for non-technical staff to understand.
+
+9.6
+
+Probabilistic indicators
+
+Indicators based on probability explicitly take into account risk. That is, the reference points are defined to take account of the risk decision-makers are prepared to accept and the uncertainties in the observed indicators. Decision analysis can be used to define target reference points. Probabilities defining acceptable risk can be used to define limit reference points. For example, instead of defining a reference point as the biomass being 50 percent of the unexploited biomass, it can be defined as a 10 percent probability that the current biomass is 24
+
+below 50 percent of the unexploited biomass. This is more realistic than fixed points as the current state of the stock can never be defined precisely and this approach allows the uncertainties, for example as shown by the standard error, to be considered as well. Approaches based on probability are more sophisticated than classical stock assessment and require some expertise particularly where software is unavailable. Methods are generally based on decision analysis which provides powerful methods for assessments. Probabilistic approaches are most useful where data are poor and uncertainty is a significant component of decision-making. Under these circumstances, reducing risks of overfishing may form the central policy. If data collection is expensive, probabilistic approaches allow a balance between the cost of overfishing and costs of increased data collection. A policy is required to define how much risk to take. The risk in this case would be defined as the probability of the stock falling below the limit reference point for stock size, or fishing effort being above its limit reference point. While the "precautionary approach" is often put forward as the desirable risk-averse option, it would have to be quantified as specific probabilities.
+
+10.
+
+DATA COLLECTION
+
+10.1 Introduction
+Data collection forms the foundation for all management decision-making. Data provide independent assessment on the real state of the fishery (Table 6). It is important that data collection is founded on good statistical principles. However, for data which will be used for long-term monitoring, the collection system must be sustainable and therefore not be too logistically or financially demanding. It is also important to note that conch data will probably be collected alongside catch statistics for other species. Indicators are calculated from data on the basis of scientific research into the appropriate models and supporting information required. These scientific activities are usually reported through a stock assessment which should be carried out regularly. In particular, stock assessment is required to estimate current biomass and unexploited biomass of the stock (see Section 11). Table 6: The main indicators and the data and underlying research required for them.
+Indicator Biomass Fishing effort Spawning stock status/biomass Mean meat weight Data collection Catch-effort Stock surveys Consumption surveys Catch-effort surveys Effort frame survey Licensing Catch composition Total weight and pieces Supporting research Estimate of expected unexploited CPUE Unexploited biomass Catchability by gear Effort limit and target by gear Capacity limit and target Size ­ maturity ogive Limit and target points defined by F
+
+25
+
+10.2 Catch and effort 10.2.1 Overview
+The fishery will commonly consist of two parts: commercial and non-commercial. The commercial fishery, supplying conch for export and local tourist consumption through restaurants, should be able to supply total catches with high accuracy, and effort for the majority of the fishery. The non-commercial fishery, including traditional subsistence, is more difficult to monitor and it would be advisable to use methods based on sampling.
+
+10.2.2 Commercial landings monitoring
+Processors should report all the catches they purchase from fishers. This information should be maintained for their own financial records anyway. The requirement is only to copy this information to the management authority. Receipts should be obtained for all transactions. This is particularly important if the fishery is controlled through catch quotas. If quotas are operating, reported catches will need to be verified by inspection. Data should be kept as simple as possible. Given a vessel register, only an identifier for the vessel is required (e.g. licence number or captain's name). For daily trips, only the catch landed on each day is required. If possible the time of departure and return is useful, but not necessary. The fishing times are valuable only where there is significant variation in the number of hours in a trip. In many fisheries the trip time does not vary much. It is not reasonable to expect a commercial company or cooperative to supply much more data than they record anyway as part of their normal operations. Clearly, the quantity of catch purchased falls into this category, but much beyond this would require another approach.
+
+10.2.3 Commercial logbooks
+Commercial vessels going out for more than one day, perhaps carrying out processing on board, should be required to complete logbooks. For larger vessels, this is not particularly onerous as such vessels keep their own private fishing logs. Logbooks should record on each day the date, location and amount of fishing (some measure of effort depending on gear ­ in this case hours fishing multiplied by the number of fishers), and catch weight.
+
+10.2.4 Exports
+Commercial catches for export can be obtained from two main sources. Actual exports should be reported to the Government Customs Department. As exports require CITES certification by the scientific authority, it should be relatively straightforward to measure all exported landings. Processed weight needs to be linked to landings through a statistical model. This requires good estimates of the conversion parameter(s) based upon a large sample from the landings.
+
+26
+
+10.2.5 Commercial purchase receipts
+All local restaurant purchases could be monitored through purchase receipts. Restaurants should supply copies each month to the management authority of purchase receipts with the date, fisher's identity, and amount bought and value of the conch. Receipts should be simple to complete. It may be necessary to carry out spot checks on quantities in storage to verify receipts, particularly if such purchases cover a significant proportion of the catches. With growth in tourism, restaurant purchase may be one of the largest changes in local consumption. It is important to monitor changes in catches as these have a direct impact on the exploitation level. Therefore, if tourism is changing or fluctuates, monitoring tourist consumption will be an important component of the data collection system.
+
+10.2.6 Obtaining non-commercial catch and effort
+Stamatopoulos (2002) describes the sample-based fishery survey method in detail. This method is appropriate to non-commercial conch fishing where there is no easy way to institute or enforce fishers to keep records. Sample-based fishery monitoring requires three components. Firstly, a sampling frame is required. This usually consists of a complete enumeration of all landing sites and the vessels which will land there. Up-to-date information should available through a vessel register. If no register exists, a frame survey will be required every few years until a register is developed. Secondly, fisheries staff must visit landing sites and measure the vessel activity. Sites can be chosen at random if there are more sites than staff available. If staff know how many vessels could land at a site from the vessel register, they can check which of these vessels have left to fish and are expected back. They need to visit as frequently as possible in a month. If visits must be limited, they should be made at random times during a month. Finally vessel trips need to be sampled to obtain estimates of mean catch-per-unit effort. This will require that staff choose vessels randomly when they land if staff cannot measure all vessel catches. Vessels must let them measure their landings. At this point, size frequencies and other data may also be collected through a trip interview. These data can be combined to estimate total fishing effort and total catch, which can be added to the commercial fishery. Estimation methods also allow the statistical uncertainty to be estimated and included in assessments. This makes the approach potentially very efficient in collecting information cheaply.
+
+10.2.7 Consumption interview data
+Where a substantial subsistence fishery exists with no set landing sites, consumption surveys may give some estimate of the quantity of catch taken. This would sample the local population and ask how much and how often people eat conch. Given a total population census, it is possible to raise this estimate to obtain the amount of the total catch that was consumed by local inhabitants which will need to be added into any assessment if not already included elsewhere.
+
+27
+
+10.3 Catch size frequency sampling
+Catches can be sampled at landing sites. Possible measurements will depend on what is being landed. It is recommended that the following are obtained through sampling landings: · · · · · shell length and lip thickness (where the shell is landed) unprocessed meat weight sex maturity processed meat weight
+
+For size catch frequencies, a random sample is required. For conversion relationships, a wide range of weights is required. Therefore not all measurements are required for all animals. It is recommended that unprocessed meat weight, sex and maturity be measured for a random sample of landings (around 300 conches should be adequate in the first instance). Of these, a smaller selection taken from the largest, smallest and medium size individuals can be weighed before and after processing. The same process would apply to shell length, lip thickness, (un)processed meat weight, maturity and sex. Any control would have to be consistent so that fishers could avoid discarding dead conches and instead apply selection towards flared lipped conches. This may involve employing fishers to land shells to allow sampling. There are no commercial size categories that can be used. However, if a minimum weight limit is applied, it is possible animals below this limit will be sold locally. This may still achieve the conservation objective if the price is reduced, but would have to be monitored and assessed.
+
+10.4 Fishery independent surveys
+Stock surveys can give immediate estimates of biomass and are particularly recommended where no fishery has previously existed. However, they only give an estimate of current biomass, may be expensive and are not absolutely necessary. They are currently used by Jamaica to monitor biomass. Likewise fishing experiments may indicate biomass in particular areas and can also be used to estimate fishing mortality. Fishing experiments use intensive fishing in a monitored area, effectively closed to immigration and emigration of conch, to relate the decline in density to the catch. Coupled with a survey, they would be particularly useful and provide rapid information, but again may be prohibitively expensive for some fisheries. Survey design is a specialist activity requiring particular expertise. However, the basic method will follow common design needs (See Thompson, 1992). It is necessary to have a map of the survey area on which the sample design is based. The map might be stratified by habitat type. The simplest strata might be by depth. It is necessary to choose random locations across the sample area within each stratum. The number of transects should be chosen on the basis of the required precision: in general, the more transects that are included, the more precise the estimate will be (i.e. the narrower the confidence intervals on the estimate). All transects must either have their length recorded or must be of equal length.
+
+28
+
+Transects can be conducted in two ways. The simplest is to apply an absolute width where the surveyor counts all conch within a set distance of the transect line and ignores all others. The alternative is to count all conch that are seen, but measure their perpendicular distance to the transect line. This last allows a detection function to be estimated. Where conches are common, a fixed width transect is probably the best alternative. However, where they are rare, a method based on perpendicular distance may prove a better technique. It would be possible to mix the two methods, with separate methods applied in different strata for example, although subsequent estimates would be more difficult to obtain. Juveniles can be separated from mature by their flared lip. Finer divisions based on size and how worn the shell is can be developed with training. More efficient designs than random sampling may be useful where conches are heavily aggregated. Cluster sampling and adaptive cluster sampling allows sampling effort to focus where conches have been found. This is a more sophisticated approach to sampling, but under some circumstances, particularly where densities are low, may be useful.
+
+10.5 Tagging
+Tagging could form an important source of information on conch. Many of the problems associated with tagging other species do not occur with conch. The tag is placed on the shell, so it is fast, relatively cheap and tag loss is negligible. The main problem is ensuring tagged conches are returned by fishers to the scientists. Conch can be tagged by wire and numbered plastic disks. The sex, maturity, shell length, weight, flared lip thickness are recorded. These data, with meat weight, should be recorded again when the tagged conch is returned. This allows growth and mortality to be estimated. Where possible, tagging should concentrate on smaller, younger conch. The main problem is getting fishers to return tagged conch to the scientists. Even where fishers agree to cooperate, the tags will be overgrown by algae over time and therefore difficult to spot. Ensuring fishers check for tags during the experiment would be important. As tagging can provide considerable information quickly on the current state of the resource and fishery, it is always worth reviewing whether a tagging experiment would be feasible in each fishery.
+
+10.6 Other information
+Beyond researching specific parameters, biological research can be carried out on life history, ecology and habitat use. This information is valuable in management as well as for developing new improved models for assessments. Such research is not a priority however, but should follow basic stock assessment activities and implementation of appropriate fishery controls. For most scientific authorities, monitoring the scientific literature and attending appropriate workshops and conferences will be adequate to obtain and use this information.
+
+29
+
+11.
+
+ASSESSMENTS LINKING DATA TO INDICATORS
+
+11.1 Introduction
+In order to assess any fishery, an operational model of the fishery is required. The aim is to estimate the parameters for the model chosen. The model parameters will then define the appropriate reference points for the indicator. Various assessments are possible, but two approaches are highlighted here.
+
+11.2 Biomass dynamics assessment 11.2.1 Indicators and reference points
+An assessment of biomass should be able to use all indicators and estimates of biomass, including surveys and CPUE. The assessment aims to construct a history of biomass change, and the potential and safe yields from the population. Indicators can be simple (e.g. CPUE, catch, effort) or based on model variables (e.g. biomass, spawning stock biomass or fishing mortality). The former has the advantage that it is more easily understood by managers. The key reference points are the biomass and fishing mortality at maximum sustainable yields (MSY). If biomass falls below the biomass at MSY, a rebuilding programme should be applied. Target reference points can be developed based on economics and fisher's requirements.
+1.2
+Extinct Unexploited
+
+1
+
+Production or Yield
+
+0.8
+
+0.6
+
+0.4
+F0.1
+
+0.2
+MSY
+
+0 0% 25% 50%
+Biomass (% unexploited)
+
+75%
+
+100%
+
+Figure 3: The diagram illustrates stock biomass growth described by the logistic form of a biomass dynamic model. The stock produces no surplus production (that is, it does not change its size) when it is unexploited and when it is extinct (population is zero). When unexploited, the stock reaches its carrying capacity for the environment and only reproduces enough young to
+
+30
+
+replace those which die. When the population is reduced in size, it will produce more biomass than is lost through natural causes, so that the population grows. This excess production is shown on the y-axis of the curve. Production is zero at extinction and at the unexploited size, but there is some maximum in between, labelled as the maximum sustainable yield (MSY) and often used as a reference point. Maximum sustainable yield is too risky for management to aim for as it is right on the edge of overfishing. Alternative target reference points have been proposed to reduce the chance of overfishing. F0.1 (illustrated) identifies a point before the maximum yield is reached, but still allows most economic benefits to be obtained from the fishery. Similar definitions can be made for reference points in other models.
+
+11.2.2 Data sources
+The primary data source for estimating biomass will be catch and effort. These data are important not only to estimate biomass, but to estimate appropriate catch and effort controls. Survey density can also be used to estimate biomass either as an index or in absolute terms. An index would require less data to get a reasonable result and hence is less costly. In order to ensure comparability in estimates, the same survey must be repeated annually or every few years and may be included in the stock assessment. If an index of abundance is used, then the stock assessment will need to estimate a scaling parameter that will raise the index to an estimate of absolute abundance. Absolute abundance estimates require more sampling, but do not require, in theory, an extra scaling parameter in the stock assessment model and therefore the first estimate can be used immediately. A compromise for monitoring could be to apply many transects to obtain an absolute abundance estimate at the start of the time series and thereafter to revisit a smaller proportion of the original transects, perhaps stratified6 by the observed conch density. Short-term research may provide estimates of potential biomass growth. For example, monitoring recovery within closed areas may indicate the potential productivity rate. Such experiments could be designed and implemented with fisher cooperation.
+
+11.2.3 Assessment model
+The simplest and most appropriate operational model would be a biomass dynamics model. The logistic model is used in the Turks and Caicos Islands (Medley and Ninnes, 1999). Other models might be used, but the logistic population model seems most applicable without evidence for alternatives. The model can be fitted to catch and effort time series as well as any other appropriate index of population size, such as those based on fishery-independent surveys. With enough contrast in the catches, it can be fitted in a spreadsheet (e.g. Punt and Hilborn, 1996, 2001).
+
+11.2.4 Getting started
+If a fishery has no time series of catch and effort, or the time series does not include both depletion and recovery periods, it will not be possible to apply classical stock assessment methods. Alternative methods must be used.
+
+6
+
+Stratification groups the prospective sample so that the "population" in each group are as similar as possible. This allows more efficient sampling in the sense that a lower variance for the same sample size is possible.
+
+31
+
+If survey estimates of biomass are available, potential yield can be estimated assuming that the survey estimates the unexploited stock. If fishing is already occurring, such potential yield calculations are likely to underestimate the actual yield possible from the stock. The growth rate parameter estimates (K) for conch vary from 0.2 to 0.7 year-1 (CFMC, 1999), with the most reliable estimates for recruited conch being towards the lower end of this range. Assuming recruitment at around two years old, and post-recruitment natural mortality and growth rates being about 0.3 and 0.2 year-1 respectively, the MSY would be around eight percent of the unexploited biomass (Beddington and Cooke, 1983). Sustainable catches therefore need to be maintained at somewhat less than this amount. If biomass is estimated from a survey with a mature fishery already operating, the survey will estimate current biomass not unexploited biomass. The MSY estimated from Beddington and Cooke in such cases would therefore be lower than the true MSY. The estimate can still be used in a biomass dynamics model or to estimate fishing mortality directly (fishing mortality is approximately the catch as a proportion of the stock biomass). A more general approach which can make use of all information (including a survey if available) is to apply decision analysis. The method uses available information more efficiently and explicitly takes into account risks. For this reason, this approach is recommended. The biomass dynamics stock assessment model is relatively simple, requiring only a few parameters. This makes it particularly appropriate when time series data are lacking. Decision analysis needs or may use the following information: · · · Size of fishery: An estimate of the current effort and catch in the fishery is required to provide the relevant scale. Any catch-effort data series: Even a short series without contrast can provide useful information. Fisher interviews: fishers can be interviewed to obtain their view on the productivity of the resource. While fishers may tend to be optimistic, they may be the only source of time series data and in particular the only source on information on what the unexploited state of the resource was (see Appendix III for an example of using only these data). Current biomass from a resource survey: The current biomass can be incorporated with its uncertainty. Other data from other fisheries: traditionally parameter point values from other fisheries are used in stock assessments, but this will underestimate the uncertainty in the results. Decision analysis allows information to be shared as probability distributions which include uncertainty. Measures of cost of actions and outcomes. It is often the case that a review of the potential costs and benefits will allow a decision to be made even if information of the likelihood of outcomes is lacking.
+
+· ·
+
+·
+
+Bayesian statistical software exists allowing various numerical techniques to be applied to model probability distributions, such as Bayes SA (Punt and Hilborn, 2001) which applies a Bayesian approach to fitting stock assessment models. These require some expertise in using and developing models and data sources. One way that these data and model results can be combined is to use the new software, PFSA (2003; see Appendix III). The software requires that parameter estimates be represented by 32
+
+frequencies, which can be derived from various sources and techniques. The parameter frequencies are used to model the parameter probability distributions which can then be used in decision analysis. Data types that the software can use include interviews and catch and effort data, for example, as well as output from other software (e.g. Bayes SA) which can draw parameter frequencies from likelihoods. Decision analysis will initiate the management process with clearly defined reference points from the beginning. It will not be necessary to wait for scientific research to be complete and the information can be updated smoothly as more data from adaptive management become available. However, the Bayesian approach is potentially sophisticated and may require some expert help.
+
+11.2.5 Recommendations
+The requirement for only a few parameters makes the biomass dynamics model the recommended approach. It has been shown to fit long term time series data from at least one conch fishery (Medley and Ninnes, 1999). The assessment model, in the absence of proving a better alternative, should be the logistic population model. Even where no historical information exists, sharing information among countries may allow an initial stock assessment to be conducted and then updated as information becomes available. Where a suitable time series of catch and effort is not available, the Beddington and Cooke approach combined with an estimate of current biomass and, if available, an estimate of unexploited or lightly exploited biomass can provide useful information on potential yield until sufficient data exist for more reliable analyses. It is recommended that decision analysis is used. This not only allows assessment when data are lacking, but is transparent and allows explicit application of the precautionary approach.
+
+11.3 Per-recruit assessment 11.3.1 Indicators and reference points
+Per-recruit assessments focus on fishing mortality as the main indicator and control variable. Spawners-per-recruit measures the rate at which the spawning stock is replenished at different levels of fishing mortality. In yield-per-recruit, the aim is to find a fishing mortality level to achieve a particular level of yield for each conch recruited to the fishery. The yield can be adapted to convert to processed meat yield or value. Per-recruit measures can also be used to monitor and interpret mean meat weight (see Appendix II). The method will also allow size selectivity to be addressed. For example, the impact of a minimum size or flared lip only control can be assessed using yield-per-recruit. In general, estimates of current fishing mortality and the size at first capture (or a full selectivity function) are required. Initial size is easy to obtain, but generally fishing mortality and selectivity can be difficult. Fishing mortality is usually related to fishing effort. Reference points are heavily dependent on the growth model and natural mortality estimates. Work has been conducted on this, but wider agreement is required on standard default models and parameters to use. If agreement could be reached by scientists on these models, the way would be paved for regional agreement on harmonized controls such as minimum size.
+
+33
+
+A limit reference would be FMSY, although this does not always exist in yield-per-recruit models which may estimate that yield will continue to increase without limit, for increasing fishing mortality. Yield begins to fall after this point, so there is absolutely no reason for fishing mortality to exceed it. Although FMSY is often at a higher level than desirable for economic benefits or to protect the spawning stock, it may still be used as a limit reference point. F0.1 always exists and, in the absence of economic information, can be used as a target reference point. It has often been found to be close to the economic optimum when more data becomes available. It will be necessary for a spawners-per-recruit analysis to be conducted as well as yield-perrecruit to manage the fisheries properly. Fishing mortality must be maintained at a level that does not reduce spawner biomass to too low a level. There is currently no standard spawners-perrecruit reference point for conch. One will need to be developed based on the conch life history and biology, and based upon experience in other fisheries (see Mace and Sissenwine, 1993).
+
+11.3.2 Data sources
+The main data source for conch would be catch-at-size composition which can be collected rapidly. Rapid collection is an important advantage of this assessment approach. To estimate mortality however, size must be converted to age. As there is no way to age conch directly, it will be important to have a good growth model. Catch size composition will depend on two factors: · · Size composition of the population will depend on age composition and growth variation. In its turn, age composition will depend on the recruitment history of the stock and history of mortality. Selectivity of the fishing method will decide which sized conches are more likely to be caught. As collection methods are basically the same, selectivity will depend on the distribution of the population by size and the distribution of fishing effort.
+
+Supporting scientific research should produce information important to interpreting size frequency data. Research is needed to estimate growth model parameters and selectivity and to link yieldper-recruit fishing mortality to the chosen indicator (e.g. effort). Data may include more complex expensive methods, such as tagging, in the short term, as well as standard monitoring data. An important but relatively simple requirement in fisheries is the ability to convert between different measures. For example, conversions will be required between shell length and weight, lip thickness, sex, maturity, processed and unprocessed meat weights. Conversion parameters can be estimated using generalized linear models.
+
+11.3.3 Estimation of indicators and reference points
+Reference points require growth and natural mortality models. Either previous published models or parameters can be used (CFMC, 1999) or special scientific research can be conducted to estimate them for each fishery. Also, these two sources of information could be combined, using decision analysis.
+
+34
+
+Fishing mortality must be estimated for each fishery. Proxy variables, such as fishing effort, can be used but will need to be converted to fishing mortality for interpretation in a yield-per-recruit context. Inaccurate selectivity models are perhaps the greatest weakness of the classical method. An alternative, still based on yield-per-recruit, would depend on developing appropriate statistics for applying decision rules (e.g. see Appendix II). These approaches can by-pass critical dubious assumptions, but ultimately still depend on growth and mortality models.
+
+11.3.4 Getting started
+Length and weight compositions can be obtained immediately. As long as growth and mortality models are available, these can be interpreted. Although they can be obtained immediately, mortality estimates from length or weight converted catch curves are probably unreliable. They do not take into account growth variability and require most of the catch to be young animals. It is also necessary to know the size/age selectivity of the method used in the collection of the sample (e.g. the fishery) in order to be able to estimate the true length or weight distribution from the sample. The decision rule described in Appendix II based on an observed catch composition could be used to provide immediate management advice. Clearly, immediate monitoring of the proportion of mature animals being landed could also be used to apply a decision rule. Such rules would at least indicate the appropriate level of control to apply initially while monitoring continues.
+
+11.3.5 Recommendations
+A good growth model is required for yield-per-recruit assessment. A number of growth models and parameter estimates exist. These need to be assessed and a final acceptable method for modelling meat weight growth proposed. Results are sensitive to parameter values, so precision and uncertainty would have to be considered. Estimation is a significant problem for yield-per-recruit approaches. Conversion of size to age is problematic and may prove impossible. As conch cannot be aged directly, it is necessary to rely on conversion using a growth model. Such models are not necessarily reliable for individual animals as variation in individual growth may be high and size does not increase perceptibly with age beyond maturity. Use of meat weight should revolve around a decision rule rather than absolute reference points (for example, see Appendix II). This allows greater flexibility as well as dealing effectively with uncertainty. Decision rules could be developed for rejecting or allowing exports based on samples, for example, as well as applying management controls. While developing a decision rule may be sophisticated, applying it should be very straightforward. Yield-per-recruit and spawner-biomass­per-recruit require more information than a biomass dynamics model. However, their ability to use size frequencies which can be collected quickly makes the per-recruit methods useful at least as a comparison to the results from the biomass dynamics model. Ultimately they may replace biomass models as the primary source of management advice as they allow assessment of selectivity which may prove important.
+
+35
+
+11.4 Other assessments
+The natural extension to these assessment approaches would combine the dynamic aspects of the biomass dynamics model with the growth and mortality models. Such age structured dynamic models allow recruitment to be monitored and ultimately modelled. However, they have a very high demand for data, including a time series of catches, effort and size frequencies as well as reliable growth to age conversion. It is not possible to apply this approach at this time.
+
+12.
+
+LONG-TERM POPULATION MONITORING
+
+12.1 Population assessments
+Long-term monitoring would depend on being able to generate annual catch-per-unit effort (CPUE) by fishing ground. CPUE is the indicator of choice to monitor biomass as it is usually the cheapest method and can be maintained over a long time period. Short breaks in the series do not create a problem, but total catch time series must be complete. Total catches measure the impact of the fishery on the stock and must be recorded and be available. It is important that the catch and effort monitoring be robust to changes in available capacity. Such monitoring should form a core activity of the management and scientific authorities. Much of the monitoring of commercial catches should use records completed by processors and other purchasers. The scientific authority needs the ability to collect, to check and to store these data. If possible, stock surveys can be conducted to provide a fishery independent assessment of biomass. Such surveys are valuable as they provide a check on CPUE as well as providing an independent assessment on the scale of the fishery. Such surveys are often used in fisheries to improve assessments. If CPUE is being monitored well, however, they need not be frequent. The main concern with using CPUE is that there will be changes in catchability. Catchability is a measure of the portion of the biomass caught by a unit of effort and is therefore the scaling parameter between biomass and the CPUE variable. It can change if vessels become more efficient, for example, or if management controls change the way vessels fish (e.g. introducing a minimum size control). Stock surveys can be used to bridge such changes. Vessel register data can be used to standardize CPUE for many changes in fishing power. Stock assessments require contrasts in the data in terms of population depletion and growth to allow accurate estimates of appropriate controls. Periods of depletion, in particular, may not be considered desirable. However, if it is to be verified that chronic overfishing is not taking place, a period of reduced fishing mortality after monitoring is in place should be applied to see whether the population increases in response to the reduce fishing, and at what rate.
+
+12.2 Standardized minimum meat weight
+Preliminary analysis suggests a decision rule could be developed for interpreting meat weights. Two rules are possible: · A rule based on the optimal size to prevent growth overfishing (see Appendix II). It would apply to controlling gross landings, fishing effort and other fishing mortality related controls. The rule would also allow management to evaluate controls in relation to selectivity (see Appendix II for an example of a simple decision rule). 36
+
+·
+
+A rule based on only landing conch with flared lip. The rule would be applied to enforce selectivity by fishers to take only mature conch. It needs to be verified that a meat weight control can be used to enforce this.
+
+It should be noted that prescriptive regional controls could have a detrimental effect on some fisheries. In particular, different selectivity among fisheries remains a problem. Where free diving is the sole gear, mature conches that have escaped the fishery can be found in deeper water in abundance. A policy shifting emphasis to large conch could encourage exploitation of the spawning stock which is probably best left alone in these fisheries. There should therefore be scope for some flexibility in controls at the national level and possibly even at the local level.
+
+13.
+
+CONTROLS AND MONITORING
+
+13.1 Introduction
+Stock assessments are only useful where they lead to some control on the level of fishing. Management authorities must be prepared to limit and reduce fishing activity, where required, to protect the resource. Any control aiming to improve the stock state must reduce catches at least in the short term. If they do not reduce catches, they are not being effective. For example, putting marine reserves where fishers do not fish will have no positive effect (although it may reduce problems later). Reducing catches can make controls unpopular with fishers, but it is up to management to minimize problems through consultation and joint decision-making, and to demonstrate the advantages of the control to fishers through emphasis on longer term benefits. Experience has shown that it is always necessary to consider the socio-economic effects of controls. Enforcement will, at best, be difficult if the needs of industry and fisher communities are not taken into account. Every effort should be made to apply controls which not only achieve biological objectives, but socio-economic ones as well. As overfishing is the worst socioeconomic outcome for a conch fishery, it should be possible to find some level of control that satisfies most realistic objectives. In cases where socio-economic dependence on a conch stock exceeds, the sustained production potential of the stock, the socio-economic needs can only be met by external intervention, either by providing short-term support during restructuring or by assisting fishers to find alternative livelihoods.
+
+13.2 Fleet capacity and effort
+All commercial vessels should only be allowed to fish if they are registered and licensed by the management authority. The number of licences issued for conch should be commensurate with the number of vessels needed to harvest the resource. If fleet capacity is much greater than the allowable effort, there is likely to be tremendous economic and political pressure to allow greater fishing activity. Fleet capacity in commercial fisheries must therefore be controlled. Both numbers and sizes (fishing power) of vessels can be controlled by limiting registration. Effort and fishing mortality may be controlled by limiting the number of days that the registered, and hence legal, vessels spend at sea. Closed seasons may allow this, but specific effort controls
+
+37
+
+are often difficult to administer. Enforced closure of processing plants may also allow some control.
+
+13.3 Catch quotas
+Catch quotas will control fishing and at least exports can be enforced. However, they require careful monitoring of the stock and of the catches and can easily allow overfishing. For example, setting the quota to the maximum sustainable yield is inherently unstable and will always lead to overfishing the resource. It is recommended catch quotas are used alongside other controls. To be applied, it will be necessary to be able to convert catch quotas to export quotas accurately. All exports need to have a CITES certification so quotas could be enforced at this point if all or nearly all of the commercial catch is exported. Conversion needs to be monitored, as meat yield may change with the size composition of the catch. Fishing mortality can be related to catch in the form of a feedback system. Lowering catch quotas will lower F, but setting the precise quota to achieve a particular fishing mortality will be difficult. Using biomass dynamics models will allow direct estimation of appropriate quotas.
+
+13.4 Minimum size and maturity
+Minimum size should be related to growth and size at maturity. In general, unless the shell is landed, minimum size is difficult to apply. The meat size composition may indicate violations of a flared lip rule (only mature conch allowed), but only gross violations may be detectable. Hence, minimum size may prove less useful for direct enforcement, but remains a useful indicator of the performance of other controls. A control requiring fishers to only take conch with a flared lip would require cooperation from fishers. It would be possible to prevent immature conch from being landed, and this may be a useful control in the non-commercial sector. It would require a fairly sophisticated education awareness campaign, however.
+
+13.5 Closed area
+There may be effective closed areas already present in some countries through gear controls. Fisheries which only allow free diving (e.g. Turks and Caicos Islands) have de facto protected deep water populations. Otherwise, properly designed closed areas could be useful for reducing risks of overfishing by protecting a portion of the stock.
+
+13.6 Closed season
+In general, closed seasons can be used for four purposes. · · · · To protect the stock during critical periods, such as spawning. To gain from growth by delaying recruitment to the fishery. This would require that the species has a discrete recruitment period. To reduce effective fishing mortality by reducing the number of days in which fishing can occur. This would be the most likely use of a closed season as a biological control. To achieve socio-economic alternatives. For example, a closed season may allow a quota to be spread more evenly through the year. 38
+
+Whether closed seasons are used for any of the above purposes will be up to managers, stakeholders and scientists in local fisheries.
+
+13.7 Taxation
+Taxation on exports might be used to raise revenue to pay for fisheries management. Management costs governments money, yet fishers should gain significant benefits from good management. Export taxes are one means to help pay for this management. Importantly, taxation also discourages overfishing by lowering the effective price paid for conch. Regional cooperation on setting taxation levels would reduce problems in terms of competitiveness and thereby help to protect the regional resource.
+
+14.
+
+OTHER ISSUES
+
+Unlike other fisheries, conch fishing is not associated with habitat damage or significant by-catch. It is possible conch fishers will take other species opportunistically, but in general conch does not form part of a multispecies commercial fishery.
+
+15.
+
+ADAPTIVE MANAGEMENT
+
+15.1 Management cycle
+Management should follow a basic cycle. Once the policy and objectives for the fishery have been developed and interpreted in the form of indicators and reference points, the monitoring and assessment cycle can start. 1. 2. 3. 4. 5. Data should be collected for estimating indicators and monitoring the fishery. Indicators should be updated and stock assessments conducted, if necessary. The effectiveness of previous fishing controls should be evaluated. Based on these results, scientists should provide advice to the managers. Based on the scientific advice, fishing controls should be adapted where necessary and applied. 6. Policy and objectives should be reviewed and revised where necessary and desirable. This cycle should be repeated indefinitely, although not all steps may be conducted in every year. There should also be close consultation with stakeholders during this cycle, for example at steps 3, 5 and 6. The stock assessment should be undertaken to update indicators and reference points with new data, as appropriate. All technical aspects of the stock assessment should be fully documented, including a description of the data used, method applied and assumptions made. Models and data should be stored for future reference. This makes updating the assessment in the future much more rapid. The assessment should report separately to managers the stock status and the management advice. Full technical information on the stock assessment will not be required in this report and a nontechnical summary should be submitted to decision-makers. This should make clear the uncertainties in the assessments.
+
+39
+
+For discrete changes of state, for example from fully exploited to stock rebuilding, it is recommended that decision rules are used to specify the management actions (e.g. see Figure 2). Decision rules should already be agreed by decision-makers, so the scientist's job should be to evaluate the rule and report back the evaluation. This should make communication of results more straightforward. It is recommended that the rules applied should follow a system similar to that shown in Figure 2. If the stock is already low or the stock size falls below a particular, pre-specified level, a rebuilding plan should apply. This will lead to setting lower effort (or quota) than the sustainable yield, allowing the stock to grow. A principle is needed, such as the time to rebuild, to set a particular level of fishing. Hence the exact plan would have to be developed through consultation between scientists, managers and stakeholders. Adaptive management can actively apply management measures to gain information about the resource. The main problem with many stock assessments is that they require contrast in the catch time series. Ideally, the time series should include periods of both depletion and recovery. If this information is not available, it is quite possible for a fishery to remain in a chronically overfished (or underutilized) state indefinitely without the potential for recovery and higher yields being known. Carefully reducing and increasing controls within the overfishing limits is quite legitimate and may provide the final test of other scientific results. Other management actions, such as setting up temporary closed areas, may also form part of these adaptive management actions.
+
+15.2 Verification and transparency
+The management plan and assessments should be subject to periodic review. This will ensure that the assumptions and advice are reasonable and based on the available evidence. The reviewer can be internal (although using an external reviewer could lead to greater objectivity) but should not have been involved in preparing the plan or in the assessments so as to ensure objectivity. Comments of the reviewer should be addressed, and suggested modifications incorporated in the plan where appropriate. A checklist for testing a management regime has been proposed for fishery certification (Appendix I). This can be applied to conch fisheries in exactly the same way to provide an independent assessment of how well management is doing against the best practice. The tests go well beyond CITES requirements, but recognize the wider benefits of good management as contained in the FAO Code of Conduct, of which the CITES requirements represent a part.
+
+16.
+
+POTENTIAL REGIONAL MANAGEMENT REGIME
+
+Cooperation between countries on many issues will be difficult. Data and information sharing is one area which should not be contentious and is in the best interests of all. Scientific workshops focused on conducting assessments using shared research and data could produce significant insight into how to manage this resource. Further cooperation would have to be founded on developing commonly accepted models for fisheries and conch biology. Common biological models will form the basis for choosing common reference points. Common indicator and reference points would then allow different countries to apply the same management rules. Regionally accepted and applied growth and mortality rates would be necessary to identify a single optimum minimum meat weight for example.
+
+40
+
+Although common indicators, reference points and controls should make enforcement easier, there may well be a cost to individual fisheries. A common minimum size policy will assume a particular growth model applies to all stocks. Conches which grow at a rate higher or lower than this model implies will result in an inefficient choice of size, either ineffective or too restrictive. The most likely areas of immediate concern across the region should probably be a minimum mean meat weight, closed season and export tax level. It is suggested that these issues be considered by scientists first in assessments and then advice passed on to managers to see whether and how much cooperation is advisable.
+
+17.
+
+REFERENCES
+
+Beddington, J.R. & Cook, J.G. 1983. The potential yield of fish stocks. FAO Fisheries Technical Paper (242): 47p. Berkes, F., Mahon, R., McConney, P., Pollnac, R. & Pomeroy, R. 2001. Managing small-scale fisheries. Alternative directions and methods. IDRC, Canada. 320p. CFMC. 1999. Report on the Queen Conch Stock Assessment and Management Workshop Belize City, Belize, 15-22 March 1999. Cochrane, K.L. (ed.). 2002. A fishery manager's guidebook. Management measures and their application. FAO Fisheries Technical Paper. No. 424. Rome, FAO. 231p. FAO. 1995. Code of Conduct for Responsible Fisheries. Rome, FAO. 41p. FAO. 1997. Fisheries management. FAO Technical Guidelines for Responsible Fisheries. No. 4. Rome, FAO. 82pp. FAO. 1999. Guidelines for the routine collection of capture fishery data. FAO Fisheries Technical Paper 382. Rome, FAO. 113p. FAO. 2003. The ecosystem approach to fisheries. FAO Technical Guidelines for Responsible Fisheries. No. 4, Suppl. 2. Rome. FAO. 112p. Mace, P.M. & Sissenwine, M.P. 1993. How much spawning per recruit is enough? pp. 101-118. In: Smith, S.J., J.J. Hunt and D. Rivard (ed.). Risk evaluation and biological reference points for fisheries management. Can. Spec. Publ. Fish. Aquat. Sci. 120. Medley, P.A.H.& Ninnes, C.H. 1999. A stock assessment for conch (Strombus gigas L.) fishery in the Turks and Caicos Islands. Bulletin of Marine Science 64(3): 399-406. PFSA. 2003. Participatory Fisheries Stock Assessment. Technical Report, Software and Help File. MRAG. (contact: paul.medley@virgin.net). Punt, A. & Hilborn, R. 1996. BIODYN Biomass dynamic models. User's manual. FAO Computerized Information Series (Fisheries). No. 10. Rome, FAO. 62p. Punt, A. & Hilborn, R. 2001. BAYES-SA Bayesian stock assessment methods in fisheries. User's manual. FAO Computerized Information Series (Fisheries) No. 12. Rome, FAO. 56p.
+
+41
+
+Silverman, B.W. 1986. Density Estimation for Statistics and Data Analysis. Monographs on Statistics and Applied Probability 26. Chapman and Hall, London. Stamatopoulos, C. 2002. Sample-based fishery surveys. A technical handbook. FAO Fisheries Technical Paper. No. 425. Rome, FAO. 132p. Thompson, S.K. 1992. Sampling. John Wiley and Sons, New York.
+
+42
+
+APPENDIX I Fishery checklist The Marine Stewardship Council (www.MSC.org) has developed a series of principles and criteria which allow the fishery management to be measured against the FAO Code of Conduct for Responsible Fisheries. Many of the criteria can be directly related to CITES requirements. However, the MSC and FAO Code of Conduct go well beyond CITES minimum requirements in their definition of good management. By applying good management defined by the Code of Conduct, not only will CITES requirements be met, but various pressures leading to overfishing will be removed. The principles, criteria and guidelines are provided herewith a commentary for conch and can be used to assess a fishery to see how well management is being applied. All the issues raised should be considered by the fishery managers in developing a sound management system. The priority of requirements (first and second) is also listed. (The guidelines have been adapted from Moody Marine Ltd. Scoring guidelines are available, with other documentation, from the Marine Stewardship Council website www.MSC.org.) Those components considered to be most relevant to the CITES regulations and requirements are Principle 1 and all its sub-components, 2C, 3A, 3B1 and 3G.
+
+Principle 1:
+
+A fishery must be conducted in a manner that does not lead to over-fishing or depletion of the exploited populations and, for those populations that are depleted; the fishery must be conducted in a manner that demonstrably leads to their recovery. Scoring Guideline Priority Commentary
+
+1A
+
+There should be sufficient information on the target species and stock to allow the effects of the fishery on the stock to be evaluated. 1A.1 Can the species be readily 1 Yes identified? 1A.2 Is the life history of the species 1 Yes, although where larvae may come understood? from in each case is not necessarily known. (i.e. a stock may be shared with neighbouring fisheries). 1A.3 Is the geographical range of the 1 In all cases a management unit can be target stock known? defined relatively easily using depth contours. Adult stocks are not thought to migrate through deep water. 1A.4 Is there information on fecundity/ 2 There is considerable general biological recruitment and factors causing information available on conch. natural mortality?
+
+43
+
+This is necessary either through CPUE or surveys. 1 Shared stocks and illegal, unrecorded fishing need to be taken into account when setting controls and managing the fishery. 1B There should be sufficient information on the fishery to allow its effects on the target stock to be evaluated 1B.1 Is fishery related mortality 1 All catches need to be recorded or well recorded/ estimated (including estimated landings, discards and incidental mortality)? 1B.2 Is fishing effort recorded/ 1 A high proportion of effort and its estimated? associated catch needs to be recorded 1B.3 Are fishing methods known 1 The different vessels and their fishing throughout the fishery? techniques need to be registered. 1B.4 Are gear types and selectivity 1 known for the fishery? 1B.5 Is information available on the 1 The main issue for selectivity is water variations in gear selectivity and depth and fishing location. catchability over time? 1C Have appropriate reference levels been developed for the stock? 1C.1Are there appropriate target reference points? Appropriate optimal socio-economic levels of exploitation need to be identified. 1C.2 Are there appropriate limit and 1 Limit reference points and decision rules precautionary reference points or need to be related to management decision rules? actions, such as rebuilding programs. 1C.3 Do reference points meet 1 Any reference points and rules need acceptable international standards? scientific justification. 1D Is there a well-defined and effective harvest strategy to manage the target? 1D.1 Is there a mechanism in place to contain fishing effort as required? 1D.2 Are clear, tested decision rules set out? 1D.3 Are appropriate management tools specified to implement decisions in terms of input and/or output controls? 1 1 1 The capability of management to control effort and fishing capacity needs to be in place and demonstrated. Decision rules need to be agreed with all parties and clearly documented in the management plan. The prospective fishery controls need to be specified. These controls should apply a limit to the total catch. 1
+
+1A.5 Is information collected on the abundance/density of the stock? 1A.6 Are there other fisheries identified in the area that are not subject to certification?
+
+1
+
+44
+
+1E Is there a robust assessment of stocks? 1E.1 Are assessment models used? 1 One or more operational model should be developed. The same or different models may be used to estimate parameters, and therefore indicators and reference points. Models fitted to data should at the very least indicate confidence intervals on results. Uncertainties and assumptions need to be documented and where possible their implications assessed. Management controls need to be robust to the main uncertainties. The main task of each assessment should be to define stock status and offer management advice to achieve the various objectives.
+
+1E.2 Does the assessment take into account major uncertainties in data and have assumptions been evaluated? 1E.3 Are uncertainties and assumptions reflected in management advice?
+
+1
+
+1
+
+1E.4 Does the assessment evaluate 1 current stock status relative to reference points? 1E.5 Does the assessment include the 1 consequences of current harvest strategies? 1F. Is the stock(s) at appropriate reference level(s)? 1F.1 Is the stock(s) at or above reference levels? 1F.2 If the stock is below the limit reference, is rebuilding specified in the decision rule being implemented? 1 1
+
+The status of the stock needs to be defined where this has not been done. This should lead automatically to preplanned actions if the stock is found to be below limit or precautionary reference points. Actions should be specified in the management plan.
+
+Principle 2:
+
+Fishing operations should allow for the maintenance of the structure, productivity, function and diversity of the ecosystem (including habitat and associated dependent and ecologically related species) on which the fishery depends Priority Commentary
+
+Scoring Guideline 2A.
+
+Is there adequate determination of ecosystem factors relevant to the geographical scale and life-history strategy of the target species? 2 Generally mapping of relevant habitats for 2A.1 Are the nature and distribution of habitats relevant to the fishing this species is straightforward. If density operations known? surveys are to be used, some sort of map is necessary.
+
+45
+
+2A.2 Is information available on nontarget species affected by the fishery? 2A.3 Is information available on the position and importance of the target species within the food web? 2A.4 Is there information on the potential for the ecosystem to recover from fishery related impacts?
+
+2
+
+2
+
+Fishers will probably take by-catch opportunistically. Such by-catch needs to be monitored. It may be necessary to consider conch as part of a multispecies fishery. There is predation information, but not enough for ecosystem models.
+
+2B
+
+Unless there is monitoring of several key species, this will be difficult to assess. Even where such monitoring takes place, relating changes specifically to conch fishing will be difficult. In general, the ecosystem may be considered not to be sensitive to conch abundance if overfishing is not occurring. Are general risk factors adequately determined?
+
+2
+
+2B.1 Is information available on the 2 This would need to be monitored. Divers nature and extent of the by-catch sometimes catch other species (capture of non-target species)? opportunistically. 2C Is the fishery conducted in a manner which does not have unacceptable impacts on recognized protected, endangered or threatened species? 2C.1 Is there information on the 2 CITES Appendix II is relevant here. Any presence and populations of potential impacts on hard corals and protected species? seagrass should also be considered (e.g. from shell discards). It is unlikely that there will be significant impact on other species. 2C.2 Are interactions of the fishery 2 Impacts will have to be reviewed. If there with such species adequately are any impacts they will have to be determined? quantitatively assessed. This would involve an infrequent mini-assessment of the 2C.3 Is information available on the 2 species involved. extent and significance of such interactions? 2D Is there adequate knowledge of the effects of gear-use on the receiving ecosystem and extent and type of gear losses? 2D.1 Is there adequate knowledge of 2 This should be negligible unless fishers are the physical impacts on the anchoring on coral reefs or discarding habitat due to use of gear? shells in inappropriate places. 2D.2 Is any gear lost during fishing Unless gears are set nets or traps, this will operations (ghost fishing)? not apply. 2E Do assessments of impacts associated with the fishery including the significance and risk of each impact, show no unacceptable impacts on the ecosystem structure and/or function, on habitats or on the populations of associated species? 2E.1 Have all the significant effects of 1 Main impacts are likely to be discard of the fishery on the ecosystem shells, discard of tissue after processing been identified? and by-catch or multispecies effects.
+
+46
+
+2 If recruitment is relatively unaffected, it is 2E.2 Does the removal of target stocks have unacceptable impacts unlikely the fishery will be having a on ecosystem structure and significant impact. function? 2E.3 Does the removal of non-target 2 By-catch is unlikely to be important. If stocks have unacceptable impacts conch forms part of a multispecies fishery, on ecosystem structure and all the main species will have to be function? assessed. 2E.4 Does the fishery have 2 Discards of shells may cause problems or unacceptable impacts on habitat may enhance habitat as artificial reefs. structure? 2E.5 Is associated species diversity 2 If any potential impacts are identified they and productivity affected to will need to be addressed by a research unacceptable levels? programme. 2F Are strategies developed within the fisheries management system to address and restrain any significant impacts of the fishery on the ecosystem? This would require some scientific 2F.1 Are levels of acceptable impact 1 determined and reviewed? assessment of acceptable impact. This would follow standard environmental 2F.2 Are management objectives set 2 impact procedures. in terms of impact identification and avoidance/reduction? 2F.3 Are management measures in 2 place to modify fishery practices in light of the identification of unacceptable impacts?
+
+Principle 3: The fishery is subject to an effective management system that respects local, national and international laws and standards and incorporates institutional and operational frameworks that require use of the resource to be responsible and sustainable Scoring Guideline 3A 3A.1 Are organisations with management responsibility clearly defined including areas of responsibility and interactions? 3A.2 Does the management system contain clear short and longterm objectives? Priority 1 Commentary Setting up the authorities may require legislation. An independent scientific authority needs to be designated with the necessary resources to conduct assessments. The management authority should include a transparent decision making mechanism. These should be clearly stated in the management plan. Objectives should be compatible with CITES Appendix II.
+
+Does a management system with clear lines of responsibility exist?
+
+1
+
+47
+
+3A.3 Do operational procedures exist for meeting objectives?
+
+3A.4 3A.5
+
+3A.6 3A.7
+
+3B
+
+Controls need to be specified which limit the amount of fishing which can be conducted. There needs to be an enforceable method for applying controls, such as vessel register and catch monitoring. Are there procedures for 1 Controls must demonstrably reduce catches measuring performance relative where necessary. Catches therefore must to the objectives? be monitored. Do measures exist for 1 Precautionary limits must be applied based implementing a precautionary on rapid information gathered approach in the absence of immediately. Length frequency, fisher sufficient information? interviews and density surveys will provide information rapidly enough for an initial assessment. These assessments can be updated as more information becomes available. Does the system include a 1 Some formal system whereby the fishers consultative process including and the fishing industry can raise issues affected parties? must exist. Is there an appropriate 1 A mechanism needs to be defined where by mechanism for the resolution of interested parties can make formal and disputes within the system? transparent representation on issues in the fishery. Does the management system have a clear legal basis? 1 Legislation may eventually need to be updated. However, policy statements in line with regulations set according to scientific advice should be initially sufficient. Clearly, CITES figures largely in this. The fishery activities should be compared against legislation. Any conflicts need to be assessed through recorded meetings with fishers and industry.
+
+1
+
+3B.1 Is the fishery consistent with International Conventions and Agreements?
+
+3B.2 Is the fishery consistent with 1 national legislation? 3B.3 Does the system observe the 1 legal and customary rights of people dependent upon fishing? 3B.4 Are fishers aware of legal 1 requirements? 3C Does the management system operate in a manner appropriate to the objectives of the fishery? 3C.1 Does the system include 1 Any subsidies for fishing may severely subsidies that contribute to undermine sustainable fisheries. In unsustainable fishing? general, it needs to be proved that such subsidies do not exist. 3C.2 Does the system include 1 economic/social incentives that contribute to sustainable fishing? 2 In general this will not be a problem unless 3C.4 Is the system consistent with the there is a significant number of commercial cultural context, scale and intensity of the fishery? foreign vessels.
+
+48
+
+3D 3D.1
+
+3D.2 3D.3 3E 3E.1 3E.2
+
+3E.3
+
+3E.4
+
+3E.5 3E.6 3F 3F.1 3F.2
+
+Does the management system include measures to achieve objectives for the target stock? Are the resource and effects of 1 Catch, effort, mean meat weight, size the fishery monitored? frequency and density surveys should allow the scientific authority to monitor most of the changes in the fishery. Are results evaluated against 1 This will require the regular evaluation of target and limit reference points? relevant indicators Do procedures exist for 1 There should be a demonstrable ability to reductions in harvest in light of control fishery harvest levels. monitoring results. Does the management system include measures to achieve objectives for the affected ecosystem? Are measures in place to address 2 The management will need to review how (avoid or minimize) significant and where shells and tissue are discarded. environmental impacts? Do fishing operations implement 2 It is unlikely that fishing practices have a appropriate fishing methods significant impact on the habitat. designed to minimize adverse impacts on habitat, especially in critical or sensitive zones such as spawning or nursery areas? Are no take zones appropriate 1 This is a decision for management whether and, if so, are these established? to use no take zones or not . Where used, they need to be enforced and their effectiveness monitored. Do measures include impacts on 2 Measures to avoid by-catch if necessary should be straightforward in the non-target species and inadvertent impacts upon target commercial fishery. species? Do measures include operational 2 It may prove appropriate to control shell waste (gear, fuel, and waste?) and tissue discarding by processors and fishers. 2 Destructive fishing practices are most Does the fishery employ destructive fishing practices? likely not an issue for conch. There are various issues with running a vessel. Does a research plan exist in line with the management system to address information needs? Have key research areas 1 Potential yields and hence initial reference requiring further information points will have to be established. been identified? 1 Scientific research will be required to Is research planned/undertaken assess the unexploited state of the fishery. to meet the specific Various biological models of the species, requirements of the management plan? such as growth and natural mortality rates, will be useful in refining management.
+
+49
+
+3F.3 Is relevant research carried out by other organisations and is this taken into consideration? 3G 3G.1
+
+3G.2
+
+3G.3 3G.4 3G.5 3G.6
+
+There has been considerable research on conch. How and when it may be used once a basic system is in place should be reviewed. Are control measures in place to ensure the management system is effectively implemented? 1 Are information, instruction Fishers and fishing industry employees and/or training provided to should be involved in and aware of the fishery operatives in the aims management system as much as possible. and methods of the management This will help with compliance. Where system? fishers contravene the system, management needs to be able to show effective Is surveillance and monitoring in 1 corrective actions, such as prosecutions, place to ensure that requirements have been applied. of the management system are complied with? Can corrective actions be 1 applied in the event of noncompliance? Do fishery operatives assist in 1 the collection of catch, discard and other relevant data? Is the management system 2 Independent reviews of the management subject to internal review? plan and scientific assessments are highly desirable. Is the management system 2 subject to external review?
+
+1
+
+50
+
+APPENDIX II Interpreting mean meat weight 1. Factors controlling meat weight Mean weight of conch meat pieces may change in a fishery due to three causes: · · · Increasing fishing mortality will tend to decrease the average weight as there will be an increased chance that the conch will be caught when they are younger. Selectivity will not only affect the population in the same way as fishing mortality, but if selectivity changes the size composition and average weight will change. As recruitment fluctuates, so the relative abundance of young, small animals will change in the catches.
+
+Controlling mean size by itself will be inadequate in protecting the stock. In observing any particular catch composition, it may be difficult to interpret the meaning with respect to the underlying population from which the catch is drawn. For example, a high proportion of mature conch in the catches may indicate that the stock is healthy with a large spawning stock. It may also indicate that recruitment has failed and fishers are switching to depleting the spawning stock in deeper waters. 2. Reference points Mean size could be used for two purposes. If mean size can be linked to the proportion of the catch which is mature, some minimum size can be set to ensure that this proportion remains high. Conceptually, this will help to ensure that animals are only exploited once they have had a chance to spawn and that the spawning stock will be maintained. Interpreting such a policy in terms of fishing mortality will depend on selectivity, but in general the implication would be that the fishery is directed at the mature stock and that spawning would be less likely to be affected. Even a high fishing mortality should allow a significant proportion to spawn before being caught if the maximum size is set high enough. Ensuring that some minimum proportion of animals reach maturity is usually managed by spawners-per-recruit analyses. Given the variability in size at age, size at maturity and so on, it is not possible to specify a meat weight where all conches will be mature. A reasonable limit reference point would be the mean weight where 50 percent (or some other percentage) are mature. Maturity is relatively easy to measure from the shell (flared lip) as well as the body prior to processing. Size composition data would have to be collected on individuals before and immediately after processing to enable appropriate estimates to be made. Such conversion models do not have to rely on random samples. Specifically larger and smaller individuals can be selected to get a good range. The analysis is straightforward using generalized linear models. A more specific proposal can be made in the case of avoiding growth overfishing. For any animal which is caught, a choice could be made between leaving it in the sea, allowing it to grow at the risk of dying from natural causes or catching it now. Balancing the losses from mortality against gains from growth is usually managed by yield-per-recruit analyses (See Section 11.3).
+
+51
+
+Per-recruit analyses can be carried out without data as long as a reasonable growth and mortality model is available (Figure 4). The following yield-per-recruit analysis uses the Gompertz growth and maturity models, and parameters used in the Belize conch stock assessment workshop 1999 (CRFM, 1999). The model and parameters are presented as an example and would need to be reviewed and, ideally, estimated for each fishery. Although meat weight is shown to be approximately linearly related to fishing mortality, the change is relatively small (Figure 4). It is possible that measurement errors will give a wide range of possible fishing mortality estimates for any given meat weights. Nevertheless the mean weight can be interpreted as long as the fundamental assumptions are not violated. Table 7: Parameters used in the yield-per-recruit model. Parameters and models are taken from CRFM (1999), but are not the only parameters and models which could be proposed. Alternatives should be considered before applying this approach. Gompertz Growth Model a1 4.39E-07 a2 20.12 a3 1.275 Wt = a1 exp(a 2 (1 - exp(- a3 t ))) M 0.3 Age at first capture 2
+
+A mean weight based on yield-per-recruit assumes a particular selectivity and fixed recruitment. If these assumptions are incorrect, the SPR and YPR based reference points may be poor estimates. Size frequency data in many cases will show such assumptions are false and hence interpretation of mean meat weight invalid. An alternative more robust approach is desirable.
+200 YPR Mean Weight SPR 1000
+
+180
+
+900
+
+160
+
+800 Spawning stock biomass per recruit (g)
+
+Yield per recuit / mean weight (g)
+
+140 SPR40% F0 .1 FMSY 100
+
+700
+
+120
+
+600
+
+500
+
+80
+
+400
+
+60
+
+300
+
+40
+
+200
+
+20
+
+100
+
+0 0 0.05 0.1 0.15 0.2 0.25 0.3 0.35 0.4 0 .45 0 .5 0.55 0.6 0.65 0 .7 0.75 0.8 0.85 0.9 0.95 1 Fishing Mortality
+
+0
+
+Figure 4: Spawning biomass per-recruit and yield per-recruit indicating the SPR40%, F0.1 and FMSY for conch using the growth and mortality parameters indicated. SPR40% is the fishing mortality where the spawning biomass has been reduced to 40 percent of its unexploited state. F0.1 and FMSY are the fishing mortality where the YPR slope is 10 percent of the initial slope and the YPR maximum respectively. Each fishing mortality reference maps directly to an equivalent mean 52
+
+weight. Hence, given a per-recruit analysis, mean weight might be used as a proxy for fishing mortality. However, the method assumes constant recruitment and knife edge selectivity. 3. Example decision rule The following example illustrates an approach where data can be immediately used to make a decision. The method focuses on growth, but a similar method should be developed for maturity, looking to maintain a desirable ratio of mature to immature conch in the catches. Such an approach will require the expected ratio in a lightly exploited fishery, which was not available for this analysis. An alternative but closely related approach to yield-per-recruit would look at actual size compositions in the catches and decide whether overall it would have been better to leave the animals in the sea longer to grow rather than catch them now. Such a system would be independent of selectivity and recruitment, but would reflect current catch composition and would change in relation to these effects. Hence, a strong recruitment might well lead to advice to reduce fishing mortality. The approaches are best encapsulated as decision rules, whereby actions taken on an indicator's values in relation to reference points. For any particular size composition, the net gain in leaving the animals in the sea can be derived from the growth model:
+
+C = Yi Yi = Wit e - M t dYi dWit - M t = e - M Wit e - M t dt dt
+where C is the catch weight, Y1 is the yield of the ith conch in the catch and Wit is the weight of the ith conch in the catch (sample) given that its age is t and natural mortality is M. Where discounting is used, M becomes natural mortality plus the discount rate. The calculation for the marginal yield (dYi/dt) can be summed over the sample. A positive number will indicate that overall greater gains would have been made by leaving these conches in the sea and catching them later. For the Gompertz growth model, the marginal yield equation for the catch composition becomes:
+i
+
+ dt
+i
+
+dYi
+
+= a 2 a3e - a3 tWit e - M t - M Wit e - M t    a 2   a3    
+
+  W t i = - ln1-  ln i    a1 
+
+The critical point will be where the marginal yield is zero, where it switches from being positive to negative. This represents the optimal point for the yield. Through simplification and substitution this point can be defined as:
+
+ W S =  a3  a 2 - ln i a  i 1 
+
+  - M  = 0    
+
+53
+
+For a particular sample, where the score S is negative, the implication is yield would be improved by increasing the fishing mortality. Conversely, when S is positive, yield would be increased by reducing fishing mortality. The score itself might therefore be used as an indicator determining the performance of catches in relation to growth. The absolute sum of the score measuring the difference of each size from the optimal size can also be used to indicate the efficiency of the current selectivity. These indicators might be used to measure and quantify various management controls which could improve selectivity as well as advice on fishing mortality levels. This analysis was conducted on Belize data (from CRFM, 1999) for illustration purposes using the previous growth and mortality parameters (Table 7). The data show a large change in catch composition due to different sampling activities (Figure 5). This change is clearly picked up both by the score and the mean weight indicator, both implying rightly that the 1998 size composition would represent growth overfishing. Where only a mean meat weight is available, the score can be applied to the single value. This point would be the size where, for example, an aquaculturist or farmer would harvest the resource. For the Belize parameters, the optimum would be 190g mean meat weight. This ignores the variation in size in the catches, but nevertheless gives some indication of whether meat weights are too small.
+60000 4000 00 3500 00 Number of conch (1998) 3000 00 2500 00 2000 00 1500 00 1000 00 10000 5000 0 0 90 120 15 0 180 210 240 2 70 300 330 360 39 0 420 450 480 Meat Weight
+
+50000 Number of conch (1996-97)
+
+1996 1997 1998
+
+40000
+
+30000
+
+20000
+
+0
+
+Figure 5: Catch size composition reported for Belize 1996­1998 (CRFM, 1999). The compositions show a significant change from 1996/97 to 1998 due to a change in sampling practice and does not represent catches. The data are used for illustration purposes only.
+
+54
+
+Table 8: Mean weight and scores for Belize weight frequency sample data. The mean weight fell in 1998. The score indicates that if 1998 composition represented the catch, growth overfishing would occur. Conversely 1996-97 suggests fishing mortality could increase. The absolute score measures the inefficiency of the gear selectivity. The lower this score, the closer the sizes will be to the optimum size. Controls which reduce this score could increase yield without increasing fishing mortality. 1996 Score -0.273 1997 -0.264 241 0.387 1998 0.273 160 0.480
+
+Mean Weight (g) 242 Mean Abs Score 4. Growth model 0.410
+
+The decision rule is sensitive to the choice of growth model and parameters. It is important that a growth model is used that is as reliable as possible. The size frequency data from Belize suggests the asymptotic size of 240 g is probably too small. Carrying out the procedure for a more realistic 300 g asymptotic size suggests an optimal mean meat weight of 236 g, and that 1996/97 is very close to this optimum (i.e. fully exploited). The growth model is deterministic in this analysis. A slightly more sophisticated approach would allow the model to describe the mean growth and allow for growth variability. Further work would allow uncertainty in parameter values to be represented. Decision rules are particularly good at coping with uncertainty as they allow the costs of making the wrong decision to be explicitly taken into account.
+
+55
+
+APPENDIX III Participatory fisheries stock assessment (ParFish) ParFish implements a multi-criterion decision-making methodology to provide management advice for data-poor, artisanal fisheries in developing countries. The method applies Bayesian decision analysis by identifying the "Bayes action" (see Lindgren, 1976 p.374, for example). All analyses have explicit risks with the optimum action maximizing the expected utility. The method focuses on rapid inexpensive assessment methods to initiate adaptive management. The standard stock assessment models still form the basis of the method. The software allows the method to be applied without knowledge of the numerical routines. Robust statistical techniques have been chosen where ever possible to improve results. The method works by specifying a simulation model representing the behaviour of the fishery. Simulation model parameter sets are drawn at random from a probability distribution constructed from the available information to run simulations. These are used to simulate the possible behaviour of the fishery in response to a fishery control. The fishery controls supported are effort, catch and closed area controls. During the simulation, the state of the stock and the preference score as indicated by the fishers is recorded. These are used to calculate the state of the stock and the fishery in relation to the relevant reference points. The probability modelling is based on parameter frequencies. This allows complex models to be broken down into simpler components. Modelling frequencies, as opposed to modelling data directly, allows a wide range of information sources to be used. Probabilities are modelled using multi-dimensional non-parametric kernel smoothers. Smoothing is carried over all dimensions and random draws (selections) from the posterior are very fast. Kernel smoothing functions are a non-parametric way to estimate probability densities from frequency data. They spread individual points in smooth functions around the point. They work on the same principle as histograms, but have better statistical properties. The smoothing, and hence weighting amongst the different data sources, is estimated directly from the data themselves using a least squares cross-validation technique (see Silverman, 1986). Fisher interviews form an important component of the method. Interviews are used to:
+
+· ·
+
+calculate a preference score as a proxy for utility. estimate a prior probability for the logistic stock assessment model.
+
+The method supports fishing experiments as well as standard catch-effort data models. Fishing experiments allow catchability (fishing mortality) to be estimated rapidly. Field testing in the Turks and Caicos Islands was used to test whether interviews can be relied upon to provide sensible management advice. It was shown in the Turks and Caicos case that interviews provided advice which, if applied in 1974, would be expected to have obtained much greater benefits from the fishery than that which was obtained under no catch control.
+
+56
+
+1. Turks and Caicos Islands Retrospective Analysis The example illustrates an important tenet of the precautionary approach, that a lack of information should not be used as a reason to delay action. Methods exist, such as ParFish, for which data can be both rapidly collected and inexpensive. These can lead to making decisions in the short term which will be a very great improvement over taking no action. Using interview data in the assessment, it was tested against standard catch and effort stock assessment using decision analysis (see PFSA, 2003). Interviews were conducted in July 2003 to obtain stock assessment information from fishers. The Turks and Caicos Islands has a 30-year catch and effort time series which can generate not only an assessment for comparison with the interview decision analysis but also can indicate what would have happened had a quota based on the interviews been applied. It was of interest to see how well management would do if actions were based only on the interview data. The fishery is managed through a quota, so this is the appropriate control. A standard stock assessment using the logistic model fitted to the catch-effort time series indicated the current quota of 1.675 million pounds as too high; and recommended lowering it to 1.6 million pounds landed weight. Using the preference information, the stock assessment based upon both the interview and catch-effort model combined and the catch-effort model alone suggest a lower quota around 1.53 and 1.38 million pounds respectively. Interviews by themselves are much less accurate (as indicated by the much lower limit control), but nevertheless recommends a target of 1.68 million pounds, reasonably close but above the other targets. Table 9: Target and limit controls for the Turks and Caicos Islands conch fishery based on catcheffort and interview data. Scenario Target control Interviews and catch-effort 1531254.07 model combined Interviews data only 1678103.40 Catch-effort model only 1384882.67 Limit control 1580855.29 791651.55 1432696.19
+
+If it is assumed that fishers knew as much in 1974 as they do now, we can use the interview data as representative of what would have been obtained had the interviews been conducted at the beginning of the time series. Hence, the interview-only target quota can be applied at that point to see what might have happened to the fishery had this stock assessment method been applied, assuming that the logistic and maximum likelihood parameter estimates are correct. The actual total catch over the period 1975­2002 was 45.47 million pounds. Had the 1.68 million pound quota been applied, the results suggest a total catch of 47.00 million pounds. This quota would realize higher catches in the longer term by foregoing higher catches in the late 1970s. A discount rate of around 5 percent yields approximately the same net present value between the two options. The real gain, however, would have been the rise in catch rate (Figure 6). The catch-effort model suggests the stock was in an overfished state in 1974 and an enforced quota would have led to stock recovery. In other words, the catch would be met with much less work and costs than is now applied (from 3 300 boat days down to 2 500 boat days to realize the same catch). It indicates considerable benefits to using just interviews in this case, but would need more testing to
+
+57
+
+make the case as a general statement. In particular, in cases where it turns out the logistic is not the best model, it needs to be shown that interviews may still have value in setting initial targets.
+
+800 700 600 500 CPUE 400 300 200 100 0 1974 1976 1978 1980 1982 1984 1986 1988 1990 1992 1994 1996 1998 2000 Years Original Projected On 1.68 quota
+
+Figure 6: Expected catch per boat day (CPUE) from the fitted logistic model and the projected CPUE with 1.68 million pound quota. The cost of applying the quota is that, without the depletion in the mid 1980s, less information would now be available on the behaviour of the stock, so that the current stock assessment would be less reliable. This problem would have to have been addressed through increased research activities.
+
+58
+
+TR/D/A0184E/1/11.05/500
+

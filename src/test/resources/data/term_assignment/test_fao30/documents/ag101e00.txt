@@ -1,0 +1,950 @@
+RAP PUBLICATION 2006/14
+
+HOME GARDENS KEY TO IMPROVED NUTRITIONAL WELL-BEING
+
+RAP PUBLICATION 2006/14
+
+HOME GARDENS KEY TO IMPROVED NUTRITIONAL WELL-BEING
+
+REPORT OF PILOT PROJECT TCP/LAO/2902 (A) "Promotion of home gardens for improved nutritional well-being"
+
+L. Bhattacharjee, S. Phithayaphone and B.K. Nandi in collaboration with the Project Team
+
+Department of Agriculture Ministry of Agriculture and Forestry Lao People's Democratic Republic Food and Agriculture Organization of the United Nations Regional Office for Asia and the Pacific Bangkok, 2006 i
+
+The FAO Technical Cooperation Programme (TCP) Project Promotion of home gardens for improved nutritional well-being TCP/LAO/2902 (A)
+
+The designations employed and the presentation of material in this information product do not imply the expression of any opinion whatsoever on the part of the Food and Agriculture Organization of the United Nations concerning the legal status of any country, territory, city or area or of its authorities, or concerning the delimitation of its frontiers or boundaries.
+
+All rights reserved. Reproduction and dissemination of material in this information product for educational or other non-commercial purposes a r e authorized without any prior written permission from the c o p y r i g h t holders provided the source is fully acknowledged. Reproduction of material in this information product for resale or other commercial purposes is prohibited without written permission of t h e copyright holders. Applications for such permission, with a statement of the purpose and extent of the reproduction, should be addressed to Senior Food and Nutrition Officer, Food and Agriculture Organization of the United Nations, Regional Office for Asia and the Pacific, 39 Phra Atit Road, Bangkok 10200, Thailand.
+
+For copies write to: Biplab K. Nandi Senior Food and Nutrition Officer Food and Agriculture Organization of the United Nations, Regional Office for Asia and the Pacific 39 Phra Atit Road Bangkok 10200, Thailand
+
+ FAO 2006 ii
+
+Foreword
+A c h i e v i n g food security and nutritional well-being is central to the achievement of the M i l l e n n i u m Development Goals (MDGs) and the World Food Summit (WFS) targets. Commitment towards and achievement of these goals and targets remain a major challenge for the world's community and Asia in particular. Amidst these challenges, it is encouraging that analysis of recent trends in FAO's flagship publication The State of Food Insecurity in the World 2005 shows a reduction in the number of undernourished in Asia and the Pacific, although at a pace too slow to meet the target of halving hunger by 2015. FAO recognizes that healthy, well-nourished people are both the outcome of successful social and economic development and constitute an essential input into the development process. Achieving the WFS nutrition-related goals requires that national and sectoral development policies and p r o g r a m m e s are complemented by effective community-based action aimed at improving household food security and promoting the year-round consumption of nutritionally adequate diets. These actions need to occur within the framework of promoting sustainable livelihoods and need to address the variety of relevant local issues leading to various forms of poverty and malnutrition, including problems of chronic and seasonal food shortages, lack of dietary diversity, inadequate family care and feeding practices, and poor living conditions. Emphasis is also being p l a c e d on interdisciplinary activities to assist national and district level stakeholders and communities to identify and implement intersectoral strategies and actions that lead to sustainable reductions in malnutrition. These activities are being actively pursued by the FAO regional office for Asia and the Pacific as part of its regular field programme. FAO is providing technical assistance to national governments and related stakeholders to better plan, target and monitor food security and programmes. In collaboration with the FAO Representation in the Lao People's Democratic Republic, the FAO regional office has undertaken an initiative to promote integrated home gardening in selected villages of central Lao PDR targeting vulnerable groups of rural farmer households. This report provides an account of a technical assistance project implemented under the Technical Cooperation Project (TCP) on "Promotion of home gardens for improved nutritional well-being". The pilot project, which commenced operations in February 2003 and concluded in August 2004, has developed and fine-tuned a suitable approach to household food security and nutrition improvement capable of replication at the national level. A significant outcome of the project was the development of provincial, district and community-level capacities for implementation and management of home gardening and nutrition improvement programmes. Post-project evaluations found increased production of vegetables, fruits, poultry and fish among the target households and awareness of the need for greater consumption of home-grown produce. The decline in rates of undernutrition in children under five years of age in the areas covered by the project demonstrates the project's impact on nutrition. The project serves as a pilot field-based example contributing t o w a r d s achieving the objectives of the World Food Summit and the first Millennium Development Goal. I trust this document is a useful output of FAO's collaborative activities in agriculture and nutrition working towards household food security and nutrition improvement initiatives in the Asia-Pacific region.
+
+He Changchui Assistant Director-General and FAO Regional Representative for Asia and the Pacific
+
+iii
+
+iv
+
+Contents
+Page Foreword ...................................................................................................................... 1. 2. 3. 4. Introduction .......................................................................................................... Project objectives ................................................................................................. Expected outcomes ............................................................................................... Materials and methods ........................................................................................ 4.1 4.2 4.3 4.4 4.5 4.6 4.7 4.8 4.9 5. Project sites ................................................................................................... Criteria for site selection............................................................................... Selection of households ................................................................................ Targeting households .................................................................................... Development strategy ................................................................................... Institutional arrangements ............................................................................ Working strategy at provincial and district levels ........................................ Promoting community participation ............................................................. Group formation ........................................................................................... iii 1 3 4 4 4 4 5 5 7 7 7 9 9 10 10 11
+
+Project outputs and findings ............................................................................... 5.1 5.2 5.3 Establishment and/or improvement of home gardens (including fruits, vegetables, small animals and fish in target households) ............................. Increased amount and variety of nutritious food available for target families and communities ............................................................................. I n t e n s i v e nutrition education campaign aimed at improving and diversifying family food consumption with special emphasis on children under five and women of reproductive age .................................................. Improved knowledge of nutrition, home gardening and health among MAF and MOH staff and target families ............................................................... Improved food consumption, feeding practices and care of children under five years and women of reproductive age ................................................... Establishment of collaborative networks at national, provincial, district and community levels ................................................................................... Project results and impact evaluated: model home gardens including poultry, pigs and fish ponds for improved nutritional well-being, adopted for national implementation..........................................................................
+
+25 26 28 37
+
+5.4 5.5 5.6 5.7
+
+41 42 43
+
+6. 7.
+
+Conclusions ........................................................................................................... Recommendations ................................................................................................
+
+v
+
+Home gardens key to improved nutritional well-being
+
+1. INTRODUCTION
+The Lao People's Democratic Republic is a landlocked nation with Myanmar and China to the north, the Socialist Republic of Viet Nam to the east, Cambodia to the south and Thailand to the west. An estimated 85 percent of the population is rural. There are at least 49 distinct ethno-cultural and linguistic groups. Ethnic minorities typically live in the highlands, where the transport network is limited, infrastructure is underdeveloped and access to social services is poor. M e m b e r s h i p in the Association of Southeast Asian Nations (ASEAN) since 1997 is facilitating Lao PDR's linkage with the larger and more prosperous economies of the region. However, agriculture is still the main source of livelihood and food security, accounting for 52 percent of the gross domestic product (GDP) and about 90 percent of the workforce. The main crops are rice, corn, tubers and coffee with significantly large cultivation of peanuts. However, agricultural production is low and scattered. Vegetables are grown on about 31 000 ha comprising about 3.9 percent of the total cropped area, with a total output of 117 300 tonnes. The annual per capita vegetable availability of 23.5 kg is less than one-third of the minimum level of 73 kg1 required for nutritional well-being. Vegetables are traditionally grown in home gardens which vary in size, biodiversity and seasonal produce, being adapted to local resources and preferences. Vegetable cultivation is usually in pots or on roof tops and scattered across the courtyard. Only a few vegetables and fruit varieties are grown in traditional gardens which lack improved know-how and depend on limited means for their upkeep. Most households also raise chicken and some keep pigs for food and income. Year-round production is limited to the allium, cucurbits and some leafy vegetables. Most rural households grow vegetables mainly for self-consumption although the yield is often not enough for the family's needs. While plant foods are important sources of vitamin A and other micronutrients, it is now well known that the bioavailability of plant food in Lao PDR is lower than originally thought. Malnutrition rates are high in Lao PDR2 with 40 percent of children below five years of age reportedly underweight, 41 percent stunted and 15 percent wasted. The prevalence of chronic energy deficiency among adults is alarmingly high at 19 percent, even higher than reported in a previous survey3. With a high under-five mortality rate of 105 per 1 000 live births and a low life expectancy of 54.5 years in the year 2000, Lao PDR also has a significantly large proportion of young people, about half the population being less than 15 years old.
+
+Ali M., Samson C.S. (1997). Micronutrient deficiency and vegetables: A neglected food frontier in Asia, Food Policy, 22(1): 15-38. 2 Report on National Health Survey: Health Status of the People in Lao PDR, Vientiane 2001. 3 FAO (1995). Diagnostic de la situation nutritionnel et consummation alimentaire au Laos. Rapport complet de l'etude sur l'etat nutritionnel de la population Laotienne. ESNA: TCP/LAO/2354. FAO Rome 1994, cited in FAO Nutrition Country Profiles Laos, July 2003.
+
+1
+
+1
+
+Home gardens key to improved nutritional well-being Malnutrition not only results in increased mortality and health problems including infectious diseases, mental retardation and blindness, it is also responsible for loss of human capital and work productivity. About 39 percent of Lao PDR's population is below the national income poverty line and 22 percent are food insecure. The average per capita annual income of US$370 in 1997 instead of increasing towards the targeted US$500 in 2000, declined to US$350 and then further to US$331 by 2003 as a result of inflation. I m p r o v e d nutritional standards lead to improved health, well-being and development o p p o r t u n i t i e s . Evidence from Asian countries, particularly Viet Nam4 and some other countries5 in the region, shows that home gardens in combination with nutrition education can make a highly effective contribution towards nutrition improvement among rural poor households. Aware of the negative impact of high malnutrition levels on the national development potential, and in keeping with its commitment at the 1992 International Conference on Nutrition (ICN) and to the UN Millennium Development Goals (MDGs), the Government of Lao PDR is giving priority to diversifying food consumption to ensure a more balanced diet to its people. As this objective could not be achieved from local expertise and resources alone, the Government requested assistance from FAO. Under the US$332 000 Technical Cooperation Project (TCP) "Promotion of home gardens for i m p r o v e d nutritional well-being", TCP/LAO/2902 (A), FAO collaborated with the Government of Lao PDR to promote home gardens for improving nutritional well-being of rural communities in Lao PDR. The pilot project, which commenced operations in February 2003 and concluded in August 2004, has developed and fine-tuned a suitable approach for household food security and nutrition improvement capable of replication at national level. The project included a creative participatory planning and implementation process involving local communities, district-level authorities as well as technical experts and policy makers in the Department of Agriculture (DOA). It has provided an integrated package of home gardening inputs and nutrition education to target households and communities in four villages6 of Vientiane and Bolikhamxay Provinces as well as in Vientiane Municipality. A total of 204 home gardens and four community gardens have been established. The resulting diversified diet is expected to reduce malnutrition and improve health, especially of under-five-year-old children and women of reproductive age. The project also promoted 59 micronutrient-rich foods through the home gardening programme. Another project objective was additional income generation for rural families, not only through direct sale of home produce but also from indirect savings as a result of reduced health care expenditure. The project was implemented in close collaboration with the Ministry o f Health (MOH), Ministry of Education (MOE), Lao Women's Union (LWU) and international non-governmental organizations (NGOs).
+
+FAO Project GCP/VIE/02/AUL (2000) Household Food Security for Nutrition Improvement, AusAID. Helen Keller International/Asia Pacific (2001) Homestead Food Production ­ A Strategy to combat Malnutrition and Poverty. Jakarta, Indonesia. 6 Ban Nakhoung; Ban Cheng; Ban Natham; Ban Somsaath.
+5
+
+4
+
+2
+
+Home gardens key to improved nutritional well-being A significant outcome of the project was the development of provincial, district and community-level capacities for implementation and management of home gardening and nutrition improvement programmes. This was done through training of trainers (TOTs) and in-service training (IST) by FAO experts on key modules of nutrition, horticulture, small livestock and fisheries for provincial and district officials of the Department of Agriculture (DOA). A post-project evaluation found increased production of vegetables, fruits, poultry and fish among the target households and awareness created for greater consumption of home-grown produce. Comparison with baseline estimates found that moderate and severe undernutrition rates for under-five-year-old children had declined from 23 to 15.9 percent and 9.5 to 2.3 percent respectively.
+
+2. PROJECT OBJECTIVES
+The objective of TCP/LAO/2902 (A) pilot project "Promotion of Hone Gardens for Improved Nutritional Well-Being" was to develop a model for household nutrition garden production, including small livestock and aquaculture. Covering a population of 1 000 people from about 200 households in four villages, the project especially targeted families with children less than five years old. The overall project objective was to reduce malnutrition and improve nutritional well-being of the Lao population through increased production and consumption of nutritious food with special emphasis on a micronutrient-rich diet. The immediate objective was to develop a nationally replicable model for increased and diversified household food production and consumption by rural families, in combination with nutrition education. The project had the following specific objectives:
+q
+
+Increase the amount and variety of nutritious food for project households with special emphasis on food rich in micronutrients. Carry out an intensive public nutrition education campaign aimed at improving and diversifying family food consumption with special emphasis on children under five years old and women of reproductive age. Establish a network for collaboration between the Ministry of Agriculture and Forestry (MAF), Ministry of Health (MOH), Special Programme for Food Security (SPFS) team, FAO and relevant development partners. Evaluate the results and impact of the project and develop model home gardens for improved nutritional well-being and suitable for national implementation.
+
+q
+
+q
+
+q
+
+3
+
+Home gardens key to improved nutritional well-being
+
+3. EXPECTED OUTCOMES
+q
+
+Improved dietary diversification and increased consumption of micronutrient-rich food by target groups. Establishment of a collaborative network of all partners. S e t t i n g up of a model for household gardens including livestock/fisheries, and diversified food consumption.
+
+q q
+
+4. MATERIALS AND METHODS 4.1 Project sites
+The project covered 204 households in four selected villages in four districts of three provinces in Lao PDR. The sites were chosen from among the highly food-insecure and m a l n o u r i s h e d areas of the country 7. The project activities were targeted at poor and food-insecure8 families with under-five-year-old children including those with moderate or severe undernourishment. The provinces of Vientiane and Bolikhamxay were selected on the recommendation of the Director-General, Department of Agriculture (DOA) of the MAF, Government of Lao PDR as well as other senior officials including those of the DOA and SPFS. The Head of Agriculture and Forestry Department, Vientiane Municipality suggested the inclusion of Vientiane Municipality (See Table 1 for project village, province and district name and number of households).
+Table 1: Selected sites, households and population Province Vientiane Vientiane Municipality Bolikhamxay Total District Thourakhom Pakngnum Xaythany Thapabath Village Ban Cheng Ban Natham Ban Nakhoung Ban Somsaath No. households selected 50 50 50 50 200 No. households participated 52 47 54 51 204
+
+4.2 Criteria for site selection
+The criteria for site selection were discussed with the provincial heads at provincial level meetings and this was followed by discussions with heads of the Provincial Agricultural Office. Nutrition-linked criteria, in particular, were used as a basis for identifying the sites. The process of site selection was facilitated by subsequent meetings with the heads of the District Agricultural Office.
+
+7 8
+
+SPFS PRA and Socio-economic Baseline Survey 2002. Households rated food-insecure on the basis of rice insufficiency for 3-6 months.
+
+4
+
+Home gardens key to improved nutritional well-being The following criteria set forth in the SPFS guidelines were used for selecting the sites: (a) national food security importance; (b) replicability; (c) availability in province of sustainable demonstration technologies; (d) interest of local community; and (e) vulnerability to food insecurity9. The criteria linked with nutrition included: (a) poverty as assessed by household food security and nutrition; (b) high child malnutrition rate; and (c) willingness and commitment by community leaders to take action against malnutrition.
+
+4.3 Selection of households
+The project used a purposive sampling method to select households on the following criteria: (a) All households with children under five years of age. (b) Households with a malnourished10 child under five years old (manifested as moderate and severe underweight, wasting and stunting). (c) Households with limited capital assets (especially consumer items). (d) Households with limited production assets (especially land). (e) No regular employment income. Accordingly, 50 poor households were identified in each village and a total of 200 households were selected.
+
+4.4 Targeting households
+The targeting of households was an important part of the process of selecting the final population to be covered by the project. The identification of malnourished children was an essential step in selecting the villages. The children were screened for malnutrition (under-nutrition) using anthropometric criteria in collaboration with the Department of Health at the district level. Of the 200 targeted households, 132 households had children less than five years of age. The number of children who actually turned up for the anthropometric assessment was 196 (See Table 2).
+Table 2: Children screened for targeting Village Ban Cheng Ban Natham Ban Nakhoung Ban Somsaath Total
+9
+
+Total population 1 707 1 650 1 771 379 5 507
+
+No. of children weighed11 54 52 56 34 196
+
+Rice insufficiency or rice production/capita used as indicator of vulnerability to food insecurity. Defined by anthropometric measurements using weight for age, weight for height and height for age; assessment in collaboration with DOH. 11 Children reporting for the weighing and weighed.
+10
+
+5
+
+Home gardens key to improved nutritional well-being The children's age, weight and height measurements were taken. The growth chart used at the district health centres was used to record the data and the children were identified for varying grades of nutrition using weight for age, weight for height and height for age criteria as per NCHS12 standards. This was used to prepare the list of children to be targeted and they were followed through the project duration for anthropometric assessment. The weights and heights of all the children from 6 to 60 months were monitored every quarter for a period of 15 months. The anthropometric assessment was closely linked with complementary feeding activities. Figure 1 shows the locations of the four target villages in the provinces of Vientiane, Vientiane Municipality and Bolikhamxay.
+
+Phongsaly
+
+Luang Prabang
+
+Houaphan
+
+Ban Somsaath
+
+Khammouane
+
+Ban Cheng
+
+Ban Natham Ban Nakhoung
+Savannakhet
+
+Bolikhamxay
+
+Vientiane
+Saravan Sekong
+
+Vientiane Municipality
+
+Champassak Attapeu
+
+Figure 1: Map of project localities
+12
+
+National Centre for Health Statistics.
+
+6
+
+Home gardens key to improved nutritional well-being
+
+4.5 Development strategy
+T h e first step was liaising with government ministries (MAF and MOH) to promote awareness of the National Plan of Action for Nutrition for Lao PDR, especially the value of the collaborative programme on home gardens and nutrition education to improve nutritional well-being of Lao rural households. The project conducted a nutrition advocacy meeting with stakeholders and partners at national levels. This was done by the National Project Director and the International Consultant on Nutrition and Household Food Security. The stakeholders included the Deputy Director-General, national experts in horticulture, livestock, and fisheries from DOA as well as the Project Steering Committee13. This provided a forum to discuss programme planning at all levels from the community to the government, promote linkage of nutrition with home gardening and capacity building at provincial and district levels to facilitate project implementation. The action plan and definition of responsibilities for project implementation were shared and discussed with the national level team. The meeting outcomes included an overview of project activities, streamlining and coordination of the action plan, and strengthened collaboration among DOA and DOH partners. It was decided that growth monitoring and promotion activities for children under five years old would be conducted on a periodic basis. The liaising process led to each province and district being assigned a project coordinator responsible for supporting and facilitating project implementation.
+
+4.6 Institutional arrangements
+The project envisaged the development of provincial, district and community level capacities to implement and manage the nutrition improvement activities. Coordinators were assigned at provincial and district levels by the Provincial Agriculture and Forestry Office (PAFO) and the District Agriculture and Forestry Office (DAFO) to facilitate implementation of project activities in the areas of nutrition, horticulture, fisheries and small livestock. The NPD and Deputy NPD liaised with the district and provincial level team for smooth implementation of all project activities. Details of these arrangements were worked out and finalized as part of the Action Plan for Implementation. There was constant collaboration between provincial and district coordinators and project technical experts throughout the project's implementation. Other international consultants also worked with provincial and district teams during their missions. There were regular meetings and the provincial and district coordinators served as a Support Committee for the project.
+
+4.7 Working strategy at provincial and district levels
+The provincial coordinators facilitated the working plan of the district teams. A district level team leader was assigned to coordinate and manage the district team, prepare its activity plan and a summary of the district team's report on each project component. Each activity was discussed before implementation and clarifications, if any, were sought by the staff. District team leaders had to submit the working plan to the DAFO chief and/or the District Head/Cabinet for his agreement and permission for implementation. This was necessary
+13
+
+The Project Steering Committee was a key part of institutional arrangements.
+
+7
+
+Home gardens key to improved nutritional well-being because all village heads work under the management of the District Head. The team leader then directly contacted the village heads and explained all the activities to them who, in turn informed all target households/members in the village. This was done through a village meeting where the decision to implement the activities had to be approved and informed to community collaborators. The village head assigned one of the three village authorities to cooperate with the district team for the selection of target households in accordance with project criteria. The village committee and district team prepared the list of target households. The village committee also finalized the community collaborators who were selected through socio-gram process with the participation of all households. One community collaborator was responsible for mobilizing ten households (from her/his cluster of neighbouring households) to undertake project activities. The village heads were guided by the district team's working plan and reported both to the district team leader and the zone leader and/or the District Cabinet (See Figure 2 for administrative structure of the project implementation team from district level onwards).
+
+DISTRICT (HEAD/DEPUTY HEAD) 1/DISTRICT DISTRICT (CHIEF/DEPUTY OF A & F) 1/DISTRICT
+
+SUPPORT
+
+DISTRICT
+
+CO-ORDINATORS (1/DISTRICT) 4 ASSIGNED TO PROJECT (1/VILLAGE)
+
+INTERFACE
+
+VILLAGE HEADMAN
+
+ACTION
+
+DEPUTY HEADMEN
+
+(2/VILLAGE)
+
+COMMUNITY COLLABORATORS (5/VILLAGE AT A RATIO OF 1:10 HOUSEHOLD)
+
+HOUSEHOLDS
+
+Figure 2: Project implementation structure
+
+Project activities and extension services for target families were implemented through a community-based network supported by the district team. As part of the community liaising process, meetings were held with the village development committee comprising the village h e a d m a n , community project leader assigned by the village headman and community collaborators.
+
+8
+
+Home gardens key to improved nutritional well-being
+
+4.8 Promoting community participation
+Community participation is crucial for the sustainability of project activities and the project implementation plan was developed in consultation with the community for selection of activities and identification of responsibilities. The project supported local community structures in initiating food-based actions for sustainable nutrition improvement through the district team. Local authorities and village committees consulted periodically with district team members for programme execution.
+
+4.9 Group formation
+Project activities were implemented through farmer and community groups, each group including ten households represented by the family head or a responsible family member. A total of ten households formed one cluster. Formation of community collaborators network: There were five groups in one village with a total of 20 farmer groups and 20 community collaborators. One community collaborator was responsible for 10 to 15 households Selection of community collaborators: A `sociogram' process was used to select community collaborators with the involvement of all households. In this, the village committee/headman questions the households to find out on whom they usually depend for information/advice/ assistance or for solving community problems. The criteria for the selection of community collaborators included interest in, willingness to cooperate and give time to community work, knowledge of cooking, household agriculture/household gardening and simple health care. A primary school education, ability to write and report, and community acceptance were other important considerations. The duties of community collaborators included:
+q
+
+Mobilization and ensuring active participation of households in establishing and maintaining home gardens. Promoting cultivation of seasonal vegetables in home gardens. Monthly cooking demonstrations using home garden produce. Group nutrition education. Organizing and mobilizing women for complementary feeding preparation using home-grown, micronutrient-rich vegetables/fruits Regularly visiting each household with a malnourished child and following up on dietary advice. Discussing problems in the food system and conceiving action plans to address these (link nutrition education with support for home gardens). Establishing a `community network of women' to promote concepts and practices for improving household food security appraisal and action plans, including farmers' priorities for technology transfer and other support needs.
+
+q q q q
+
+q
+
+q
+
+q
+
+9
+
+Home gardens key to improved nutritional well-being
+
+5. PROJECT OUTPUTS AND FINDINGS Output 1.1 5.1 Establishment and/or improvement of home gardens (including fruits, vegetables, small animals and fish in target households)
+The first major activity under this output was human resource development for project needs. The main aim was to develop provincial, district and community level capacity to implement an integrated home garden programme for household nutrition improvement. (a) Training of Trainers/In-service training A total of 28 participants, including provincial, district level specialists and technicians in crop, livestock, fisheries, health and education sectors as well as representatives from the Lao Women's Union completed the intensive five-day Training of Trainers/In-service training (TOT/IST) on the importance and establishment of home gardens (Table 3).
+Table 3: Participation in TOT/IST for specific home gardening components Team/group Provincial District NFEDC14 Lao Women's Union CMC 1 5 MOH16 Total Home Gardening Component (no. participants) Horticulture Small livestock Fisheries 5 5 5 16 16 16 1 1 1 2 2 2 3 3 3 1 1 1 28 28 28
+
+Nutrition 5 16 1 2 3 1 28
+
+Extension 5 16 1 2 3 1 28
+
+T h e training curriculum was designed by international and national consultants in collaboration with other members of the project team, including the NPD, deputy NPD and experts from government institutions such as the Institute of Mother and Child Health Centre, Institute of Fisheries and Crop Multiplication Centre (CMC). The training focused on the nutritional importance of home gardens, basically vegetables and fruits integrated with fish culture and raising of small animals. The district team participants ­ four from each district ­ played a catalytic and facilitating role besides providing technical advisory services to the target households. About 35 percent of the total training time was devoted to the nutrition c o m p o n e n t , 30 percent to horticulture and home gardens, 20 percent to fisheries and 15 percent to small livestock. (b) Farmer's training A total of 203 farmers from target households in the four project villages have been trained. The training curriculum for the farmers' training was developed by the project team under the
+14 15 16
+
+Non-formal Education Development Centre, Department and Ministry of Education. Crop Multiplication Centre. Ministry of Health.
+
+10
+
+Home gardens key to improved nutritional well-being supervision of the NPD. The curriculum and instruction materials for the Training of Trainers (TOT) course were adapted for use in the farmers' training. (See Table 4 for number of farmers trained by gender).
+Table 4: Participation in farmers training Village Ban Nakhoung Ban Natham Ban Cheng Ban Somsaath Total No. farmers Male Female 48 9 38 12 15 37 29 15 130 73 Total 57 50 52 44 203
+
+Output 1.2 5.2 Increased amount and variety of nutritious food available for target families and communities
+Identifying and promoting nutritious food for home gardening H o m e gardening programmes have been effective in increasing the production and consumption of vitamin-rich plant foods and in increasing dietary diversity17. Villagers and village leaders were consulted on types of common vegetables grown and those that could be cultivated throughout the year. Micronutrient-rich food varieties were identified for promotion through home gardening activities. The process of identification took note of the food variety available in the market and consumed by the households. A food consumption survey was conducted for this purpose. (See Table 5) However, in order to improve the overall micronutrient intake from foods, it is also important to increase consumption of animal-source food. As poor households often cannot afford these, t h e project aimed to increase production of animal-source food at household level. Discussions were held with horticulture, livestock and fisheries experts from DOA and related partners to explore this possibility. Transfer of technology As part of the provision of materials and tools, the project provided a variety of seeds, fruit tree saplings, fish fingerlings and small livestock to target households. Seed distribution Each target household was provided seeds, seedlings and fruit tree saplings for setting up or improving home gardens. The package of vegetable seeds included coriander (3 tsp), "pak choi" (1 tsp), green mustard (1 tsp) and lettuce (1 tsp), "kang kong" (3 tsp), beans 20 g,
+17 Helen Keller International (2003). Strengthening capacity of local NGOs through food production and nutrition programmes in Bangladesh, Cambodia and Nepal.
+
+11
+
+Home gardens key to improved nutritional well-being
+Table 5: Food number and types identified and promoted Food Horticultural produce: vegetables No. 23 Type Lettuce, green mustard, "pak choi", holy basil/hairy basil, amaranth, ivy gourd, sponge gourd, yard long beans, spring onion, hot pepper, pumpkin, egg plant, mint, coriander dill, ginger, garlic, lemon grass, cauliflower, cabbage, Chinese cabbage, tomato. Banana, guava, jackfruit, sweet orange, pomelo, lime, mango, papaya, pineapple, rambutan, longan, litchi, carambola, jujube, jambolan. Vegetables: "Phak samek", "phak kadonh", "phak kaya", "phak boong" "phak tia", "phak koum" Fruits: "Mak khene", "mak pua", "mak ngeo", "mak fire", "mak tong", "mak kikhoun", "makam vam (waan?)" (sweet tamarind), "makam som" (sour tamarind), "makam pom" (Indian goose berry) "Panin" (tilapia), "Panai" (common carp), "Papak" (silver carp/puntius goniontus) Chicken, duck and pig
+
+Horticultural produce: fruits Horticultural produce: Forest food: underexploited18 indigenous fruits and nuts Fish and fish products: Small livestock: Egg, poultry and pig and their products
+
+15 6 9
+
+3 3
+
+Table 6: Quantity of seeds (g) distributed to target households and community Name of vegetable "Kang kong" Green mustard "Pak Choi" Lettuce Coriander Total Household 100 4 5 1 10 170 Community 1 000 10 10 15 500 1 535
+
+tomato (1 tsp). Tomato seeds were given mainly to assess their ability for adoption by the community and growing techniques. (See Table 6) Improving home gardening
+
+Before the project began, about 50 percent o f the households grew vegetables in a limited area. Inadequate techniques and care kept the yield and quality of the garden produce low which reportedly met just between 10 to 15 percent of household consumption needs. It is important to mention that almost all vegetables were grown only in the dry season. The project accordingly focused on improving home gardening through the use of the net house technique for year-round vegetable production. This included growing vegetables in a net house, both on the ground as well as on a table top. The table top technique was found s u i t a b l e for households with limited/minimal land space as it allows almost all leafy vegetables to be grown throughout the year on a table top. B e s i d e s practical guidelines for net house vegetable cultivation, the project offered recommendations for different types of micronutrient-rich vegetables and fruits. A list was developed for this purpose by project nutrition and horticulture experts in collaboration with the NPD, national, provincial, district and community-level partners, and national technical experts. Farmers were advised to select vegetables and fruits most suited to their situation from this list. (See Table 7)
+18
+
+Some of these need scientific identification and documentation.
+
+12
+
+Home gardens key to improved nutritional well-being
+Table 7: Types of vegetables and fruits promoted through project Vegetable seeds given (as sample in some first crops) Morning glory ("Phak boong") Green mustard ("Paka kyu") Pak choi ("Kat som") Amaranth ("Pak hom") Lettuce ("Pak salad") Coriander ("Hom hom") Tomato ("Mak lein") Yard long beans ("Mak thua yaon") Vegetables grown by farmers before project Spring onion ("Hom bua") Amaranth ("Pak hom") Lettuce ("Pak salad") Green mustard ("Paka kyu") Drill ("Phak see") Mint ("Hom lap") Holy basil ("Bola pa") White basil Hot pepper ("Mak pet") Morning glory ("Phak boong") Pak choi ("Kat som") Sponge gourd ("Mak nam") Pumpkin ("Mak uuh") Ivy gourd leaves and tips ("Tam nin") Garlic leaves and stems ("Bai pak thium") Egg plant ("Mak ua") Ginger ("Khing") Lemon grass ("Si khai") Galangal ("Kha") Papaya Mango Longan (local variety) Guava ("Seeda") Coconut ("Mak pao") Custard apple ("Mak khiep") Pomelo (local variety) Lime Jackfruit
+* Recommended for net house at household and net house at community garden. ** Recommended for net house at community garden or outside net house at household. *** Must be tested for assessing ability for adoption by community and growing techniques.
+
+Vegetables recommended for production Spring onion* Coriander* Lettuce* Green mustard* Pak choi* Holy basil* Hairy basil* Chinese kale* Garlic* Amaranth* Mint* Drill* Ivy gourd** Spong gourd** Yard long bean** Hot pepper** Pupmkin** Ginger** Lemon grass** Cauliflower*** Cabbage*** Tomato**** Carrot
+
+Fruit saplings Mango Custard (sugar) apple Jackfruit Pomelo Sweet tamarind Lemon Longan (Improved variety) Litchi Guava Sapodilla
+
+13
+
+Home gardens key to improved nutritional well-being Net house for improved production and productivity of vegetables The annual vegetable production in Lao PDR is 117 300 tonnes with a per capita output of 23.5 kg19 per year. It has been observed that rural communities in Lao PDR do not have a specified area outside the household for growing vegetables. Table 8 shows the type and size of gardens in target households in the project villages.
+Table 8: Vegetable home gardens of target households in project villages Garden type Small Medium Large community garden Total Size (m) 3.8 x 6 6x9 20 x 25 Project villages Natham20 Nakhoung 10 36 36 17 1 1 47 54 Total 84 117 3 204
+
+Ban Cheng 24 28 0 52
+
+Somsaath 14 36 1 51
+
+It can be seen that majority of household gardens are medium-sized, measuring 6 x 9 metres. A medium-sized garden has the potential to meet a family's food requirements and also generate income for the household. With no proper fencing to protect the crop, the vegetable garden is vulnerable to attacks by domestic animals and pests. The heavy monsoon rains damage vegetables grown outside the house. Most household gardens produce a limited number and types of vegetables such as green leafy and gourd vegetables in the dry season. The project, therefore, focused on i m p r o v i n g gardens to enhance yield and quality besides producing different kinds of vegetables throughout the year. The introduction of the net house technique improved the traditional home gardens in the project villages and helped the farmers to grow several kinds of vegetables of improved yield and quality on a year-round basis. A net house makes it possible to grow almost all types of leafy vegetables throughout the year, safe from heavy rainfall. All target beneficiaries agreed that a net house was a suitable solution for improving home vegetable garden yield and the farmers were quite eager to use the technique demonstrated by the project. (See Tables 9 & 10)
+Table 9: Construction of net house by beneficiary households and community (Number of households in each village N = 50) Village Ban Natham Ban Cheng Ban Nakhoung Ban Somsaath Project Office, CMC Total Household net houses 46 52 53 50 2 21 203 Community net houses 1 0 1 1 1 4
+
+19 Ali M. (2002). The Vegetable Sector in Indo China Countries: Farm and household perspectives on poverty alleviation, ARC, Thailand and AVDRC, Taiwan and ADB, Philippines. 20 Three farmers have left for Thailand to seek other employment opportunities. 21 Small and medium net house for household level.
+
+14
+
+Home gardens key to improved nutritional well-being
+Table 10: Families (%) growing vegetable varieties in home gardens at project end (N = 100) Includes vegetables cultivated under project as well as by families on their own Village Ban Ban Nakhoung Natham 100 75 100 88
+
+Vegetables Mint "Pak Choi" (Chinese white cabbage/B. chinensis L) Lettuce Am aranth Ivy gourd Coriander Onion Holy basil Dill "Kang Kong" Green mustard Horm Tape (Fitweed/Eryngium foetidum Linn) "Pak Peo" Yard long beans Wax gourd Local bitter gourd Sweet pumpkin Egg plant Chillies Lemon grass Garlic Galangal/Languas galanga (L) Stunz Others
+
+Ban Cheng 96 92
+
+Ban Somsaath 86 85
+
+Total 357 365
+
+Average 89 91
+
+92 19 81 100 84 100 100 96 85 31
+
+96 64 52 100 100 100 96 96 100 72
+
+94 63 44 100 94 100 94 75 88 44
+
+95 38 23 95 100 86 86 100 86 58
+
+377 184 200 395 378 386 376 367 359 205
+
+94 46 50 99 95 97 94 92 90 51
+
+85 35 46 77 23 96 100 96 54 100 96
+
+96 44 60 84 52 84 96 100 72 92 100
+
+94 38 38 50 44 69 100 94 63 63 100
+
+91 32 47 48 47 62 95 91 40 91 100
+
+366 149 191 259 166 311 391 381 229 346 396
+
+92 37 48 65 42 78 98 95 57 86.5 99
+
+Expansion of the home garden The beneficiaries were advised to expand their home gardens outside the net house to grow vegetables like egg plant, pepper, yard long beans, pumpkin, wax gourd, ginger, galangal and fruits such as papaya and longan. This led to an increase in the total vegetable growing area. (See Table 11) In Ban Cheng, it was noted that although vegetables were grown on a larger area than in other p r o j e c t villages, this was done without proper planning and the yield was very low. Households in the village were not aware of the correct techniques for increasing vegetable production and productivity. In other villages, there was an increase in the cultivated area because the farmers began growing more vegetables. This increase is attributed to the training and demonstration provided to the farmers.
+
+15
+
+Home gardens key to improved nutritional well-being
+Table 11: Increase (sq m & %) in total/average vegetable crop area in project villages Before project without net house (sq m) 6 382 3 015 998 1 371 11 766 66 At project completion with net house (sq m) 6 539 5 290 2 760 2 628 17 217 89
+
+Village Ban Cheng Ban Nakhoung Ban Natham Ban Somsaath Total Average area/household
+
+Area increase (sq m) 157 2 275 1 762 1 257 5 451 23
+
+Increase (%) 2.4 75.4 176.5 91.6 46.3 25.8
+
+Production and yield It is noteworthy that within one year, the net house production of vegetables reached 73.48 tonnes, amounting to a yearly per capita production of 96 kg. Between August 2003 when seeds were given to farmers and August 2004, each household produced eight to nine crops with a total vegetable production of 73.48 tonnes. Ban Nakhoung was the leading producer with each household having a net house (51 net houses) and a total vegetable yield of 22.1 tonnes. Ban Natham, with a net house for each of the 34 households, produced 1 2 . 9 4 tonnes. Ban Cheng and Somsaath had similar yields of 18.4 and 20.03 tonnes respectively, amounting to 245 g of vegetables per person per day. Four community net houses in Ban Cheng, Ban Natham and Ban Somsaath and CMC (Crop Multiplication Centre) produced 14 tonnes of vegetables. (See Table 12)
+Table 12: Number, area, yield/production of vegetables in net house within one year of project (August 2003 to August 2004)
+Village Ban Cheng Leafy vegetables Spicy vegetables Ban Nakhoung Leafy vegetables Spicy vegetables Ban Natham Leafy vegetables Spicy vegetables Ban Somsaath Leafy vegetables Spicy vegetables Total 4 villages Veunkham Total Arable area Number (in net of crops 2 house-m ) * 1 600 8 1 000 8 600 8 1 598 9 880 9 718 9 1 138 8 600 8 538 8 1 417 9 1 000 9 417 9 5 753 8.5 (average) 2 000 7 (average) 7 753 7.75 Planted area (m2) 12 800 8 000 4 800 14 382 7 920 6 462 9 103 4 800 4 304 12 834 9 000 3 834 49 119 14 000 63 119 Yield (kg/m2) 1.35 1.70 1.00 1.50 2.00 1,0 1.40 1.80 1.00 1.4 1.8 1.0 1.50 1.00 1.38 Production (kg) 18 400 13 600 4 800 22 102 15 640 6 462 12 944 8 640 4 304 20 034 16 200 3 834 73 480 14 000 87 480 Production per capita (kg/year) 88.4
+
+90.6
+
+99.5
+
+105.4
+
+96.0
+
+Spicy vegetables include coriander, mint, ginger, garlic, holy basil, lemon grass, dill, pepper.
+
+16
+
+Home gardens key to improved nutritional well-being Vegetables are grown on about 31 000 ha in Lao PDR22, comprising about 3.9 percent of total area under all crops, producing a total of 117 300 tonnes amounting to an annual per capita availability of 23.5 kg compared to the minimum required level of 73 kg. The production and yield achieved by the project are much higher at about 245 g vegetables/day compared to the present per capita daily availability of 64.3 g. Vegetable production for consumption and income Before the project, villagers reportedly did not have any surplus garden produce for sale. In fact, they bought vegetables from the market for their daily consumption. It is, therefore, pertinent to point out that after the project's initiation the households can produce vegetables not only for their daily consumption but also to sell. It may also be pointed out that the quantity of vegetables consumed by the households is three times more than that sold. The vegetables are sold mainly within the community. (See Table 13) It is, therefore, essential to expand the home gardens to increase vegetable sales. There is also an urgent need to facilitate market links so that the villagers can sell their produce in the nearby towns and the capital city.
+Table 13: Household vegetable production/consumption/sale after adoption of net houses
+Total vegetables Vegetables produced Vegetables consumed produced by household and given to others Value Value Value Kg Kg Kg (1 000 kip) (1 000 kip) (1 000 kip) 18 400 57 040 353 1 097 11 610 35 991 22 102 12 944 20 034 73 480 14 000 87 480 68 515 40 126 62 105 227 786 43 400 271 186 27 118 433 417 488 422 1 343 1 294 1 515 1 31223 16 555 10 614 18 534 57 313 12 000 69 313 51 320 32 903 57 455 177 669 37 200 214 869 21 487 Vegetables sold Kg 6 790 5 547 2 330 1 500 16 167 2 000 18 167 Value (1 000 kip) 21 049 17 195 7 223 4 650 50 11724 6 200 56 317 5 631
+
+Village Ban Cheng (N = 52) Ban Nakhoung (N = 51) Ban Natham (N = 31) Ban Somsaath (N = 41) Total for target households Veunkham Total for project Total US$
+
+Nutrition awareness of vegetables grown The project's nutrition education programme, closely linked with the home gardening activities, promoted awareness among farmers of the nutritional value of vegetables as a source of vitamins and minerals. After one year of project implementation, it was noted that not only the area but the variety of vegetables being cultivated had also increased. Of the 29 vegetables recommended by the project, 26 were grown in home gardens, indicating greater awareness among farmers of the diversity of vegetable sources.
+22 23 24
+
+Siphandounang P., Wu M.H., Sanatem K. (2003) in Ali M. (2003). The Vegetable Sector in Indo China Countries, 2003. Value (US$) of vegetables produced per household = 130. Sale of vegetables/household in US$ = 25.
+
+17
+
+Home gardens key to improved nutritional well-being Before the project's commencement, only about one-fourth (23 percent) households grew these vegetables in their gardens, but after the project period this proportion increased to three-fourths (75 percent) with a 52 percent increase over a one-year period. (See Table 14)
+Table 14: Households (%) growing different vegetable kinds before/during project period Before project % 11 85 40 6 6 19 14 7 37 20 21 17 28 9 50 6 18 10 24 8 25 14 20 50 23 During project % 91.8 91.4 89.4 94.2 45.8 15.0 52.9 91.2 49.9 94.4 87.7 98.7 93.9 95.1 56.9 72.2 86.2 97.7 37.1 47.6 48.3 41.3 77.6 57.9 89.5 75.0 Increase % 80.8 6.4 49.4 88.2 39.8 33.9 77.2 42.9 57.4 67.7 77.7 76.9 67.1 47.9 22.2 80.2 79.7 27.1 23.6 40.3 16.3 63.6 37.9 39.5 52.0
+
+Name of vegetable Morning glory ("Phak boong") Chinese cabbage ("Pak choi") Green mustard Lettuce Amaranth Celery Phak hometape "Phak pheo" Ivy gourd Spring onion Mint Coriander Dill Lemon grass Garlic Ginger Siam ginger Pepper Yard long beans Gourd (Long fruit) Bottle gourd Sweet pumpkin Egg plant (all kinds) Tomato Papaya Average
+
+Main nutrients, nutritional benefits Vitamin A, C, minerals Vitamin A, C, minerals Vitamin A, C, minerals Vitamin A, C Vitamin A, C Vitamin A, C, minerals Vitamin A, C, minerals, carminative Vitamin A, C Vitamin A, C, iron Carminative, iodine Vitamin A, C, carminative Vitamin A, C, carminative Spices, vitamin C Carminative Carminative Carminative Carminative Vitamin A (fruit), Vitamin B and iron (leaves) Iron, Vitamin B Complex, protein Minerals, fibre Minerals, fibre Vitamin A Minerals Vitamin A, C Vitamin A, C
+
+Increase in home garden food base The project saw a slight shift in the households' supply of vegetables with an increase in the quantity of vegetables obtained from home gardens as compared to the forest and market. There was a 35 percent increase in the households' supply of vegetables from the home garden compared to declines of 17 and 18 percent respectively in the amount of vegetables families used to obtain from the forest and market. (See Table 15)
+
+18
+
+Home gardens key to improved nutritional well-being
+Table 15: Household sources of vegetables in target villages before/during project From forest Before During % % 43.0 32.5 48.0 29.8 60.0 33.0 46.1 34.0 49.3 32.3 -17.0 From market Before During % % 25.3 12.8 36.0 8.9 23.5 8.0 30.5 13.8 28.8 10.8 -18.0 From home garden Before During % % 31.7 54.7 16.0 61.3 16.5 59.0 23.4 52.3 21.9 56.8 +35.0
+
+Village Ban Cheng Ban Nakhoung Ban Natham Ban Somsaath Average Increase (+) Decrease (-)
+
+The production of vegetables and fruits in home gardens ensured that households had direct access to important nutrients and micronutrients that were not within their economic reach before. Economics of net house production Considering the annual production of eight vegetable crops cultivated in net houses of varying sizes, it was noted that the average vegetable yield was 1.5 kg/sq m. The estimated yield for a small net house was 274 kg/year, 648 kg/year for the medium-size net house and 6 000 kg/ year for the community net house (See Table 16).
+Table 16: Annual vegetable production/yield of net houses of varying size (8 crops) Type of net house Small Medium Large Yield (kg)/crop 34.2 129.6 750.0 Yield (kg/8 crops) 274 648 6 000
+
+It is important to point out that net house cultivation has the potential to double the yield of vegetables compared to the present average yield of 120 kg/year. A major advantage is that the net house can increase year-round availability of micronutrient-rich vegetables and ensure protection against heavy rainfall, pests and intensive sunlight. (See Table 17)
+Table 17: Yield of main types of vegetables grown in net house (kg/sq m/crop/year) Village Ban Cheng Ban Nakhoung Ban Natham Ban Somsaath Average Morning glory 280 272 285 245 271 Green mustard 170 195 165 187 119 "Pak Choi" 290 32 285 315 303 Lettuce 180 20 191 195 192 Onion 255 30 286 295 284
+
+19
+
+Home gardens key to improved nutritional well-being Cost of net house The cost of transporting the materials must also be taken into account in working out the total cost of building the net house. (See Table 18)
+Table 18: Cost25 of building net house (Kip/household) Main parts Plastic net rolls Metallic wire Nails Reinforcing tools Poles26 Total (Kip) Total (USD) Size Medium (kip) (3 rolls) 150 000 (2 kg) 30 000 ( 2kg) 20 000 Nil Provided by household 200 000 20
+
+Small (kip) (2 rolls) 100 000 (1 kg ) 15 000 (1 kg) 10 000 Nil Provided by household 125 000 12.5
+
+Large (kip) (24 rolls) 1 200 000 (48 kg ) 624 000 (2 kg) 20 000 (16 pieces) 25 000 Provided by household 2 224 000 225
+
+Fruit production The project distributed saplings of ten kinds of fruits to target households and communities. These included fruits suitable for cultivation in Lao PDR and those that are good sources of vitamins A and C, and minerals. Fruit production takes longer than vegetables, requiring an average cultivation period of between one to two years. However, a large number of households cultivated fruits like guava and custard apple (sugar apple) which take between six months and one year to mature. (See Table 19) The fruit cultivated most was the pomelo with an average of 78 trees per village followed by sugar apple (average of 73 trees per village) and litchi (average of 70 trees).
+Table 19: Fruit trees grown by target households Fruit Mango Longan Jackfruit Sugar apple Guava Litchi Pom elo Tamarind Sapodilla Lime Village Ban Nakhoung Ban Natham 31 35 100 27 51 43 73 74 68 42 67 45 63 71 40 33 50 50 51 63 Average (%) 29 50 50 71 53 70 78 45 44 65
+
+Ban Cheng
+
+58 73 50 89 76 57 0 80
+
+Ban Somsaath 50 71 50 71 50 80 100 50 75 67
+
+25 26
+
+Includes mainly material cost. From trees in village/forest; permission given by forest authorities.
+
+20
+
+Home gardens key to improved nutritional well-being Fish production The demand for fish exceeds the domestic supply in Lao PDR27 and a large number of farmers want to get into fish production. Accordingly, the project chose fish culture as a viable activity for improving food security and income of the target households. It promoted species that are easy to handle and have a high survival rate such as tilapia, silver carp and common carp. The provision of fish fingerlings, construction and upkeep of fish ponds were among the main activities. The project gave 41 250 fish fingerlings to 36 households and built five demonstration ponds at the CMC at Veunkham. Although fish ponds were constructed in all four target villages, the technique of fish farming was relatively new to most farmers who identified their problems as lack of technical know-how and funds to buy inputs such as fingerlings, feed, fertilizers, lime and net. The size of the fish ponds in the four target villages ranged from 15 sq m to 3 750 sq m with water depth ranging from 50 cm for manually dug ponds to more than 3 m for mechanically dug ponds. The number of fish fingerlings given to the households varied according to the availability of fish ponds in the target villages. Raising awareness of and promoting small-scale fish culture Improved awareness of fish farming was an essential indicator for evaluating project fisheries activities. The project fisheries experts, district coordinators and NPD conducted several field visits to raise awareness and promote small-scale fish culture in the four villages. Village leaders were contacted in advance of the visits to facilitate discussions. (Figure 3)
+40 35 30 25 20 15 10 5 0 Catch Farm Risk No or less risk Fish farming Before project After project
+
+Figure 3: Farmer awareness on fish farming in home garden development
+
+Utilization of available resources Before the project, existing fish ponds were not used for stocking fish. The villagers would occasionally catch small fish elsewhere and release these into the ponds. On conclusion of the project, the farmers were using the pond effectively for fish farming. The project introduced the use of animal wastes and the farmers now know how this can produce feed directly and indirectly for the fish.
+27 FAO (1998) Murray U., Sayasane K. Socio-economic and gender issues in the UNDP/FAO Project on Gender and Aquaculture in Lao PDR.
+
+21
+
+Home gardens key to improved nutritional well-being Farming technologies and production The project promoted awareness among farmers of the need to use idle ponds in their fields or backyards. They also became aware of the importance of the lining of fish ponds and fish feeding needs after stocking, and noticed offspring in the fish ponds (Figure 4).
+
+35 30 25 20 15 10 5 0 Liming Never feeding or once in a while Feeding once in 3 days Growth check Seed production Before project After project
+
+Figure 4: Major indicators of farming technologies
+
+Increased fish consumption and income Responses from five farm households with experience in fish harvesting show that the contribution of fish farming to family income had increased by about 20 percent after commencement of the project. The farmers also reported increased fish consumption by the household, even though it was small. The data below show that 15 farm households increased fish consumption ranging from one to two times within one week. (Figures 5 and 6) It may be mentioned that where there was surplus fish production, the income from fish sales had a beneficial impact on household food security.
+
+25 20 15 10 5 0 Before project After project
+
+Fish contribution to family income in percentage
+
+16 14 12 10 8 6 4 2 0
+
+1 to 7 days
+
+8 to 14 days 15 to 21 days
+
+Figures 5 and 6: Fish contribution to family income/consumption
+
+22
+
+Home gardens key to improved nutritional well-being Fish for nutrition and food security In the context of Lao PDR, it is important to point out that aquatic food resources can provide most of the animal protein consumed in terms of frequency and quantity. This is significant considering that the overall diet is deficient in protein. Typically, rice and affordable food items are given priority over protein in local diets. Rice is consumed more frequently and in higher quantities than other types of food and provides most of the energy (kcal). Fish along with other aquatic food resources and rice, is, therefore, fundamental to poverty alleviation by improving health and nutrition, thereby enhancing food s e c u r i t y and productivity. People in Lao PDR favour domestic fish and local species command a premium price. This preference for locally and domestically produced fish thus provides an opportunity for village-scale fish production and does not require an extensive or expensive marketing and distribution system. Small livestock activities Small livestock production is an important livelihood source for smallholder farms in Lao PDR. Small livestock production by the target households was based on low-level inputs and, therefore, had low output. The project supported small livestock production as part of promotion of home gardens for the explicit purpose of increasing household consumption of protein and micronutrient-rich foods. Poultry production and income Each target household was given 10 kg of poultry, including chicken and ducks. By the end of the project tenure, it was noted that on average, each household earned a total of US$600 from poultry sales after meeting its own consumption needs. Each household earned US$150 from sale of poultry over a three-month period ­ an income they did not have earlier. (See Table 20)
+Table 20: Poultry production, consumption and income28 Poultry received Village Ban Cheng Ban Nakhoung Ban Natham Ban Somsaath Total Chicken 289 369 351 500 1 509 Duck 156 65 0 0 221 Poultry presently available Chicken Duck 1 990 721 358 65 551 0 2 229 0 5 128 786 Consump- Poultry tion sold (no. heads) (no. heads) 42 481 200 133 856 60 562 0 63 685 Income (Kip) 100 000 3 594 000 0 1 260 000 6 054 000
+
+Besides providing nutrition and income to rural households, livestock are also seen as a valuable means of accumulating capital and a safety net that can be sold to provide urgently needed cash for the family. It is only when households have enough livestock to feel financially secure, that they are able to make long-term investments in improving their livelihood systems.
+28
+
+Data obtained for three-month period from January to March 2004.
+
+23
+
+Home gardens key to improved nutritional well-being Housing for poultry Hygienic shelter is crucial for the health and safety of small livestock and for promoting optimal production. It is also an important factor in maintaining household and communitylevel hygiene. Before the project's commencement, poultry in the project villages would scavenge during the day throughout the year and were not properly fed or watered. The project demonstrated construction of hygienic poultry houses as part of livestock technology transfer. Many farmers improved their poultry houses by applying techniques learned from the project. (See Table 21)
+Table 21: Construction of household and community poultry houses Village Ban Nakhoung Ban Natham Ban Cheng Ban Somsaath Veunkham Total Households 52 30 50 50 0 182 Community 1 0 0 0 1 29 2
+
+There is a high mortality level among poultry in the project villages during the hot season around March every year. The major cause of death is Fowl Cholera and New Castle Disease. (See Table 22)
+Table 22: Mortality of poultry in target households Village Ban Cheng Ban Nakhoung Ban Natham Ban Somsaath Total December 2003 42 0 87 44 173 March 2004 35 11 187 31 264 Total 77 11 274 75 437
+
+Pig shelter Pigs would earlier roam freely and scavenge in the villages during the dry season and were usually fed rice bran, cooked rice and rice wastes once or twice a day. Some farmers raised the pigs in pens or within a fenced area around the home garden. The project improved this situation through construction of three community pig shelters. Vaccinating poultry Poultry were regularly vaccinated in the project villages with 100 percent coverage of the doses for poultry diseases. (See Table 23)
+29
+
+Model poultry house.
+
+24
+
+Home gardens key to improved nutritional well-being
+Table 23: Poultry vaccination status in project villages Newcastle disease Strain M (NDM) 0 1/head
+
+No. of poultry 100 x no of Ducks (1 039) 400 x no. of chicken (2 500) Total
+
+Duck plague 1/head 0
+
+Fowl cholera 1/head 1/head 2.2078 M
+
+No. of doses 2078 2M
+
+Output 2.1 5.3 I n t e n s i v e nutrition education campaign aimed at improving and diversifying family food consumption with special emphasis on children under five and women of reproductive age
+Development of the Nutrition Education Strategy The Nutrition Education Strategy was developed after a detailed review of current literature on health and nutrition in Lao PDR as well as consultations with households, community collaborators, village health workers, village officials, and district agriculture and health o ff i c e r s . The aim was to help the target family as well as the supporting community collaborator to identify and focus on household food security and nutrition problems and make appropriate plans for action. Meetings were held with the provincial and district coordinators and village headmen to explain the purpose of the field visit consultations. Insights into food and nutrition behaviour As an initial step in developing the Nutrition Education Strategy, focus group discussions were held among women beneficiaries to obtain information on their knowledge, attitude and practices on feeding infants, young children as well as pregnant and lactating women. Officials from DOA, Department of Disease Prevention, Centre for Health Information and Education, and the Maternal and Child Health Centre as well as UNICEF were interviewed on the current food, nutrition and health situation, policies and programmes, and constraints to sustained programme implementation. The responses from focus group discussions with women farmers were shared and further v a l i d a t e d by meetings with district coordinators and community collaborators. The discussions led to identification of the following topics on knowledge, attitude and practices (KAP) on feeding young children and women in the project villages. The topics included: 1. 2. 3. 4. 5. 6. Appreciation of good health Infant feeding Child feeding Feeding pregnant and lactating women Growth monitoring Receptivity to proposed behaviour change 25
+
+Home gardens key to improved nutritional well-being According to the findings, mothers generally knew when their children had good health. Breastfeeding was universally practiced and began immediately after birth. Infants were given colostrums, the first milk from the mother's breast during the first two days after delivery. However, solid food in the form of pre-masticated sticky rice was introduced as early as two days of age to stop the baby from crying. Mothers did not prepare complementary food for children separately, instead giving the child food from the family pot. Pregnant and lactating women did not change the quality and quantity of their diet. The majority of women who gave birth in hospitals or other health facilities had the child weighed at birth. Unfortunately, health workers did not inform new mothers of the nutritional status of the child or how to use the growth card for growth monitoring. The women expressed willingness to take their children for regular weighing under the project. However, some were not willing to adopt the behavioural change envisioned for the project. The information generated from the above findings helped in identifying basic gaps in the knowledge, attitude and behaviour of women and child care givers in the project villages and developing the Nutrition Education Strategy accordingly. The aim of the Nutrition Education Strategy was to improve nutrition and health-related practices of pregnant and lactating women, and children aged 0-5 years. The strategy also focused on those who could influence the behaviour of the primary target groups. The key desired behavioural changes related to breastfeeding, complementary feeding, management of childhood diseases and improving the nutritional status of mothers through improved food and nutrient intake. The project sought to promote good health through behavioural changes, particularly growth monitoring, food hygiene/handling, basic hygiene and sanitation to reduce common illnesses like diarrhoea. To help achieve its objectives, the Nutrition Education Strategy utilized a mix of interpersonal communication, multimedia and special events. It included support components such a s training, development, production and distribution of information, education and communication materials as well as institutional linkages and networking.
+
+Outputs 2.2 and 2.3 5.4 Improved knowledge of nutrition, home gardening and health among MAF and MOH staff and target families
+Integrated home gardening demonstration Technical assistance and capacity building through demonstrations and field application trials were a major component of the project's transfer of technology programme. All target households were provided guidance on the practical components of and actions required for developing home gardens. A total of 419 demonstrations were conducted. (See Table 24) It must be mentioned that the farmers classified all activities into heavy and light. For example, net house construction, land preparation, bed preparation and watering of plants were done by the men. Women were occupied with seed sowing, transplanting seedlings, 26
+
+Home gardens key to improved nutritional well-being
+Table 24: Farmer participation in technology transfer demonstration Component Nutrition q Food preparation, food processing for the household, complementary food preparation q How to tell if your child is growing well ­ use of growth chart q Testing a teaspoon of household salt for iodine content Horticulture Construction of net house q Techniques for year-round planting of vegetables in net house
+q
+
+Number of demonstrations 128
+
+Male 3
+
+Number of Farmers Female 201
+
+Total 204
+
+114
+
+137
+
+67
+
+204
+
+Small livestock q Construction of hygienic poultry shelter, vaccination Fisheries q Construction and cleaning fish ponds, preparation of fish feed, seeding fish ponds Extension q District staff training q Preparation of Bulletin Board and Village Mapping Total
+
+68
+
+201
+
+4
+
+204
+
+68
+
+130
+
+74
+
+204
+
+41
+
+165
+
+39
+
+204
+
+419
+
+1 02030
+
+weeding, harvesting and collecting money. In many families, children helped their mothers in taking care of the garden. It was also noted that the nutrition-related activities were generally preferred by women with a high participation by women farmers. Nutrition knowledge, attitude and practices M i d - t e r m and end-of-project qualitative surveys on nutrition knowledge, attitude and practices found a variety of new recipes being prepared by women in target households. Previously, the women used minimal ingredients and food groups for their recipes, but after participating in the training and food preparation demonstrations, there was an increase in the variety of food used for daily meals. (See Table 25) The nutrition education programme was found to have improved household nutrition practices in a relatively short time, in particular, nutrition knowledge and food diversity.
+
+30
+
+Number of times attended.
+
+27
+
+Home gardens key to improved nutritional well-being
+Table 25: New recipes prepared/adapted by farmers after training Name of recipe "Ponh kob" (frog) Main advantage explained by women Provides protein, energy and micronutrients (go, grow and glow foods); readily available in ponds/ s t r e a m s , inexpensive, locally appropriate and acceptable P r o t e i n , energy and micronutrients; combines green leafy vegetables commonly grown in HGs w i t h other foods; culturally acceptable and appropriate P r o t e i n , energy and micronutrients; combines green leafy vegetables/other vegetables commonly grown in HGs; culturally acceptable and appropriate P r o t e i n , energy and micronutrients; combines different kinds of vegetables and herbs grown in HGs with meat/poultry/fish; culturally acceptable and appropriate Protein, energy and micronutrients; includes all food groups (cereals + meat + vegetables) and oil; culturally acceptable and appropriate Protein, energy and micronutrients; includes all food groups (green leafy/yellow orange vegetables, e g g , peanut and oil; culturally acceptable and appropriate Protein, energy and micronutrients; readily available from ponds and streams P r o t e i n , energy and micronutrients; provides a meal-in-dish type of recipe and easy to cook and serve.
+
+Fried meat (chicken/pork/beef) with "kang kong"
+
+Mixed soup ("Kang kuith kai/moo/khai/pa")
+
+"Oh" (different kinds of vegetables with meat/poultry/fish and herbs)
+
+Noodles with soup31
+
+Lao Salad
+
+Fried fish ("Panin") Fried rice (rice with different kinds of vegetables and egg and oil)
+
+Output 2.4 5.5 Improved food consumption, feeding practices and care of children under five years and women of reproductive age
+Food consumption It was noted that households were eating three meals a day. Of the 40 households assessed during the baseline survey, five households had two meals per day, 22 households had three meals/day and 13 households had four meals/day. The usual practice was to eat three meals a day, but family members who left home early in the morning to work on the farm far away, had only two meals, that is lunch and dinner. Households eating four meals a day started with breakfast, followed by lunch and dinner as well as a meal at bed time. A similar pattern was noted at project completion.
+Prior to participation in project activities, the women did not use vegetables in the noodle soup, but after the training and food demonstrations, they began using a variety of basic food groups.
+31
+
+28
+
+Home gardens key to improved nutritional well-being Sticky rice was a staple food and all households ate rice at all three meals, with 17.5 percent of the surveyed families having dark green leafy and yellow orange vegetables one to three times every day. Over the period of observation, the consumption of dark green leafy vegetables and yellow orange vegetables by the households increased from 17.5 to 55 percent in the first semester and up to 80 percent in the post-intervention period. In addition, the consumption of wild fruits, leaves and berries increased to 20, 27.5 and 60 percent respectively. There was seasonal variation in the consumption of protein-rich foods. Most households ate fish more often than meat and chicken which were part of the diet four to six times per week. (See Table 26)
+Table 26: Percentage of household food consumption by period of observation n = 40 Dark green leafy vegetables Wild fruits, leaves, and berries Baseline (April 2003) 17.5 20.0 First semester (October 2003) 55.0 27.5 Post intervention (July 2004) 80.0 60.0
+
+A comparison of findings during the baseline, first semester (after six months) and project completion period showed a progressive improvement in the consumption of micronutrientrich foods among target households which were found to be eating leafy vegetables one to three times per week at mid-term as against a lower intake at the project's start. Similar patterns were noted in the consumption of fruits, fish, eggs and meat. It was found that most mothers were using sticky rice, rice porridge with meat, soup with egg, and rice soup with leafy vegetables such as "phak boong" (morning glory) for infant and young child feeding. Frequency of consumption of micronutrient-rich foods Data on the frequency of consumption of micronutrient-rich food was collected at the baseline, first and second harvest periods. (Figures 7, 8 and 9)
+Frequency of consumption of micronutrient-rich foods in target households
+25 20 15 10 5 0
+/ s, s, g ts , gg ef ) nC ro ve s oo rds ar d LV Vs r be ,E ,f m i r u its le a r r ie GO t/l f a t k yu b a k, DY ita f s, be uc ch g o l/f ie d cr a or , v h r u it ta r (p O i r tif h, u r r ic n /D f S s t o ke fo Fi ea ,s ild M h ic Fs W C YO ilk
+
+5 4 3 2 1 0
+M
+
+1 to 3 times/day Once/week Never eat
+
+4 to 6 times/week Once/15 days
+
+2/3 times/week Occasionally
+
+Figure 7: Consumption frequency of micronutrient-rich foods at base line
+
+29
+
+Home gardens key to improved nutritional well-being
+
+Frequency of consumption of micronutrient-rich foods at first harvest period
+35 30 25 20 15 10 5 0 9 8 7 6 5 4 3 2 1 0
+
+, / s, s, g C gg rd ef ) ilk o ts ro ve s in its LV Vs ,E be ro rd s /la f a t M ,f e a r r ie GO le , b am f r u y ou at d ck , DY h it rk u ra l/f ie its b ,v h po ,c /D ar c g O i r tif u r r ic d f r u t( en St is h fo so F ea il ic k s, M W Ch OF Y 1 to 3 times/day 4 to 6 times/week 2/3 times/week Once/week Once/15 days Occasionally Never eat
+
+Figure 8: Consumption frequency of micronutrient-rich foods at 1st harvest period Frequency of consumption of micronutrient-rich foods at second harvest period
+35 30 25 20 15 10 5 0 16 14 12 10 8 6 4 2 0
+M ilk
+
+, , / g s, g ef ) Vs o ts s nC ro ve s Eg ar d be m i r u its , le a e r r ie a b , f t/l f a t G L O V s y ro urd k, a a k, DY uc l/f ie d ch g o v it f or cr its b r, rich O i r tif (p ta r h, n /D fru t s e S ou fo Fi ea ild ,s ic k M W Fs Ch YO
+
+1 to 3 times/day Once/week Never eat
+
+4 to 6 times/week Once/15 days
+
+2/3 times/week Occasionally
+
+Figure 9: Consumption frequency of micronutrient-rich foods at 2nd harvest period
+
+On the whole, households were found to be eating leafy vegetables about one to three times a day after 15 months of project implementation (2nd harvest period). This was higher than at t h e base line and the 1st harvest period which coincided with nine months of project implementation. Similar patterns were noted in the consumption of fruits, fish, eggs and meat. Most households consume forest food such as wild fruits, leaves and berries one to five times p e r week. The findings suggested that exposure to nutrition education led the target households to increase their consumption of fruits and vegetables including dark green leafy vegetables, yellow orange vegetables and fruits.
+
+30
+
+Home gardens key to improved nutritional well-being T h e reasons for the increased consumption of micronutrient-rich food were recorded from a sample of households in the project villages. The main reason given was nutritional value and the advice given by the project. Households also said they expected more food production from the home gardens and would earn more money from the sale of the surplus food. (See Table 27)
+Table 27: Reasons given by target households for increased consumption of micronutrient-rich food (N = 40) Main reason More production Nutritional value Money available Advice from project No response Households (%) Ban Natham Ban Nakhoung Ban Somsaath 6 10 7 6 9 8 7 8 6 7 10 10 14 3 9
+
+Ban Cheng 10 10 10 10 ­
+
+Total 33 33 31 37 26
+
+It was noted each household consumed an average of 2 kg of rice per day with about 500 g rice for every household member. Each household consumed about 575 g fish per day with an average per capita consumption of 143 g. (See Table 28) Other food items such as frog, pork, beef and eggs were consumed in lesser quantity. The consumption of dark green leafy vegetables was 131 g per person per day and fruits were eaten in very small quantities. It was reported that poultry and eggs were mainly sold for income by the low-income households. The household fat and oil intake was found to range between 2 to 5 tsp/day.
+Table 28: Mean food consumption32 in households in project villages33 (kg/HH/day) (N = 40) Food consumed (kg/HH/day) Rice Fish Frog Meat Duck Chicken Egg DGLVs Fruits Fat/Oil Coconut milk Village Ban Natham Ban Cheng 19.0 17.5 5.8 5.1 0.0 0.0 0.3 3.0 0.0 0.0 0.0 0.0 5.0 5.0 3.5 4.6 0.0 0.0 2 tsp 5 tsp 30 25 Total (kg) 81.9 22.6 1.5 3.3 2.7 5.5 0.8 20.6 9.1 195 g 205
+
+Ban Somsaath 24.0 9.5 0.0 0.0 0.0 0.0 1.7 6.5 3.1 3 tsp 50
+
+Ban Nakhoung 21.4 2.2 1.5 0.0 1.7 5.5 0.0 5.6 6.0 3 tsp 50
+
+32 33
+
+Average household size = 5. Data is included for ten households.
+
+31
+
+Home gardens key to improved nutritional well-being Food preparation demonstrations Food preparation demonstrations were an integral part of the home gardening programme. The main objectives of the demonstrations were to teach preparation of balanced and nutritious household foods/recipes using home garden produce; improve dietary practices and nutrition during pregnancy and lactation; and instruct mothers in correct complementary feeding practices for infant and young children, linking this with healthy growth. The demonstrations were conducted by the community collaborators with the Lao Women's Union (LWU). Local context Women in the target households sometimes procured or purchased food materials and ingredients from the home garden in their locality. Simple, inexpensive and nutritious recipes were prepared based on home garden produce. Three recipes were taught during each demonstration, including a main dish, a snack, a salad/dessert or any other item found appropriate by the community. The women were also encouraged to bring ingredients for complementary food for infants and y o u n g children such as rice, lentils/beans, groundnuts and vegetables/fruit. The demonstrations were held on days convenient for the farmers. In Ban Cheng and Ban Nakhoung, these were conducted on Buddhist religious days when people offer food to the Buddha. These included the `Ham day' (half moon days from the 1st to 15th of the month) and on `Pheng day' (more than half moon days from the 16th to 30th of the month). In Ban Somsaath and Ban Natham, the food preparation demonstrations were held on Tuesdays and Thursdays. The demonstration was also organized at a convenient place decided by the community. For instance, in Ban Nakhoung and Ban Somsaath it was held on the temple premises while in Ban Cheng it was organized in the home of the village deputy chief. In Ban Natham, this was held at a central place near a community vegetable garden. Complementary food preparation demonstrations (CFPD) All mothers were provided with nutrition education on infant and young child feeding prior to taking the weight of the children and before feeding. Growth monitoring activities were linked with the CFPD where the child's weight was recorded by the health team. Mothers were also explained the importance of weight taking at regular intervals. Dietary guidance on a one-to-one basis was given to all mothers with a malnourished child. Project nutrition experts developed three types of nutrient-dense complementary food. The complementary food mainly included mixtures of rice, meat/chicken/egg and leafy/yellow orange vegetables and some oil. Hygienic methods of mixing, cooking and feeding were used. Traditional ways of preparation and processing such as roasting grains, mixing, germination and grinding were also discussed and appropriate instructions given to the mothers. Children between six to eight months old were fed by mothers in the central area while children over nine months old were encouraged to eat by themselves with the mother assisting. Community collaborators monitored the weight of malnourished children on a weekly basis. (See Table 29)
+
+32
+
+Home gardens key to improved nutritional well-being
+Table 29: CFPDs conducted for nutrition education Average no. women, mothers attended 20 mothers and children under 1 year
+
+Theme
+
+Recipes34
+
+demonstrated
+
+No. CFPDs
+
+Complementary feeding
+
+q
+
+q
+
+q
+
+Foods for pregnancy and lactation
+
+q
+
+q
+
+q
+
+Snacks and desserts
+
+q
+
+Mixed porridge (rice, meat, vegetables, oil ­ soft cooked) Potage soup rice, potato, vegetables, meat, oil ­ ground) Multiple mix (rice, meat, vegetables and oil ­ increased amounts, cooked to thick consistency) Fried leafy vegetables and chicken ("pakath song") Lao salad (egg, peanut, lettuce, onion, cucumber, coriander, celery, garlic and oil) Boiled egg, sugar, oil, onion, vegetables ­ bamboo shoot, white radish ("Tom khem") Coconut milk, sugar, pumpkin, taro/sweet potato/banana/yam, maize, soy beans/black beans/mung beans ("Tom nam van")
+
+76
+
+25 pregnant and lactating women
+
+98
+
+22 mothers and children under five years
+
+78
+
+Total demonstrations
+
+252
+
+Infant and young child feeding practices Data on complementary feeding collected at project mid-term and after 15 months of project implementation found breastfeeding to be universal and practiced exclusively by all three mothers interviewed in Ban Nakhoung and Ban Cheng. All mothers began complementary feeding at six months as advised during the nutrition education programme. It is pertinent to point out that mothers also began preparing a variety of complementary food for infants based on the knowledge gained from the food preparation and complementary food demonstrations. Anthropometric assessment An anthropometric assessment was carried out over a period of 15 months from April 2003 to July 2004. The weight and height measurements of 196 children under five years old were followed up from the April 2003 baseline survey with a semester assessment in October 2003 and a post-intervention period measurement in July 2004. The base line survey compiled weight and height measurements to identify undernourished children for targeting households and children for the project. Special dietary rehabilitation was provided for the undernourished children whose parents were given one-to-one dietary guidance on preparing nutrient-dense recipes for the children. There was a complementary food demonstration on preparing a thick rice soup to which meat, green leafy vegetables, oil and sugar were added in appropriate quantities. The recipe was planned to meet a substantial part of the dietary nutrient needs of the infant and was adapted
+Approximate cost: 1 750 kip/serving (17 cents/serving; approximate cost of other recipes: 1 600 kip/serving (16 cents/ serving).
+34
+
+33
+
+Home gardens key to improved nutritional well-being from Thai complementary feeding guidelines since the dietary habits in both countries are comparable. The nutritional status of children under five years old was defined using weight-for-height (WFH), height-for-age (HFA), and weight-for-age (WFA) parameters. The results were analysed according to WHO/NCHS (National Center for Health Statistics)/CDC (Center for D i s e a s e Control) recommendations, using a cutoff point of ­ (minus) 2SD (standard deviation) in relation to the reference population in terms of wasting35, stunting36, and being underweight37. Being underweight is characterized by both stunting and wasting which is caused largely by chronic under-nutrition and is widespread among children in developing countries with an estimated prevalence of 29 percent in year 200038. Malnutrition in children is largely the consequence of a range of factors that are often related to insufficient food intake, low frequency feeding, poor food quality, low energy dilute foods and loss of appetite caused by severe and repeated infections. The causes of malnutrition are linked to factors such as poor living conditions (poor water/sanitation), inadequate child care practices of illiterate mothers, poor hygiene, insufficient access to land for food cultivation, and rice insufficiency of up to three months as seen in most food insecure communities. Improvement in nutritional status Besides underweight children, a main concern in the nutrition assessment of the children was stunting and wasting. The baseline survey found 23.2 percent children suffering from moderate malnutrition (WFA <-2SD from the median of the reference population) and 9.5 percent children severely malnourished (WFA <-3SD from the median of the reference population). After six months of project implementation, the prevalence of children with moderate malnutrition (WFA <-2SD) and severe malnutrition (WFA <-3SD) declined to 20.4 and 1.9 percent respectively. The final anthropometric measurement nine months later found the prevalence of underweight children (WFA <-2SD) reduced to 15.9 percent. The rate of severely underweight children declined from the baseline to post-intervention period. (Table 30 and Figure 10)
+Table 30: Percentage of moderate/severely underweight children at three project periods Time Baseline (April 2003) First semester (October 2003) Post intervention (July 2004) Number of children measured 95 103 88 Weight for age (Underweight) <-2SD <-3SD 23.2 9.5 20.4 1.9 15.9 2.3 p: 0.31 p: 0.02
+
+Low weight for height indicates a recent or severe process of weight loss. Low height for age indicates reflects a process of failure to reach linear growth potential as a result of sub optimal health and /or nutritional conditions. 37 Low weight for age reflects body mass relative to chronological age. 38 WHO Global Database.
+36
+
+35
+
+34
+
+Home gardens key to improved nutritional well-being
+
+Prevalence of underweight by period of intervention
+25 20 15 9.5 10 5 0 1.9 2.3 23.2 20.4 <-2SD 15.9 <-3SD
+
+Baseline
+
+First semester
+
+Post intervention
+
+Figure 10: Underweight prevalence by period of intervention
+
+It was noted that children up to six months old were not underweight but began showing signs of this after the sixth month, becoming moderately underweight when they were between 24 to 35 months old. Up to 33.3 percent children were moderately underweight in this age group but this percentage declined to 12.5 in the fourth year of age. In addition, there were a high proportion of severely underweight children in the two years age group, but this dropped in the fourth year. Comparing baseline and post-intervention period data, the proportion of both m o d e r a t e l y and severely underweight children between 24 to 35 months old declined s i g n i f i c a n t l y from 33.3 to 21.7 percent in the first semester, and 5.6 percent in the post-intervention period. This was especially true of cases of severe malnutrition. (See Table 31 and Figure 11)
+Table 31: Percentage of moderate/severely underweight children by observation period/age Age in months <6 6-11 12-23 24-35 36-47 48-59 Total Baseline (April 2003) n <-2SD <-3SD 13 ­ ­ 13 30.8 ­ 23 26.1 21.7 21 33.3 14.3 17 23.5 ­ 8 12.5 12.5 95 23.2 9.5 First semester (October 2003) n <-2SD <-3SD 7 ­ ­ 13 15.4 ­ 25 24.0 4.0 23 21.7 ­ 25 28.0 4.0 10 10.0 ­ 103 20.4 1.9 Post intervention (July 2004) n <-2SD <-3SD 2 ­ ­ 9 22.2 ­ 24 29.2 4.2 18 5.6 ­ 19 10.5 ­ 16 12.5 6.3 88 15.9 2.3
+
+Analysis of the data of varying grades of under-nutrition including gender differences shows that more boys than girls were moderately and severely underweight. (See Table 32 and Figures 12 and 13) Over the period of observation, the proportion of severely underweight children declined significantly from 10.3 to zero percent in boys and from 8.9 to 4.3 percent in girls.
+
+35
+
+Home gardens key to improved nutritional well-being
+
+Prevalence of underweight in children 24-35 months by period of follow up
+35 30 25 20 15 10 5 0 Baseline 0 First semester 5.6 0 Post intervention 14.3 21.7 33.3 <-2SD <-3SD
+
+Figure 11: Underweight prevalence in children by follow up
+
+Table 32: Percentage of moderate/severely underweight children by observation period/sex Sex Boys Girls Total Baseline (April 2003) n <-2SD <-3SD 39 35.9 10.3 56 14.3 8.9 95 23.2 9.5 First semester (October 2003) n <-2SD <-3SD 46 21.7 ­ 57 19.3 3.5 103 20.4 1.9 Post intervention (July 2004) n <-2SD <-3SD 42 21.4 ­ 46 10.9 4.3 88 15.9 2.3
+
+Prevalence of underweight in boys by period of follow up
+40 35.9 <-2SD <-3SD
+
+30 21.7 20 10.3 10 0 0 Baseline First semester 0 Post intervention 21.4
+
+Figure 12: Underweight prevalence in boys over follow up period
+
+36
+
+Home gardens key to improved nutritional well-being
+
+Prevalence of underweight in girls by period of follow up
+19.3 20 14.3 15 10.9 10 8.9 4.3 <-2SD <-3SD
+
+5
+
+3.5
+
+0
+
+Baseline
+
+First semester
+
+Post intervention
+
+Figure 13: Underweight prevalence in girls over follow up period
+
+Output 3 5.6 Establishment of collaborative networks at national, provincial, district and community levels
+As a multi-disciplinary issue, nutrition involves a number of sectoral disciplines and areas. The project sought active collaboration from the departments of agriculture, health and education at national, district and community levels. To facilitate this, a mechanism for collaboration was instituted through the Project Steering Committee (PSC). The Project Steering Committee The PSC included senior MAF, MOH, SPFS and FAO officials. National level stakeholders included NPD and key DOA, MAF, DPH and MOH officials. The PSC supported and complemented project activities. The areas of collaboration included capacity building through training and demonstrations, advocacy workshops at various levels, incorporation of nutrition considerations in agricultural extension services and technical advice for project a c t i v i t i e s . Six PSC meetings were held as planned in the Project's Action Plan for Implementation. (See Table 33) The PSC played a key role in facilitating smooth project implementation. Consequently, linkages with other agencies and institutions were explored and instituted. Collaboration with the Lao Women's Union (LWU) The participation of the Lao Women's Union was particularly valuable, especially in view of its important role in household resource management and its vast network across the country. T h r o u g h its National Women's Training Centre, the LWU sent two representatives to participate in the training-of-trainers course for provincial and district project coordinators. The Union's members also collaborated in farmers' training programme organized by the project. There were strong indications of interest in strengthening such collaborative ventures
+
+37
+
+Home gardens key to improved nutritional well-being
+Table 33: Meetings of the Project Steering Committee Date 13 February 2003 Venue FAO Office, Vientiane Participants P S C members: FAO R, AFAO R, Livestock, Fisheries, Horticulture, Maternal and Child Health representatives, SPFS National Food Security Officer, TCP/LAO/2902 Team Leader, ICNHFS, TCP/LAO/2902 PSC members: FAO R, AFAO R, NPD, Livestock, Fisheries, Horticulture, Maternal and Child Health representatives, SPFS National Food Security Officer, TCP/LAO/2902 Team Leader, ICNE, NNE, ICHHG, ICSLS, ICF P S C members: FAO R, AFAO R, Livestock, Fisheries, Horticulture, Maternal and Child Health representatives, SPFS National Food Security Officer, TCP/LAO/2902 Team Leader, ICNHFS, TCP/LAO/2902 P S C members: FAO R, AFAO R, Livestock, Fisheries, Horticulture, Maternal and Child Health representatives, SPFS National Food Security Officer, TCP/LAO/2902 P S C members: FAO R, AFAO R, Livestock, Fisheries, Horticulture, Maternal and Child Health representatives, SPFS National Food Security Officer, TCP/LAO/2902 Team Leader, ICNHFS, TCP/LAO/2902 P S C members: FAO R, AFAO R, Livestock, Fisheries, Horticulture, Maternal and Child Health representatives, SPFS National Food Security Officer, TCP/LAO/2902 Team Leader, ICNHFS, TCP/LAO/2902
+
+27 June 2003
+
+TCP/LAO/2902 Project Office, CMC, Veunkham TCP/LAO/2902 Project Office, CMC, Veunkham TCP/LAO/2902 Project Office, CMC, Veunkham TCP/LAO/2902 Project Office, CMC, Veunkham TCP/LAO/2902 Project Office, CMC, Veunkham
+
+27 August 2003
+
+5 December 2003
+
+5 March 2004
+
+27 August 2004
+
+between the project and the Union, specifically for integrating nutrition with the National Women Training Centre's existing training programmes. In particular, interest was shown in food safety and nutrition, recipe and diet planning, calculation of nutritive values and basic topics on nutrition labelling related to consumer awareness. Interagency collaboration M e m b e r agencies of the project steering committee, particularly the Department of Agriculture and Ministry of Health at national and district levels, supported project activities by providing facilities, reference materials and key informants who greatly facilitated the project team's work. Among international agencies, UNICEF (UN Children's Fund), in particular, provided training and information, education and communication (IEC) materials, and salt-testing kits for detecting iodine in common salt used in households. (See Table 34)
+Table 34: Joint interagency initiatives/activities Screening for undernutrition in collaboration with MOH Nutrition education training with UNICEF, adapting UNICEF's Nutrition Education Module Involvement of LARREC (Living Aquatic Resources Research Centre) for consultation in selecting and identifying fish species for promotion in project Collaboration with NFEDC, Lao Women's Union, AFIDA for TOT on food safety and nutrition Collaboration with Lao Women's Union for farmers' training in nutrition and food preparation activities in the community
+
+38
+
+Home gardens key to improved nutritional well-being Monitoring at district and community levels A Participatory Monitoring and Information System (PMIS) provided the necessary base for periodic evaluation of project implementation. This was planned in collaboration with the Team Leader, NPD and International and National Consultants as given in their terms of reference (TOR). A functional list of simple and practical indicators was developed for monitoring each home gardening component. A PMIS course was conducted to enable the project implementation team to establish a process for assessing progress of activities and take corrective steps, changing objectives and adjusting activities, if necessary. Guidance was provided to the village development committee to combine information obtained from each community collaborator group responsible for home gardening activities into an overall monitoring system. This committee submitted the MIS (monitoring and information system) data to the district team which then tabulated the information and submitted it to the district coordinator who examined it before sending it for final submission to the NPD. (See Table 35)
+Table 35: Monitoring activities at district and community levels Activity Plan and report activities of project Meeting of senior district coordinator, assistant district coordinators and village committee39 Implementation of activities (a) Meeting of district coordinators with village committee (b) Meeting of village committee with CC (c) CC visits each HH to implement the activities and collect information on progress and activities carried out. (d) Meeting by NPD and/or project team with village committee and villagers Reporting to village committee Submitting collected information, reporting farmer's problems by CC Submission of village committee report Village committee submits CC's report to the district coordinators after which the district coordinators submit the information/data to NPD. Reporting by NPD to DOA Submission of progress report to Director General, DOA Meeting with Project team/consultants Discussion on progress, proposed plans for each of the project components, constraints and solutions Frequency/ week 1
+
+2 1 5 1 1 1
+
+1 1
+
+Bottom up views and assessment A sample beneficiary assessment covering farmers, communities as well as district-level functionaries found that while target households gained from the project, the benefits were not without personal effort at all levels, especially during the period of project initiation. The evaluation also collected field responses at each functionary level, capturing the bottom-up v i e w p o i n t s of target households, community collaborators, the village development committee and the support team at district and provincial levels. (See Table 36)
+39
+
+Village headman, two deputy heads.
+
+39
+
+Table 36: Bottom-up views of project benefits and constraints
+Constraints identified Suggestions
+q q
+
+HH: household; HG: home garden; TOT: Training of Trainers
+
+Level Cannot always attend child-weighing day due to household work Require insecticides
+q
+
+Benefits identified
+
+Household
+q
+
+q
+
+Better knowledge of nutrition, child and mother health care, food production Have no land for home garden (3 HHs) Have no wood for building garden beds, fencing
+q q
+
+q
+
+Year-round food from home garden; new seed varieties
+
+Would like to visit other villages to see their home gardening activities and practices
+
+q
+
+Techniques to improve income
+
+q
+
+Enjoyment of community support and communication network
+q
+
+Would like to grow different kinds of vegetables for consumption and to earn some income from sale (cauliflower, coriander, green mustard, Chinese kale, spring onions, lettuce, celery, garlic, Chinese cabbage, "pak choi") Would like to increase yield and size of vegetables in HG Require more technical support from district coordinators Require refresher courses for farmers
+
+Community collaborator
+q
+
+q
+
+Better knowledge of nutrition, child and mother health care, food production
+q q q q
+
+Some collaborators not very active and do not share work A lot of responsibility given
+q
+
+q
+
+Year-round food from home garden, new seed varieties Work too demanding Others Work load of village headman is very high Want more funds/facilities (specify)
+q q
+
+Home gardens key to improved nutritional well-being
+
+40
+q q q q q
+
+q
+
+Experience in leadership, recognition from community
+
+Village committee
+
+q
+
+Project resources are appropriate to community needs
+
+q
+
+Monitoring system makes review and planning easier
+
+Extend HG programme to another 50 HHs in the next year Organize study tours to other villages to see the progress and success of the project
+q
+
+q
+
+Improved knowledge and practice lead to better food production and better response to community nutrition programmes
+
+Require more stationery materials
+q
+
+Plans and decisions to set up a savings fund for 50 HHs covered in the project made; would like to request additional fund for these
+q q
+
+q
+
+Training and learning are demanding Being a project coordinator is a full time job Need authorization for more support Any other
+
+District and province level committee
+q
+
+Project helps to reduce poverty, improve food supply and nutrition, which are the major goals of provincial policy
+
+Duration of TOTs should be longer Would like to learn new techniques for animal raising and horticulture
+q
+
+q
+
+Staff training has improved work effectiveness
+
+q
+
+Structure and network is appropriate and effective
+
+Would like to go on study tours to other places/ countries
+q
+
+q
+
+Request for increase in DSA/gasoline allowances
+q q
+
+Monitoring and evaluation system helps management understand situation at community level, but reporting is a chore/problem
+
+Request for transport facilities within village Request for stationery and computer/calculator
+
+Home gardens key to improved nutritional well-being
+
+Output 4 5.7 Project results and impact evaluated: model home gardens including poultry, pigs and fish ponds for improved nutritional well-being, adopted for national implementation
+Development of National Model for Implementation The project led to the development of a nationally replicable model home garden to meet daily household nutritional needs through: 1. increased food production with optimum use of available area; 2. diversification of food production; and 3. increased food supply Each of the 204 project households developed a home garden on its existing land and used the home grown produce to improve the nutritional well-being of their families as well as income. The technical inputs provided through training, extension services and transfer of technology (field demonstrations) played a key role in achieving this result. Four community gardens were also developed (one in each target village) which served as `model nutrition gardens' and could be considered as models for national implementation. The aim of the community gardens is large-scale food production and will be undertaken by households with larger areas of land. Superior techniques of vegetable production, fruit tree planting will be utilized in establishing these gardens. The produce of the community garden was sold in the market, providing a source of income for the community as a whole as well for poor households working on the garden. It was encouraging to note that the needs for developing and promoting the community garden were determined by the villagers themselves and the decisions on the logistics/mechanism for this were taken after discussion within the community development committee. A National Advisory Structure for national implementation of the home garden model could include a group of multi-sector stakeholders and serve to plan and support policy for promoting the national home garden model developed by TCP/LAO/2902. It could also support national replication of the home garden model throughout the rural areas of the country. Planning for sustainability The project also led to the establishment of revolving funds in the villages with each household contributing between half to one US dollar every month towards the fund. By improving community self-supporting mechanisms, the model home gardens will contribute to the project's sustainability with districts and communities being motivated and mobilized to contribute from their own resources, enabling project expansion, including the use of community collaborators. The targeting of households and communities has helped to reduce costs, effectively reach out to a number of households at one time and enabled the selection and graduation of households into and out of the programme.
+
+41
+
+Home gardens key to improved nutritional well-being The inter-sectoral collaboration (agriculture, health and education, LWU) fostered by the project at district and provincial levels can be effectively replicated on a broader scale. The supply of inputs ­ seeds, fruit tree saplings, fish and frog, small livestock for home gardens ­ along with nutrition education, has implications for food-based nutrition improvement and can serve as a cost-effective method for promoting food security and nutrition at household and community levels in the poor remote areas of Lao PDR.
+
+6. CONCLUSIONS
+The project demonstrated an effective and sustainable method of improving nutritional standards of low-income rural families through integrated household food production. The linkage of income generation to nutritional improvement enhanced the acceptability of the intervention and contributed towards the economic viability of home gardens. It introduced a simple, low-cost yet highly effective technology for increasing the yield and productivity of home gardens. The net house provides a year-round supply of all kinds of micronutrient-rich vegetables, offering protection to the vegetable crop from heavy rainfall, pests and intensive sunlight. The project included a major training component and the provision of inputs to farmers, such as seeds, small livestock, fish fingerlings for stocking ponds or rice fields, and gardening tools. This has equipped target households with the necessary tools and know-how to undertake home gardening improvements. I t led to the strengthening of institutional and networking capacities by establishing a collaborative network between the Ministries of Agriculture and Forestry, and Health, the Lao Women's Union and other partners. This will facilitate increased and diversified food production in combination with nutrition education to promote household consumption of diversified diets. The project's outcome was in keeping with the goals due to the active participation of the target households and communities. It set up a participatory monitoring and information system involving target households and the community who played an active role in assessing the progress of activities and suggesting/taking corrective steps, changing objectives and adjusting activities, where necessary. Farmers in one project village are sharing project concepts with neighbours and friends. The project has shown how farmers can work together to convert idle village land into community nutrition gardens. The extra produce and seeds can be shared to encourage others to start their own gardens. Farmers in project villages have initiated small ventures based on sales of eggs and poultry. Its positive impact on food production, diversification of garden produce, family diet and income, especially the nutritional status of children under five and women of reproductive age, has demonstrated that the project model can be extended to the national level through an action plan to be implemented by the Government. The TCP/LAO home garden project experience has proved that small-scale integrated household food projection through home gardening can enhance rural livelihoods, increase dietary diversity and improve the nutritional status of the Lao population. 42
+
+Home gardens key to improved nutritional well-being
+
+7. RECOMMENDATIONS
+(a) Home gardens can make a significant contribution to dietary diversity and the food and nutrition security of rural households. There is need to upscale the project c o n c e p t and methodologies for replication in other rural areas in Lao PDR National-level stakeholders should support the home garden initiatives and strongly consider expansion of the project.
+
+(b) The vast majority of agriculture skills and knowledge historically developed by the f a r m e r s should be strengthened. Appropriate horticulture, small livestock and fisheries technologies should be identified, developed, tested and adapted or adopted in other rural areas. (c) R e s e a r c h , science and technology development must be tailored to meet local conditions and requirements, especially in the field of agriculture, forestry and livestock research. Capacity building in agriculture and nutrition for MAF extension workers must be strengthened so as to facilitate advice and technical support directly to rural farmers in local areas who are responsible for making sure that the assistance given is appropriate and adapted for each different situation.
+
+(d) Opportunities should be explored to address the absence of off-season crops for g e n e r a t i n g food and income by introducing and testing new crop types. Diversification of food and income should be linked to market opportunities. (e) Nutrition education should be an integral component of all community development activities in order to promote increased consumption of diverse and nutrient-rich food. Simple agricultural systems such as crop production linked to small animal husbandry as well as awareness of the importance of environmental hygiene established by the project, need to be strengthened and carried forward.
+
+(f)
+
+(g) Provincial and district-level leadership should be strengthened to provide an effective interface between the district and the community. (h) C o m m u n i t y networks of collaborators are needed to monitor and promote community-level food security, nutrition, health and home economic improvements. Accordingly, Lao PDR needs to train a critical mass of community members as part of community empowerment and capacity building for strengthening rural livelihoods and nutrition improvement. (i) The methodology used is replicable. It promotes good working partnerships between ministries of MAF, MOH and the LWU, and local authorities and the community but external support is necessary for initial start-up and to consolidate gains and replicate achievements. The Lao Government should maintain the momentum established by the project to strengthen DOA capabilities as well as leadership and functional capacities at district and community levels.
+
+(j)
+
+43
+

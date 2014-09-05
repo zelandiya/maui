@@ -37,4 +37,8 @@ public class MauiDocument {
 	public String getTopicsString() {
 		return this.topicsString;
 	}
+	
+	public void setTopicsString(String topicsString) {
+		this.topicsString = topicsString;
+	}
 }

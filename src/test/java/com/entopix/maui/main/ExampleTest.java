@@ -129,7 +129,7 @@ public class ExampleTest {
 		String testDir = "src/test/resources/data/term_assignment/test";
 
 		// Vocabulary
-		String vocabulary = "src/test/resources/data/vocabularies/agrovoc_sample.rdf.gz";
+		String vocabulary = "src/test/resources/data/vocabularies/agrovoc_sample.rdf";
 		String format = "skos";
 
 		// name of the file to save the model

@@ -345,8 +345,12 @@ public class MauiFilter extends Filter {
 	public void setVocabularyName(String vocabularyName) {
 		if (vocabularyName.equals("none")) {
 			setThesaurusFeatures(false);
+			this.vocabularyName = "none";
+		} else {
+			String fileName = vocabularyName.substring(vocabularyName.lastIndexOf("/") + 1);
+			String vocabularyFileName = fileName.substring(0, fileName.indexOf("."));
+			this.vocabularyName = vocabularyFileName;
 		}
-		this.vocabularyName = vocabularyName;
 	}
 
 	public void setVocabularyFormat(String vocabularyFormat) {

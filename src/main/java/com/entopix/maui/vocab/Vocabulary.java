@@ -132,7 +132,7 @@ public class Vocabulary {
 
 		} else {
 			throw new RuntimeException(vocabularyFormat
-					+ "is an unsupported vocabulary format! Use skos or text");
+					+ " is an unsupported vocabulary format! Use skos or text");
 		}
 
 	}

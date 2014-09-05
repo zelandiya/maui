@@ -28,8 +28,8 @@ public class IndexingConsistencyTest {
 	public void testIndexingConsistency() throws MauiFilterException {
 
 		// Input data
-		String vocabularyPath = "/Users/zelandiya/Documents/Data/Entopix/AGROVOC"; //"src/test/resources/data/vocabularies";
-		String vocabularyName = "agrovoc_en"; // "agrovoc_sample";
+		String vocabularyFormat = "skos";
+		String vocabularyPath = "src/test/resources/data/vocabularies/agrovoc_sample.rdf";
 		String datasetPath = "src/test/resources/data/term_assignment/test_fao30/documents";
 		String indexers = "src/test/resources/data/term_assignment/test_fao30/indexers";
 
@@ -43,7 +43,7 @@ public class IndexingConsistencyTest {
 		vocabulary.setLanguage(language);
 		vocabulary.setStopwords(stopwords);
 		vocabulary.setSerialize(true);
-		vocabulary.initializeVocabulary(vocabularyPath, vocabularyName);
+		vocabulary.initializeVocabulary(vocabularyPath, vocabularyFormat);
     	
 
 		MauiTopicExtractor topicExtractor = new MauiTopicExtractor();
@@ -67,7 +67,7 @@ public class IndexingConsistencyTest {
 		modelBuilder.setWikipediaFeatures(false);
 
 		modelBuilder.setVocabulary(vocabulary);
-		modelBuilder.setVocabularyName(vocabularyName);
+		modelBuilder.setVocabularyName(vocabularyPath);
 		modelBuilder.modelName = "test";
 
 		List<MauiDocument> testDocuments = DataLoader.loadTestDocuments(datasetPath);

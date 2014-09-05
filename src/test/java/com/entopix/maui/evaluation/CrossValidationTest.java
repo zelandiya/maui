@@ -30,13 +30,9 @@ public class CrossValidationTest {
 	public void testCrossValidation() throws MauiFilterException {
 		
 		// Input data
-		String vocabularyPath = "/Users/zelandiya/Documents/Data/Entopix/AGROVOC"; //"src/test/resources/data/vocabularies";
-		String vocabularyName = "agrovoc_en"; // "agrovoc_sample";
-//		String datasetPath = "/Users/zelandiya/Documents/Data/Entopix/fao780"; //"src/test/resources/data/term_assignment/train";
-//		
-//		String vocabularyPath = "src/test/resources/data/vocabularies";
-//		String vocabularyName = "agrovoc_sample";
-		String datasetPath = "/Users/zelandiya/Documents/Data/Entopix/fao_test"; //"src/test/resources/data/term_assignment/train";
+		String vocabularyFormat = "skos";
+		String vocabularyPath = "src/test/resources/data/vocabularies/agrovoc_sample.rdf";
+		String datasetPath = "src/test/resources/data/term_assignment/train";
 		
 		// Number of validation folds
 		// If fold equals the number of documents in the dataset,
@@ -53,7 +49,7 @@ public class CrossValidationTest {
 		vocabulary.setLanguage(language);
     	vocabulary.setStopwords(stopwords);
     	vocabulary.setSerialize(false);
-    	vocabulary.initializeVocabulary(vocabularyPath, vocabularyName);
+    	vocabulary.initializeVocabulary(vocabularyPath, vocabularyFormat);
     	
 	    MauiTopicExtractor topicExtractor = new MauiTopicExtractor();
 		MauiModelBuilder modelBuilder = new MauiModelBuilder();
@@ -76,7 +72,7 @@ public class CrossValidationTest {
 		modelBuilder.setWikipediaFeatures(false);
 		
 		modelBuilder.setVocabulary(vocabulary);
-		modelBuilder.setVocabularyName(vocabularyName);
+		modelBuilder.setVocabularyName(vocabularyPath);
 		modelBuilder.modelName = "test";
 		
 		List<MauiDocument> testDocuments = DataLoader.loadTestDocuments(datasetPath);

@@ -8,3 +8,5 @@ target
 *.serialized
 french_model
 org.eclipse.jdt.core.prefs
+src/test/resources/data/models/test_assignment_model
+src/test/resources/data/models/test_tagging_model

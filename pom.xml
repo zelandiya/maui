@@ -26,15 +26,13 @@
 	</licenses>
 
 	<!-- will need to fill this in depending on where it eventually goes -->
-	<!--
 	<scm>
-		<connection>scm:git:git@github.com:rvowles/central-parent.git</connection>
-		<developerConnection>scm:git:git@github.com:rvowles/central-parent.git</developerConnection>
-		<url>git@github.com:rvowles/central-parent.git</url>
+		<connection>scm:git:git@github.com:zelandiya/maui.git</connection>
+		<developerConnection>scm:git:git@github.com:zelandiya/maui.git</developerConnection>
+		<url>git@github.com:zelandiya/maui.git</url>
 		<tag>HEAD</tag>
 	</scm>
-	-->
-
+	
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<maven.version>3.2.2</maven.version>

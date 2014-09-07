@@ -62,24 +62,25 @@ public final class MauiWrapper {
      * @param language
      */
     public MauiWrapper(String modelName, String vocabularyName, String vocabularyFormat, Stopwords stopwords, Stemmer stemmer, String language) {
-    	this.vocabulary = new Vocabulary();
-    	if (stemmer != null)
-    		vocabulary.setStemmer(stemmer);
-    	else
-    		vocabulary.setStemmer(this.stemmer);
-    	
-    	if (language != null)
-    		vocabulary.setLanguage(language);
-    	else
-    		vocabulary.setLanguage(this.language);
-    	
-    	if (stopwords != null)
-            vocabulary.setStopwords(stopwords);
-        else
-        	vocabulary.setStopwords(this.stopwords);
-    	
-    	vocabulary.initializeVocabulary(vocabularyName, vocabularyFormat);
-		
+    	if (!vocabularyName.equals("none")) {
+	    	this.vocabulary = new Vocabulary();
+	    	if (stemmer != null)
+	    		vocabulary.setStemmer(stemmer);
+	    	else
+	    		vocabulary.setStemmer(this.stemmer);
+	    	
+	    	if (language != null)
+	    		vocabulary.setLanguage(language);
+	    	else
+	    		vocabulary.setLanguage(this.language);
+	    	
+	    	if (stopwords != null)
+	            vocabulary.setStopwords(stopwords);
+	        else
+	        	vocabulary.setStopwords(this.stopwords);
+	    	
+	    	vocabulary.initializeVocabulary(vocabularyName, vocabularyFormat);
+    	}
     	this.extractionModel = DataLoader.loadModel(modelName);
     }
     
@@ -183,7 +184,10 @@ public final class MauiWrapper {
             if (topRankedInstances[i] != null) {
             	double probability = topRankedInstances[i].value(extractionModel.getProbabilityIndex());
                 String topic = topRankedInstances[i].stringValue(extractionModel.getOutputFormIndex());
-                String id = vocabulary.getFormatedName(topRankedInstances[i].stringValue(0));
+                String id = "";
+                if (vocabulary != null) {
+                	id = vocabulary.getFormatedName(topRankedInstances[i].stringValue(0));
+                }
                 topics.add(new Topic(topic, id, probability));
 
                 /**

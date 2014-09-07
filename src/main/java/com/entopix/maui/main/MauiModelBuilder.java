@@ -193,7 +193,7 @@ public class MauiModelBuilder implements OptionHandler {
 	boolean usePositionsFeatures = true;
 
 	/**
-	 * Use thesaurus features Node degree & Generaility
+	 * Use thesaurus features Node degree & Generality
 	 */
 	boolean useThesaurusFeatures = true;
 

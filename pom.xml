@@ -35,7 +35,7 @@
 	
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-		<maven.version>3.2.2</maven.version>
+		<maven.version>3.2.1</maven.version>
 		<maui.release>dev</maui.release> <!-- gets changed to release when releasing -->
 	</properties>
 
@@ -246,7 +246,7 @@
 				<configuration>
 					<rules>
 						<requireMavenVersion>
-							<version>[3.2.2,)</version>
+							<version>[3.2.1,)</version>
 						</requireMavenVersion>
 						<requireReleaseDeps>
 							<!--  Don't allow releases with snapshop deps or parents -->

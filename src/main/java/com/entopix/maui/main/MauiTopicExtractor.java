@@ -256,7 +256,7 @@ public class MauiTopicExtractor implements OptionHandler {
 
 		String vocabularyFormat = Utils.getOption('f', options);
 
-		if (!vocabularyName.equals("none")) {
+		if (!"".equals(vocabularyName) && !vocabularyName.equals("none")) {
 			if (vocabularyFormat.length() > 0) {
 				if (vocabularyFormat.equals("skos")
 						|| vocabularyFormat.equals("text")) {

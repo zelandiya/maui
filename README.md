@@ -3,6 +3,9 @@
 ###Summary
 Maui automatically identifies main topics in text documents. Depending on the task, topics are tags, keywords, keyphrases, vocabulary terms, descriptors, index terms or titles of Wikipedia articles.
 
+###Requirements
+* Java 1.7 (Currently, it does not run on Java 1.8)
+
 ###Demo
 You can try out this live [Maui demo](http://maui-indexer.appspot.com/) by just copying and pasting a piece of text of your choice or uploading a document in Word or PDF format.
 
